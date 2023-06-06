@@ -15,7 +15,7 @@ library(gridExtra)
 ### Read the data
 
 ```{r}
-df_raw = read_csv('/Users/georgeberry/Desktop/CAH/cah_data_files/201710-CAH_PulseOfTheNation_Raw.csv')
+df_raw = read_csv('/Users/georgeberry/Desktop/cah-main/cah_data_files/201710-CAH_PulseOfTheNation_Raw.csv')
 ```
 
 ### Clean the data
@@ -140,7 +140,9 @@ df %>%
     N=n()
   ) %>%
   mutate(
-    demo = paste0(name, '—', value)
+    demo = paste0(name, '—', value),
+    lost_friends_min=lost_friends + 1.96*se,
+    lost_friends_max=lost_friends - 1.96*se,
   ) %>%
   arrange(demo) -> lost_friends_demos
 lost_friends_demos
@@ -150,6 +152,7 @@ lost_friends_demos
 plot_lost_friends = ggplot(lost_friends_demos) +
   geom_point() +
   aes(x=reorder(demo, lost_friends), y=lost_friends) +
+  geom_errorbar(aes(x=reorder(demo, lost_friends), ymin=lost_friends_min, ymax=lost_friends_max)) +
   geom_hline(yintercept=0, linetype='dotdash') +
   geom_hline(yintercept=1, linetype='dotdash') +
   ylim(c(0, 1)) +
@@ -158,6 +161,7 @@ plot_lost_friends = ggplot(lost_friends_demos) +
     y='Lost friends',
     x='Demographic'
   ) +
+  scale_y_continuous(labels = scales::percent) +
   coord_flip() +
   theme_minimal()
 plot_lost_friends
@@ -191,7 +195,9 @@ df %>%
     N=n()
   ) %>%
   mutate(
-    demo = paste0(name, '—', value)
+    demo = paste0(name, '—', value),
+    civil_war_min=civil_war + 1.96*se,
+    civil_war_max=civil_war - 1.96*se,
   ) %>%
   arrange(demo) -> civil_war_demos
 civil_war_demos
@@ -204,6 +210,7 @@ Super interesting: the people who lost friends are different than the people who
 plot_civil_war = ggplot(civil_war_demos) +
   geom_point() +
   aes(x=reorder(demo, civil_war), y=civil_war) +
+  geom_errorbar(aes(x=reorder(demo, civil_war), ymin=civil_war_min, ymax=civil_war_max)) +
   geom_hline(yintercept=0, linetype='dotdash') +
   geom_hline(yintercept=1, linetype='dotdash') +
   ylim(c(0, 1)) +
@@ -212,6 +219,7 @@ plot_civil_war = ggplot(civil_war_demos) +
     y='Said civil war "Likely"',
     x='Demographic'
   ) +
+  scale_y_continuous(labels = scales::percent) +
   coord_flip() +
   theme_minimal()
 plot_civil_war
@@ -354,6 +362,19 @@ summary(mod4_logit)
 mod2_raw_logit = glm(civil_war ~ lost_friends, family=binomial, data=df2)
 summary(mod2_raw_logit)
 ```
+
+Logit no lifestyle
+
+```{r}
+summary(
+  glm(
+    civil_war ~ lost_friends + log1p(income) + gender + age_range + pol_affil + race + educ,
+    data=df2,
+    family=binomial
+  )
+)
+```
+
 
 Logistic regression gut check, we should get a similar probability to OLS
 
@@ -606,7 +627,7 @@ grid.arrange(plot_white_income, plot_black_income, nrow=1)
 ```
 
 ```{r}
-grid.arrange(plot_lost_friends, plot_civil_war, nrow=1)
+grid.arrange(plot_lost_friends, plot_civil_war, nrow=2)
 ```
 
 
