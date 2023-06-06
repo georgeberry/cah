@@ -1,0 +1,801 @@
+Q1: What gender do you identify with? ,Q2: What is your age? ,Q2: Age range,"Q3: In politics today, do you consider yourself a Democrat, a Republican, or Independent? ","Q4: Would you say you are liberal, conservative, or moderate?",Q5: What is your highest level of education? ,Q5: Other ,Q6: What is your race?,Q6: Other ,"Q7: Do you approve, disapprove, or neither approve nor disapprove of how Donald Trump is handling his job as president? ",Q8: Do you have a Twitter account? ,Q8A: How often do you go on Twitter?,Q8B: Have you ever tweeted at the President? ,Q9: Do you believe that Russia interfered with the 2016 Presidential Election? ,Q10: Would you support military action against Russia in response to their interference with the 2016 Presidential Election? ,Q11: Did you support the 2003 Iraq War?,Q12: How likely is it that the United States will be invaded by a foreign power in the next decade?,Q13: Do you believe that the United States has the right to help overthrow governments that are hostile to American interests? ,Q14: Do you believe that the United States has interfered with the democratic elections of other nations in the past?,Q15: Some commentators have suggested that the Parkland school shooting was staged in order to get guns banned in America. Do you believe that the shooting was staged and that the survivors were paid actors?,"Q16: Do you believe that there is a ""deep state"" in America that is conspiring to undermine the Trump Presidency? ","Q17: Which type of news sources do you think produces more fake news: conservative news sources, liberal news sources, or both equally? ",Q18: What is more important to you when deciding whether something is true: science or common sense? ,Q19: Do you believe that the Russians posess a videotape containing footage of Donald Trump watching prostitutes urinating in front of him? ,"Q20: If you had to guess, what percentage of the country is currently under Sharia law?",Q20: DK/REF,"Q21: Do you believe that professional wrestling, like the WWE, is real or staged? ",Q22: Do you believe that the Earth is flat? 
+Male,71,65+,Democrat,Not Very Strong conservative,High school or less,,Latino,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,No,No,No,Both Equally,Common Sense,No,50,,Real,No
+Male,63,55-64,Democrat,Moderate,College degree,,Other,Mixed,Strongly Disapprove,No,,,No,,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Common Sense,Yes,,DK/REF,Staged,No
+Female,75,65+,DK/REF,DK/REF,High school or less,,White,,Somewhat Disapprove,No,,,DK/REF,,No,Somewhat Likely,No,DK/REF,No,DK/REF,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,61,55-64,Independent,Moderate,Some college,,Latino,,DK/REF,No,,,No,,Yes,Not at all likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,Yes,,DK/REF,Staged,No
+Female,65,65+,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,No,,,DK/REF,,DK/REF,Somewhat Likely,Yes,Yes,No,DK/REF,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,No
+Male,75,65+,Democrat,Strong Conservative,Graduate degree,,Black,,Strongly Disapprove,No,,,Yes,No,Yes,Not at all likely,Yes,No,No,No,Both Equally,Common Sense,No,,DK/REF,Real,No
+Female,64,55-64,Democrat,Moderate,College degree,,Black,,Neither approve nor disapprove,No,,,Yes,Yes,Yes,Somewhat Likely,No,Yes,No,No,Both Equally,Science,No,,DK/REF,Staged,No
+Male,70,65+,Democrat,DK/REF,College degree,,Black,,Somewhat Disapprove,No,,,DK/REF,,No,Not at all likely,Yes,Yes,Yes,Yes,DK/REF,Common Sense,DK/REF,,DK/REF,DK/REF,No
+Female,62,55-64,Independent,Strong Liberal,High school or less,,Black,,Strongly Disapprove,No,,,Yes,Yes,Yes,Not at all likely,DK/REF,DK/REF,No,No,DK/REF,Common Sense,Yes,,DK/REF,DK/REF,DK/REF
+Female,76,65+,Republican,Not Very Strong conservative,Some college,,Black,,Somewhat Approve,No,,,Yes,No,Yes,Somewhat Likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Male,64,55-64,Republican,Moderate,Graduate degree,,Asian,,Strongly Approve,No,,,Yes,No,No,Not at all likely,No,Yes,Yes,Yes,Both Equally,Common Sense,No,50,,Staged,Yes
+Female,68,65+,Democrat,Moderate,Graduate degree,,Black,,Strongly Disapprove,No,,,Yes,Yes,Yes,Very Likely,Yes,No,Yes,Yes,Both Equally,Common Sense,Yes,,DK/REF,Real,No
+Female,73,65+,Independent,Strong Conservative,Graduate degree,,Black,,Strongly Approve,No,,,No,,No,Not at all likely,No,Yes,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,68,65+,Democrat,Not very Strong Liberal,High school or less,,White,,Neither approve nor disapprove,No,,,No,,No,Somewhat Likely,Yes,No,No,No,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,86,65+,Independent,Strong Liberal,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,DK/ REF,No,DK/REF,No,No,DK/REF,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,70,65+,Independent,Strong Conservative,High school or less,,White,,Neither approve nor disapprove,No,,,Yes,Yes,No,Very Likely,Yes,Yes,DK/REF,No,DK/REF,Common Sense,No,50,,DK/REF,No
+Female,77,65+,DK/REF,Strong Conservative,High school or less,,White,,Strongly Approve,No,,,DK/REF,,No,Somewhat Likely,DK/REF,No,No,DK/REF,DK/REF,Common Sense,No,,DK/REF,Staged,No
+Female,65,65+,DK/REF,DK/REF,High school or less,,Asian,,DK/REF,No,,,DK/REF,,No,DK/ REF,DK/REF,DK/REF,No,DK/REF,Both Equally,Common Sense,DK/REF,,DK/REF,DK/REF,No
+Male,85,65+,Democrat,Strong Conservative,College degree,,Black,,Strongly Approve,DK/ REF,,,DK/REF,,No,Not at all likely,No,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,75,65+,Democrat,Moderate,High school or less,,White,,Strongly Disapprove,No,,,DK/REF,,No,Somewhat Likely,DK/REF,Yes,No,Yes,Both Equally,Common Sense,DK/REF,10,,Staged,No
+Female,45,45-54,Independent,Not Very Strong conservative,High school or less,,White,,Strongly Approve,No,,,No,,Yes,Somewhat Likely,Yes,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,71,65+,Republican,Not Very Strong conservative,College degree,,White,,Strongly Approve,No,,,DK/REF,,Yes,Not at all likely,Yes,Yes,No,No,Both Equally,Science,No,5,,Staged,No
+Male,68,65+,Republican,Not Very Strong conservative,Some college,,White,,Somewhat Approve,No,,,Yes,No,Yes,Not at all likely,Yes,Yes,No,Yes,Liberal News Sources,Common Sense,Yes,20,,Staged,No
+Male,81,65+,Independent,Not very Strong Liberal,High school or less,,White,,DK/REF,No,,,DK/REF,,No,Very Likely,No,Yes,Yes,Yes,Both Equally,Common Sense,No,80,,Staged,No
+Female,83,65+,Republican,Strong Conservative,High school or less,,White,,Strongly Approve,No,,,No,,Yes,Somewhat Likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,80,65+,Republican,Not very Strong Liberal,College degree,,White,,Somewhat Disapprove,No,,,No,,Yes,Somewhat Likely,Yes,No,No,Yes,Both Equally,Science,No,,DK/REF,Staged,No
+Female,79,65+,Independent,Moderate,Some college,,White,,Somewhat Disapprove,No,,,Yes,No,Yes,Somewhat Likely,No,No,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Real,No
+Female,72,65+,Republican,Strong Conservative,Graduate degree,,White,,Strongly Approve,No,,,No,,DK/REF,Not at all likely,Yes,Yes,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Female,51,45-54,Democrat,Strong Liberal,College degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,Yes,0,,Staged,No
+Male,59,55-64,Independent,Moderate,College degree,,White,,Strongly Disapprove,Yes,Once a month,No,Yes,No,No,Not at all likely,No,Yes,No,No,DK/REF,DK/REF,DK/REF,0,,Staged,No
+Male,65,65+,Republican,Moderate,Some college,,White,,Neither approve nor disapprove,Yes,DK/REF,No,Yes,No,No,Very Likely,Yes,No,No,Yes,Both Equally,Science,Yes,,DK/REF,Staged,No
+Male,56,55-64,Democrat,Moderate,College degree,,DK/REF,,Neither approve nor disapprove,Yes,Once a day,No,No,,DK/REF,Not at all likely,No,No,No,Yes,Both Equally,Common Sense,No,0,,Staged,No
+Female,72,65+,Republican,Strong Conservative,High school or less,,White,,Strongly Approve,No,,,No,,No,Not at all likely,Yes,No,No,Yes,Liberal News Sources,DK/REF,DK/REF,10,,Staged,No
+Female,82,65+,Democrat,DK/REF,College degree,,White,,DK/REF,DK/ REF,,,DK/REF,,No,DK/ REF,DK/REF,No,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,,DK/REF,DK/REF,No
+Female,40,35-44,Republican,Strong Conservative,Other,trade school,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,Yes,No,Yes,Liberal News Sources,Common Sense,No,1,,Staged,No
+Male,46,45-54,Republican,Moderate,High school or less,,White,,Strongly Approve,No,,,No,,DK/REF,Somewhat Likely,Yes,No,Yes,DK/REF,Both Equally,Science,No,65,,Staged,No
+Female,81,65+,Democrat,DK/REF,High school or less,,White,,Strongly Disapprove,No,,,Yes,No,No,DK/ REF,DK/REF,No,DK/REF,DK/REF,DK/REF,Common Sense,DK/REF,,DK/REF,DK/REF,DK/REF
+Female,27,25-34,DK/REF,DK/REF,High school or less,,White,,Strongly Disapprove,Yes,Once a month,No,Yes,No,No,Not at all likely,DK/REF,DK/REF,DK/REF,No,DK/REF,Science,Yes,,DK/REF,Staged,No
+Female,75,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,No,Not at all likely,Yes,Yes,No,Yes,Liberal News Sources,Common Sense,No,5,,Staged,No
+Male,76,65+,Independent,Moderate,High school or less,,White,,Somewhat Disapprove,No,,,Yes,No,No,Somewhat Likely,No,DK/REF,No,No,Liberal News Sources,Common Sense,Yes,,DK/REF,Staged,No
+Female,76,65+,Independent,Not Very Strong conservative,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,61,55-64,Independent,Not Very Strong conservative,High school or less,,White,,Strongly Disapprove,No,,,No,,No,Very Likely,No,No,No,No,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Female,57,55-64,DK/REF,DK/REF,High school or less,,White,,Strongly Disapprove,No,,,DK/REF,,No,Somewhat Likely,No,No,DK/REF,Yes,Both Equally,Common Sense,Yes,,DK/REF,Real,Yes
+Male,69,65+,Democrat,Moderate,Graduate degree,,Black,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,Yes,Yes,No,No,Liberal News Sources,Common Sense,Yes,,DK/REF,Staged,No
+Male,50,45-54,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,No,No,Yes,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Male,36,35-44,Independent,Not very Strong Liberal,Some college,,Latino,,Strongly Approve,No,,,No,,No,Somewhat Likely,No,Yes,Yes,Yes,Conservative News Sources,Common Sense,No,7,,Staged,Yes
+Male,27,25-34,Democrat,Moderate,Some college,,Latino,,Somewhat Disapprove,No,,,Yes,Yes,No,Not at all likely,DK/REF,DK/REF,No,No,Both Equally,DK/REF,No,60,,Real,No
+Female,66,65+,Democrat,Strong Liberal,Graduate degree,,Black,,Strongly Disapprove,No,,,Yes,No,No,DK/ REF,Yes,No,No,No,Conservative News Sources,DK/REF,DK/REF,,DK/REF,Staged,No
+Male,55,55-64,Republican,Strong Conservative,College degree,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,Yes,No,Yes,Liberal News Sources,Common Sense,No,4,,Staged,No
+Male,71,65+,Democrat,Strong Conservative,High school or less,,Black,,Strongly Disapprove,No,,,Yes,No,Yes,Somewhat Likely,Yes,No,No,No,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Female,34,25-34,Democrat,Not Very Strong conservative,College degree,,Black,,Strongly Disapprove,No,,,No,,Yes,Very Likely,No,No,No,No,Both Equally,Science,No,,DK/REF,Staged,DK/REF
+Male,66,65+,Democrat,Strong Liberal,Graduate degree,,Black,,Strongly Disapprove,Yes,Or several times a day?,No,Yes,Yes,No,Not at all likely,Yes,No,No,No,Liberal News Sources,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,60,55-64,Independent,Strong Conservative,High school or less,,DK/REF,,Strongly Approve,No,,,No,,No,Not at all likely,DK/REF,No,No,Yes,Liberal News Sources,Common Sense,DK/REF,,DK/REF,Staged,Yes
+Female,54,45-54,Independent,Strong Liberal,High school or less,,White,,Neither approve nor disapprove,No,,,No,,No,Not at all likely,No,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,60,55-64,Republican,Moderate,Some college,,Latino,,Neither approve nor disapprove,No,,,No,,No,Somewhat Likely,No,Yes,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Female,49,45-54,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,DK/REF,,Yes,Somewhat Likely,Yes,No,No,Yes,Liberal News Sources,Science,DK/REF,,DK/REF,Staged,No
+Male,25,25-34,DK/REF,DK/REF,Some college,,Latino,,Neither approve nor disapprove,No,,,No,,DK/REF,Somewhat Likely,DK/REF,No,No,Yes,Both Equally,Science,Yes,40,,Staged,No
+Male,53,45-54,Democrat,Strong Liberal,College degree,,White,,Strongly Disapprove,Yes,Once a week,No,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,DK/REF,2,,Staged,No
+Male,50,45-54,Independent,Moderate,College degree,,Black,,Neither approve nor disapprove,No,,,Yes,No,No,Not at all likely,No,No,No,Yes,Both Equally,Science,Yes,0,,Staged,No
+Male,25,25-34,Democrat,Strong Liberal,High school or less,,Black,,Strongly Disapprove,No,,,DK/REF,,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,No,0,,Staged,No
+Male,65,65+,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,Yes,Once a week,No,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,Yes,0,,Staged,No
+Female,39,35-44,Democrat,Strong Liberal,Graduate degree,,Latino,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,No,No,No,Both Equally,Science,DK/REF,5,,Staged,No
+Female,30,25-34,Republican,DK/REF,College degree,,Latino,,Somewhat Disapprove,No,,,DK/REF,,No,Somewhat Likely,Yes,Yes,No,Yes,Both Equally,Science,No,5,,Staged,No
+Male,47,45-54,DK/REF,DK/REF,Some college,,DK/REF,,Strongly Disapprove,No,,,DK/REF,,No,Not at all likely,No,Yes,No,No,DK/REF,Science,Yes,,DK/REF,Staged,No
+Female,50,45-54,Independent,Moderate,College degree,,White,,Strongly Disapprove,No,,,Yes,No,Yes,Not at all likely,No,No,No,No,Both Equally,Science,No,0,,Staged,No
+Male,72,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,DK/REF,,Yes,Not at all likely,No,Yes,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Male,60,55-64,DK/REF,Moderate,Some college,,White,,DK/REF,Yes,Once a month,No,DK/REF,,No,Somewhat Likely,No,Yes,No,Yes,Both Equally,Science,DK/REF,,DK/REF,Staged,No
+Male,65,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,No,Somewhat Likely,No,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,45,45-54,Republican,Strong Conservative,Graduate degree,,White,,Strongly Approve,Yes,Once a month,No,No,,No,Somewhat Likely,Yes,DK/REF,Yes,Yes,Liberal News Sources,Common Sense,No,5,,Staged,No
+Male,23,18-24,Independent,Strong Liberal,Some college,,Latino,,Somewhat Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Both Equally,Science,No,0,,Staged,No
+Male,40,35-44,Democrat,Not Very Strong conservative,High school or less,,Black,,Strongly Disapprove,No,,,No,,Yes,Not at all likely,No,No,No,No,Both Equally,Common Sense,No,,DK/REF,DK/REF,No
+Male,50,45-54,Republican,Strong Conservative,Some college,,Latino,,Strongly Approve,No,,,DK/REF,,Yes,Not at all likely,Yes,DK/REF,DK/REF,No,Both Equally,DK/REF,No,1,,Staged,DK/REF
+Female,21,18-24,DK/REF,Moderate,Some college,,White,,Somewhat Approve,Yes,Or several times a day?,No,No,,No,Very Likely,Yes,Yes,No,No,DK/REF,Common Sense,Yes,,DK/REF,Staged,No
+Male,78,65+,Independent,Moderate,High school or less,,White,,Strongly Approve,No,,,No,,No,Not at all likely,No,DK/REF,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,53,45-54,Democrat,Moderate,College degree,,White,,Strongly Disapprove,Yes,Once a day,No,Yes,No,No,Not at all likely,Yes,Yes,No,No,Conservative News Sources,Common Sense,Yes,,DK/REF,Staged,No
+Male,64,55-64,Independent,Moderate,Graduate degree,,Latino,,Somewhat Disapprove,No,,,Yes,Yes,Yes,Somewhat Likely,Yes,Yes,No,Yes,Both Equally,Common Sense,No,50,,Staged,No
+Female,26,25-34,Independent,Strong Conservative,Graduate degree,,White,,Somewhat Approve,Yes,Once a month,No,No,,Yes,Not at all likely,No,Yes,No,Yes,Both Equally,Science,No,5,,Staged,No
+Female,67,65+,Democrat,Moderate,High school or less,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,Yes,Yes,No,No,Conservative News Sources,Common Sense,Yes,,DK/REF,Staged,No
+Female,46,45-54,Democrat,Moderate,College degree,,Black,,Strongly Disapprove,No,,,Yes,No,No,Very Likely,Yes,No,No,No,Both Equally,Common Sense,Yes,10,,Staged,Yes
+Male,40,35-44,Democrat,Strong Liberal,College degree,,Black,,Strongly Disapprove,No,,,Yes,No,No,DK/ REF,Yes,Yes,Yes,No,Conservative News Sources,Common Sense,Yes,,DK/REF,Staged,No
+Male,65,65+,Republican,Strong Conservative,High school or less,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,Yes,No,Yes,Liberal News Sources,DK/REF,No,3,,Staged,No
+Male,24,18-24,DK/REF,DK/REF,College degree,,Latino,,DK/REF,No,,,DK/REF,,DK/REF,DK/ REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,Common Sense,DK/REF,,DK/REF,DK/REF,No
+Female,75,65+,Democrat,DK/REF,Some college,,White,,Strongly Disapprove,No,,,DK/REF,,No,Very Likely,No,DK/REF,Yes,DK/REF,Both Equally,DK/REF,DK/REF,70,,Staged,No
+Male,50,45-54,Democrat,Moderate,High school or less,,Latino,,Strongly Disapprove,No,,,Yes,Yes,No,Not at all likely,Yes,No,No,Yes,Both Equally,Science,No,,DK/REF,Staged,No
+Male,72,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,No,Not at all likely,No,Yes,No,Yes,Liberal News Sources,Common Sense,No,0,,Staged,No
+Female,61,55-64,Democrat,Not very Strong Liberal,High school or less,,Latino,,Somewhat Disapprove,No,,,Yes,Yes,No,Somewhat Likely,Yes,Yes,No,Yes,Both Equally,Science,Yes,,DK/REF,Staged,No
+Male,67,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,Yes,Very Likely,No,Yes,No,Yes,Liberal News Sources,Common Sense,No,15,,Staged,No
+Male,24,18-24,Democrat,Strong Conservative,College degree,,Latino,,Somewhat Approve,No,,,Yes,No,Yes,Somewhat Likely,No,No,No,No,Liberal News Sources,Science,No,,DK/REF,Staged,No
+Female,60,55-64,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,Yes,Once a month,No,Yes,No,Yes,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,Yes,0,,Staged,No
+Female,71,65+,Republican,Strong Conservative,College degree,,White,,Strongly Approve,Yes,Once a day,No,No,,No,Somewhat Likely,No,No,No,Yes,Liberal News Sources,Common Sense,No,10,,Real,No
+Female,27,25-34,Independent,Moderate,Graduate degree,,White,,Strongly Approve,No,,,No,,No,Not at all likely,No,Yes,No,No,Both Equally,Science,No,0,,Staged,No
+Male,32,25-34,Independent,Strong Liberal,College degree,,White,,Strongly Disapprove,Yes,Once a week,No,Yes,Yes,Yes,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,DK/REF,100,,Staged,No
+Male,21,18-24,Independent,Moderate,Some college,,Latino,,Neither approve nor disapprove,Yes,Once a month,No,No,,Yes,Not at all likely,No,Yes,No,Yes,Both Equally,Science,Yes,10,,Staged,No
+Male,20,18-24,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,No,Not at all likely,Yes,Yes,Yes,Yes,Both Equally,Science,No,3,,Staged,No
+Male,65,65+,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,Yes,Once a month,No,DK/REF,,No,Somewhat Likely,Yes,No,No,No,Both Equally,Science,No,0,,Staged,No
+Female,35,35-44,Democrat,Not very Strong Liberal,College degree,,Black,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,Yes,Yes,No,Yes,Both Equally,Common Sense,No,20,,Staged,No
+Male,62,55-64,Independent,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,No,Conservative News Sources,Common Sense,Yes,,DK/REF,Staged,No
+Female,64,55-64,Democrat,Moderate,High school or less,,Latino,,Strongly Disapprove,No,,,Yes,Yes,No,DK/ REF,Yes,DK/REF,DK/REF,No,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,No
+Male,74,65+,Democrat,Moderate,Some college,,Black,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,Yes,No,No,No,DK/REF,Common Sense,Yes,,DK/REF,Staged,No
+Male,66,65+,Independent,Strong Conservative,Graduate degree,,Latino,,Strongly Approve,No,,,No,,Yes,Not at all likely,No,Yes,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Female,77,65+,Republican,Strong Conservative,Other,ASSOCIATE DEGREE,White,,Strongly Approve,No,,,No,,DK/REF,Not at all likely,No,No,No,Yes,Liberal News Sources,Common Sense,No,10,,Staged,No
+Female,69,65+,Independent,Strong Conservative,High school or less,,White,,Strongly Disapprove,No,,,Yes,No,Yes,Somewhat Likely,No,Yes,No,No,Conservative News Sources,Common Sense,Yes,10,,Staged,No
+Male,83,65+,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,Yes,Not at all likely,No,No,No,No,DK/REF,Science,No,0,,Staged,No
+Male,74,65+,Democrat,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,Yes,Once a day,Yes,Yes,No,No,Not at all likely,No,Yes,No,No,DK/REF,Science,DK/REF,0,,Staged,No
+Female,73,65+,Republican,Strong Conservative,High school or less,,White,,Strongly Approve,No,,,DK/REF,,No,Not at all likely,No,No,No,No,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Male,60,55-64,DK/REF,DK/REF,High school or less,,White,,Somewhat Disapprove,No,,,DK/REF,,DK/REF,Not at all likely,DK/REF,DK/REF,No,DK/REF,Both Equally,Common Sense,DK/REF,,DK/REF,DK/REF,No
+Male,70,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,DK/REF,,No,Not at all likely,No,Yes,Yes,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Female,82,65+,Democrat,Strong Liberal,College degree,,White,,Strongly Disapprove,No,,,DK/REF,,No,Somewhat Likely,No,Yes,No,Yes,Liberal News Sources,Common Sense,No,50,,Staged,No
+Male,43,35-44,Republican,DK/REF,DK/REF,,Latino,,Strongly Approve,DK/ REF,,,DK/REF,,Yes,Very Likely,Yes,Yes,No,No,Liberal News Sources,Science,Yes,,DK/REF,Real,No
+Male,64,55-64,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,No,DK/ REF,Yes,No,No,No,Liberal News Sources,Science,Yes,,DK/REF,Staged,No
+Male,74,65+,Republican,Moderate,College degree,,White,,Somewhat Approve,No,,,Yes,No,Yes,Somewhat Likely,Yes,Yes,No,Yes,Liberal News Sources,Common Sense,No,5,,Staged,No
+Female,29,25-34,DK/REF,DK/REF,High school or less,,White,,Strongly Disapprove,No,,,No,,No,Somewhat Likely,Yes,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,60,55-64,DK/REF,Strong Liberal,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,No,DK/REF,Yes,Conservative News Sources,Science,DK/REF,0,,Staged,No
+Female,85,65+,Republican,Not Very Strong conservative,High school or less,,White,,Somewhat Approve,No,,,Yes,No,Yes,Not at all likely,Yes,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,64,55-64,Democrat,Moderate,High school or less,,White,,Strongly Approve,No,,,DK/REF,,No,Not at all likely,No,No,No,DK/REF,Both Equally,Common Sense,No,,DK/REF,DK/REF,No
+Female,88,65+,Democrat,DK/REF,High school or less,,Black,,DK/REF,No,,,No,,No,DK/ REF,DK/REF,No,No,DK/REF,DK/REF,Common Sense,DK/REF,,DK/REF,DK/REF,No
+Female,70,65+,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,No,,No,Somewhat Likely,DK/REF,DK/REF,No,No,Conservative News Sources,Science,No,5,,Staged,No
+Female,62,55-64,Democrat,Moderate,College degree,,White,,Somewhat Disapprove,No,,,No,,No,Not at all likely,Yes,No,No,Yes,Both Equally,Common Sense,No,15,,Staged,No
+Female,57,55-64,Republican,Not Very Strong conservative,College degree,,White,,DK/REF,Yes,Once a week,No,DK/REF,,DK/REF,Not at all likely,DK/REF,No,No,No,Both Equally,Science,DK/REF,,DK/REF,Staged,No
+Female,70,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,Yes,No,Yes,Not at all likely,Yes,Yes,No,Yes,Liberal News Sources,Common Sense,No,30,,Staged,No
+Female,70,65+,Democrat,Moderate,College degree,,Black,,Neither approve nor disapprove,No,,,DK/REF,,No,Not at all likely,DK/REF,No,DK/REF,DK/REF,DK/REF,Common Sense,DK/REF,,DK/REF,DK/REF,DK/REF
+Male,84,65+,Republican,DK/REF,High school or less,,White,,DK/REF,DK/ REF,,,DK/REF,,DK/REF,Not at all likely,No,DK/REF,No,No,DK/REF,Common Sense,No,,DK/REF,DK/REF,DK/REF
+Female,39,35-44,Republican,DK/REF,Some college,,Latino,,Strongly Disapprove,No,,,Yes,No,Yes,Very Likely,No,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,63,55-64,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,Yes,No,No,Very Likely,Yes,No,Yes,Yes,Liberal News Sources,Science,No,4,,Staged,No
+Male,61,55-64,Republican,Moderate,College degree,,White,,Somewhat Approve,No,,,Yes,No,Yes,Not at all likely,Yes,Yes,No,Yes,Both Equally,Common Sense,No,0,,Staged,No
+Female,70,65+,Independent,Moderate,DK/REF,,White,,Strongly Disapprove,No,,,No,,No,Not at all likely,No,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,59,55-64,Independent,DK/REF,High school or less,,White,,Strongly Approve,Yes,Once a day,No,No,,No,DK/ REF,DK/REF,No,No,Yes,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,60,55-64,DK/REF,Strong Conservative,Some college,,White,,Somewhat Approve,No,,,DK/REF,,Yes,Not at all likely,Yes,DK/REF,DK/REF,Yes,Liberal News Sources,Common Sense,DK/REF,15,,Staged,No
+Male,65,65+,Democrat,Strong Conservative,High school or less,,Latino,,Somewhat Disapprove,No,,,Yes,No,Yes,Not at all likely,Yes,Yes,No,No,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Male,86,65+,Republican,Strong Liberal,Some college,,White,,Strongly Approve,No,,,No,,No,Very Likely,No,No,No,Yes,Conservative News Sources,Common Sense,No,80,,Staged,No
+Female,77,65+,Democrat,Strong Liberal,College degree,,White,,Strongly Disapprove,Yes,Once a month,No,Yes,No,No,Very Likely,No,Yes,No,No,Conservative News Sources,Science,DK/REF,0,,Staged,No
+Male,77,65+,Republican,Not Very Strong conservative,Some college,,White,,Strongly Approve,Yes,Once a week,No,No,,Yes,Not at all likely,DK/REF,DK/REF,No,Yes,Liberal News Sources,Common Sense,No,10,,Staged,No
+Male,45,45-54,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,Yes,Yes,Yes,Both Equally,Common Sense,No,5,,Staged,No
+Male,58,55-64,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,No,,,Yes,Yes,No,Not at all likely,No,Yes,No,No,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Male,42,35-44,Independent,Moderate,Graduate degree,,White,,Strongly Approve,No,,,No,,No,Not at all likely,No,Yes,No,Yes,Liberal News Sources,Common Sense,No,1,,Staged,No
+Female,78,65+,Democrat,Moderate,Some college,,White,,DK/REF,No,,,Yes,No,No,Somewhat Likely,No,DK/REF,No,No,Liberal News Sources,Science,DK/REF,20,,Staged,No
+Male,50,45-54,Republican,Moderate,College degree,,White,,Somewhat Disapprove,No,,,DK/REF,,Yes,Not at all likely,Yes,No,No,No,Both Equally,Science,DK/REF,,DK/REF,Staged,No
+DK/REF,67,65+,Independent,Moderate,High school or less,,White,,DK/REF,No,,,Yes,No,No,Not at all likely,Yes,DK/REF,No,No,Both Equally,Science,DK/REF,0,,Staged,No
+Female,83,65+,Democrat,Strong Liberal,High school or less,,White,,Strongly Approve,Yes,DK/REF,No,Yes,Yes,Yes,Somewhat Likely,DK/REF,Yes,DK/REF,No,DK/REF,Common Sense,No,,DK/REF,Staged,No
+Female,48,45-54,Independent,Moderate,College degree,,White,,Strongly Disapprove,Yes,Once a week,No,Yes,No,No,Not at all likely,No,DK/REF,No,No,Conservative News Sources,Science,No,,DK/REF,DK/REF,No
+Female,32,25-34,Independent,Moderate,High school or less,,White,,Somewhat Disapprove,No,,,No,,No,Somewhat Likely,Yes,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,84,65+,Republican,DK/REF,High school or less,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,DK/REF,No,No,No,DK/REF,Common Sense,No,,DK/REF,DK/REF,No
+Female,57,55-64,Independent,Moderate,Graduate degree,,White,,Neither approve nor disapprove,No,,,No,,No,Not at all likely,Yes,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,78,65+,Republican,Not Very Strong conservative,Some college,,White,,Somewhat Approve,No,,,No,,Yes,Somewhat Likely,DK/REF,Yes,No,Yes,Liberal News Sources,Common Sense,No,20,,DK/REF,No
+Female,69,65+,Democrat,Moderate,High school or less,,White,,Strongly Disapprove,No,,,Yes,No,No,Very Likely,No,No,No,No,Both Equally,Science,Yes,92,,Staged,No
+Female,73,65+,Independent,Moderate,Some college,,White,,Strongly Approve,No,,,Yes,No,Yes,Not at all likely,No,No,No,Yes,Conservative News Sources,Common Sense,No,,DK/REF,Staged,No
+Male,58,55-64,DK/REF,DK/REF,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,Yes,Both Equally,Science,DK/REF,,DK/REF,Staged,No
+Male,64,55-64,Democrat,Strong Liberal,College degree,,White,,Strongly Disapprove,No,,,No,,No,Not at all likely,Yes,Yes,No,No,Conservative News Sources,Common Sense,Yes,,DK/REF,Staged,No
+Female,60,55-64,Independent,DK/REF,Some college,,White,,Somewhat Approve,No,,,DK/REF,,Yes,Somewhat Likely,DK/REF,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,DK/REF
+Female,41,35-44,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,Yes,Once a week,No,Yes,No,No,Somewhat Likely,Yes,Yes,No,Yes,Conservative News Sources,Science,Yes,,DK/REF,Staged,No
+Male,36,35-44,DK/REF,DK/REF,High school or less,,White,,Strongly Approve,No,,,DK/REF,,No,Not at all likely,No,Yes,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,44,35-44,Independent,DK/REF,Some college,,White,,DK/REF,No,,,Yes,DK/REF,Yes,Very Likely,Yes,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,60,55-64,DK/REF,DK/REF,Some college,,DK/REF,,DK/REF,No,,,No,,No,Not at all likely,Yes,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,87,65+,Republican,DK/REF,High school or less,,White,,Strongly Approve,No,,,No,,No,Very Likely,No,DK/REF,No,Yes,Both Equally,Common Sense,No,2,,Staged,No
+Male,43,35-44,DK/REF,DK/REF,High school or less,,White,,Strongly Approve,No,,,DK/REF,,No,Somewhat Likely,No,No,Yes,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,76,65+,Democrat,Moderate,College degree,,White,,Strongly Approve,DK/ REF,,,Yes,No,No,Not at all likely,Yes,Yes,Yes,Yes,Both Equally,Science,No,0,,Real,Yes
+Female,54,45-54,Independent,Moderate,Graduate degree,,White,,Somewhat Disapprove,Yes,Once a week,No,Yes,No,Yes,Not at all likely,DK/REF,Yes,No,No,Both Equally,DK/REF,No,0,,Staged,DK/REF
+Male,49,45-54,Democrat,Strong Liberal,College degree,,White,,Strongly Disapprove,Yes,Once a week,No,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,No,0,,Staged,No
+Female,93,65+,Independent,Moderate,Graduate degree,,White,,Neither approve nor disapprove,No,,,No,,Yes,Not at all likely,No,No,No,No,Both Equally,Common Sense,Yes,,DK/REF,DK/REF,No
+Female,63,55-64,Democrat,Moderate,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,No,Both Equally,Common Sense,Yes,4,,Staged,No
+Male,59,55-64,Independent,Moderate,Graduate degree,,White,,Somewhat Approve,No,,,Yes,No,Yes,Not at all likely,Yes,Yes,No,Yes,Both Equally,Science,No,0,,Staged,No
+Male,50,45-54,Republican,Not Very Strong conservative,Graduate degree,,DK/REF,,Strongly Approve,No,,,Yes,No,Yes,Not at all likely,No,No,No,Yes,Liberal News Sources,Science,DK/REF,1,,Staged,No
+Male,60,55-64,DK/REF,Moderate,High school or less,,White,,Neither approve nor disapprove,No,,,DK/REF,,Yes,Not at all likely,No,No,No,Yes,Both Equally,Common Sense,No,0,,Staged,Yes
+Female,57,55-64,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,Yes,Not at all likely,Yes,Yes,No,No,Both Equally,Science,DK/REF,,DK/REF,Staged,No
+Male,67,65+,Democrat,Moderate,Graduate degree,,Black,,Somewhat Disapprove,No,,,Yes,No,Yes,Not at all likely,No,Yes,No,No,Conservative News Sources,Common Sense,No,0,,Staged,No
+Male,27,25-34,Independent,Moderate,Graduate degree,,Black,,Strongly Disapprove,Yes,Or several times a day?,No,No,,Yes,Not at all likely,No,Yes,No,No,Both Equally,Common Sense,No,50,,Staged,No
+Female,50,45-54,Republican,Moderate,High school or less,,White,,Strongly Approve,No,,,DK/REF,,DK/REF,DK/ REF,DK/REF,No,No,Yes,DK/REF,Science,No,,DK/REF,Staged,No
+Female,48,45-54,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,DK/REF,,Yes,Not at all likely,Yes,DK/REF,No,Yes,Liberal News Sources,DK/REF,DK/REF,,DK/REF,Staged,No
+Male,22,18-24,DK/REF,DK/REF,Some college,,Black,,DK/REF,Yes,Once a day,No,No,,No,Not at all likely,No,No,No,Yes,DK/REF,Science,No,,DK/REF,Staged,No
+Female,57,55-64,Democrat,Moderate,Graduate degree,,Black,,Strongly Disapprove,No,,,Yes,DK/REF,No,Somewhat Likely,No,DK/REF,No,No,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,70,65+,Democrat,Not very Strong Liberal,College degree,,Black,,Strongly Disapprove,No,,,Yes,Yes,No,DK/ REF,Yes,Yes,No,Yes,Both Equally,Common Sense,Yes,,DK/REF,Staged,Yes
+Female,52,45-54,Democrat,Moderate,High school or less,,Asian,,Somewhat Disapprove,No,,,Yes,No,No,Somewhat Likely,Yes,DK/REF,Yes,Yes,Both Equally,Common Sense,Yes,,DK/REF,Staged,Yes
+Male,62,55-64,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,Yes,No,Yes,Liberal News Sources,Science,No,1,,Staged,No
+Female,34,25-34,Democrat,Moderate,Graduate degree,,Other,Native American,Strongly Disapprove,Yes,DK/REF,No,Yes,Yes,No,Very Likely,No,Yes,No,No,Both Equally,Science,Yes,20,,Real,No
+Female,21,18-24,Independent,Moderate,College degree,,Black,,Strongly Disapprove,Yes,Or several times a day?,No,Yes,No,No,Not at all likely,No,Yes,No,No,Both Equally,Science,Yes,45,,Staged,No
+Male,30,25-34,Republican,Strong Conservative,Graduate degree,,White,,Neither approve nor disapprove,No,,,No,,Yes,Somewhat Likely,Yes,Yes,No,Yes,Both Equally,Common Sense,DK/REF,2,,Staged,No
+Male,52,45-54,Independent,Moderate,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,Yes,Yes,No,No,Conservative News Sources,Common Sense,Yes,,DK/REF,Staged,No
+Male,36,35-44,Independent,Moderate,Graduate degree,,White,,Somewhat Disapprove,Yes,Once a week,No,DK/REF,,Yes,Not at all likely,No,Yes,No,No,Both Equally,Science,No,1,,Staged,No
+Male,70,65+,Democrat,DK/REF,High school or less,,Black,,DK/REF,No,,,Yes,No,No,Somewhat Likely,No,No,No,DK/REF,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,Yes
+Female,71,65+,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,No,,No,Somewhat Likely,No,No,No,Yes,Liberal News Sources,Common Sense,No,60,,Staged,No
+Female,19,18-24,Republican,Moderate,Some college,,White,,Neither approve nor disapprove,No,,,DK/REF,,DK/REF,Very Likely,Yes,No,No,Yes,Both Equally,Science,Yes,,DK/REF,Real,No
+Male,30,25-34,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,Yes,Once a month,No,Yes,Yes,Yes,Not at all likely,Yes,No,No,No,Both Equally,Common Sense,Yes,50,,Staged,No
+Female,54,45-54,Republican,Strong Conservative,College degree,,White,,Strongly Approve,Yes,Once a month,No,No,,Yes,Not at all likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,No,30,,Staged,No
+Male,35,35-44,Republican,Strong Conservative,College degree,,DK/REF,,Somewhat Disapprove,Yes,Or several times a day?,Yes,Yes,No,Yes,Not at all likely,No,Yes,No,Yes,Both Equally,Science,No,1,,Staged,No
+Female,18,18-24,Democrat,Not very Strong Liberal,High school or less,,White,,Strongly Disapprove,Yes,Or several times a day?,Yes,Yes,No,Yes,Somewhat Likely,No,No,No,No,Both Equally,Common Sense,Yes,,DK/REF,Real,No
+Female,57,55-64,Democrat,Moderate,High school or less,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,Yes,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,20,18-24,Independent,Strong Conservative,High school or less,,White,,Strongly Disapprove,Yes,Once a day,No,No,,DK/REF,Not at all likely,No,Yes,No,No,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,69,65+,Independent,Strong Conservative,High school or less,,White,,DK/REF,No,,,No,,No,Somewhat Likely,No,No,No,No,Liberal News Sources,Common Sense,No,0,,Staged,No
+Female,40,35-44,Democrat,Moderate,Some college,,Asian,,Strongly Disapprove,Yes,Or several times a day?,No,Yes,Yes,No,Not at all likely,Yes,No,No,No,Both Equally,Science,No,0,,Staged,No
+Female,66,65+,Republican,Strong Conservative,College degree,,White,,Somewhat Approve,No,,,No,,Yes,Somewhat Likely,No,No,No,Yes,Liberal News Sources,Common Sense,No,10,,Staged,No
+Male,37,35-44,Republican,Strong Conservative,College degree,,White,,Strongly Approve,Yes,Once a month,No,No,,Yes,Somewhat Likely,Yes,Yes,No,Yes,Both Equally,DK/REF,No,,DK/REF,Staged,No
+Male,57,55-64,Republican,Strong Conservative,College degree,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,Yes,No,Yes,Liberal News Sources,Science,No,0,,Staged,No
+Female,80,65+,Independent,Moderate,High school or less,,White,,Strongly Disapprove,No,,,Yes,No,DK/REF,DK/ REF,No,No,No,No,Both Equally,Common Sense,Yes,,DK/REF,Real,No
+Female,50,45-54,DK/REF,DK/REF,Some college,,White,,Neither approve nor disapprove,No,,,DK/REF,,Yes,Somewhat Likely,Yes,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,28,25-34,DK/REF,DK/REF,Some college,,White,,DK/REF,Yes,DK/REF,No,DK/REF,,DK/REF,DK/ REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,,DK/REF,DK/REF,DK/REF
+Male,76,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,DK/REF,DK/REF,No,Yes,Liberal News Sources,Common Sense,No,5,,Staged,No
+Male,39,35-44,Republican,Moderate,Graduate degree,,White,,Somewhat Approve,No,,,DK/REF,,Yes,Not at all likely,Yes,No,No,No,Liberal News Sources,Science,No,,DK/REF,Staged,No
+Female,40,35-44,Democrat,Strong Liberal,Graduate degree,,Latino,,Strongly Disapprove,No,,,DK/REF,,DK/REF,Somewhat Likely,Yes,No,No,No,Both Equally,Science,DK/REF,,DK/REF,Staged,No
+Male,27,25-34,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,Yes,Once a day,No,Yes,No,No,Somewhat Likely,No,Yes,No,No,Conservative News Sources,Science,No,,DK/REF,Staged,No
+Male,30,25-34,Independent,Moderate,Some college,,White,,Somewhat Disapprove,No,,,Yes,No,DK/REF,Not at all likely,No,Yes,No,No,Both Equally,Science,No,1,,Staged,No
+Male,63,55-64,Independent,Not Very Strong conservative,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,No,No,No,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,No
+Male,60,55-64,Republican,Strong Conservative,High school or less,,White,,Somewhat Approve,No,,,No,,No,Not at all likely,No,Yes,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,DK/REF
+Male,56,55-64,Republican,Strong Conservative,High school or less,,White,,Strongly Approve,No,,,Yes,No,Yes,Not at all likely,Yes,No,No,Yes,Both Equally,Common Sense,No,10,,Staged,No
+Male,52,45-54,Independent,Moderate,Graduate degree,,Other,Mixed Race,Strongly Disapprove,Yes,Once a week,No,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,DK/REF,0,,Staged,No
+Female,60,55-64,Independent,Moderate,College degree,,White,,Somewhat Disapprove,No,,,Yes,Yes,No,Not at all likely,No,No,No,No,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,No
+Male,47,45-54,Republican,Strong Conservative,High school or less,,White,,Strongly Approve,No,,,Yes,Yes,Yes,Not at all likely,No,No,No,Yes,Liberal News Sources,Common Sense,No,2,,Staged,No
+Male,60,55-64,Republican,Not Very Strong conservative,High school or less,,Black,,Strongly Approve,No,,,No,,DK/REF,Not at all likely,Yes,No,DK/REF,Yes,Conservative News Sources,Common Sense,No,,DK/REF,Staged,No
+Female,21,18-24,Independent,Not very Strong Liberal,High school or less,,White,,Somewhat Disapprove,No,,,Yes,No,Yes,Not at all likely,Yes,No,No,No,Both Equally,Common Sense,Yes,5,,Staged,No
+Male,68,65+,Democrat,Moderate,Graduate degree,,DK/REF,,Strongly Disapprove,Yes,Or several times a day?,Yes,Yes,No,No,Not at all likely,Yes,Yes,No,No,Conservative News Sources,Common Sense,Yes,0,,Staged,No
+Male,34,25-34,Independent,Not very Strong Liberal,College degree,,White,,Strongly Disapprove,No,,,DK/REF,,No,Not at all likely,No,No,No,Yes,Both Equally,Science,Yes,,DK/REF,Staged,No
+Female,64,55-64,Democrat,DK/REF,High school or less,,White,,Neither approve nor disapprove,No,,,DK/REF,,No,Not at all likely,No,DK/REF,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,35,35-44,Republican,Strong Conservative,High school or less,,White,,Strongly Approve,Yes,Once a week,No,No,,Yes,Not at all likely,Yes,No,Yes,No,Liberal News Sources,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,19,18-24,Independent,Moderate,High school or less,,White,,Somewhat Disapprove,No,,,Yes,No,No,Somewhat Likely,Yes,No,No,No,Both Equally,Science,No,,DK/REF,Real,No
+Male,36,35-44,DK/REF,DK/REF,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,DK/REF,Not at all likely,DK/REF,Yes,No,No,Both Equally,DK/REF,DK/REF,,DK/REF,Staged,No
+Male,50,45-54,Independent,Strong Conservative,High school or less,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,Yes,No,Yes,Both Equally,Common Sense,No,5,,Staged,No
+Male,68,65+,Democrat,Moderate,Some college,,Other,Mixed,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,Yes,DK/REF,No,No,Conservative News Sources,Common Sense,DK/REF,0,,Staged,No
+Male,85,65+,Democrat,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Common Sense,No,5,,DK/REF,No
+Male,48,45-54,Democrat,Strong Liberal,Some college,,Black,,Strongly Disapprove,No,,,Yes,No,No,Very Likely,Yes,DK/REF,No,DK/REF,Conservative News Sources,Science,Yes,,DK/REF,Staged,No
+Male,63,55-64,Democrat,Moderate,College degree,,White,,Strongly Disapprove,No,,,Yes,Yes,No,Not at all likely,No,Yes,No,No,Both Equally,Science,No,0,,Staged,No
+Male,49,45-54,Republican,Strong Conservative,College degree,,White,,Strongly Approve,Yes,Once a month,No,No,,Yes,Not at all likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,No,10,,Staged,No
+Male,81,65+,DK/REF,DK/REF,High school or less,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,DK/REF,Common Sense,No,,DK/REF,Staged,No
+Male,34,25-34,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,DK/REF,Not at all likely,DK/REF,No,No,No,Liberal News Sources,Science,No,,DK/REF,Staged,No
+Female,62,55-64,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,No,No,No,Conservative News Sources,Common Sense,Yes,0,,Staged,No
+Male,69,65+,Independent,Not very Strong Liberal,Graduate degree,,Black,,Strongly Disapprove,Yes,Once a month,No,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Common Sense,Yes,0,,Staged,No
+Male,75,65+,Democrat,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,No,No,No,DK/REF,Science,DK/REF,,DK/REF,Staged,No
+Male,82,65+,Republican,Strong Conservative,Graduate degree,,White,,Strongly Approve,No,,,Yes,No,Yes,Not at all likely,Yes,DK/REF,No,Yes,Liberal News Sources,Common Sense,No,0,,Staged,No
+Male,70,65+,Independent,Moderate,High school or less,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,DK/REF,No,No,Both Equally,Common Sense,DK/REF,2,,Staged,No
+Female,48,45-54,Independent,Moderate,College degree,,White,,Neither approve nor disapprove,No,,,No,,No,Not at all likely,Yes,No,No,No,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,34,25-34,Independent,Moderate,College degree,,White,,Strongly Approve,No,,,No,,Yes,Very Likely,Yes,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,72,65+,Independent,Strong Conservative,High school or less,,White,,Somewhat Approve,No,,,No,,Yes,Not at all likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,No,1,,Staged,No
+Female,45,45-54,Independent,Moderate,College degree,,White,,Somewhat Approve,No,,,No,,Yes,Not at all likely,Yes,No,No,DK/REF,Liberal News Sources,Science,No,,DK/REF,Staged,No
+Male,73,65+,Republican,Moderate,College degree,,White,,Somewhat Disapprove,No,,,Yes,No,Yes,Not at all likely,No,No,No,No,Both Equally,Science,No,2,,Staged,No
+Male,65,65+,Republican,Strong Conservative,College degree,,White,,Somewhat Approve,No,,,Yes,No,Yes,Not at all likely,No,Yes,No,Yes,Both Equally,Common Sense,No,2,,Staged,No
+Male,50,45-54,DK/REF,Moderate,College degree,,Asian,,DK/REF,No,,,DK/REF,,DK/REF,Not at all likely,DK/REF,DK/REF,No,DK/REF,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,No
+Male,69,65+,Independent,DK/REF,College degree,,White,,Strongly Approve,No,,,Yes,Yes,Yes,Very Likely,Yes,Yes,Yes,Yes,DK/REF,Common Sense,Yes,,DK/REF,Staged,Yes
+Male,28,25-34,Independent,Strong Liberal,College degree,,Latino,,Strongly Approve,Yes,Or several times a day?,Yes,Yes,Yes,Yes,Very Likely,Yes,Yes,No,Yes,Both Equally,Common Sense,Yes,60,,Real,Yes
+Other,40,35-44,DK/REF,DK/REF,Graduate degree,,DK/REF,,DK/REF,No,,,No,,DK/REF,DK/ REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,,DK/REF,Real,DK/REF
+Male,34,25-34,Independent,Moderate,Graduate degree,,Black,,Strongly Disapprove,Yes,Once a day,No,Yes,No,Yes,Not at all likely,No,Yes,No,No,Both Equally,Science,Yes,0,,Staged,No
+Male,61,55-64,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,Yes,Once a week,No,Yes,No,No,Not at all likely,Yes,Yes,No,No,Conservative News Sources,Science,Yes,0,,Staged,No
+Female,51,45-54,Independent,Moderate,College degree,,White,,Strongly Disapprove,Yes,Once a day,Yes,Yes,No,No,Not at all likely,DK/REF,No,No,No,Conservative News Sources,Science,No,0,,Staged,No
+Male,50,45-54,Republican,Strong Conservative,Graduate degree,,White,,Strongly Approve,No,,,DK/REF,,Yes,Not at all likely,No,No,No,Yes,Liberal News Sources,DK/REF,No,,DK/REF,Staged,No
+Female,32,25-34,Democrat,Not very Strong Liberal,High school or less,,White,,Strongly Disapprove,No,,,DK/REF,,No,DK/ REF,Yes,DK/REF,No,DK/REF,Both Equally,Science,DK/REF,,DK/REF,Staged,No
+Male,19,18-24,Independent,Moderate,High school or less,,White,,Somewhat Disapprove,Yes,Or several times a day?,No,No,,No,Not at all likely,No,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,67,65+,DK/REF,Moderate,High school or less,,White,,DK/REF,No,,,Yes,No,No,Not at all likely,No,Yes,DK/REF,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Male,28,25-34,Republican,Strong Conservative,Some college,,White,,Strongly Approve,Yes,Once a day,No,No,,Yes,Not at all likely,No,Yes,No,Yes,Liberal News Sources,Common Sense,No,3,,Staged,No
+Male,51,45-54,Independent,Moderate,Some college,,White,,Somewhat Approve,No,,,No,,No,Somewhat Likely,Yes,Yes,Yes,Yes,Both Equally,Common Sense,No,25,,Staged,No
+Male,76,65+,Independent,Strong Conservative,Some college,,White,,Strongly Approve,No,,,DK/REF,,Yes,Not at all likely,DK/REF,Yes,DK/REF,Yes,Both Equally,Common Sense,No,3,,Staged,No
+Female,84,65+,Democrat,DK/REF,High school or less,,White,,DK/REF,No,,,DK/REF,,No,DK/ REF,No,Yes,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,63,55-64,Republican,Strong Conservative,High school or less,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,No,No,DK/REF,Liberal News Sources,Science,No,,DK/REF,DK/REF,No
+Male,33,25-34,Republican,Not very Strong Liberal,College degree,,White,,Somewhat Approve,Yes,Once a month,No,No,,No,Not at all likely,No,No,No,No,DK/REF,Science,No,,DK/REF,Staged,No
+Female,50,45-54,DK/REF,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,Yes,No,Not at all likely,No,No,DK/REF,No,Both Equally,Science,No,,DK/REF,Staged,No
+Male,50,45-54,Democrat,Not Very Strong conservative,Graduate degree,,White,,Neither approve nor disapprove,No,,,No,,Yes,Not at all likely,No,No,No,Yes,Both Equally,Common Sense,No,10,,Staged,No
+Female,43,35-44,Independent,Not very Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,Yes,Very Likely,No,Yes,No,No,Both Equally,Science,Yes,0,,Staged,No
+Female,77,65+,Democrat,DK/REF,College degree,,White,,Strongly Disapprove,Yes,DK/REF,No,Yes,No,No,Not at all likely,No,Yes,No,No,DK/REF,Science,DK/REF,,DK/REF,DK/REF,No
+Female,66,65+,Independent,Strong Conservative,College degree,,White,,Strongly Approve,No,,,DK/REF,,No,Very Likely,DK/REF,Yes,DK/REF,Yes,Liberal News Sources,DK/REF,No,7,,Staged,No
+Female,38,35-44,Republican,Moderate,College degree,,White,,Somewhat Approve,No,,,No,,Yes,Somewhat Likely,No,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,51,45-54,Democrat,Moderate,College degree,,Asian,,Strongly Disapprove,No,,,No,,No,Not at all likely,Yes,DK/REF,DK/REF,DK/REF,DK/REF,Science,DK/REF,,DK/REF,Staged,No
+Male,39,35-44,Republican,Strong Conservative,College degree,,Other,Native American,Neither approve nor disapprove,No,,,DK/REF,,Yes,Very Likely,Yes,Yes,DK/REF,Yes,Both Equally,Common Sense,No,2,,Staged,No
+Male,50,45-54,Republican,Strong Conservative,College degree,,White,,Strongly Approve,No,,,No,,Yes,Somewhat Likely,Yes,Yes,Yes,Yes,Liberal News Sources,Common Sense,No,40,,Staged,No
+Female,24,18-24,Independent,Moderate,Some college,,Black,,Somewhat Disapprove,No,,,No,,No,Somewhat Likely,Yes,Yes,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,52,45-54,Democrat,Not Very Strong conservative,Some college,,White,,Strongly Approve,No,,,Yes,No,No,Not at all likely,No,No,No,Yes,Both Equally,Science,No,8,,Staged,No
+Male,50,45-54,Republican,Strong Conservative,College degree,,White,,Strongly Approve,Yes,Or several times a day?,No,No,,Yes,Not at all likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Female,27,25-34,Independent,Not very Strong Liberal,Graduate degree,,White,,Strongly Disapprove,Yes,Once a week,Yes,Yes,No,No,Somewhat Likely,Yes,Yes,No,No,Both Equally,Science,No,,DK/REF,Staged,No
+Male,47,45-54,Republican,Strong Liberal,Some college,,White,,Somewhat Approve,Yes,Once a week,No,Yes,Yes,Yes,Very Likely,Yes,No,No,Yes,Conservative News Sources,Common Sense,No,,DK/REF,Staged,No
+Male,66,65+,Independent,Strong Liberal,Some college,,White,,Strongly Approve,No,,,No,,No,Somewhat Likely,No,No,No,No,Both Equally,Common Sense,No,50,,Real,No
+Female,79,65+,Democrat,Moderate,Graduate degree,,White,,Somewhat Disapprove,No,,,Yes,DK/REF,No,Somewhat Likely,Yes,No,DK/REF,No,Both Equally,Common Sense,DK/REF,2,,DK/REF,No
+Male,39,35-44,DK/REF,Moderate,Graduate degree,,White,,Neither approve nor disapprove,No,,,DK/REF,,Yes,Somewhat Likely,No,Yes,No,Yes,Both Equally,Common Sense,DK/REF,0,,Staged,No
+Female,71,65+,Independent,Moderate,College degree,,White,,Somewhat Approve,No,,,No,,No,Not at all likely,Yes,No,No,No,Liberal News Sources,Common Sense,No,0,,Staged,No
+Male,37,35-44,Republican,Strong Conservative,College degree,,White,,Strongly Approve,No,,,No,,DK/REF,Somewhat Likely,No,No,No,Yes,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,70,65+,Independent,Moderate,High school or less,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,Yes,No,No,DK/REF,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Male,63,55-64,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,Yes,Yes,No,No,Conservative News Sources,Science,Yes,,DK/REF,Staged,No
+Female,33,25-34,Independent,Not very Strong Liberal,Graduate degree,,Latino,,Somewhat Disapprove,No,,,Yes,Yes,No,Very Likely,Yes,Yes,No,Yes,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Male,18,18-24,Republican,Not Very Strong conservative,High school or less,,White,,Somewhat Approve,No,,,No,,No,Somewhat Likely,Yes,Yes,No,No,Both Equally,Common Sense,No,45,,Staged,No
+Male,30,25-34,Democrat,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,Yes,Once a week,No,Yes,No,No,Not at all likely,Yes,Yes,No,No,Conservative News Sources,Science,No,0,,Staged,No
+Female,32,25-34,Independent,Moderate,College degree,,White,,Somewhat Approve,Yes,Once a day,No,Yes,No,No,Somewhat Likely,Yes,No,Yes,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,40,35-44,Republican,Strong Conservative,College degree,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,Yes,Yes,Yes,Liberal News Sources,Common Sense,No,10,,Staged,No
+Female,30,25-34,Independent,Moderate,College degree,,White,,DK/REF,No,,,DK/REF,,DK/REF,Somewhat Likely,No,Yes,No,DK/REF,Both Equally,Science,DK/REF,,DK/REF,Staged,No
+Male,24,18-24,Independent,Moderate,Some college,,White,,Neither approve nor disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,Yes,Both Equally,Science,DK/REF,5,,Staged,No
+Male,75,65+,Democrat,Moderate,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,Yes,Yes,No,No,DK/REF,Science,Yes,,DK/REF,Staged,No
+Female,57,55-64,Republican,Strong Conservative,Graduate degree,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Female,50,45-54,Independent,Moderate,College degree,,White,,Neither approve nor disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,Yes,Both Equally,Common Sense,Yes,25,,Staged,No
+Female,28,25-34,Democrat,Strong Liberal,College degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,DK/REF,Yes,No,No,Both Equally,Science,No,0,,Staged,No
+Male,40,35-44,Republican,DK/REF,Graduate degree,,White,,Somewhat Approve,No,,,DK/REF,,No,Somewhat Likely,Yes,Yes,No,Yes,Both Equally,Science,DK/REF,10,,Staged,No
+Female,63,55-64,Independent,Not Very Strong conservative,High school or less,,Other,Indian,Strongly Disapprove,No,,,No,,No,Not at all likely,No,No,No,No,Both Equally,Science,No,,DK/REF,Staged,No
+Male,30,25-34,Independent,Strong Conservative,Graduate degree,,White,,Somewhat Approve,No,,,No,,No,Very Likely,Yes,Yes,Yes,Yes,Conservative News Sources,Science,No,,DK/REF,Staged,No
+Female,57,55-64,Democrat,Not very Strong Liberal,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,No,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Male,70,65+,Republican,Strong Conservative,High school or less,,White,,Strongly Approve,DK/ REF,,,Yes,No,No,Not at all likely,No,Yes,DK/REF,Yes,Liberal News Sources,Science,No,0,,DK/REF,No
+Female,74,65+,Democrat,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,Yes,0,,Staged,No
+Male,89,65+,Independent,Moderate,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,DK/REF,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Male,68,65+,Republican,Strong Conservative,Graduate degree,,White,,Strongly Approve,No,,,No,,Yes,Somewhat Likely,Yes,Yes,No,Yes,Liberal News Sources,Science,No,1,,Staged,No
+Female,55,55-64,Democrat,Moderate,College degree,,Asian,,Strongly Disapprove,No,,,Yes,No,DK/REF,Very Likely,Yes,DK/REF,DK/REF,No,Both Equally,Science,Yes,,DK/REF,Staged,No
+Male,70,65+,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,Yes,Not at all likely,No,Yes,No,DK/REF,Conservative News Sources,Science,DK/REF,0,,Staged,No
+Male,20,18-24,Democrat,Moderate,Some college,,White,,Somewhat Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Both Equally,Science,No,1,,Staged,No
+Female,59,55-64,Republican,Moderate,Some college,,White,,Somewhat Approve,No,,,DK/REF,,DK/REF,Somewhat Likely,DK/REF,No,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Male,75,65+,Independent,Not Very Strong conservative,Graduate degree,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,No,Yes,No,Yes,Liberal News Sources,Common Sense,No,5,,Staged,No
+Female,71,65+,Republican,Not Very Strong conservative,Some college,,White,,Strongly Approve,No,,,No,,Yes,DK/ REF,DK/REF,No,No,Yes,DK/REF,Common Sense,No,,DK/REF,Staged,No
+Female,71,65+,Republican,Strong Conservative,Graduate degree,,DK/REF,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,No,No,Yes,DK/REF,Common Sense,No,,DK/REF,Staged,No
+Male,43,35-44,Independent,Strong Conservative,Some college,,White,,Somewhat Approve,No,,,No,,Yes,Somewhat Likely,Yes,No,No,Yes,Both Equally,Common Sense,No,5,,Staged,No
+Female,19,18-24,Democrat,Strong Liberal,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,No,Conservative News Sources,Science,Yes,2,,Staged,No
+Male,72,65+,Independent,Moderate,High school or less,,White,,Somewhat Approve,No,,,No,,No,Not at all likely,Yes,Yes,No,Yes,Both Equally,Common Sense,Yes,,DK/REF,Staged,DK/REF
+Male,61,55-64,Democrat,Moderate,Some college,,White,,Neither approve nor disapprove,No,,,Yes,No,Yes,Somewhat Likely,Yes,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,79,65+,Republican,Not very Strong Liberal,High school or less,,White,,Strongly Approve,No,,,DK/REF,,No,Somewhat Likely,No,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,DK/REF,No
+Female,71,65+,Democrat,Not Very Strong conservative,High school or less,,DK/REF,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,DK/REF,Yes,No,DK/REF,DK/REF,Common Sense,Yes,,DK/REF,Staged,DK/REF
+Female,54,45-54,Republican,Moderate,Graduate degree,,Black,,Neither approve nor disapprove,No,,,DK/REF,,No,Not at all likely,No,Yes,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,63,55-64,Democrat,Strong Conservative,Some college,,Black,,Somewhat Approve,No,,,Yes,No,Yes,Not at all likely,Yes,Yes,No,No,DK/REF,Science,Yes,0,,Real,No
+Female,70,65+,Democrat,Moderate,Graduate degree,,White,,Strongly Approve,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,No,Conservative News Sources,Science,Yes,0,,Staged,No
+Female,50,45-54,Independent,Moderate,High school or less,,White,,Somewhat Disapprove,No,,,No,,No,Not at all likely,No,No,No,No,Both Equally,Science,No,,DK/REF,Real,No
+Male,81,65+,Democrat,DK/REF,High school or less,,Black,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Common Sense,Yes,,DK/REF,Staged,No
+Female,68,65+,Independent,Strong Liberal,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,Yes,Yes,No,No,Both Equally,DK/REF,DK/REF,,DK/REF,Staged,No
+Female,60,55-64,Democrat,Moderate,High school or less,,Black,,Somewhat Approve,No,,,Yes,No,No,Very Likely,Yes,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,56,55-64,Republican,Strong Conservative,Some college,,Black,,Somewhat Approve,No,,,Yes,No,Yes,Not at all likely,No,Yes,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Female,65,65+,Independent,Moderate,High school or less,,Black,,Neither approve nor disapprove,No,,,DK/REF,,No,DK/ REF,No,DK/REF,No,DK/REF,Both Equally,DK/REF,DK/REF,,DK/REF,Staged,No
+Male,78,65+,Republican,Not Very Strong conservative,Some college,,White,,Somewhat Disapprove,Yes,DK/REF,No,Yes,Yes,Yes,Very Likely,Yes,No,No,Yes,Both Equally,Common Sense,Yes,,DK/REF,Real,DK/REF
+Female,68,65+,Independent,Strong Conservative,College degree,,White,,Neither approve nor disapprove,No,,,DK/REF,,Yes,DK/ REF,DK/REF,DK/REF,No,DK/REF,DK/REF,DK/REF,DK/REF,20,,Staged,No
+Male,69,65+,Independent,Moderate,College degree,,White,,Strongly Approve,Yes,Once a day,No,No,,Yes,Somewhat Likely,Yes,Yes,No,Yes,Liberal News Sources,Common Sense,No,20,,Staged,No
+Female,68,65+,Democrat,Moderate,High school or less,,Black,,Somewhat Disapprove,No,,,DK/REF,,No,Somewhat Likely,DK/REF,Yes,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,62,55-64,Democrat,Not Very Strong conservative,Some college,,White,,Strongly Disapprove,No,,,Yes,Yes,DK/REF,Somewhat Likely,Yes,No,No,Yes,Both Equally,Common Sense,Yes,30,,Staged,No
+Female,67,65+,Republican,Moderate,High school or less,,White,,Strongly Approve,No,,,No,,No,Very Likely,No,No,Yes,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,68,65+,Democrat,Strong Liberal,College degree,,White,,Strongly Disapprove,No,,,Yes,Yes,No,Not at all likely,No,DK/REF,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,67,65+,DK/REF,Moderate,Some college,,White,,Neither approve nor disapprove,No,,,Yes,No,DK/REF,Not at all likely,Yes,No,No,DK/REF,DK/REF,Science,DK/REF,,DK/REF,DK/REF,No
+Female,80,65+,DK/REF,DK/REF,Some college,,Latino,,DK/REF,No,,,DK/REF,,DK/REF,DK/ REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,,DK/REF,DK/REF,DK/REF
+Female,60,55-64,Democrat,Not very Strong Liberal,College degree,,Asian,,Strongly Disapprove,No,,,Yes,Yes,No,Very Likely,No,Yes,No,No,Conservative News Sources,Common Sense,Yes,10,,Staged,Yes
+Male,71,65+,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,DK/ REF,DK/REF,Yes,No,No,Conservative News Sources,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,83,65+,Democrat,Moderate,High school or less,,White,,Strongly Disapprove,No,,,Yes,Yes,No,Somewhat Likely,No,No,No,No,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Male,94,65+,Democrat,Moderate,College degree,,White,,Strongly Disapprove,No,,,Yes,No,Yes,Not at all likely,Yes,No,No,No,DK/REF,Common Sense,Yes,,DK/REF,Staged,No
+Female,74,65+,Independent,Moderate,High school or less,,White,,Neither approve nor disapprove,No,,,Yes,No,No,Somewhat Likely,No,No,No,No,Both Equally,Common Sense,No,50,,Staged,No
+Female,57,55-64,Independent,Moderate,College degree,,White,,Strongly Disapprove,Yes,Once a month,No,Yes,Yes,DK/REF,Somewhat Likely,No,Yes,No,No,DK/REF,Common Sense,Yes,,DK/REF,Staged,No
+Male,43,35-44,Republican,Moderate,College degree,,Other,Indian American,Strongly Approve,No,,,Yes,Yes,No,Very Likely,No,No,Yes,No,Both Equally,Common Sense,DK/REF,,DK/REF,DK/REF,DK/REF
+Female,68,65+,Republican,Strong Conservative,Some college,,White,,Neither approve nor disapprove,No,,,Yes,No,No,Somewhat Likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,62,55-64,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,73,65+,Democrat,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,DK/REF,,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,DK/REF,0,,Staged,No
+Female,53,45-54,Democrat,DK/REF,Some college,,Black,,Strongly Disapprove,No,,,DK/REF,,DK/REF,DK/ REF,DK/REF,DK/REF,No,DK/REF,DK/REF,Common Sense,DK/REF,,DK/REF,DK/REF,DK/REF
+Female,60,55-64,Independent,Moderate,Some college,,Black,,Strongly Disapprove,No,,,Yes,Yes,No,Not at all likely,No,No,No,No,Both Equally,Common Sense,DK/REF,100,,Staged,No
+Female,85,65+,Democrat,Strong Liberal,High school or less,,Black,,Strongly Disapprove,No,,,DK/REF,,No,DK/ REF,DK/REF,DK/REF,No,DK/REF,DK/REF,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,28,25-34,Independent,Moderate,College degree,,Black,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,Yes,Yes,No,No,Both Equally,Science,Yes,,DK/REF,Staged,No
+Female,69,65+,Republican,Strong Conservative,High school or less,,White,,Strongly Approve,No,,,No,,Yes,Somewhat Likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,54,45-54,Independent,Not very Strong Liberal,College degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,Yes,Yes,No,Yes,Both Equally,Science,Yes,40,,Staged,Yes
+Male,63,55-64,Democrat,Strong Liberal,College degree,,Black,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Common Sense,Yes,0,,Staged,No
+Male,52,45-54,Independent,DK/REF,Some college,,White,,Somewhat Approve,No,,,DK/REF,,Yes,Not at all likely,No,Yes,No,Yes,Both Equally,Common Sense,DK/REF,0,,Staged,No
+Male,50,45-54,Independent,DK/REF,College degree,,Black,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,DK/REF,Science,Yes,0,,Staged,No
+Male,84,65+,Democrat,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,Yes,0,,Staged,No
+Female,82,65+,Republican,Strong Conservative,College degree,,White,,Strongly Approve,Yes,Once a week,No,No,,Yes,Not at all likely,Yes,No,No,Yes,Liberal News Sources,Science,DK/REF,,DK/REF,DK/REF,No
+Male,67,65+,Independent,Moderate,Graduate degree,,Asian,,Strongly Disapprove,Yes,Once a week,No,No,,No,Not at all likely,No,No,No,Yes,Both Equally,Common Sense,Yes,0,,Staged,No
+Female,67,65+,Democrat,Moderate,Graduate degree,,Black,,Somewhat Approve,No,,,DK/REF,,No,Not at all likely,No,No,DK/REF,No,DK/REF,Common Sense,DK/REF,,DK/REF,Staged,DK/REF
+Female,73,65+,Republican,Strong Conservative,High school or less,,White,,Neither approve nor disapprove,No,,,Yes,No,No,Somewhat Likely,No,DK/REF,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Female,54,45-54,Democrat,Not very Strong Liberal,Some college,,Black,,DK/REF,No,,,Yes,No,No,DK/ REF,Yes,Yes,Yes,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,67,65+,Democrat,Strong Liberal,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Very Likely,DK/REF,Yes,No,No,Conservative News Sources,Science,No,,DK/REF,Staged,No
+Female,59,55-64,Republican,Strong Conservative,Graduate degree,,White,,Strongly Approve,No,,,Yes,No,DK/REF,Not at all likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,DK/REF,,DK/REF,Staged,No
+Male,63,55-64,Democrat,Moderate,High school or less,,Latino,,Strongly Disapprove,No,,,Yes,Yes,No,Not at all likely,DK/REF,Yes,No,No,Conservative News Sources,Science,Yes,,DK/REF,Staged,No
+Female,91,65+,Independent,Strong Conservative,Some college,,Black,,Strongly Disapprove,No,,,No,,No,Somewhat Likely,No,No,No,No,DK/REF,Common Sense,Yes,,DK/REF,DK/REF,No
+Male,60,55-64,Republican,Moderate,Some college,,Black,,Strongly Approve,No,,,No,,Yes,Not at all likely,No,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,49,45-54,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Common Sense,DK/REF,0,,Staged,No
+Male,68,65+,Independent,Moderate,Some college,,Latino,,Strongly Approve,No,,,No,,No,Very Likely,No,Yes,No,No,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Female,64,55-64,Republican,Moderate,Some college,,Black,,Strongly Approve,No,,,DK/REF,,No,Somewhat Likely,DK/REF,No,DK/REF,Yes,DK/REF,Common Sense,No,,DK/REF,Real,No
+Female,60,55-64,Independent,DK/REF,Some college,,DK/REF,,Strongly Approve,No,,,No,,Yes,Very Likely,No,No,No,Yes,Both Equally,DK/REF,DK/REF,0,,Staged,No
+Male,73,65+,Democrat,Not very Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,Yes,Yes,Not at all likely,No,No,No,No,Conservative News Sources,Science,No,5,,Staged,No
+Female,51,45-54,Independent,Strong Liberal,High school or less,,Latino,,Strongly Disapprove,No,,,Yes,Yes,No,Not at all likely,Yes,Yes,No,Yes,Conservative News Sources,Common Sense,Yes,50,,Staged,No
+Male,67,65+,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,DK/REF,Yes,No,No,Conservative News Sources,Science,DK/REF,0,,Staged,No
+Female,66,65+,Democrat,Strong Liberal,College degree,,White,,Strongly Disapprove,No,,,Yes,Yes,Yes,Not at all likely,No,Yes,No,No,Conservative News Sources,Common Sense,Yes,,DK/REF,Staged,No
+Female,63,55-64,Democrat,Moderate,Some college,,White,,Strongly Approve,Yes,Once a month,No,Yes,Yes,Yes,Somewhat Likely,Yes,Yes,No,Yes,Conservative News Sources,Common Sense,No,20,,Staged,No
+Male,58,55-64,Republican,Moderate,College degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,Yes,No,No,No,Both Equally,Science,No,0,,Staged,No
+Male,82,65+,Independent,Not very Strong Liberal,Some college,,White,,Strongly Disapprove,No,,,Yes,No,Yes,Not at all likely,No,Yes,No,No,Both Equally,Common Sense,No,3,,Staged,No
+Male,58,55-64,Democrat,Moderate,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,DK/REF,No,No,Conservative News Sources,Common Sense,Yes,7,,Staged,No
+Female,61,55-64,Democrat,Strong Conservative,Graduate degree,,White,,Strongly Disapprove,No,,,No,,No,Very Likely,No,Yes,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,70,65+,Republican,Strong Conservative,College degree,,White,,Strongly Approve,No,,,No,,Yes,DK/ REF,No,Yes,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Male,78,65+,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,Yes,Once a month,No,Yes,DK/REF,Yes,Not at all likely,No,No,No,No,Both Equally,Science,DK/REF,3,,Staged,No
+Female,60,55-64,Republican,Strong Conservative,College degree,,White,,Somewhat Approve,No,,,No,,No,Somewhat Likely,No,No,No,Yes,Both Equally,Common Sense,Yes,30,,Staged,No
+Male,82,65+,Independent,Moderate,High school or less,,White,,DK/REF,No,,,No,,DK/REF,Very Likely,No,No,No,DK/REF,Both Equally,Science,No,,DK/REF,Staged,No
+Female,72,65+,Democrat,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,Yes,Somewhat Likely,No,No,No,No,Both Equally,Common Sense,DK/REF,0,,Staged,No
+Female,74,65+,Democrat,DK/REF,High school or less,,Black,,Somewhat Disapprove,No,,,DK/REF,,No,DK/ REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,Common Sense,DK/REF,,DK/REF,Staged,Yes
+Female,77,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,No,Very Likely,No,Yes,No,Yes,Liberal News Sources,DK/REF,No,5,,Staged,No
+Female,55,55-64,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,No,No,Yes,Conservative News Sources,Science,No,,DK/REF,Staged,No
+Female,65,65+,Democrat,Strong Liberal,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,No,Conservative News Sources,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,71,65+,Democrat,Moderate,Some college,,White,,Strongly Disapprove,DK/ REF,,,Yes,No,No,Very Likely,No,No,No,No,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Female,78,65+,Republican,DK/REF,High school or less,,White,,Strongly Approve,No,,,Yes,No,Yes,Not at all likely,DK/REF,No,No,Yes,Both Equally,Science,No,,DK/REF,DK/REF,No
+Female,79,65+,Democrat,Strong Conservative,High school or less,,Black,,Strongly Disapprove,No,,,DK/REF,,Yes,Somewhat Likely,Yes,DK/REF,DK/REF,Yes,Conservative News Sources,Common Sense,DK/REF,,DK/REF,Real,No
+Female,69,65+,DK/REF,Strong Conservative,Graduate degree,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,No,1,,Staged,No
+Female,75,65+,Independent,Moderate,Some college,,White,,Neither approve nor disapprove,No,,,Yes,No,No,DK/ REF,No,No,No,Yes,Both Equally,Common Sense,No,10,,Staged,No
+Male,61,55-64,Independent,Moderate,High school or less,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,Yes,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,88,65+,Republican,Not Very Strong conservative,College degree,,White,,Strongly Approve,Yes,Once a week,No,DK/REF,,Yes,Not at all likely,No,DK/REF,DK/REF,Yes,Both Equally,Common Sense,No,,DK/REF,DK/REF,No
+Male,73,65+,Independent,Moderate,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,DK/REF,Both Equally,Science,Yes,5,,Staged,No
+Female,70,65+,Democrat,Moderate,Some college,,Black,,Strongly Disapprove,No,,,Yes,Yes,Yes,Somewhat Likely,Yes,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,64,55-64,Democrat,Moderate,College degree,,White,,Somewhat Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,Yes,Both Equally,Science,Yes,5,,Staged,No
+Female,62,55-64,Republican,Moderate,College degree,,White,,Strongly Disapprove,Yes,Once a month,No,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,DK/REF,0,,Staged,No
+Male,65,65+,Independent,Strong Conservative,High school or less,,White,,Strongly Approve,No,,,No,,No,Not at all likely,No,Yes,No,Yes,Liberal News Sources,Science,No,20,,Staged,No
+Female,78,65+,Democrat,Moderate,High school or less,,White,,Strongly Disapprove,No,,,Yes,Yes,No,Somewhat Likely,No,No,Yes,Yes,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Male,60,55-64,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Common Sense,DK/REF,0,,Staged,No
+Male,68,65+,Independent,Strong Conservative,Some college,,White,,Strongly Approve,No,,,Yes,No,Yes,Not at all likely,No,Yes,No,Yes,Liberal News Sources,Common Sense,No,5,,Staged,No
+Male,53,45-54,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,No,,,Yes,Yes,Yes,Very Likely,Yes,Yes,No,No,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Female,51,45-54,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,DK/REF,DK/ REF,DK/REF,No,No,Yes,Both Equally,DK/REF,No,2,,Staged,No
+Female,53,45-54,Democrat,Not very Strong Liberal,Some college,,White,,Strongly Disapprove,No,,,DK/REF,,No,Somewhat Likely,No,DK/REF,No,No,Both Equally,Science,No,10,,Staged,No
+Female,66,65+,Democrat,Moderate,Some college,,White,,Neither approve nor disapprove,No,,,Yes,No,No,Somewhat Likely,No,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,68,65+,Democrat,Moderate,Some college,,DK/REF,,Somewhat Disapprove,No,,,Yes,No,No,Not at all likely,Yes,Yes,No,Yes,DK/REF,Common Sense,No,,DK/REF,Staged,No
+Female,70,65+,Democrat,DK/REF,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,Yes,Yes,No,Yes,Both Equally,Common Sense,Yes,45,,Staged,No
+Female,71,65+,Democrat,Moderate,College degree,,White,,Neither approve nor disapprove,No,,,No,,Yes,Somewhat Likely,Yes,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,18,18-24,Independent,Strong Liberal,Some college,,White,,Strongly Disapprove,No,,,No,,No,Not at all likely,Yes,No,No,Yes,Both Equally,Science,No,30,,Real,No
+Female,63,55-64,Democrat,Moderate,College degree,,Black,,Strongly Disapprove,Yes,Once a week,Yes,Yes,Yes,Yes,Very Likely,No,Yes,No,Yes,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Female,83,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,Yes,No,Yes,Not at all likely,Yes,DK/REF,No,DK/REF,Conservative News Sources,DK/REF,No,,DK/REF,DK/REF,No
+Male,55,55-64,Republican,Not Very Strong conservative,High school or less,,White,,Strongly Approve,No,,,Yes,No,Yes,Somewhat Likely,No,No,No,Yes,Liberal News Sources,Common Sense,No,15,,Staged,No
+Female,66,65+,Independent,Not Very Strong conservative,College degree,,White,,Somewhat Approve,No,,,Yes,No,Yes,Somewhat Likely,No,No,No,Yes,Both Equally,Science,Yes,,DK/REF,Staged,No
+Female,64,55-64,Democrat,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,No,,No,Somewhat Likely,No,DK/REF,No,Yes,Both Equally,Common Sense,No,,DK/REF,Real,No
+Female,85,65+,Independent,Moderate,High school or less,,White,,Somewhat Approve,No,,,Yes,Yes,No,Somewhat Likely,No,No,No,Yes,DK/REF,Common Sense,No,,DK/REF,DK/REF,Yes
+Female,48,45-54,Republican,Moderate,College degree,,White,,Somewhat Approve,No,,,No,,No,Somewhat Likely,Yes,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,53,45-54,Independent,Moderate,High school or less,,White,,Neither approve nor disapprove,Yes,Once a week,No,Yes,No,Yes,Not at all likely,Yes,Yes,No,Yes,DK/REF,Science,Yes,60,,Staged,No
+Female,48,45-54,Independent,Moderate,High school or less,,White,,Somewhat Approve,No,,,DK/REF,,No,Very Likely,Yes,No,No,No,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Male,20,18-24,Independent,Not Very Strong conservative,College degree,,White,,Neither approve nor disapprove,No,,,No,,Yes,Not at all likely,Yes,DK/REF,No,Yes,Liberal News Sources,Common Sense,No,0,,Staged,No
+Female,84,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,No,Yes,No,Yes,Liberal News Sources,Common Sense,No,0,,DK/REF,No
+Female,60,55-64,Independent,Moderate,Some college,,White,,Strongly Approve,No,,,No,,No,Somewhat Likely,Yes,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,65,65+,Republican,Strong Conservative,College degree,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,No,0,,Staged,No
+Female,58,55-64,Independent,Not very Strong Liberal,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,DK/REF,Yes,No,No,Conservative News Sources,Science,Yes,,DK/REF,Staged,No
+Female,87,65+,Independent,Moderate,Some college,,White,,Somewhat Approve,No,,,Yes,No,No,Not at all likely,DK/REF,Yes,No,Yes,DK/REF,Common Sense,No,0,,Staged,No
+Female,68,65+,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,No,No,No,Conservative News Sources,Science,DK/REF,,DK/REF,Staged,No
+Male,70,65+,Republican,DK/REF,Graduate degree,,DK/REF,,Strongly Approve,Yes,DK/REF,No,Yes,No,Yes,Not at all likely,Yes,DK/REF,No,Yes,Liberal News Sources,DK/REF,No,1,,Staged,No
+Male,54,45-54,Republican,Strong Conservative,College degree,,White,,Strongly Approve,Yes,DK/REF,No,No,,Yes,Not at all likely,No,No,No,Yes,Liberal News Sources,Science,No,1,,Staged,No
+Male,80,65+,Independent,Moderate,High school or less,,White,,Neither approve nor disapprove,No,,,DK/REF,,No,Not at all likely,No,DK/REF,DK/REF,No,Both Equally,Common Sense,DK/REF,,DK/REF,DK/REF,No
+Female,64,55-64,DK/REF,DK/REF,High school or less,,White,,Strongly Approve,DK/ REF,,,DK/REF,,No,DK/ REF,DK/REF,No,Yes,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Female,21,18-24,Democrat,Moderate,High school or less,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,No,Both Equally,Common Sense,No,,DK/REF,DK/REF,No
+Female,66,65+,Independent,Moderate,Some college,,White,,Somewhat Approve,No,,,No,,Yes,Not at all likely,No,Yes,No,Yes,Both Equally,Common Sense,No,8,,Staged,No
+Female,67,65+,Republican,Moderate,College degree,,DK/REF,,Strongly Disapprove,No,,,Yes,Yes,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,No,0,,Staged,No
+Male,70,65+,Republican,Moderate,High school or less,,White,,Strongly Approve,No,,,No,,No,Not at all likely,Yes,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,DK/REF,No
+Male,81,65+,Republican,Not Very Strong conservative,Graduate degree,,White,,Somewhat Approve,No,,,No,,Yes,Not at all likely,No,Yes,No,No,Both Equally,Common Sense,Yes,1,,Staged,No
+Male,78,65+,Independent,Moderate,High school or less,,White,,Somewhat Approve,No,,,No,,No,Somewhat Likely,Yes,Yes,Yes,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,40,35-44,Independent,Not Very Strong conservative,College degree,,Other,Pacific Islander,Strongly Disapprove,No,,,DK/REF,,No,Somewhat Likely,Yes,Yes,DK/REF,No,Both Equally,Science,DK/REF,5,,Staged,No
+Male,42,35-44,Independent,Not Very Strong conservative,Some college,,White,,Strongly Approve,No,,,No,,No,Not at all likely,No,Yes,No,Yes,Both Equally,Common Sense,No,3,,Staged,No
+Female,75,65+,Independent,Moderate,High school or less,,White,,Strongly Disapprove,No,,,Yes,Yes,No,Very Likely,Yes,DK/REF,No,No,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Female,72,65+,Republican,Strong Conservative,High school or less,,DK/REF,,Strongly Approve,DK/ REF,,,No,,Yes,Very Likely,Yes,No,No,Yes,Both Equally,Common Sense,Yes,10,,Real,No
+Male,82,65+,Independent,DK/REF,College degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,Yes,Yes,No,No,DK/REF,Common Sense,No,,DK/REF,Staged,No
+Female,67,65+,Independent,Strong Conservative,College degree,,White,,Neither approve nor disapprove,No,,,No,,Yes,Somewhat Likely,No,No,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Female,73,65+,Republican,Strong Conservative,Graduate degree,,White,,Strongly Approve,No,,,No,,DK/REF,Not at all likely,DK/REF,Yes,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Male,59,55-64,Democrat,DK/REF,College degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,DK/REF,Yes,No,No,Conservative News Sources,Common Sense,Yes,0,,Staged,No
+Female,57,55-64,Republican,Moderate,College degree,,White,,Strongly Disapprove,No,,,Yes,Yes,Yes,Somewhat Likely,No,No,No,No,Both Equally,DK/REF,No,,DK/REF,Real,No
+Female,75,65+,Independent,Strong Conservative,High school or less,,White,,Somewhat Disapprove,DK/ REF,,,No,,Yes,Somewhat Likely,Yes,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,68,65+,Democrat,Moderate,High school or less,,White,,Strongly Disapprove,No,,,Yes,Yes,No,Somewhat Likely,No,No,No,No,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Female,88,65+,Democrat,Moderate,College degree,,White,,Somewhat Disapprove,No,,,Yes,No,No,Very Likely,No,No,No,No,DK/REF,Common Sense,Yes,,DK/REF,DK/REF,No
+Male,76,65+,Republican,DK/REF,High school or less,,White,,Strongly Approve,No,,,No,,DK/REF,Not at all likely,DK/REF,DK/REF,No,DK/REF,DK/REF,Common Sense,No,,DK/REF,Staged,Yes
+Female,40,35-44,Independent,Moderate,College degree,,White,,Somewhat Approve,No,,,No,,Yes,Not at all likely,Yes,No,DK/REF,Yes,Liberal News Sources,Science,DK/REF,0,,Staged,No
+Male,26,25-34,Independent,Not Very Strong conservative,College degree,,Asian,,Neither approve nor disapprove,No,,,No,,No,Not at all likely,Yes,Yes,No,No,Both Equally,Common Sense,No,0,,Staged,No
+Male,59,55-64,DK/REF,Strong Conservative,High school or less,,White,,Strongly Disapprove,No,,,No,,DK/REF,Not at all likely,Yes,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,36,35-44,Independent,Moderate,College degree,,Asian,,Somewhat Disapprove,No,,,No,,No,Somewhat Likely,Yes,Yes,Yes,Yes,DK/REF,Common Sense,No,,DK/REF,Real,DK/REF
+Female,34,25-34,Republican,Not Very Strong conservative,College degree,,White,,Neither approve nor disapprove,No,,,No,,No,Somewhat Likely,Yes,No,No,Yes,Both Equally,Science,No,20,,Staged,No
+Male,59,55-64,Democrat,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,DK/REF,,No,Not at all likely,Yes,Yes,No,No,DK/REF,Science,DK/REF,1,,Staged,No
+Male,19,18-24,Independent,DK/REF,High school or less,,White,,Somewhat Disapprove,Yes,Once a day,No,No,,DK/REF,Not at all likely,No,Yes,No,Yes,Both Equally,Science,No,,DK/REF,Staged,No
+Female,41,35-44,Republican,Strong Conservative,Graduate degree,,White,,Somewhat Approve,Yes,Once a month,No,DK/REF,,DK/REF,Somewhat Likely,DK/REF,DK/REF,No,Yes,Liberal News Sources,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,67,65+,Republican,Moderate,Some college,,White,,Somewhat Approve,No,,,No,,Yes,Not at all likely,No,Yes,No,Yes,DK/REF,Common Sense,DK/REF,,DK/REF,Staged,No
+Male,55,55-64,Democrat,Moderate,College degree,,Latino,,Strongly Disapprove,No,,,Yes,Yes,No,Not at all likely,Yes,Yes,No,No,Both Equally,Common Sense,Yes,50,,Staged,No
+Female,37,35-44,Democrat,Strong Liberal,Graduate degree,,White,,Somewhat Disapprove,Yes,Once a month,No,DK/REF,,No,Not at all likely,No,Yes,No,No,Both Equally,Science,DK/REF,2,,Staged,No
+Male,57,55-64,Republican,Strong Conservative,College degree,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,No,No,No,Yes,Conservative News Sources,Common Sense,No,0,,Staged,No
+Female,76,65+,Independent,Moderate,College degree,,White,,Somewhat Approve,No,,,DK/REF,,Yes,Not at all likely,No,No,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Female,33,25-34,Independent,Strong Liberal,Graduate degree,,Asian,,Somewhat Disapprove,No,,,DK/REF,,No,Not at all likely,DK/REF,DK/REF,No,No,Both Equally,Science,DK/REF,,DK/REF,Staged,No
+Male,84,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,DK/REF,,Yes,Not at all likely,No,DK/REF,No,Yes,Liberal News Sources,Common Sense,No,90,,Staged,No
+Male,66,65+,Democrat,Not very Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,DK/REF,0,,Staged,No
+Female,81,65+,Democrat,Not very Strong Liberal,High school or less,,White,,Strongly Disapprove,No,,,Yes,Yes,No,Very Likely,No,No,No,No,Conservative News Sources,Science,Yes,,DK/REF,Staged,No
+Female,70,65+,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,No,Both Equally,Science,Yes,,DK/REF,Staged,No
+Female,66,65+,Republican,DK/REF,High school or less,,White,,Strongly Approve,No,,,No,,DK/REF,DK/ REF,No,No,No,Yes,DK/REF,Common Sense,No,,DK/REF,Staged,No
+Male,48,45-54,Independent,Moderate,College degree,,White,,Strongly Disapprove,Yes,Or several times a day?,Yes,Yes,Yes,No,Very Likely,Yes,Yes,No,No,Conservative News Sources,Common Sense,Yes,0,,Staged,No
+Female,60,55-64,Independent,Moderate,High school or less,,White,,Somewhat Approve,No,,,Yes,No,Yes,Not at all likely,No,No,No,DK/REF,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,76,65+,Democrat,Moderate,Some college,,White,,Strongly Disapprove,No,,,Yes,Yes,No,Very Likely,Yes,DK/REF,No,No,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Female,39,35-44,Independent,Moderate,High school or less,,White,,Somewhat Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,No,Liberal News Sources,Common Sense,No,,DK/REF,Real,No
+Female,83,65+,Republican,Moderate,Some college,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,No,No,Yes,Conservative News Sources,Common Sense,No,,DK/REF,DK/REF,No
+Female,73,65+,Democrat,DK/REF,High school or less,,Black,,Strongly Disapprove,No,,,DK/REF,,DK/REF,Somewhat Likely,No,DK/REF,No,DK/REF,DK/REF,Science,DK/REF,,DK/REF,DK/REF,DK/REF
+Female,67,65+,Independent,Moderate,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,50,45-54,Democrat,Strong Liberal,College degree,,DK/REF,,Strongly Disapprove,No,,,Yes,No,Yes,Very Likely,No,No,No,No,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Female,45,45-54,Democrat,Moderate,Graduate degree,,Black,,Strongly Disapprove,No,,,Yes,No,Yes,Somewhat Likely,Yes,DK/REF,No,No,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Female,65,65+,Independent,Moderate,Some college,,White,,Neither approve nor disapprove,No,,,DK/REF,,No,Somewhat Likely,DK/REF,DK/REF,No,DK/REF,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,No
+Male,40,35-44,DK/REF,DK/REF,Graduate degree,,DK/REF,,Strongly Approve,Yes,Once a day,No,No,,Yes,Not at all likely,No,Yes,No,Yes,Both Equally,Common Sense,No,1,,Staged,No
+Female,72,65+,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,DK/REF,No,No,No,Liberal News Sources,Common Sense,Yes,50,,Staged,No
+Male,74,65+,Republican,Strong Conservative,College degree,,White,,Strongly Approve,DK/ REF,,,No,,Yes,Not at all likely,Yes,No,No,Yes,Liberal News Sources,Science,No,,DK/REF,Staged,No
+Male,72,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,Yes,Yes,Yes,DK/REF,Common Sense,No,,DK/REF,Staged,No
+Female,76,65+,Independent,Strong Conservative,College degree,,White,,Strongly Approve,No,,,DK/REF,,Yes,Not at all likely,No,DK/REF,No,No,Liberal News Sources,DK/REF,No,7,,DK/REF,No
+Male,90,65+,Republican,Strong Conservative,College degree,,White,,Strongly Approve,No,,,No,,No,Not at all likely,Yes,Yes,No,No,Conservative News Sources,Common Sense,No,,DK/REF,Real,No
+Female,79,65+,Democrat,DK/REF,Some college,,White,,DK/REF,DK/ REF,,,DK/REF,,No,Not at all likely,No,No,DK/REF,No,Conservative News Sources,Common Sense,DK/REF,,DK/REF,DK/REF,No
+Female,69,65+,Republican,Strong Conservative,Graduate degree,,White,,Somewhat Approve,No,,,Yes,No,Yes,Somewhat Likely,No,Yes,No,Yes,Liberal News Sources,Common Sense,No,1,,Staged,No
+Male,73,65+,Republican,Not very Strong Liberal,High school or less,,Black,,Somewhat Approve,No,,,No,,Yes,Somewhat Likely,No,No,No,Yes,DK/REF,Common Sense,No,,DK/REF,Staged,No
+Male,74,65+,Independent,Moderate,College degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,Yes,80,,Staged,No
+Female,69,65+,Democrat,Moderate,Graduate degree,,Black,,Neither approve nor disapprove,No,,,Yes,No,No,Somewhat Likely,Yes,No,No,No,Both Equally,Common Sense,Yes,,DK/REF,Staged,Yes
+Other,80,65+,Republican,Strong Liberal,Graduate degree,,DK/REF,,Strongly Approve,No,,,No,,No,Not at all likely,Yes,Yes,No,Yes,Liberal News Sources,Common Sense,No,30,,Staged,DK/REF
+Male,35,35-44,Democrat,Not very Strong Liberal,College degree,,White,,Strongly Disapprove,No,,,Yes,No,Yes,Somewhat Likely,Yes,Yes,No,Yes,Both Equally,Common Sense,Yes,45,,Staged,No
+Male,70,65+,Republican,Strong Conservative,College degree,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,Yes,No,Yes,Liberal News Sources,DK/REF,No,2,,Staged,No
+Male,79,65+,Independent,Strong Conservative,Graduate degree,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,No,No,Yes,Conservative News Sources,Common Sense,No,0,,DK/REF,No
+Male,90,65+,Republican,Moderate,Some college,,White,,Somewhat Approve,No,,,Yes,No,Yes,Somewhat Likely,No,Yes,No,Yes,Both Equally,Common Sense,No,25,,Staged,No
+Male,68,65+,Independent,Moderate,College degree,,White,,Neither approve nor disapprove,No,,,No,,No,Not at all likely,No,Yes,No,No,Both Equally,Common Sense,No,2,,Staged,No
+Male,81,65+,Independent,Moderate,Some college,,White,,DK/REF,No,,,DK/REF,,No,DK/ REF,Yes,No,DK/REF,DK/REF,DK/REF,Common Sense,No,,DK/REF,DK/REF,DK/REF
+Male,61,55-64,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,No,No,Yes,DK/REF,Common Sense,No,,DK/REF,Staged,No
+Female,28,25-34,Democrat,Moderate,College degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,No,Both Equally,Science,Yes,25,,Staged,No
+Female,66,65+,Independent,Moderate,Some college,,White,,Neither approve nor disapprove,No,,,DK/REF,,Yes,Somewhat Likely,No,No,No,No,Both Equally,Common Sense,DK/REF,20,,Staged,No
+Male,33,25-34,Independent,Moderate,College degree,,Black,,Neither approve nor disapprove,No,,,No,,No,Not at all likely,No,DK/REF,No,Yes,Both Equally,Common Sense,DK/REF,0,,Staged,No
+Female,52,45-54,Republican,Strong Conservative,Graduate degree,,White,,Somewhat Approve,No,,,Yes,DK/REF,Yes,Somewhat Likely,DK/REF,No,No,Yes,Liberal News Sources,DK/REF,No,0,,Staged,No
+Male,66,65+,Independent,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,Yes,No,Yes,Both Equally,Science,DK/REF,5,,Staged,No
+Female,40,35-44,Democrat,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Very Likely,DK/REF,Yes,No,No,Both Equally,Science,DK/REF,,DK/REF,Staged,No
+Female,56,55-64,Republican,Strong Conservative,High school or less,,White,,Strongly Approve,No,,,No,,Yes,Very Likely,No,Yes,No,Yes,Liberal News Sources,Science,No,2,,Staged,No
+Male,43,35-44,Independent,DK/REF,High school or less,,White,,Strongly Disapprove,No,,,DK/REF,,No,Somewhat Likely,No,Yes,DK/REF,Yes,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,52,45-54,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,DK/ REF,No,Yes,No,No,Conservative News Sources,Science,DK/REF,0,,Staged,No
+Male,30,25-34,Independent,DK/REF,College degree,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,No,No,Yes,Yes,DK/REF,Science,DK/REF,0,,Staged,No
+Female,88,65+,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,Yes,No,Somewhat Likely,Yes,No,Yes,No,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Male,63,55-64,Independent,Moderate,College degree,,White,,Strongly Approve,No,,,DK/REF,,Yes,Somewhat Likely,Yes,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Other,62,55-64,Independent,Moderate,Some college,,White,,Strongly Approve,No,,,Yes,No,No,Not at all likely,Yes,Yes,Yes,Yes,Both Equally,Science,Yes,15,,Real,No
+Male,27,25-34,Republican,Strong Conservative,Some college,,White,,Somewhat Approve,No,,,No,,No,Not at all likely,Yes,DK/REF,No,Yes,DK/REF,Common Sense,No,0,,Staged,No
+Female,55,55-64,DK/REF,DK/REF,High school or less,,White,,Strongly Disapprove,No,,,No,,Yes,Very Likely,Yes,Yes,No,Yes,Both Equally,Common Sense,Yes,45,,Staged,No
+Male,61,55-64,Democrat,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,Yes,Once a day,No,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,No,5,,Staged,No
+Female,50,45-54,Independent,Moderate,Some college,,White,,Strongly Disapprove,No,,,Yes,No,Yes,Somewhat Likely,DK/REF,DK/REF,No,No,DK/REF,Science,DK/REF,,DK/REF,Staged,No
+Female,71,65+,Republican,Moderate,Some college,,White,,Strongly Approve,No,,,No,,Yes,Somewhat Likely,No,Yes,No,Yes,Liberal News Sources,Common Sense,No,10,,Staged,No
+Male,75,65+,Republican,Strong Conservative,College degree,,White,,Somewhat Disapprove,Yes,DK/REF,No,Yes,No,Yes,Somewhat Likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Male,33,25-34,DK/REF,DK/REF,Graduate degree,,White,,Neither approve nor disapprove,Yes,Once a month,No,No,,No,Not at all likely,Yes,No,No,No,Both Equally,Science,No,0,,Staged,No
+Male,79,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,DK/REF,,No,Not at all likely,No,No,No,Yes,Liberal News Sources,Common Sense,No,0,,Staged,No
+Male,52,45-54,Democrat,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,Yes,No,No,No,Conservative News Sources,DK/REF,Yes,0,,Staged,No
+Male,60,55-64,Republican,Strong Conservative,College degree,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,Yes,No,Yes,Liberal News Sources,Science,No,20,,Staged,No
+Female,37,35-44,DK/REF,Not Very Strong conservative,Graduate degree,,White,,Neither approve nor disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,Yes,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,57,55-64,Republican,Moderate,College degree,,White,,Strongly Approve,Yes,Once a week,No,No,,Yes,Not at all likely,DK/REF,No,No,Yes,Liberal News Sources,Science,No,,DK/REF,Staged,No
+Male,83,65+,Republican,Strong Liberal,High school or less,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,No,Yes,No,Yes,Both Equally,Common Sense,No,10,,Staged,No
+Male,48,45-54,DK/REF,DK/REF,College degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,No
+Male,56,55-64,Independent,Moderate,High school or less,,Black,,Somewhat Disapprove,No,,,No,,No,Somewhat Likely,Yes,Yes,No,No,Liberal News Sources,Common Sense,No,70,,Staged,No
+Male,57,55-64,Democrat,Moderate,College degree,,White,,Strongly Disapprove,No,,,Yes,No,Yes,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,No,1,,Staged,No
+Male,22,18-24,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,No,Not at all likely,No,No,No,No,Both Equally,Science,No,25,,Staged,No
+Male,22,18-24,DK/REF,DK/REF,Some college,,White,,Neither approve nor disapprove,No,,,DK/REF,,DK/REF,Not at all likely,DK/REF,DK/REF,DK/REF,No,DK/REF,Science,No,,DK/REF,Staged,No
+Female,55,55-64,Republican,Moderate,Graduate degree,,Asian,,Somewhat Approve,No,,,No,,No,Somewhat Likely,No,Yes,No,Yes,Both Equally,Common Sense,Yes,60,,Staged,No
+Male,56,55-64,Independent,Strong Conservative,Graduate degree,,White,,Strongly Approve,No,,,No,,No,Not at all likely,No,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,67,65+,Republican,Not very Strong Liberal,High school or less,,White,,Somewhat Approve,No,,,Yes,No,Yes,Not at all likely,Yes,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,20,18-24,Democrat,Strong Liberal,College degree,,White,,Strongly Disapprove,Yes,Once a day,No,Yes,No,No,Somewhat Likely,No,Yes,No,No,Both Equally,Science,Yes,0,,Real,No
+Female,61,55-64,DK/REF,DK/REF,High school or less,,White,,Somewhat Disapprove,No,,,DK/REF,,DK/REF,DK/ REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,Common Sense,DK/REF,,DK/REF,DK/REF,DK/REF
+Male,71,65+,Republican,Strong Conservative,College degree,,White,,Strongly Approve,No,,,Yes,No,Yes,Somewhat Likely,Yes,No,DK/REF,Yes,Conservative News Sources,Common Sense,DK/REF,20,,Real,No
+Female,29,25-34,Democrat,Strong Liberal,College degree,,White,,Somewhat Disapprove,Yes,Once a week,No,Yes,Yes,No,Somewhat Likely,Yes,No,No,No,Both Equally,Common Sense,No,10,,Staged,No
+Female,54,45-54,Republican,Strong Conservative,College degree,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,No,DK/REF,No,Yes,Liberal News Sources,Common Sense,DK/REF,0,,Staged,No
+Female,44,35-44,Democrat,Strong Liberal,Graduate degree,,White,,Somewhat Disapprove,Yes,Once a month,No,Yes,No,No,Somewhat Likely,No,No,No,No,Both Equally,Science,No,,DK/REF,Staged,No
+Male,37,35-44,Independent,Strong Conservative,College degree,,Black,,Somewhat Approve,Yes,Once a month,No,Yes,No,No,Very Likely,Yes,Yes,No,Yes,Liberal News Sources,Common Sense,Yes,15,,Staged,No
+Male,35,35-44,Republican,Not Very Strong conservative,Graduate degree,,White,,Strongly Approve,Yes,Once a month,No,Yes,No,No,Not at all likely,No,Yes,No,Yes,Both Equally,Science,No,0,,Staged,No
+Female,69,65+,Independent,Moderate,College degree,,White,,Strongly Disapprove,No,,,Yes,No,Yes,Somewhat Likely,Yes,No,No,No,Conservative News Sources,Science,No,,DK/REF,Staged,No
+Female,70,65+,Democrat,Moderate,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,No,Both Equally,DK/REF,Yes,,DK/REF,Staged,No
+Female,40,35-44,Democrat,Moderate,Some college,,Black,,Strongly Disapprove,No,,,Yes,No,No,DK/ REF,DK/REF,DK/REF,No,DK/REF,DK/REF,Common Sense,DK/REF,,DK/REF,DK/REF,No
+Male,53,45-54,Independent,Moderate,High school or less,,Latino,,Strongly Approve,No,,,Yes,No,No,Not at all likely,No,Yes,Yes,Yes,Both Equally,Common Sense,Yes,,DK/REF,Staged,Yes
+Male,40,35-44,Democrat,Strong Liberal,College degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,No,Conservative News Sources,Science,No,0,,Staged,No
+Male,50,45-54,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,No,Both Equally,Common Sense,Yes,0,,Staged,No
+Female,71,65+,Republican,Moderate,Some college,,White,,Neither approve nor disapprove,No,,,Yes,No,Yes,Somewhat Likely,Yes,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,Yes
+Female,68,65+,DK/REF,DK/REF,High school or less,,DK/REF,,Strongly Disapprove,No,,,DK/REF,,No,DK/ REF,No,DK/REF,DK/REF,DK/REF,DK/REF,Common Sense,Yes,,DK/REF,DK/REF,DK/REF
+Female,63,55-64,Republican,Strong Conservative,High school or less,,White,,Strongly Approve,No,,,No,,Yes,Very Likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,No,40,,Staged,No
+Male,76,65+,Independent,Not Very Strong conservative,College degree,,White,,Strongly Approve,Yes,Once a week,No,No,,Yes,Somewhat Likely,No,Yes,No,Yes,Both Equally,Common Sense,No,10,,Staged,No
+Female,51,45-54,Republican,Strong Conservative,Some college,,White,,Strongly Approve,Yes,Once a month,No,No,,Yes,Somewhat Likely,Yes,Yes,No,Yes,Both Equally,Science,No,10,,Staged,No
+Female,61,55-64,Republican,Moderate,Some college,,White,,Strongly Approve,No,,,No,,Yes,Somewhat Likely,Yes,Yes,No,Yes,DK/REF,Common Sense,No,,DK/REF,Staged,No
+Female,69,65+,Republican,DK/REF,Some college,,White,,Strongly Approve,No,,,DK/REF,,No,Not at all likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,No,10,,Staged,Yes
+Male,69,65+,Republican,Strong Conservative,Some college,,White,,Somewhat Approve,No,,,No,,Yes,DK/ REF,DK/REF,No,No,No,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,DK/REF
+Female,47,45-54,Independent,Strong Conservative,College degree,,DK/REF,,Strongly Approve,No,,,No,,DK/REF,Not at all likely,DK/REF,Yes,No,Yes,Liberal News Sources,Common Sense,No,0,,Staged,No
+Male,74,65+,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Both Equally,DK/REF,No,0,,Staged,No
+Female,74,65+,Independent,Not Very Strong conservative,High school or less,,Latino,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,Yes,Yes,No,Yes,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Male,24,18-24,Republican,Strong Liberal,College degree,,Other,Latino and Asian,Neither approve nor disapprove,Yes,Or several times a day?,No,No,,Yes,Not at all likely,Yes,No,No,Yes,Both Equally,Science,No,69,,Staged,Yes
+Female,70,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,No,Somewhat Likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Female,77,65+,Democrat,Moderate,College degree,,Black,,Strongly Disapprove,No,,,DK/REF,,No,Somewhat Likely,No,Yes,Yes,Yes,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Male,75,65+,Republican,DK/REF,Some college,,White,,Strongly Disapprove,No,,,No,,Yes,Not at all likely,No,No,No,No,Both Equally,Common Sense,No,,DK/REF,DK/REF,No
+Female,70,65+,Republican,Strong Conservative,High school or less,,White,,Strongly Approve,No,,,DK/REF,,No,Somewhat Likely,Yes,No,DK/REF,Yes,DK/REF,Common Sense,No,,DK/REF,DK/REF,No
+Male,54,45-54,Democrat,Moderate,College degree,,Black,,Strongly Disapprove,No,,,Yes,No,No,Very Likely,No,Yes,No,No,Conservative News Sources,Science,Yes,5,,Staged,No
+Male,91,65+,Republican,Not Very Strong conservative,College degree,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,No,No,No,Yes,Liberal News Sources,Common Sense,No,0,,DK/REF,No
+Male,72,65+,Democrat,Not Very Strong conservative,College degree,,White,,Neither approve nor disapprove,No,,,DK/REF,,DK/REF,Not at all likely,DK/REF,No,No,No,Both Equally,Common Sense,No,20,,Staged,No
+Male,40,35-44,Republican,Strong Conservative,College degree,,White,,Somewhat Approve,Yes,Once a month,No,DK/REF,,No,Not at all likely,Yes,Yes,No,Yes,Liberal News Sources,Science,No,1,,Staged,No
+Female,65,65+,Republican,Strong Conservative,Graduate degree,,White,,Strongly Approve,No,,,No,,Yes,Somewhat Likely,Yes,DK/REF,No,Yes,Liberal News Sources,DK/REF,No,,DK/REF,DK/REF,No
+Other,55,55-64,Independent,Moderate,College degree,,Other,Black-Native American-White,Strongly Disapprove,Yes,Once a month,No,Yes,No,No,Somewhat Likely,No,Yes,No,Yes,Conservative News Sources,Science,Yes,,DK/REF,Staged,Yes
+Female,50,45-54,Independent,Moderate,Some college,,White,,Somewhat Approve,No,,,No,,No,Somewhat Likely,Yes,No,No,No,Both Equally,Common Sense,No,70,,Staged,No
+Female,20,18-24,Independent,Moderate,College degree,,Black,,Strongly Approve,No,,,No,,No,Very Likely,No,No,Yes,Yes,Both Equally,DK/REF,Yes,,DK/REF,Staged,No
+Male,20,18-24,Independent,DK/REF,Some college,,Other,SLAVIC,Somewhat Approve,Yes,Once a month,No,No,,No,Not at all likely,No,Yes,No,Yes,Both Equally,Science,DK/REF,0,,Staged,No
+Male,80,65+,Republican,Moderate,High school or less,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,DK/REF
+Female,48,45-54,Democrat,DK/REF,Some college,,Black,,Strongly Disapprove,No,,,DK/REF,,DK/REF,Somewhat Likely,Yes,Yes,No,No,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,No
+Male,71,65+,Independent,Not very Strong Liberal,High school or less,,White,,Somewhat Approve,No,,,Yes,No,Yes,Somewhat Likely,No,Yes,No,No,Both Equally,DK/REF,Yes,,DK/REF,Staged,No
+Male,47,45-54,Republican,Moderate,Some college,,White,,Neither approve nor disapprove,No,,,No,,DK/REF,Somewhat Likely,Yes,No,No,Yes,Both Equally,Common Sense,No,0,,Staged,No
+Female,42,35-44,Republican,Strong Conservative,College degree,,White,,Strongly Approve,Yes,Once a week,No,No,,Yes,Not at all likely,Yes,No,No,Yes,Liberal News Sources,Science,No,2,,Staged,No
+Male,78,65+,Democrat,Moderate,High school or less,,White,,Strongly Disapprove,DK/ REF,,,Yes,No,No,Not at all likely,No,DK/REF,No,No,Conservative News Sources,Science,DK/REF,0,,Staged,No
+Male,25,25-34,Democrat,Not very Strong Liberal,Graduate degree,,Asian,,Strongly Disapprove,Yes,Once a month,No,Yes,No,No,Not at all likely,Yes,No,No,No,Conservative News Sources,DK/REF,Yes,,DK/REF,Staged,No
+Male,21,18-24,Independent,Moderate,Some college,,White,,Somewhat Disapprove,Yes,Or several times a day?,No,No,,No,Somewhat Likely,No,Yes,No,No,Both Equally,Science,No,20,,Staged,No
+Male,47,45-54,DK/REF,DK/REF,College degree,,DK/REF,,DK/REF,No,,,DK/REF,,No,Not at all likely,No,Yes,No,DK/REF,DK/REF,Science,DK/REF,,DK/REF,DK/REF,No
+Male,65,65+,Independent,Moderate,College degree,,Asian,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,Yes,Yes,No,No,Conservative News Sources,Science,DK/REF,,DK/REF,Staged,No
+Male,48,45-54,Republican,Moderate,Some college,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,No,No,Yes,Both Equally,Science,No,,DK/REF,Staged,No
+Female,61,55-64,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,DK/REF,,DK/REF,Not at all likely,No,Yes,No,No,Both Equally,DK/REF,No,,DK/REF,Staged,No
+Female,32,25-34,Independent,Moderate,Some college,,White,,Somewhat Disapprove,No,,,Yes,No,Yes,Not at all likely,No,Yes,No,No,Both Equally,Common Sense,Yes,3,,Staged,No
+Male,20,18-24,Democrat,Not very Strong Liberal,High school or less,,Black,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,No,Both Equally,Common Sense,No,90,,Staged,No
+Male,30,25-34,Independent,Not Very Strong conservative,College degree,,White,,Neither approve nor disapprove,No,,,No,,Yes,Somewhat Likely,No,Yes,No,No,Both Equally,Common Sense,No,50,,Staged,No
+Female,63,55-64,Republican,Not Very Strong conservative,Some college,,Asian,,Somewhat Disapprove,No,,,Yes,Yes,No,Not at all likely,No,Yes,No,Yes,Both Equally,Common Sense,No,60,,DK/REF,DK/REF
+Male,65,65+,Democrat,Moderate,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,No,No,No,Liberal News Sources,Science,Yes,,DK/REF,Staged,No
+Male,46,45-54,Republican,Strong Conservative,High school or less,,White,,Neither approve nor disapprove,No,,,Yes,No,Yes,Not at all likely,Yes,Yes,No,Yes,Both Equally,Common Sense,No,1,,Staged,Yes
+Male,79,65+,Republican,Strong Conservative,Graduate degree,,Latino,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,No,5,,DK/REF,No
+Female,31,25-34,Independent,Moderate,College degree,,Asian,,Somewhat Approve,No,,,No,,No,Somewhat Likely,Yes,No,Yes,No,Both Equally,Common Sense,No,,DK/REF,Real,No
+Female,19,18-24,Democrat,Strong Liberal,Some college,,White,,Strongly Disapprove,Yes,Or several times a day?,No,DK/REF,,DK/REF,DK/ REF,No,DK/REF,No,No,Conservative News Sources,DK/REF,DK/REF,,DK/REF,Staged,No
+Male,79,65+,Democrat,Moderate,College degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,DK/REF,No,No,DK/REF,Common Sense,DK/REF,,DK/REF,DK/REF,No
+Male,54,45-54,Independent,Not Very Strong conservative,College degree,,White,,Strongly Approve,No,,,No,,No,Somewhat Likely,Yes,Yes,No,Yes,Both Equally,Common Sense,No,20,,Staged,No
+Male,26,25-34,Independent,Moderate,High school or less,,Other,Native American,Strongly Approve,No,,,No,,DK/REF,Very Likely,No,No,Yes,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,Yes
+Female,29,25-34,Independent,Not Very Strong conservative,Some college,,White,,Neither approve nor disapprove,Yes,Or several times a day?,No,DK/REF,,No,DK/ REF,Yes,No,No,DK/REF,Both Equally,Common Sense,No,54,,DK/REF,No
+Male,60,55-64,Democrat,Not Very Strong conservative,Some college,,White,,Strongly Approve,No,,,No,,Yes,Somewhat Likely,Yes,No,No,Yes,Liberal News Sources,Science,No,0,,Staged,No
+Female,35,35-44,Republican,Strong Conservative,Graduate degree,,White,,Somewhat Approve,No,,,DK/REF,,Yes,Not at all likely,Yes,No,No,No,Both Equally,Science,No,2,,Staged,No
+Male,50,45-54,Democrat,Not very Strong Liberal,College degree,,White,,Somewhat Approve,No,,,DK/REF,,No,Not at all likely,No,No,No,No,Both Equally,Science,DK/REF,2,,Staged,No
+Male,56,55-64,Republican,Moderate,High school or less,,White,,Strongly Approve,No,,,DK/REF,,Yes,Not at all likely,No,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,34,25-34,Independent,Not Very Strong conservative,High school or less,,White,,Neither approve nor disapprove,No,,,No,,No,Somewhat Likely,Yes,No,No,No,Both Equally,Common Sense,Yes,50,,Staged,No
+Male,71,65+,Independent,Moderate,College degree,,White,,Strongly Disapprove,No,,,DK/REF,,No,DK/ REF,Yes,Yes,No,No,Both Equally,DK/REF,DK/REF,,DK/REF,Staged,No
+Male,68,65+,Independent,Moderate,Graduate degree,,White,,Strongly Approve,No,,,Yes,No,No,Not at all likely,Yes,No,No,No,Both Equally,Science,No,0,,Staged,No
+Male,65,65+,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,DK/REF,,DK/REF,Staged,No
+Male,32,25-34,DK/REF,DK/REF,Some college,,White,,DK/REF,No,,,DK/REF,,No,Not at all likely,No,DK/REF,No,DK/REF,Both Equally,DK/REF,DK/REF,20,,DK/REF,No
+Other,69,65+,Republican,Moderate,College degree,,White,,Strongly Approve,No,,,DK/REF,,DK/REF,Somewhat Likely,DK/REF,Yes,DK/REF,Yes,Liberal News Sources,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,28,25-34,Independent,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,DK/ REF,DK/REF,Yes,No,No,DK/REF,Science,DK/REF,,DK/REF,Staged,No
+Male,58,55-64,Democrat,Not Very Strong conservative,Graduate degree,,White,,Strongly Approve,No,,,No,,No,Not at all likely,Yes,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,50,45-54,Republican,Not Very Strong conservative,Graduate degree,,White,,Strongly Approve,No,,,DK/REF,,Yes,Not at all likely,DK/REF,Yes,No,Yes,Both Equally,Science,DK/REF,,DK/REF,Staged,No
+Female,75,65+,Democrat,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Both Equally,Science,Yes,1,,DK/REF,No
+Female,56,55-64,Democrat,Moderate,College degree,,White,,Strongly Disapprove,Yes,Once a week,No,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,No,,DK/REF,Staged,No
+Female,37,35-44,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,Yes,Yes,No,No,Conservative News Sources,Science,No,40,,Staged,No
+Male,40,35-44,Independent,Not very Strong Liberal,College degree,,White,,Strongly Disapprove,Yes,Once a month,No,Yes,No,No,Not at all likely,No,Yes,No,No,Both Equally,Science,No,20,,Staged,No
+Male,29,25-34,Democrat,Strong Liberal,College degree,,White,,Strongly Disapprove,Yes,Or several times a day?,Yes,Yes,No,No,Not at all likely,Yes,No,No,No,Conservative News Sources,Science,Yes,0,,Staged,No
+Female,25,25-34,Independent,Moderate,High school or less,,White,,Somewhat Approve,No,,,DK/REF,,Yes,Somewhat Likely,No,No,No,DK/REF,Both Equally,Common Sense,No,30,,Staged,No
+Male,50,45-54,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,DK/REF,,No,Not at all likely,No,DK/REF,No,No,Both Equally,Science,DK/REF,,DK/REF,Staged,No
+Male,73,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,No,Yes,No,Yes,Liberal News Sources,Science,No,1,,Staged,No
+Male,52,45-54,Independent,Moderate,High school or less,,White,,Neither approve nor disapprove,Yes,Once a month,No,Yes,No,No,Not at all likely,Yes,Yes,No,Yes,Both Equally,Science,No,1,,Staged,No
+Male,56,55-64,Independent,Moderate,Graduate degree,,White,,DK/REF,No,,,Yes,No,Yes,Not at all likely,No,Yes,No,Yes,Both Equally,Science,DK/REF,2,,Staged,No
+Male,25,25-34,DK/REF,DK/REF,Graduate degree,,Asian,,DK/REF,Yes,Once a day,Yes,DK/REF,,DK/REF,DK/ REF,Yes,DK/REF,No,DK/REF,Both Equally,Common Sense,DK/REF,,DK/REF,DK/REF,No
+Male,66,65+,Democrat,Strong Liberal,College degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,DK/REF,,DK/REF,DK/REF,No
+Female,38,35-44,Democrat,Moderate,College degree,,White,,Strongly Disapprove,Yes,Once a month,No,Yes,No,No,Somewhat Likely,No,No,No,No,Conservative News Sources,Science,Yes,,DK/REF,Staged,No
+Female,38,35-44,Republican,Strong Conservative,Graduate degree,,Latino,,Neither approve nor disapprove,No,,,Yes,No,Yes,Not at all likely,No,Yes,No,Yes,Both Equally,Science,DK/REF,,DK/REF,Staged,No
+Female,54,45-54,Independent,Moderate,Graduate degree,,White,,Neither approve nor disapprove,No,,,Yes,No,Yes,Somewhat Likely,No,Yes,No,No,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,35,35-44,Independent,Moderate,College degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,Yes,Both Equally,Science,Yes,3,,Staged,No
+Female,40,35-44,Independent,Moderate,College degree,,White,,Somewhat Approve,Yes,Once a day,No,No,,DK/REF,DK/ REF,Yes,DK/REF,DK/REF,Yes,Liberal News Sources,DK/REF,DK/REF,,DK/REF,Staged,DK/REF
+Male,65,65+,Independent,Moderate,College degree,,White,,Somewhat Approve,No,,,DK/REF,,No,Very Likely,Yes,DK/REF,No,Yes,DK/REF,Science,Yes,10,,Staged,No
+Female,42,35-44,Republican,Not Very Strong conservative,College degree,,White,,Somewhat Approve,No,,,No,,Yes,Not at all likely,Yes,Yes,No,No,Both Equally,Common Sense,No,3,,Staged,No
+Male,25,25-34,Independent,Strong Liberal,College degree,,White,,Strongly Disapprove,Yes,Or several times a day?,No,Yes,No,No,Not at all likely,No,Yes,No,No,Both Equally,Science,No,1,,Staged,No
+Female,65,65+,Independent,Moderate,College degree,,White,,DK/REF,Yes,Once a week,No,Yes,No,No,Somewhat Likely,DK/REF,Yes,No,No,Conservative News Sources,Science,DK/REF,0,,Staged,No
+Male,28,25-34,Independent,Strong Liberal,College degree,,DK/REF,,Strongly Approve,Yes,Once a month,No,DK/REF,,Yes,DK/ REF,Yes,Yes,No,Yes,Both Equally,Common Sense,Yes,2,,Real,No
+Male,40,35-44,DK/REF,Moderate,Graduate degree,,Asian,,DK/REF,No,,,No,,No,Not at all likely,Yes,DK/REF,No,Yes,Both Equally,Science,No,10,,Staged,No
+Male,72,65+,Democrat,Moderate,College degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,Yes,Yes,No,No,Both Equally,DK/REF,No,0,,Staged,No
+Male,48,45-54,Republican,Moderate,College degree,,White,,Somewhat Approve,No,,,No,,Yes,Not at all likely,Yes,Yes,No,Yes,Liberal News Sources,Science,Yes,20,,Staged,No
+Male,64,55-64,DK/REF,Strong Conservative,High school or less,,Black,,Neither approve nor disapprove,No,,,DK/REF,,No,Not at all likely,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,33,25-34,Democrat,Not very Strong Liberal,College degree,,Black,,DK/REF,No,,,Yes,No,No,DK/ REF,No,Yes,No,No,Both Equally,DK/REF,DK/REF,,DK/REF,Staged,No
+Male,61,55-64,Democrat,Strong Conservative,Some college,,Black,,Strongly Disapprove,No,,,Yes,No,Yes,Very Likely,Yes,Yes,No,No,Conservative News Sources,Science,Yes,45,,Staged,No
+Male,42,35-44,Democrat,Not Very Strong conservative,Some college,,Black,,Strongly Approve,No,,,No,,No,Not at all likely,Yes,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,25,25-34,Democrat,Strong Liberal,College degree,,Latino,,Neither approve nor disapprove,No,,,No,,No,Not at all likely,No,Yes,No,Yes,Both Equally,Science,No,,DK/REF,Staged,No
+Female,83,65+,Independent,Moderate,High school or less,,White,,Somewhat Approve,No,,,No,,DK/REF,Somewhat Likely,No,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,39,35-44,Democrat,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,Yes,Once a day,No,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,DK/REF,0,,Staged,No
+Female,53,45-54,Republican,Moderate,Graduate degree,,White,,Strongly Approve,Yes,DK/REF,No,No,,No,Not at all likely,No,Yes,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Male,51,45-54,Democrat,Moderate,Some college,,Black,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,Yes,DK/REF,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,50,45-54,Democrat,Moderate,Other,Diploma,Black,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,Yes,No,No,Yes,Both Equally,Science,Yes,,DK/REF,Staged,No
+Female,83,65+,Democrat,DK/REF,College degree,,Black,,Strongly Disapprove,No,,,Yes,DK/REF,DK/REF,Very Likely,Yes,Yes,DK/REF,No,Both Equally,Common Sense,DK/REF,,DK/REF,DK/REF,DK/REF
+Female,82,65+,Democrat,Moderate,High school or less,,White,,Strongly Disapprove,DK/ REF,,,Yes,No,No,Very Likely,No,No,Yes,No,Both Equally,Common Sense,Yes,30,,Staged,No
+Female,66,65+,Independent,Moderate,High school or less,,White,,Neither approve nor disapprove,No,,,Yes,No,No,Somewhat Likely,No,No,No,Yes,Both Equally,Science,DK/REF,0,,Staged,No
+Female,85,65+,DK/REF,Moderate,High school or less,,White,,DK/REF,No,,,No,,No,Not at all likely,No,Yes,No,No,DK/REF,Common Sense,No,,DK/REF,Staged,No
+Female,68,65+,Republican,Not Very Strong conservative,College degree,,White,,Strongly Approve,No,,,No,,Yes,Somewhat Likely,No,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,55,55-64,Democrat,Strong Conservative,Some college,,Latino,,Strongly Approve,No,,,No,,No,DK/ REF,Yes,Yes,No,Yes,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,No
+Male,73,65+,Independent,DK/REF,Some college,,White,,DK/REF,No,,,Yes,Yes,No,Not at all likely,No,Yes,No,Yes,Both Equally,Common Sense,No,,DK/REF,DK/REF,DK/REF
+Male,65,65+,Independent,Moderate,High school or less,,Black,,Strongly Disapprove,No,,,Yes,Yes,No,Not at all likely,No,No,No,Yes,Both Equally,Common Sense,Yes,5,,Staged,No
+Male,82,65+,Democrat,Not very Strong Liberal,Graduate degree,,Black,,Strongly Disapprove,No,,,Yes,No,DK/REF,Not at all likely,No,No,No,No,Both Equally,DK/REF,DK/REF,,DK/REF,DK/REF,No
+Female,65,65+,Democrat,Strong Liberal,Some college,,White,,Strongly Disapprove,Yes,Once a week,Yes,Yes,No,No,Not at all likely,Yes,No,No,No,Liberal News Sources,Common Sense,Yes,0,,Staged,No
+Female,74,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,No,Somewhat Likely,DK/REF,DK/REF,No,Yes,Liberal News Sources,Common Sense,No,20,,Staged,No
+Male,75,65+,Democrat,Strong Liberal,College degree,,White,,Strongly Disapprove,No,,,Yes,DK/REF,No,Not at all likely,No,Yes,DK/REF,No,Conservative News Sources,Science,DK/REF,1,,Staged,No
+Male,47,45-54,Independent,Moderate,College degree,,White,,Neither approve nor disapprove,Yes,DK/REF,No,No,,No,Not at all likely,No,DK/REF,No,No,DK/REF,Common Sense,DK/REF,1,,Staged,No
+Female,67,65+,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,No,,,Yes,Yes,No,DK/ REF,Yes,No,No,No,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Female,76,65+,Democrat,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,DK/REF,0,,Staged,No
+Male,35,35-44,Democrat,Moderate,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,No,No,No,Conservative News Sources,Science,No,15,,Staged,No
+Female,87,65+,Republican,Moderate,High school or less,,White,,Strongly Approve,No,,,No,,No,Not at all likely,No,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,70,65+,Democrat,Not Very Strong conservative,Some college,,White,,DK/REF,No,,,Yes,No,Yes,Not at all likely,Yes,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,73,65+,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,DK/REF,,DK/REF,Staged,No
+Female,74,65+,Democrat,Strong Liberal,Graduate degree,,White,,Somewhat Approve,Yes,Or several times a day?,No,DK/REF,,DK/REF,Not at all likely,DK/REF,No,DK/REF,No,DK/REF,Common Sense,No,,DK/REF,Staged,No
+Male,60,55-64,Republican,Strong Conservative,College degree,,White,,DK/REF,No,,,No,,No,Not at all likely,No,Yes,Yes,Yes,Both Equally,Common Sense,No,5,,Staged,DK/REF
+Female,57,55-64,Republican,Moderate,High school or less,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,47,45-54,Independent,Strong Liberal,College degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Both Equally,Science,DK/REF,1,,Staged,No
+Male,62,55-64,Republican,DK/REF,Graduate degree,,White,,Neither approve nor disapprove,No,,,No,,Yes,Somewhat Likely,Yes,No,No,Yes,Both Equally,DK/REF,No,,DK/REF,Staged,DK/REF
+Female,36,35-44,Democrat,Moderate,College degree,,Latino,,Strongly Disapprove,No,,,No,,No,Very Likely,Yes,Yes,No,No,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Female,71,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,DK/REF,Very Likely,Yes,No,DK/REF,Yes,Liberal News Sources,Common Sense,No,4,,Staged,No
+Female,50,45-54,Independent,DK/REF,College degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,Yes,Both Equally,Common Sense,Yes,25,,Staged,No
+Female,50,45-54,DK/REF,DK/REF,Graduate degree,,Latino,,Somewhat Disapprove,No,,,DK/REF,,DK/REF,DK/ REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,Yes,,DK/REF,Staged,DK/REF
+Male,49,45-54,Republican,Moderate,Some college,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,No,2,,Staged,No
+Male,29,25-34,Independent,Moderate,College degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,Yes,Yes,No,DK/REF,Both Equally,Science,Yes,0,,Staged,No
+Female,35,35-44,Democrat,Strong Liberal,Graduate degree,,Latino,,Strongly Disapprove,No,,,Yes,DK/REF,No,Somewhat Likely,No,No,No,No,Conservative News Sources,Science,Yes,0,,Staged,No
+Other,22,18-24,Independent,Moderate,High school or less,,White,,Strongly Approve,No,,,No,,Yes,Somewhat Likely,Yes,Yes,No,No,Both Equally,Common Sense,Yes,7,,Staged,Yes
+Male,51,45-54,Independent,Moderate,Some college,,White,,Neither approve nor disapprove,No,,,Yes,Yes,Yes,Somewhat Likely,No,Yes,Yes,Yes,Both Equally,Science,No,15,,Staged,Yes
+Male,26,25-34,Republican,Moderate,College degree,,Latino,,Somewhat Disapprove,No,,,No,,No,Not at all likely,Yes,Yes,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Female,47,45-54,Democrat,Not very Strong Liberal,Some college,,Black,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,No,Both Equally,Science,DK/REF,,DK/REF,Staged,No
+Female,59,55-64,Independent,Moderate,College degree,,Latino,,Somewhat Approve,No,,,DK/REF,,DK/REF,Very Likely,DK/REF,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,DK/REF
+Male,60,55-64,DK/REF,DK/REF,High school or less,,Black,,DK/REF,No,,,DK/REF,,DK/REF,Not at all likely,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,Common Sense,DK/REF,,DK/REF,Staged,No
+Male,42,35-44,DK/REF,Moderate,Some college,,Latino,,Neither approve nor disapprove,No,,,No,,No,Not at all likely,No,No,No,No,Both Equally,Common Sense,No,20,,Staged,No
+Female,65,65+,Democrat,Moderate,College degree,,White,,Strongly Disapprove,Yes,Or several times a day?,No,Yes,No,No,Not at all likely,No,No,No,No,Both Equally,Science,DK/REF,,DK/REF,Staged,No
+Female,49,45-54,Democrat,Moderate,Some college,,DK/REF,,Strongly Disapprove,Yes,Once a day,No,Yes,No,Yes,Somewhat Likely,DK/REF,Yes,No,No,DK/REF,Common Sense,Yes,,DK/REF,Staged,No
+Male,48,45-54,Democrat,Moderate,Graduate degree,,Black,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,Yes,Conservative News Sources,Common Sense,No,0,,Staged,No
+Female,23,18-24,Independent,Moderate,Some college,,Latino,,Somewhat Approve,No,,,No,,No,Somewhat Likely,No,No,No,Yes,DK/REF,Common Sense,Yes,,DK/REF,Staged,No
+Female,32,25-34,Democrat,Not Very Strong conservative,High school or less,,White,,Strongly Disapprove,No,,,No,,No,Very Likely,Yes,Yes,No,No,Both Equally,Science,No,,DK/REF,Staged,No
+Female,48,45-54,Republican,Strong Liberal,High school or less,,Black,,Neither approve nor disapprove,No,,,Yes,No,No,Not at all likely,Yes,Yes,Yes,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,Yes
+Male,71,65+,DK/REF,DK/REF,High school or less,,Black,,Strongly Disapprove,No,,,Yes,Yes,DK/REF,DK/ REF,No,DK/REF,No,No,Conservative News Sources,Common Sense,DK/REF,,DK/REF,Staged,No
+Male,33,25-34,Independent,Moderate,College degree,,Black,,Neither approve nor disapprove,No,,,DK/REF,,Yes,DK/ REF,Yes,DK/REF,DK/REF,DK/REF,Both Equally,DK/REF,DK/REF,0,,Staged,No
+Male,61,55-64,Independent,Not Very Strong conservative,Some college,,Latino,,Strongly Approve,No,,,No,,No,Very Likely,Yes,No,No,No,Both Equally,DK/REF,No,,DK/REF,Staged,No
+Male,58,55-64,Republican,Moderate,College degree,,White,,Strongly Approve,No,,,No,,No,Not at all likely,No,Yes,Yes,Yes,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Female,35,35-44,DK/REF,DK/REF,Graduate degree,,Black,,Somewhat Disapprove,No,,,DK/REF,,No,Somewhat Likely,No,No,No,No,DK/REF,Common Sense,No,,DK/REF,Staged,No
+Female,35,35-44,Independent,DK/REF,Graduate degree,,Black,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,DK/REF,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,No
+Male,66,65+,Democrat,Moderate,Some college,,White,,Strongly Disapprove,No,,,Yes,No,Yes,Not at all likely,No,Yes,No,No,Both Equally,Science,Yes,0,,Staged,No
+Male,40,35-44,Democrat,Moderate,Some college,,White,,Somewhat Disapprove,No,,,No,,No,Not at all likely,No,No,No,No,Conservative News Sources,Science,No,0,,Staged,No
+Male,65,65+,Democrat,Not very Strong Liberal,Some college,,Black,,Neither approve nor disapprove,No,,,No,,No,Not at all likely,No,No,No,No,Both Equally,Common Sense,No,20,,Staged,No
+Male,60,55-64,Independent,Strong Conservative,Some college,,White,,Strongly Approve,Yes,DK/REF,No,No,,Yes,Somewhat Likely,No,Yes,No,Yes,Liberal News Sources,Common Sense,No,5,,Staged,No
+Female,69,65+,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,No,,,Yes,Yes,Yes,Somewhat Likely,Yes,Yes,No,No,Both Equally,Common Sense,Yes,30,,Staged,No
+Male,56,55-64,Independent,Strong Conservative,College degree,,DK/REF,,Strongly Approve,No,,,Yes,No,Yes,Not at all likely,No,No,No,Yes,Liberal News Sources,Science,No,0,,Staged,No
+Female,50,45-54,Independent,Moderate,High school or less,,White,,Strongly Approve,Yes,Once a month,No,No,,No,Somewhat Likely,Yes,No,No,Yes,DK/REF,Science,No,5,,Staged,No
+Male,67,65+,Republican,Strong Conservative,College degree,,White,,Strongly Approve,No,,,DK/REF,,No,Not at all likely,No,No,Yes,Yes,Both Equally,Common Sense,No,2,,Staged,No
+Female,60,55-64,Republican,Moderate,College degree,,DK/REF,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Both Equally,DK/REF,DK/REF,0,,Staged,DK/REF
+Female,24,18-24,Independent,DK/REF,Some college,,Black,,Strongly Disapprove,No,,,Yes,No,No,Very Likely,Yes,No,No,No,Both Equally,Science,Yes,60,,Staged,Yes
+Female,50,45-54,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,DK/REF,,DK/REF,Somewhat Likely,DK/REF,Yes,No,Yes,Liberal News Sources,DK/REF,DK/REF,15,,Staged,No
+Male,22,18-24,Democrat,Not Very Strong conservative,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,No,Conservative News Sources,Science,No,3,,Staged,No
+Female,77,65+,DK/REF,DK/REF,High school or less,,DK/REF,,Neither approve nor disapprove,No,,,DK/REF,,DK/REF,Not at all likely,No,No,DK/REF,DK/REF,DK/REF,Science,No,,DK/REF,Staged,No
+Female,72,65+,Republican,Strong Liberal,Graduate degree,,White,,Somewhat Approve,No,,,Yes,No,Yes,Somewhat Likely,No,Yes,No,Yes,Both Equally,Common Sense,No,5,,Staged,No
+Male,54,45-54,Independent,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,No,No,No,Conservative News Sources,Science,Yes,0,,Staged,No
+Male,67,65+,Republican,Moderate,Some college,,White,,Strongly Disapprove,No,,,Yes,No,Yes,Not at all likely,No,Yes,No,No,Both Equally,Common Sense,No,0,,Staged,No
+Male,61,55-64,Democrat,Strong Liberal,High school or less,,DK/REF,,Strongly Disapprove,Yes,DK/REF,No,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,Yes,0,,Staged,No
+Male,68,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,Yes,Somewhat Likely,Yes,No,No,Yes,Conservative News Sources,Science,No,1,,Staged,No
+Female,77,65+,Independent,Strong Conservative,College degree,,White,,Strongly Approve,No,,,DK/REF,,DK/REF,DK/ REF,Yes,DK/REF,DK/REF,Yes,Liberal News Sources,DK/REF,DK/REF,,DK/REF,Staged,No
+Male,45,45-54,Democrat,Strong Liberal,High school or less,,Latino,,Strongly Disapprove,No,,,Yes,Yes,No,Somewhat Likely,Yes,Yes,Yes,Yes,Both Equally,Common Sense,Yes,,DK/REF,Real,Yes
+Female,62,55-64,Republican,Strong Conservative,Some college,,White,,Neither approve nor disapprove,No,,,No,,No,Somewhat Likely,No,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,50,45-54,Republican,Moderate,High school or less,,Black,,Strongly Disapprove,No,,,Yes,No,No,Very Likely,No,No,No,Yes,Conservative News Sources,Common Sense,Yes,,DK/REF,Staged,No
+Female,62,55-64,Independent,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,No,Very Likely,No,No,No,Yes,Conservative News Sources,Common Sense,No,30,,Staged,No
+Male,29,25-34,DK/REF,DK/REF,College degree,,Black,,DK/REF,No,,,DK/REF,,No,DK/ REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,,DK/REF,Real,No
+Female,27,25-34,Democrat,Strong Liberal,Graduate degree,,Asian,,Strongly Disapprove,No,,,Yes,Yes,No,Very Likely,No,Yes,No,Yes,Liberal News Sources,Common Sense,Yes,50,,Staged,No
+Other,32,25-34,DK/REF,Strong Liberal,High school or less,,Asian,,Strongly Approve,No,,,No,,No,Very Likely,No,No,Yes,Yes,Both Equally,Common Sense,Yes,30,,Staged,Yes
+Female,74,65+,Democrat,Not very Strong Liberal,College degree,,White,,Strongly Disapprove,No,,,Yes,Yes,No,Not at all likely,Yes,Yes,No,No,Conservative News Sources,Science,DK/REF,0,,Staged,No
+Male,85,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,Yes,DK/REF,Yes,DK/ REF,Yes,Yes,No,Yes,Conservative News Sources,DK/REF,DK/REF,,DK/REF,DK/REF,No
+Female,86,65+,Democrat,DK/REF,Some college,,White,,DK/REF,No,,,No,,No,Somewhat Likely,No,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,76,65+,DK/REF,DK/REF,High school or less,,White,,Somewhat Approve,No,,,No,,No,Not at all likely,No,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,52,45-54,Republican,Not Very Strong conservative,College degree,,White,,Somewhat Approve,No,,,DK/REF,,Yes,Somewhat Likely,No,Yes,No,Yes,Liberal News Sources,Science,DK/REF,15,,Staged,No
+Male,60,55-64,Republican,Strong Conservative,High school or less,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,No,Yes,No,No,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Male,64,55-64,Republican,Strong Liberal,College degree,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,Yes,No,No,Conservative News Sources,Common Sense,No,5,,Staged,No
+Female,73,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,DK/REF,Not at all likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,71,65+,Democrat,Not very Strong Liberal,College degree,,White,,Somewhat Disapprove,No,,,Yes,No,Yes,Somewhat Likely,Yes,DK/REF,No,No,Conservative News Sources,Common Sense,DK/REF,,DK/REF,Staged,No
+Male,54,45-54,Republican,DK/REF,College degree,,Asian,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Real,No
+Male,56,55-64,Republican,Not Very Strong conservative,Graduate degree,,Other,American Indian,DK/REF,No,,,No,,No,Very Likely,DK/REF,No,No,Yes,Both Equally,Common Sense,DK/REF,0,,Staged,No
+Female,60,55-64,Democrat,Strong Liberal,College degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,No,,DK/REF,Staged,No
+Female,55,55-64,Independent,Moderate,College degree,,White,,Neither approve nor disapprove,Yes,Once a month,No,Yes,No,Yes,Somewhat Likely,Yes,Yes,No,Yes,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Female,25,25-34,DK/REF,Not very Strong Liberal,High school or less,,White,,Neither approve nor disapprove,No,,,No,,No,Somewhat Likely,No,No,No,No,Both Equally,Science,No,50,,Staged,No
+Male,66,65+,Independent,Strong Conservative,High school or less,,White,,Strongly Approve,No,,,No,,Yes,Somewhat Likely,Yes,Yes,No,Yes,Both Equally,Common Sense,No,1,,Staged,No
+Male,37,35-44,Independent,Moderate,College degree,,White,,Strongly Disapprove,Yes,Or several times a day?,No,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,DK/REF,Yes,0,,Staged,No
+Male,21,18-24,Independent,Moderate,College degree,,White,,Neither approve nor disapprove,No,,,DK/REF,,No,Very Likely,Yes,Yes,No,No,Liberal News Sources,Science,DK/REF,1,,Staged,No
+Male,24,18-24,Independent,DK/REF,College degree,,White,,Somewhat Approve,Yes,Or several times a day?,No,No,,No,Not at all likely,No,Yes,No,No,Both Equally,Science,No,7,,Staged,No
+Male,73,65+,Independent,DK/REF,High school or less,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,No,No,No,Yes,Liberal News Sources,Common Sense,DK/REF,3,,Staged,No
+Male,78,65+,Independent,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,DK/REF,Not at all likely,Yes,Yes,No,Yes,Liberal News Sources,Common Sense,No,0,,DK/REF,Yes
+Male,39,35-44,Independent,Moderate,High school or less,,White,,Neither approve nor disapprove,No,,,No,,Yes,Not at all likely,Yes,DK/REF,No,Yes,Both Equally,Common Sense,No,25,,Real,No
+Female,79,65+,Democrat,Strong Liberal,High school or less,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,No,No,No,Conservative News Sources,Science,Yes,0,,Staged,No
+Male,67,65+,Independent,Moderate,Some college,,White,,Strongly Disapprove,No,,,No,,No,Not at all likely,Yes,Yes,No,No,Conservative News Sources,Science,No,0,,Staged,No
+Male,49,45-54,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,Yes,Once a month,No,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,DK/REF,5,,Staged,No
+Male,21,18-24,Republican,Moderate,Some college,,White,,Neither approve nor disapprove,No,,,No,,No,Not at all likely,No,Yes,No,Yes,Both Equally,Science,No,3,,Staged,No
+Male,53,45-54,Independent,Strong Conservative,Graduate degree,,White,,Strongly Approve,No,,,No,,Yes,Somewhat Likely,Yes,No,No,Yes,Both Equally,Common Sense,DK/REF,,DK/REF,DK/REF,No
+Female,58,55-64,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,Yes,Yes,Very Likely,Yes,Yes,Yes,Yes,Both Equally,DK/REF,No,4,,Staged,No
+Female,58,55-64,Republican,Not Very Strong conservative,Some college,,White,,Strongly Approve,Yes,Once a month,No,No,,No,Not at all likely,Yes,No,Yes,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,72,65+,Independent,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,Yes,DK/REF,No,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,DK/REF,0,,Staged,No
+Male,26,25-34,Republican,DK/REF,Some college,,White,,Neither approve nor disapprove,No,,,No,,Yes,Somewhat Likely,Yes,Yes,No,Yes,Both Equally,Common Sense,DK/REF,0,,Staged,No
+Male,62,55-64,Independent,Strong Liberal,Some college,,Asian,,Strongly Approve,No,,,No,,No,Somewhat Likely,Yes,Yes,Yes,Yes,Both Equally,Common Sense,No,50,,Staged,No
+Male,60,55-64,Democrat,Moderate,Some college,,Black,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Both Equally,Common Sense,No,40,,Staged,No
+Female,72,65+,Democrat,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,DK/REF,0,,Staged,No
+Female,60,55-64,Independent,Strong Conservative,Graduate degree,,White,,Strongly Approve,Yes,Once a day,No,No,,Yes,Not at all likely,Yes,Yes,No,Yes,Conservative News Sources,Science,No,10,,Staged,No
+Male,56,55-64,Republican,Strong Conservative,College degree,,White,,Strongly Approve,No,,,No,,Yes,Very Likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Male,21,18-24,Republican,Strong Conservative,High school or less,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,No,No,No,Liberal News Sources,Science,No,15,,Staged,No
+Male,71,65+,Republican,Strong Conservative,College degree,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,No,Yes,DK/REF,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Male,69,65+,Democrat,Moderate,Some college,,White,,Strongly Disapprove,Yes,Once a week,No,Yes,No,Yes,Not at all likely,Yes,Yes,No,No,Conservative News Sources,Science,Yes,0,,Staged,No
+Male,37,35-44,Independent,Strong Conservative,College degree,,White,,Strongly Approve,Yes,Once a day,No,Yes,No,No,Not at all likely,No,Yes,No,Yes,Liberal News Sources,Common Sense,Yes,3,,Staged,No
+Female,32,25-34,Republican,Not Very Strong conservative,College degree,,White,,Somewhat Disapprove,No,,,No,,Yes,Somewhat Likely,No,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,38,35-44,Independent,Moderate,High school or less,,White,,Strongly Approve,No,,,No,,No,Very Likely,Yes,No,Yes,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,27,25-34,Democrat,Strong Liberal,College degree,,White,,Strongly Disapprove,Yes,Or several times a day?,No,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,DK/REF,0,,Staged,No
+Female,75,65+,Republican,Strong Conservative,College degree,,White,,Strongly Approve,Yes,DK/REF,No,Yes,No,No,Not at all likely,Yes,Yes,No,Yes,Liberal News Sources,Common Sense,No,10,,Staged,No
+Female,49,45-54,Republican,Moderate,Some college,,White,,Neither approve nor disapprove,No,,,DK/REF,,DK/REF,DK/ REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,Common Sense,DK/REF,,DK/REF,Staged,DK/REF
+Female,55,55-64,Democrat,Strong Liberal,College degree,,White,,Strongly Disapprove,No,,,Yes,No,Yes,DK/ REF,Yes,No,No,No,DK/REF,Science,DK/REF,,DK/REF,Staged,No
+Female,60,55-64,Republican,Strong Conservative,Graduate degree,,White,,Strongly Approve,No,,,No,,Yes,Somewhat Likely,Yes,No,No,Yes,Liberal News Sources,Common Sense,No,40,,Staged,No
+Male,48,45-54,Independent,Strong Conservative,Other,Doctorate Degree,White,,Strongly Approve,No,,,Yes,No,No,Very Likely,No,Yes,Yes,Yes,Both Equally,Common Sense,No,20,,Staged,No
+Female,47,45-54,Independent,Strong Conservative,College degree,,White,,Somewhat Approve,No,,,No,,Yes,Somewhat Likely,Yes,Yes,Yes,Yes,Both Equally,Common Sense,DK/REF,20,,Staged,No
+Male,29,25-34,Democrat,Moderate,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,No,No,No,Conservative News Sources,Science,DK/REF,,DK/REF,Staged,No
+Male,45,45-54,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,Yes,Once a day,No,Yes,No,Yes,Not at all likely,Yes,Yes,No,Yes,Conservative News Sources,Science,No,0,,Staged,No
+Female,85,65+,Independent,Moderate,Some college,,White,,Somewhat Approve,No,,,No,,No,Somewhat Likely,No,No,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,59,55-64,Independent,Strong Conservative,College degree,,White,,Strongly Approve,Yes,Once a month,No,No,,Yes,Somewhat Likely,Yes,Yes,No,Yes,Both Equally,Common Sense,No,50,,Staged,No
+Female,50,45-54,Independent,Moderate,Graduate degree,,White,,Strongly Approve,No,,,Yes,No,Yes,Somewhat Likely,Yes,Yes,No,Yes,Both Equally,Common Sense,No,5,,Staged,No
+Female,35,35-44,Democrat,Strong Liberal,Graduate degree,,White,,Strongly Disapprove,Yes,Once a month,No,Yes,No,No,Not at all likely,No,Yes,No,No,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,41,35-44,Independent,Not Very Strong conservative,Graduate degree,,White,,Somewhat Disapprove,Yes,Or several times a day?,No,Yes,No,Yes,Not at all likely,Yes,DK/REF,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,91,65+,Democrat,Moderate,Some college,,White,,Somewhat Disapprove,DK/ REF,,,No,,DK/REF,Not at all likely,No,No,DK/REF,No,Both Equally,Common Sense,DK/REF,,DK/REF,DK/REF,No
+Male,67,65+,DK/REF,DK/REF,College degree,,DK/REF,,DK/REF,Yes,Once a week,No,Yes,No,DK/REF,Very Likely,No,Yes,No,Yes,DK/REF,Common Sense,No,,DK/REF,DK/REF,No
+Female,41,35-44,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,No,,,Yes,Yes,Yes,Not at all likely,Yes,No,No,No,Both Equally,Common Sense,Yes,,DK/REF,Staged,No
+Female,65,65+,Democrat,Strong Liberal,College degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,DK/REF,Common Sense,No,,DK/REF,Staged,No
+Female,71,65+,Republican,Strong Conservative,College degree,,White,,Strongly Approve,No,,,No,,DK/REF,Not at all likely,No,Yes,No,Yes,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Female,84,65+,Independent,Moderate,High school or less,,Black,,DK/REF,No,,,No,,No,DK/ REF,DK/REF,DK/REF,DK/REF,DK/REF,Both Equally,DK/REF,DK/REF,,DK/REF,DK/REF,DK/REF
+Male,68,65+,Independent,Moderate,Some college,,White,,Neither approve nor disapprove,No,,,DK/REF,,Yes,Somewhat Likely,No,DK/REF,DK/REF,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,71,65+,Democrat,Not very Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,DK/REF,No,No,Conservative News Sources,Science,DK/REF,0,,Staged,No
+Female,62,55-64,Independent,Moderate,Some college,,White,,Strongly Approve,No,,,No,,Yes,DK/ REF,No,No,No,Yes,Both Equally,Common Sense,DK/REF,,DK/REF,Staged,No
+Female,61,55-64,Independent,Moderate,Some college,,White,,Somewhat Approve,No,,,No,,Yes,Not at all likely,No,Yes,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Female,50,45-54,Independent,Moderate,College degree,,White,,DK/REF,Yes,DK/REF,No,Yes,No,DK/REF,Somewhat Likely,Yes,No,No,No,Both Equally,Science,No,,DK/REF,Staged,No
+Female,70,65+,Republican,Strong Conservative,Some college,,White,,Strongly Approve,No,,,No,,No,Not at all likely,No,Yes,No,Yes,Liberal News Sources,Common Sense,No,15,,Staged,No
+Male,39,35-44,Republican,Moderate,College degree,,White,,Somewhat Disapprove,Yes,Once a month,No,No,,Yes,Very Likely,Yes,No,No,Yes,Both Equally,Common Sense,No,30,,Staged,No
+Male,23,18-24,Republican,Not Very Strong conservative,College degree,,White,,DK/REF,No,,,No,,No,Not at all likely,No,No,No,No,Both Equally,Common Sense,No,5,,Staged,No
+Female,27,25-34,Democrat,Not very Strong Liberal,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Very Likely,No,Yes,No,No,Conservative News Sources,Science,Yes,,DK/REF,Staged,No
+Male,18,18-24,Democrat,Moderate,High school or less,,Latino,,Somewhat Disapprove,No,,,No,,No,Somewhat Likely,Yes,No,No,No,Liberal News Sources,Science,No,5,,Staged,Yes
+Male,64,55-64,Democrat,Moderate,College degree,,Black,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,DK/REF,DK/REF,DK/REF,0,,DK/REF,No
+Female,55,55-64,Republican,Strong Conservative,High school or less,,White,,Neither approve nor disapprove,No,,,DK/REF,,Yes,Somewhat Likely,DK/REF,No,No,No,Liberal News Sources,Science,DK/REF,,DK/REF,Staged,No
+Male,60,55-64,Republican,Strong Conservative,Some college,,Latino,,Strongly Approve,No,,,DK/REF,,Yes,Not at all likely,No,DK/REF,No,Yes,Both Equally,Science,No,0,,Staged,No
+Male,71,65+,DK/REF,Not Very Strong conservative,High school or less,,White,,DK/REF,No,,,No,,Yes,Somewhat Likely,No,No,No,Yes,Both Equally,Common Sense,No,,DK/REF,Staged,No
+Male,69,65+,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,Yes,0,,Staged,No
+Male,59,55-64,Democrat,Not Very Strong conservative,Some college,,White,,Somewhat Approve,No,,,No,,No,Somewhat Likely,Yes,Yes,No,No,Liberal News Sources,Common Sense,No,,DK/REF,Staged,No
+Male,36,35-44,Independent,Moderate,Graduate degree,,White,,Neither approve nor disapprove,No,,,Yes,No,Yes,Not at all likely,No,Yes,No,No,Both Equally,DK/REF,No,0,,Staged,No
+Male,62,55-64,Independent,Not Very Strong conservative,Some college,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,Yes,Conservative News Sources,Science,Yes,,DK/REF,Staged,No
+Male,68,65+,Democrat,Strong Conservative,Some college,,Black,,Strongly Disapprove,No,,,Yes,Yes,Yes,Very Likely,Yes,Yes,No,No,Liberal News Sources,Common Sense,Yes,,DK/REF,Staged,No
+Female,89,65+,DK/REF,DK/REF,High school or less,,Asian,,Neither approve nor disapprove,No,,,Yes,Yes,No,Somewhat Likely,Yes,Yes,Yes,No,Both Equally,Common Sense,Yes,,DK/REF,Real,Yes
+Female,19,18-24,Democrat,Strong Liberal,Some college,,Latino,,Strongly Disapprove,Yes,Once a day,No,Yes,No,No,Very Likely,Yes,Yes,No,No,Both Equally,Science,Yes,30,,Real,No
+Male,41,35-44,Republican,Strong Liberal,College degree,,White,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,No,Yes,No,No,Conservative News Sources,Science,Yes,0,,Staged,No
+Male,51,45-54,Republican,Strong Conservative,Other,Associate Degree,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,No,Yes,Yes,Liberal News Sources,Science,No,3,,Staged,No
+Male,69,65+,Republican,Not Very Strong conservative,College degree,,Other,Native American,Neither approve nor disapprove,No,,,No,,Yes,Not at all likely,No,Yes,No,Yes,Conservative News Sources,Common Sense,DK/REF,5,,Staged,No
+Female,50,45-54,Democrat,Strong Liberal,Some college,,Asian,,Strongly Disapprove,No,,,Yes,No,No,Somewhat Likely,No,Yes,No,No,Conservative News Sources,Science,DK/REF,10,,Staged,No
+Female,30,25-34,Republican,Strong Conservative,College degree,,White,,Strongly Approve,No,,,No,,Yes,Not at all likely,Yes,Yes,Yes,Yes,Liberal News Sources,Common Sense,No,65,,Staged,No
+Male,68,65+,Independent,Strong Conservative,College degree,,White,,Strongly Approve,No,,,No,,DK/REF,Not at all likely,No,Yes,DK/REF,Yes,Liberal News Sources,Science,DK/REF,1,,Staged,No
+Male,25,25-34,DK/REF,DK/REF,College degree,,Latino,,Somewhat Disapprove,No,,,No,,No,Somewhat Likely,Yes,No,No,Yes,Both Equally,Science,No,,DK/REF,Real,No
+Male,24,18-24,Democrat,Not very Strong Liberal,Some college,,DK/REF,,Strongly Disapprove,Yes,Or several times a day?,Yes,Yes,No,No,Not at all likely,Yes,Yes,No,No,Conservative News Sources,Science,Yes,,DK/REF,Staged,No
+Male,29,25-34,Republican,Moderate,Some college,,Asian,,Neither approve nor disapprove,No,,,Yes,Yes,Yes,Somewhat Likely,Yes,No,No,Yes,Both Equally,Science,Yes,30,,Staged,Yes
+Female,19,18-24,DK/REF,Moderate,Some college,,Asian,,DK/REF,Yes,Or several times a day?,No,DK/REF,,No,DK/ REF,Yes,DK/REF,DK/REF,DK/REF,DK/REF,Science,DK/REF,,DK/REF,Real,DK/REF
+Female,35,35-44,Republican,Strong Conservative,Graduate degree,,Latino,,Somewhat Approve,No,,,Yes,Yes,No,Somewhat Likely,Yes,No,No,No,Both Equally,Science,No,5,,Staged,No
+Female,58,55-64,Republican,Moderate,Graduate degree,,Black,,DK/REF,No,,,DK/REF,,DK/REF,DK/ REF,Yes,No,DK/REF,DK/REF,Both Equally,Common Sense,DK/REF,,DK/REF,Real,DK/REF
+Male,68,65+,Democrat,Strong Liberal,College degree,,Black,,Strongly Disapprove,No,,,Yes,No,No,Not at all likely,Yes,Yes,No,No,Conservative News Sources,Common Sense,Yes,2,,Staged,No

@@ -1,0 +1,804 @@
+Income,Gender,Age,Age Range,"In politics today, do you consider yourself a Democrat, a Republican, or Independent? ","Would you say you are liberal, conservative, or moderate? ","What is your highest level of education? (High school or less, Some college, College degree, Graduate degree)",Q6OTH1,"What is your race? (white, black, latino, asian, other)",Q7OTH1,"Do you live in a city, suburb, or small town?","Do you approve, disapprove, or neither approve nor disapprove of how Donald Trump is handling his job as president?","Do you think federal funding for welfare programs in America should be increased, decreased, or kept the same? ",Do you think poor black people are more likely to benefit from welfare programs than poor white people?,Do you think poor people in cities are more likely to benefit from welfare programs than poor people in small towns?,"If you had to choose, would you rather live in a more equal society or a more unequal society?","
+Now, I'd like you to try to guess the level of wealth equality in America. Out of all the wealth that Americans have, what percentage of that wealth would you guess is owned by the richest 1% of Americans? (0 to 100%)","In general, do you think our government should take money from the rich and give it to the poor?","In many other countries, poverty is more extreme than it is in America. Do you think our government should give money to the poorest people in those other countries, instead of giving it to the poorest Americans?","
+Do you consider rap a form of music?",Are you hungry right now? ,Do you think you're strong enough to beat most people in a fist-fight?,"
+Do you think your farts are more smelly or less smelly than other people's farts?"
+,Male,77,65+,Independent,Strong Conservative,Graduate degree,,Latino,,City,Disapprove,Increased,No,No,More Equal Society,73,Not Very Strongly Yes,DK/REF,Yes,Not Hungry,No,Less Smelly
+70000,Other,65,65+,Independent,Not Very Strong Conservative,College degree,,White,,City,Neither Approve nor disapprove,Decreased,Yes,Yes,More Equal Society,10,Strongly Yes,Strongly No,Yes,Not Hungry,No,DK/REF
+,Male,65,65+,Independent,Strong Conservative,Some college,,White,,Suburb,Disapprove,Increased,No,No,More Equal Society,1,DK/REF,Strongly No,No,Not Hungry,No,DK/REF
+,Male,50,45-54,DK/REF,Not Very Strong Conservative,Some college,,White,,City,Neither Approve nor disapprove,Kept the Same,No,No,More Equal Society,1,DK/REF,Not Very Strongly No,No,Not Hungry,No,Less Smelly
+,Female,53,45-54,Strong Republican,Strong Conservative,Other,12th grade,White,,Small Town,Approve,DK/REF,No,No,More Unequal Society,1,Strongly No,Strongly No,No,Very Hungry,No,Less Smelly
+100000,Male,47,45-54,Independent,Moderate,College degree,,White,,Small Town,Approve,Kept the Same,No,No,More Equal Society,80,Strongly No,Strongly No,Yes,A Little Hungry,Yes,Less Smelly
+,Male,65,65+,Independent,Moderate,College degree,,Other,"White, Black, and Indian",Small Town,DK/REF,Kept the Same,No,DK/REF,DK/REF,100,Strongly Yes,Strongly Yes,Yes,DK/REF,DK/REF,DK/REF
+20000,Male,79,65+,Independent,Moderate,Some college,,White,,Small Town,Neither Approve nor disapprove,DK/REF,DK/REF,Yes,More Equal Society,10,Not Very Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+,Male,67,65+,DK/REF,Strong Conservative,College degree,,White,,DK/REF,Approve,Kept the Same,No,No,More Equal Society,90,Strongly No,Strongly No,No,Not Hungry,Yes,DK/REF
+,Female,53,45-54,Independent,Strong Liberal,Graduate degree,,White,,Small Town,Disapprove,Increased,No,Yes,More Equal Society,70,Strongly Yes,Strongly No,Yes,Not Hungry,No,Less Smelly
+40000,Female,67,65+,Not Strong Republican,Strong Conservative,College degree,,White,,Small Town,Disapprove,Kept the Same,Yes,Yes,More Equal Society,60,Not Very Strongly No,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+,Female,58,55-64,DK/REF,Moderate,Graduate degree,,Black,,Suburb,Disapprove,Kept the Same,No,Yes,More Equal Society,1,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+,Female,54,45-54,DK/REF,DK/REF,High school or less,,Latino,,City,Disapprove,DK/REF,DK/REF,DK/REF,More Equal Society,75,DK/REF,DK/REF,Yes,Not Hungry,DK/REF,DK/REF
+,Female,70,65+,DK/REF,DK/REF,College degree,,White,,Small Town,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,Not Hungry,DK/REF,DK/REF
+15,Male,40,35-44,Strong Democrat,Strong Liberal,Some college,,Latino,,Suburb,Disapprove,Increased,No,No,More Equal Society,99,Strongly Yes,Strongly Yes,Yes,Not Hungry,No,More Smelly
+28000,Female,63,55-64,DK/REF,Strong Liberal,College degree,,White,,Small Town,Disapprove,Increased,DK/REF,Yes,More Equal Society,90,Strongly Yes,DK/REF,Yes,A Little Hungry,No,DK/REF
+25000,Male,62,55-64,Strong Democrat,Strong Liberal,Some college,,White,,City,Approve,Kept the Same,Yes,Yes,More Equal Society,75,Strongly Yes,Strongly Yes,Yes,Not Hungry,No,Less Smelly
+89000,Female,58,55-64,Independent,Moderate,College degree,,White,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,18,Strongly Yes,Strongly No,Yes,Not Hungry,DK/REF,Less Smelly
+2077,Female,64,55-64,Not Strong Democrat,Moderate,Graduate degree,,White,,City,Disapprove,Kept the Same,No,Yes,More Equal Society,1,Not Very Strongly Yes,Strongly Yes,Yes,Not Hungry,No,DK/REF
+200000,Male,42,35-44,Not Strong Democrat,Not very strong Liberal,College degree,,Latino,,City,Disapprove,Kept the Same,No,No,More Equal Society,50,Not Very Strongly Yes,Strongly No,Yes,Not Hungry,Yes,More Smelly
+,Male,66,65+,Independent,Not Very Strong Conservative,High school or less,,White,,Small Town,Neither Approve nor disapprove,Increased,No,No,More Equal Society,DK/REF,Strongly No,Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+,Female,69,65+,Strong Democrat,Strong Conservative,High school or less,,Black,,City,Disapprove,Kept the Same,No,No,More Equal Society,7,DK/REF,DK/REF,No,Not Hungry,No,Less Smelly
+,Female,66,65+,Not Strong Democrat,Strong Liberal,High school or less,,White,,Small Town,Disapprove,Increased,No,No,More Unequal Society,75,Not Very Strongly Yes,Strongly No,No,Not Hungry,Yes,Less Smelly
+80000,Other,70,65+,Independent,Moderate,Some college,,DK/REF,,Suburb,Neither Approve nor disapprove,Kept the Same,No,DK/REF,More Equal Society,1,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+140,Male,64,55-64,Not Strong Democrat,Not Very Strong Conservative,Some college,,Latino,,City,Approve,Kept the Same,Yes,Yes,More Equal Society,10,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+75,Female,38,35-44,Not Strong Democrat,Moderate,Graduate degree,,Black,,City,Disapprove,Increased,No,Yes,More Equal Society,98,Not Very Strongly No,Strongly No,Yes,Not Hungry,Yes,More Smelly
+,Female,60,55-64,Independent,Moderate,College degree,,White,,Small Town,Disapprove,Increased,No,No,More Equal Society,1,DK/REF,Not Very Strongly No,Yes,Not Hungry,Yes,DK/REF
+40000,Male,68,65+,Not Strong Democrat,Not Very Strong Conservative,High school or less,,White,,Small Town,Neither Approve nor disapprove,Increased,No,No,More Equal Society,1,Strongly Yes,Strongly Yes,No,Not Hungry,Yes,More Smelly
+,Male,47,45-54,Strong Democrat,Strong Conservative,High school or less,,Black,,Suburb,Disapprove,Increased,Yes,Yes,More Equal Society,99,Strongly Yes,Strongly No,Yes,Very Hungry,No,More Smelly
+,Female,50,45-54,Strong Democrat,DK/REF,High school or less,,Black,,City,Disapprove,Increased,No,No,More Equal Society,80,Strongly Yes,Strongly No,Yes,Not Hungry,No,Less Smelly
+90000,Male,60,55-64,Strong Democrat,Strong Conservative,Some college,,Latino,,City,Approve,Decreased,No,Yes,More Equal Society,40,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+,Male,50,45-54,Independent,Moderate,Some college,,DK/REF,,City,Disapprove,DK/REF,DK/REF,DK/REF,More Equal Society,10,Not Very Strongly No,Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+50000,Male,48,45-54,Independent,Not Very Strong Conservative,Some college,,Latino,,City,Neither Approve nor disapprove,Kept the Same,DK/REF,DK/REF,DK/REF,10,Strongly No,Strongly No,No,Not Hungry,No,More Smelly
+140000,Male,53,45-54,Not Strong Republican,Strong Conservative,College degree,,White,,Suburb,Approve,Decreased,DK/REF,Yes,More Equal Society,1,Strongly No,Strongly No,No,Not Hungry,Yes,Less Smelly
+120000,Male,77,65+,Independent,Moderate,College degree,,White,,Small Town,Disapprove,Kept the Same,DK/REF,Yes,More Equal Society,80,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+,Male,18,18-24,Not Strong Republican,Strong Liberal,Graduate degree,,White,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,98,Not Very Strongly No,Not Very Strongly No,Yes,Very Hungry,No,More Smelly
+,Male,26,25-34,Independent,Strong Conservative,College degree,,White,,Suburb,Disapprove,Decreased,No,Yes,More Unequal Society,55,Strongly No,Not Very Strongly No,Yes,Not Hungry,Yes,More Smelly
+40,Female,21,18-24,Not Strong Republican,Strong Conservative,Some college,,White,,Suburb,Neither Approve nor disapprove,Increased,Yes,No,More Equal Society,60,Not Very Strongly Yes,Strongly No,Yes,Not Hungry,No,DK/REF
+90000,Male,33,25-34,Not Strong Republican,Not very strong Liberal,College degree,,White,,City,Neither Approve nor disapprove,Decreased,No,No,More Equal Society,80,Not Very Strongly No,Not Very Strongly No,Yes,Not Hungry,Yes,DK/REF
+,Female,66,65+,Not Strong Republican,Moderate,Some college,,White,,Small Town,Neither Approve nor disapprove,Kept the Same,No,Yes,DK/REF,DK/REF,Not Very Strongly Yes,Strongly No,No,Not Hungry,No,Less Smelly
+80000,Male,37,35-44,Strong Republican,Strong Conservative,Some college,,White,,City,Approve,Decreased,No,No,More Equal Society,75,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,92,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,City,Approve,Increased,No,No,More Equal Society,DK/REF,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+,Male,22,18-24,Strong Republican,Moderate,Some college,,White,,Small Town,Approve,Decreased,No,Yes,More Equal Society,90,Strongly No,Not Very Strongly No,Yes,Not Hungry,Yes,More Smelly
+17000,Male,69,65+,Independent,Moderate,High school or less,,White,,Suburb,Approve,Increased,Yes,DK/REF,More Equal Society,10,Not Very Strongly No,Strongly No,No,Not Hungry,Yes,Less Smelly
+75000,Male,69,65+,Strong Democrat,Strong Conservative,High school or less,,Black,,City,Disapprove,Kept the Same,No,No,More Equal Society,1,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+,Male,66,65+,Strong Republican,Strong Conservative,High school or less,,White,,City,Approve,Increased,DK/REF,Yes,More Equal Society,50,Strongly Yes,Strongly No,No,Not Hungry,No,DK/REF
+50000,Male,60,55-64,Strong Republican,Strong Conservative,High school or less,,White,,Suburb,Approve,Decreased,Yes,No,More Equal Society,99,Strongly No,Strongly No,Yes,A Little Hungry,Yes,Less Smelly
+35000,Male,63,55-64,Independent,Not very strong Liberal,College degree,,White,,City,Disapprove,Kept the Same,No,No,More Equal Society,90,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+60000,Male,64,55-64,Independent,Moderate,Some college,,White,,Suburb,Disapprove,Increased,Yes,Yes,More Equal Society,95,Strongly Yes,Strongly No,Yes,Not Hungry,No,More Smelly
+50000,Male,67,65+,Independent,Moderate,College degree,,White,,Small Town,Approve,Kept the Same,No,Yes,More Equal Society,30,Not Very Strongly No,Strongly No,No,A Little Hungry,No,DK/REF
+50000,Male,68,65+,Strong Republican,Strong Conservative,Some college,,White,,Small Town,Approve,Decreased,Yes,Yes,DK/REF,20,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+,Female,18,18-24,DK/REF,Moderate,College degree,,DK/REF,,Small Town,DK/REF,Increased,No,No,More Unequal Society,DK/REF,Strongly Yes,Strongly No,DK/REF,Very Hungry,No,DK/REF
+,Female,52,45-54,Strong Republican,Strong Conservative,Graduate degree,,White,,Small Town,Approve,Kept the Same,No,Yes,More Equal Society,5,Strongly No,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+4000,Female,40,35-44,Independent,DK/REF,High school or less,,White,,Small Town,Disapprove,Increased,No,Yes,More Equal Society,40,Strongly No,Strongly No,Yes,Not Hungry,No,More Smelly
+75000,Male,48,45-54,Not Strong Republican,Moderate,Graduate degree,,White,,Small Town,Disapprove,Kept the Same,No,Yes,More Equal Society,98,Strongly Yes,DK/REF,Yes,Not Hungry,Yes,More Smelly
+20000,Female,69,65+,Independent,Strong Conservative,Some college,,White,,Small Town,Approve,Kept the Same,No,Yes,More Equal Society,DK/REF,DK/REF,Strongly No,DK/REF,Not Hungry,No,DK/REF
+15000,Male,61,55-64,Independent,Moderate,High school or less,,Black,,Small Town,Neither Approve nor disapprove,Increased,No,No,More Equal Society,100,Not Very Strongly Yes,Strongly Yes,No,Not Hungry,Yes,DK/REF
+11000,Other,75,65+,Strong Republican,Moderate,High school or less,,White,,Small Town,Approve,Kept the Same,DK/REF,Yes,More Equal Society,25,Strongly No,Strongly No,No,Not Hungry,No,More Smelly
+130000,Female,43,35-44,Not Strong Republican,Not very strong Liberal,Graduate degree,,White,,Suburb,Approve,Kept the Same,No,No,More Equal Society,85,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+,Male,64,55-64,Strong Democrat,Moderate,High school or less,,White,,Small Town,Approve,Increased,Yes,Yes,More Equal Society,100,Strongly No,Strongly Yes,No,Not Hungry,No,Less Smelly
+60,Male,70,65+,Strong Republican,Strong Conservative,College degree,,White,,Suburb,Approve,Decreased,No,DK/REF,More Unequal Society,70,Not Very Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+25000,Female,56,55-64,Strong Democrat,Not Very Strong Conservative,Some college,,Black,,City,Disapprove,Increased,No,Yes,More Equal Society,60,Not Very Strongly Yes,Strongly No,No,Not Hungry,Yes,DK/REF
+50000,Female,46,45-54,Strong Democrat,Moderate,College degree,,Black,,City,Disapprove,Decreased,DK/REF,DK/REF,More Equal Society,99,Strongly Yes,Strongly Yes,DK/REF,Not Hungry,Yes,DK/REF
+25000,Female,62,55-64,Strong Democrat,Moderate,Some college,,Black,,City,Disapprove,Kept the Same,No,No,More Equal Society,DK/REF,Not Very Strongly No,Strongly No,Yes,Not Hungry,Yes,More Smelly
+26000,Female,63,55-64,Independent,Moderate,Some college,,White,,Small Town,Disapprove,Kept the Same,No,Yes,DK/REF,75,DK/REF,Strongly No,No,Not Hungry,No,DK/REF
+41,Female,53,45-54,Independent,Moderate,High school or less,,White,,Small Town,Disapprove,Kept the Same,No,Yes,DK/REF,80,Strongly Yes,Not Very Strongly No,No,Not Hungry,No,Less Smelly
+,Female,47,45-54,Strong Democrat,Strong Conservative,College degree,,Other,Native American,Suburb,Disapprove,Increased,No,No,More Equal Society,90,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+78000,Female,56,55-64,Not Strong Republican,Moderate,High school or less,,White,,Small Town,DK/REF,DK/REF,No,Yes,More Equal Society,DK/REF,Strongly No,Strongly No,No,A Little Hungry,No,Less Smelly
+70000,Male,55,55-64,Strong Republican,Not Very Strong Conservative,Some college,,White,,Suburb,Approve,Kept the Same,Yes,No,More Equal Society,20,Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+,Male,99,65+,Strong Republican,Strong Conservative,Other,Post graduate,White,,DK/REF,Approve,Increased,Yes,Yes,DK/REF,DK/REF,Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+25000,Male,55,55-64,Not Strong Republican,Not Very Strong Conservative,Some college,,White,,Small Town,Approve,DK/REF,Yes,Yes,More Equal Society,80,Strongly Yes,Strongly No,No,A Little Hungry,No,DK/REF
+,Female,66,65+,Not Strong Democrat,Moderate,High school or less,,Black,,Small Town,Disapprove,Increased,No,DK/REF,More Equal Society,DK/REF,Strongly Yes,Strongly Yes,No,Not Hungry,No,DK/REF
+,Male,63,55-64,Independent,Strong Conservative,College degree,,White,,Suburb,Approve,Decreased,No,Yes,DK/REF,60,Strongly No,Strongly No,No,Not Hungry,Yes,DK/REF
+,Male,92,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,City,Disapprove,Increased,DK/REF,No,DK/REF,DK/REF,Strongly Yes,DK/REF,DK/REF,Not Hungry,No,DK/REF
+100000,Male,35,35-44,Not Strong Republican,Moderate,Graduate degree,,White,,Small Town,Approve,Kept the Same,No,No,More Equal Society,98,Not Very Strongly No,Strongly No,Yes,Not Hungry,Yes,More Smelly
+,Female,60,55-64,Strong Democrat,Strong Liberal,Some college,,White,,City,Disapprove,Kept the Same,No,Yes,More Unequal Society,90,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+,Male,62,55-64,Not Strong Republican,Strong Conservative,College degree,,White,,Suburb,Approve,Decreased,Yes,Yes,More Equal Society,DK/REF,Strongly No,Strongly No,No,Not Hungry,Yes,Less Smelly
+,Male,99,65+,Independent,Not Very Strong Conservative,Other,Post Graduate,White,,Suburb,Approve,DK/REF,DK/REF,No,DK/REF,90,Not Very Strongly No,Not Very Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+,Male,48,45-54,Independent,Moderate,High school or less,,Other,Native American,City,Disapprove,Increased,Yes,Yes,More Equal Society,40,Strongly Yes,Strongly No,No,Not Hungry,Yes,Less Smelly
+25000,Female,65,65+,Strong Democrat,Strong Conservative,Some college,,Black,,Small Town,Disapprove,Increased,Yes,Yes,More Equal Society,100,Not Very Strongly Yes,Not Very Strongly Yes,No,Not Hungry,DK/REF,DK/REF
+13000,Female,60,55-64,Strong Democrat,Not very strong Liberal,High school or less,,Black,,Small Town,Disapprove,Kept the Same,No,No,More Equal Society,30,Strongly No,Strongly No,Yes,Not Hungry,Yes,DK/REF
+48000,Female,48,45-54,Independent,Strong Conservative,High school or less,,White,,City,Neither Approve nor disapprove,Increased,Yes,Yes,More Equal Society,75,Strongly Yes,Not Very Strongly No,No,Not Hungry,No,DK/REF
+24,Female,60,55-64,DK/REF,DK/REF,College degree,,Other,Indian,Suburb,Neither Approve nor disapprove,Decreased,DK/REF,No,More Equal Society,DK/REF,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+300000,Female,39,35-44,Strong Democrat,Not very strong Liberal,Graduate degree,,White,,Suburb,Disapprove,Kept the Same,DK/REF,Yes,More Equal Society,98,Strongly Yes,Not Very Strongly Yes,Yes,Not Hungry,No,Less Smelly
+30000,Female,65,65+,Not Strong Republican,Not Very Strong Conservative,College degree,,White,,Suburb,Approve,Kept the Same,No,No,More Equal Society,25,Not Very Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+10000,Male,48,45-54,Strong Democrat,Not Very Strong Conservative,Some college,,DK/REF,,City,Disapprove,Increased,No,No,More Equal Society,90,Strongly No,Not Very Strongly No,Yes,A Little Hungry,No,More Smelly
+,Female,50,45-54,Strong Republican,Strong Conservative,Some college,,White,,City,Approve,Decreased,Yes,Yes,More Unequal Society,75,Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+,Male,68,65+,Strong Democrat,Moderate,Graduate degree,,White,,Suburb,Disapprove,Kept the Same,No,Yes,More Equal Society,5,Not Very Strongly Yes,Strongly Yes,Yes,Very Hungry,No,DK/REF
+,Female,21,18-24,Strong Republican,Strong Conservative,College degree,,White,,City,Approve,Kept the Same,Yes,No,More Equal Society,70,Strongly No,Strongly No,No,Not Hungry,Yes,DK/REF
+,Male,50,45-54,Strong Republican,Strong Conservative,Other,Associate's Degree,White,,City,Approve,DK/REF,No,Yes,DK/REF,DK/REF,Strongly No,Strongly No,No,Not Hungry,Yes,More Smelly
+,Male,60,55-64,Independent,Moderate,College degree,,White,,Small Town,Disapprove,Kept the Same,No,Yes,More Equal Society,80,Strongly Yes,Strongly No,Yes,A Little Hungry,No,More Smelly
+11280,Female,76,65+,Strong Democrat,Moderate,Some college,,Black,,City,Disapprove,Kept the Same,No,No,More Equal Society,100,Not Very Strongly No,Not Very Strongly No,Yes,Not Hungry,Yes,DK/REF
+,Female,70,65+,Not Strong Democrat,Not very strong Liberal,College degree,,White,,Small Town,Disapprove,DK/REF,DK/REF,DK/REF,More Equal Society,DK/REF,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+40000,Female,70,65+,Independent,Moderate,Some college,,Black,,City,Disapprove,DK/REF,No,No,More Equal Society,1,Strongly Yes,Strongly No,Yes,Not Hungry,No,DK/REF
+50000,Male,66,65+,Strong Republican,Strong Conservative,Some college,,White,,Small Town,Approve,Kept the Same,DK/REF,No,More Equal Society,100,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,DK/REF
+,Male,53,45-54,Independent,Strong Conservative,College degree,,White,,Small Town,Disapprove,Decreased,No,No,More Unequal Society,50,Strongly No,Strongly No,No,Not Hungry,DK/REF,DK/REF
+,Female,59,55-64,Independent,Strong Liberal,Graduate degree,,White,,City,Disapprove,Kept the Same,No,No,More Equal Society,80,Strongly Yes,DK/REF,Yes,DK/REF,DK/REF,DK/REF
+500000,Male,37,35-44,DK/REF,Moderate,College degree,,Latino,,City,Disapprove,Kept the Same,No,Yes,More Equal Society,50,Not Very Strongly Yes,Strongly No,Yes,Very Hungry,No,DK/REF
+50000,Male,32,25-34,Not Strong Democrat,Moderate,College degree,,Black,,City,Disapprove,Kept the Same,No,No,More Equal Society,90,Not Very Strongly No,Not Very Strongly No,Yes,A Little Hungry,No,DK/REF
+,Male,63,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Suburb,Disapprove,Increased,DK/REF,DK/REF,More Equal Society,80,Strongly Yes,Strongly Yes,No,Very Hungry,Yes,DK/REF
+50000,Male,55,55-64,Strong Republican,Strong Conservative,High school or less,,White,,Small Town,Approve,Decreased,No,No,More Equal Society,0,Strongly No,Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+50,Female,30,25-34,Strong Democrat,Strong Liberal,College degree,,White,,City,Disapprove,Kept the Same,No,DK/REF,More Equal Society,20,Not Very Strongly Yes,Not Very Strongly Yes,Yes,Not Hungry,Yes,Less Smelly
+30000,Male,33,25-34,DK/REF,DK/REF,College degree,,White,,DK/REF,Approve,DK/REF,Yes,Yes,DK/REF,DK/REF,Strongly No,Strongly No,No,Not Hungry,DK/REF,DK/REF
+65000,Female,53,45-54,Strong Democrat,Strong Conservative,College degree,,White,,Small Town,Disapprove,Increased,No,No,More Equal Society,60,Strongly No,Not Very Strongly Yes,No,Very Hungry,No,Less Smelly
+,Female,71,65+,Independent,Not very strong Liberal,College degree,,White,,City,Disapprove,Kept the Same,Yes,No,More Equal Society,75,Strongly Yes,Strongly No,No,Not Hungry,No,DK/REF
+200000,Male,66,65+,Independent,Moderate,College degree,,White,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,40,Not Very Strongly Yes,Strongly No,Yes,Not Hungry,Yes,DK/REF
+30000,Male,60,55-64,Independent,Moderate,High school or less,,White,,Suburb,Approve,Increased,Yes,Yes,DK/REF,1,Strongly Yes,Not Very Strongly Yes,Yes,Not Hungry,DK/REF,DK/REF
+700,Female,63,55-64,Strong Democrat,Strong Conservative,High school or less,,Black,,City,Approve,Increased,Yes,Yes,More Equal Society,50,Strongly No,Strongly Yes,No,Not Hungry,DK/REF,DK/REF
+56000,Female,65,65+,Strong Democrat,Moderate,College degree,,White,,Suburb,Disapprove,Increased,No,DK/REF,More Equal Society,50,Not Very Strongly No,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,59,55-64,Strong Democrat,Moderate,Some college,,White,,Suburb,Disapprove,Kept the Same,DK/REF,Yes,More Equal Society,5,Not Very Strongly No,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+73,Female,25,25-34,Independent,Moderate,Some college,,Latino,,City,Disapprove,Increased,No,No,More Equal Society,30,Not Very Strongly Yes,Strongly No,Yes,Very Hungry,No,Less Smelly
+35000,Female,58,55-64,Strong Democrat,Moderate,College degree,,Black,,City,Disapprove,Kept the Same,No,No,More Equal Society,75,Strongly No,Strongly No,No,Not Hungry,No,More Smelly
+200000,Male,30,25-34,Independent,Strong Conservative,High school or less,,White,,Suburb,Approve,Decreased,DK/REF,Yes,More Unequal Society,DK/REF,Strongly No,Strongly No,No,Not Hungry,Yes,More Smelly
+50000,Male,46,45-54,Strong Republican,Strong Conservative,High school or less,,White,,Small Town,Approve,Decreased,Yes,No,More Unequal Society,35,Strongly No,Strongly No,Yes,Not Hungry,Yes,More Smelly
+,Male,33,25-34,Not Strong Republican,Not Very Strong Conservative,College degree,,White,,Small Town,Approve,Decreased,Yes,Yes,More Equal Society,100,Strongly Yes,Not Very Strongly Yes,No,Not Hungry,No,DK/REF
+,Female,54,45-54,Strong Republican,Not Very Strong Conservative,Some college,,White,,Small Town,Approve,Kept the Same,No,Yes,More Equal Society,40,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,49,45-54,Strong Republican,Strong Conservative,High school or less,,White,,Suburb,Approve,Decreased,DK/REF,DK/REF,More Equal Society,60,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+50,Male,70,65+,Independent,Strong Conservative,College degree,,White,,Suburb,Approve,Decreased,No,No,More Equal Society,60,Strongly No,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,45,45-54,DK/REF,Not Very Strong Conservative,College degree,,White,,Small Town,Approve,Decreased,No,No,More Equal Society,DK/REF,Strongly Yes,Not Very Strongly No,No,Not Hungry,DK/REF,DK/REF
+3000000,Other,96,65+,Strong Democrat,Strong Liberal,High school or less,,DK/REF,,DK/REF,Approve,Increased,No,No,More Equal Society,DK/REF,Strongly No,Strongly No,No,Not Hungry,Yes,More Smelly
+80000,Male,50,45-54,Strong Republican,Strong Conservative,College degree,,White,,Small Town,Approve,Decreased,No,Yes,More Equal Society,DK/REF,Strongly No,Strongly No,No,Not Hungry,Yes,More Smelly
+2000,Female,60,55-64,Strong Democrat,Not very strong Liberal,College degree,,White,,Small Town,Disapprove,Increased,Yes,Yes,More Unequal Society,50,Strongly Yes,Strongly No,No,A Little Hungry,No,DK/REF
+,Female,84,65+,Strong Republican,Strong Conservative,High school or less,,White,,Small Town,Approve,DK/REF,No,DK/REF,More Equal Society,DK/REF,Not Very Strongly No,Strongly Yes,No,Not Hungry,No,More Smelly
+30000,Male,50,45-54,Strong Republican,Not very strong Liberal,High school or less,,White,,Small Town,Approve,Kept the Same,No,Yes,More Equal Society,80,Strongly Yes,DK/REF,No,Not Hungry,Yes,DK/REF
+,Female,65,65+,Independent,Moderate,Some college,,White,,Small Town,Disapprove,Kept the Same,No,No,DK/REF,DK/REF,DK/REF,Strongly No,No,Not Hungry,No,DK/REF
+80,Male,33,25-34,DK/REF,Moderate,Some college,,White,,Small Town,Disapprove,Decreased,No,No,More Equal Society,1,Strongly Yes,Strongly No,Yes,Not Hungry,No,More Smelly
+,Female,65,65+,Strong Democrat,Not very strong Liberal,College degree,,White,,City,Disapprove,Increased,No,No,More Equal Society,80,Strongly Yes,Strongly Yes,Yes,Not Hungry,DK/REF,DK/REF
+,Female,78,65+,Independent,Moderate,Graduate degree,,White,,City,DK/REF,Kept the Same,DK/REF,DK/REF,More Equal Society,DK/REF,DK/REF,Not Very Strongly No,No,Not Hungry,No,DK/REF
+,Male,69,65+,Strong Republican,Not Very Strong Conservative,High school or less,,White,,Small Town,Approve,DK/REF,DK/REF,DK/REF,More Equal Society,5,Strongly Yes,Strongly Yes,No,Not Hungry,No,Less Smelly
+60000,Male,50,45-54,DK/REF,DK/REF,College degree,,Black,,City,Disapprove,Increased,No,No,More Equal Society,90,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,DK/REF
+,Female,56,55-64,DK/REF,Strong Conservative,Some college,,White,,Small Town,Approve,Increased,DK/REF,Yes,DK/REF,DK/REF,Not Very Strongly No,Strongly No,DK/REF,Not Hungry,No,Less Smelly
+,Female,70,65+,Strong Democrat,Moderate,Some college,,Black,,City,Disapprove,Increased,No,No,More Equal Society,DK/REF,Not Very Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+,Male,67,65+,Strong Republican,Strong Conservative,Graduate degree,,Latino,,Small Town,Approve,Decreased,No,Yes,DK/REF,DK/REF,Strongly No,Strongly No,No,Not Hungry,DK/REF,DK/REF
+120000,Male,40,35-44,Strong Democrat,Strong Liberal,High school or less,,White,,City,Disapprove,Kept the Same,No,No,More Equal Society,95,Strongly Yes,Not Very Strongly No,Yes,DK/REF,DK/REF,DK/REF
+45000,Male,37,35-44,Strong Democrat,Strong Liberal,College degree,,White,,Suburb,Disapprove,Increased,No,Yes,More Equal Society,1,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+210,Male,44,35-44,Not Strong Republican,Strong Conservative,College degree,,White,,Suburb,Approve,Decreased,DK/REF,Yes,More Unequal Society,5,Strongly No,Strongly No,Yes,A Little Hungry,No,DK/REF
+,Female,60,55-64,Independent,Strong Conservative,High school or less,,White,,Small Town,DK/REF,Increased,No,No,More Equal Society,DK/REF,Strongly Yes,DK/REF,No,Not Hungry,No,DK/REF
+120000,Male,44,35-44,Strong Democrat,Moderate,College degree,,White,,Suburb,Disapprove,Kept the Same,No,Yes,More Unequal Society,3,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+60,Female,59,55-64,Independent,Moderate,Graduate degree,,White,,Small Town,Disapprove,Kept the Same,DK/REF,DK/REF,More Equal Society,80,Strongly No,Not Very Strongly No,Yes,A Little Hungry,No,DK/REF
+,Male,34,25-34,Not Strong Republican,Strong Conservative,College degree,,White,,Small Town,Approve,Decreased,DK/REF,DK/REF,DK/REF,DK/REF,Not Very Strongly No,Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+,Female,74,65+,Strong Republican,Strong Conservative,Some college,,White,,Small Town,Approve,Decreased,No,Yes,DK/REF,DK/REF,Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+120000,Female,36,35-44,Independent,Moderate,Graduate degree,,White,,Suburb,Disapprove,DK/REF,DK/REF,Yes,More Equal Society,50,DK/REF,DK/REF,Yes,Not Hungry,No,DK/REF
+12,Male,61,55-64,Strong Republican,Strong Liberal,High school or less,,White,,Small Town,Approve,Increased,Yes,Yes,More Equal Society,DK/REF,Strongly Yes,Strongly Yes,Yes,Not Hungry,DK/REF,DK/REF
+50000,Male,40,35-44,Strong Republican,Strong Conservative,High school or less,,White,,Small Town,Approve,Decreased,Yes,Yes,More Equal Society,25,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+80000,Male,35,35-44,Not Strong Republican,Moderate,Some college,,White,,Suburb,Approve,Decreased,DK/REF,No,More Equal Society,DK/REF,Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+,Female,72,65+,Independent,Moderate,High school or less,,White,,Suburb,Approve,Kept the Same,No,No,More Equal Society,10,Strongly No,Not Very Strongly No,No,Not Hungry,No,DK/REF
+75000,Male,60,55-64,Independent,Not Very Strong Conservative,College degree,,White,,Small Town,Approve,Decreased,Yes,Yes,More Equal Society,DK/REF,Strongly No,Strongly No,Yes,Not Hungry,Yes,DK/REF
+,Male,68,65+,Independent,Moderate,Some college,,White,,Suburb,Disapprove,Decreased,No,No,DK/REF,85,Strongly Yes,Strongly No,Yes,Not Hungry,No,DK/REF
+,Male,29,25-34,Independent,Moderate,High school or less,,White,,Small Town,Approve,Increased,No,Yes,More Equal Society,70,Strongly Yes,Strongly Yes,No,Not Hungry,Yes,More Smelly
+50,Female,68,65+,Not Strong Democrat,Moderate,Graduate degree,,White,,Small Town,Disapprove,Kept the Same,No,No,More Equal Society,80,Not Very Strongly Yes,Not Very Strongly No,Yes,A Little Hungry,No,DK/REF
+21000,Female,64,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Small Town,Disapprove,Increased,No,No,More Equal Society,99,Strongly No,Strongly Yes,No,Not Hungry,No,Less Smelly
+,Female,18,18-24,Independent,Moderate,Some college,,White,,Small Town,Disapprove,DK/REF,No,No,More Unequal Society,20,Not Very Strongly Yes,Strongly No,No,Not Hungry,No,DK/REF
+100000,Female,70,65+,Strong Republican,Strong Conservative,Graduate degree,,White,,Small Town,Approve,Decreased,No,No,More Unequal Society,100,Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+20000,Male,21,18-24,Strong Republican,Moderate,High school or less,,White,,City,Approve,Increased,DK/REF,Yes,More Equal Society,50,Strongly Yes,Strongly No,Yes,Not Hungry,No,DK/REF
+30000,Female,64,55-64,Independent,Not Very Strong Conservative,High school or less,,White,,Small Town,Neither Approve nor disapprove,Decreased,DK/REF,Yes,More Equal Society,100,Not Very Strongly No,Not Very Strongly No,No,Not Hungry,No,DK/REF
+25000,Female,65,65+,Strong Democrat,Not Very Strong Conservative,Some college,,Black,,City,Disapprove,Increased,No,No,More Equal Society,90,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+,Female,62,55-64,Strong Republican,Strong Conservative,College degree,,White,,Suburb,Approve,Decreased,Yes,Yes,More Equal Society,50,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+980,Female,65,65+,Strong Democrat,Moderate,High school or less,,White,,Small Town,Disapprove,Kept the Same,No,Yes,More Equal Society,5,Strongly Yes,Not Very Strongly Yes,Yes,Not Hungry,DK/REF,Less Smelly
+100000,Female,40,35-44,Strong Republican,DK/REF,College degree,,White,,Small Town,Approve,Decreased,No,DK/REF,DK/REF,50,Strongly No,Strongly No,Yes,Not Hungry,No,More Smelly
+,Male,40,35-44,Independent,Moderate,College degree,,White,,Suburb,Disapprove,Increased,DK/REF,DK/REF,More Equal Society,50,DK/REF,DK/REF,Yes,Not Hungry,DK/REF,DK/REF
+150,Male,37,35-44,Independent,Moderate,Graduate degree,,White,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,50,DK/REF,Not Very Strongly No,Yes,Not Hungry,Yes,DK/REF
+12000,Male,65,65+,Strong Democrat,Strong Liberal,High school or less,,White,,Suburb,Approve,DK/REF,Yes,No,More Equal Society,50,Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+88000,Female,53,45-54,Independent,Strong Conservative,College degree,,White,,City,Approve,Decreased,No,Yes,DK/REF,80,Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+,Female,65,65+,Independent,Not Very Strong Conservative,Graduate degree,,White,,Small Town,Approve,Decreased,Yes,Yes,More Equal Society,50,Not Very Strongly No,Not Very Strongly No,No,Not Hungry,No,DK/REF
+150000,Male,54,45-54,Independent,Moderate,High school or less,,White,,City,Approve,Kept the Same,No,No,More Equal Society,5,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,56,55-64,DK/REF,DK/REF,High school or less,,Black,,Small Town,Disapprove,Increased,No,Yes,More Equal Society,30,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+,Male,99,65+,Independent,DK/REF,Graduate degree,,Asian,,Suburb,DK/REF,DK/REF,No,No,More Equal Society,1,Strongly Yes,Strongly Yes,No,Not Hungry,No,More Smelly
+,Female,42,35-44,Strong Democrat,Not Very Strong Conservative,College degree,,Black,,City,Disapprove,Kept the Same,No,No,More Unequal Society,1,Strongly Yes,Not Very Strongly No,Yes,Very Hungry,DK/REF,DK/REF
+17000,Male,62,55-64,Independent,Strong Conservative,Graduate degree,,White,,Small Town,Neither Approve nor disapprove,Kept the Same,No,Yes,More Unequal Society,85,Strongly No,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+47,Female,62,55-64,Not Strong Democrat,Moderate,College degree,,White,,Small Town,Disapprove,Kept the Same,No,No,More Equal Society,80,Not Very Strongly No,Not Very Strongly No,Yes,Not Hungry,No,More Smelly
+,Female,66,65+,DK/REF,Not Very Strong Conservative,High school or less,,White,,City,DK/REF,Kept the Same,DK/REF,DK/REF,More Equal Society,DK/REF,Strongly Yes,DK/REF,No,A Little Hungry,No,DK/REF
+,Female,50,45-54,Independent,Moderate,College degree,,White,,Suburb,Disapprove,Increased,No,Yes,More Equal Society,5,Strongly Yes,Not Very Strongly Yes,No,Not Hungry,No,DK/REF
+50000,Female,54,45-54,Strong Democrat,Moderate,Some college,,White,,Small Town,Disapprove,Kept the Same,No,Yes,More Equal Society,90,Not Very Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+50,DK/REF,54,45-54,Independent,Strong Conservative,Some college,,DK/REF,,Suburb,DK/REF,Decreased,No,DK/REF,DK/REF,DK/REF,Strongly No,Strongly No,Yes,Not Hungry,Yes,DK/REF
+,Female,68,65+,Independent,Strong Conservative,Graduate degree,,White,,City,Approve,Decreased,Yes,Yes,More Equal Society,40,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+,Male,60,55-64,Independent,Moderate,College degree,,White,,Suburb,Approve,Kept the Same,Yes,DK/REF,More Equal Society,5,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,90,65+,Strong Republican,Moderate,High school or less,,White,,City,Approve,Kept the Same,Yes,Yes,More Equal Society,DK/REF,Strongly No,Strongly Yes,No,Not Hungry,Yes,DK/REF
+135000,Male,65,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,3,Strongly Yes,Strongly No,Yes,Not Hungry,No,Less Smelly
+20,Female,49,45-54,Not Strong Republican,Moderate,High school or less,,Black,,City,Disapprove,DK/REF,No,No,More Equal Society,DK/REF,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,More Smelly
+,Female,63,55-64,Strong Republican,Strong Conservative,College degree,,White,,Small Town,Approve,Decreased,Yes,Yes,More Equal Society,DK/REF,Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+,Male,60,55-64,Strong Republican,Strong Conservative,Some college,,White,,Suburb,Approve,Decreased,DK/REF,DK/REF,More Unequal Society,20,Strongly No,Strongly Yes,No,Not Hungry,No,DK/REF
+70000,Male,45,45-54,Independent,Moderate,Some college,,Black,,City,Disapprove,Kept the Same,Yes,Yes,More Equal Society,20,Not Very Strongly No,Strongly No,No,Not Hungry,Yes,DK/REF
+,Female,90,65+,Strong Democrat,Strong Conservative,High school or less,,White,,Suburb,Neither Approve nor disapprove,Increased,DK/REF,Yes,More Equal Society,DK/REF,Not Very Strongly No,Not Very Strongly Yes,No,Not Hungry,Yes,DK/REF
+500000,Male,97,65+,Independent,Strong Conservative,High school or less,,White,,Small Town,Disapprove,Decreased,No,Yes,DK/REF,DK/REF,Strongly No,Strongly No,DK/REF,Not Hungry,Yes,DK/REF
+,Male,68,65+,Strong Republican,Strong Conservative,Graduate degree,,White,,Suburb,Approve,Kept the Same,No,Yes,More Equal Society,20,Strongly No,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,56,55-64,Not Strong Democrat,Moderate,College degree,,White,,Suburb,Neither Approve nor disapprove,Decreased,No,No,More Equal Society,80,Not Very Strongly No,Strongly No,DK/REF,Not Hungry,Yes,DK/REF
+,Male,59,55-64,DK/REF,Not Very Strong Conservative,Some college,,White,,Small Town,DK/REF,Decreased,DK/REF,DK/REF,More Unequal Society,5,Strongly No,DK/REF,No,Not Hungry,DK/REF,More Smelly
+,Male,65,65+,Independent,Strong Conservative,College degree,,White,,Suburb,Approve,Kept the Same,Yes,Yes,More Equal Society,50,Not Very Strongly Yes,Strongly No,No,Not Hungry,No,DK/REF
+12000,Male,45,45-54,DK/REF,Moderate,Some college,,White,,Small Town,Disapprove,Kept the Same,No,No,More Unequal Society,80,Not Very Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+85000,Female,54,45-54,Strong Democrat,Strong Liberal,High school or less,,White,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,8,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+58000,Female,57,55-64,Independent,Moderate,Graduate degree,,White,,Small Town,Neither Approve nor disapprove,Kept the Same,No,Yes,More Equal Society,28,Strongly No,Strongly No,No,Not Hungry,No,More Smelly
+30000,Male,70,65+,DK/REF,DK/REF,High school or less,,White,,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,Not Very Strongly No,No,Not Hungry,DK/REF,DK/REF
+,Female,61,55-64,Strong Republican,Moderate,High school or less,,White,,Small Town,Approve,DK/REF,No,No,More Equal Society,DK/REF,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,36,35-44,Independent,Moderate,Graduate degree,,White,,Suburb,DK/REF,Decreased,No,Yes,DK/REF,60,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,55,55-64,Independent,Moderate,High school or less,,White,,Small Town,Disapprove,Kept the Same,Yes,Yes,More Equal Society,80,Strongly Yes,Strongly No,Yes,Not Hungry,No,DK/REF
+60000,Male,53,45-54,Strong Republican,Strong Conservative,High school or less,,White,,Small Town,Disapprove,Kept the Same,No,No,More Equal Society,65,Strongly No,Strongly No,No,Not Hungry,Yes,Less Smelly
+20000,Male,41,35-44,Independent,Moderate,High school or less,,White,,Small Town,Approve,Decreased,Yes,Yes,More Equal Society,20,Strongly No,Strongly No,No,Not Hungry,DK/REF,DK/REF
+110,Female,62,55-64,DK/REF,Strong Conservative,Graduate degree,,White,,Small Town,Disapprove,Kept the Same,No,No,More Equal Society,25,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+120000,Male,56,55-64,Strong Republican,Strong Conservative,High school or less,,Black,,City,DK/REF,Increased,No,Yes,More Unequal Society,DK/REF,Strongly Yes,Strongly No,No,Very Hungry,No,More Smelly
+,Male,50,45-54,Strong Republican,Strong Conservative,Some college,,White,,City,Approve,Kept the Same,No,No,More Equal Society,60,Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+30000,Male,60,55-64,Independent,DK/REF,College degree,,Other,Mexican,Small Town,Neither Approve nor disapprove,Increased,No,No,More Equal Society,60,Strongly No,Strongly Yes,Yes,Not Hungry,No,DK/REF
+,Female,64,55-64,DK/REF,Moderate,Some college,,White,,City,Neither Approve nor disapprove,Kept the Same,Yes,No,More Equal Society,24,Strongly No,Strongly No,No,Not Hungry,Yes,DK/REF
+,Male,32,25-34,Strong Democrat,Not very strong Liberal,High school or less,,Latino,,Small Town,Disapprove,Increased,Yes,Yes,More Equal Society,DK/REF,Strongly Yes,DK/REF,No,Not Hungry,No,DK/REF
+,Male,50,45-54,Not Strong Republican,Not Very Strong Conservative,Graduate degree,,White,,Small Town,Disapprove,DK/REF,DK/REF,Yes,More Equal Society,5,Not Very Strongly Yes,Strongly No,Yes,Not Hungry,No,DK/REF
+93000,Male,57,55-64,Independent,Moderate,High school or less,,White,,Small Town,Approve,Decreased,No,No,More Unequal Society,85,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+75000,Male,59,55-64,Independent,Not very strong Liberal,Some college,,White,,Suburb,Disapprove,Kept the Same,Yes,Yes,More Equal Society,94,Strongly Yes,Strongly No,Yes,Not Hungry,No,More Smelly
+,Female,66,65+,Strong Democrat,Strong Liberal,College degree,,White,,DK/REF,Disapprove,Increased,No,No,More Equal Society,90,Strongly Yes,DK/REF,Yes,Not Hungry,No,DK/REF
+175000,Male,30,25-34,Independent,Moderate,Other,Master Degree,White,,City,Disapprove,Kept the Same,No,Yes,More Equal Society,65,Strongly No,Strongly No,Yes,Not Hungry,Yes,DK/REF
+200000,Male,52,45-54,Strong Republican,Not Very Strong Conservative,College degree,,White,,City,Approve,Kept the Same,No,Yes,More Equal Society,85,Strongly No,Not Very Strongly No,Yes,Not Hungry,No,More Smelly
+30000,Female,67,65+,Independent,Not very strong Liberal,High school or less,,White,,Small Town,Neither Approve nor disapprove,Decreased,No,No,More Unequal Society,DK/REF,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+70,Male,50,45-54,Independent,Strong Conservative,Some college,,White,,Small Town,Approve,Kept the Same,No,No,More Equal Society,DK/REF,DK/REF,DK/REF,DK/REF,Not Hungry,No,DK/REF
+50,Female,45,45-54,Independent,Moderate,College degree,,Latino,,Suburb,Disapprove,Increased,No,No,More Equal Society,25,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,Yes,More Smelly
+,Female,36,35-44,DK/REF,Moderate,Graduate degree,,White,,City,Neither Approve nor disapprove,Decreased,No,No,More Equal Society,50,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+35000,Male,20,18-24,Independent,Moderate,Some college,,DK/REF,,Suburb,Neither Approve nor disapprove,Decreased,No,No,More Equal Society,60,Strongly No,Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+14,Male,33,25-34,Independent,Strong Liberal,Some college,,White,,Small Town,Disapprove,Increased,Yes,No,More Equal Society,90,Not Very Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+15000,Female,63,55-64,Strong Republican,Not very strong Liberal,High school or less,,DK/REF,,Small Town,Disapprove,Kept the Same,Yes,Yes,More Equal Society,1,Not Very Strongly Yes,Strongly No,No,Not Hungry,Yes,DK/REF
+,Male,45,45-54,Independent,Moderate,Graduate degree,,White,,DK/REF,Disapprove,Kept the Same,No,No,More Equal Society,DK/REF,Not Very Strongly No,Strongly No,Yes,Very Hungry,Yes,More Smelly
+90000,Female,38,35-44,Not Strong Republican,Moderate,College degree,,White,,Small Town,DK/REF,Kept the Same,DK/REF,No,More Equal Society,10,Not Very Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+40000,Male,60,55-64,Independent,Moderate,Other,Master Degree,DK/REF,,DK/REF,Approve,Decreased,No,No,DK/REF,90,Strongly No,Strongly No,Yes,Not Hungry,No,More Smelly
+40000,Female,68,65+,Not Strong Democrat,Strong Liberal,College degree,,White,,Small Town,Disapprove,Increased,No,No,More Equal Society,99,Strongly Yes,DK/REF,Yes,Not Hungry,DK/REF,DK/REF
+70,Male,24,18-24,Independent,Moderate,High school or less,,White,,Suburb,Disapprove,Decreased,Yes,Yes,More Equal Society,99,Strongly No,Strongly No,Yes,Very Hungry,Yes,More Smelly
+,Other,64,55-64,Independent,Not Very Strong Conservative,College degree,,White,,Suburb,Approve,Decreased,No,No,More Unequal Society,80,Strongly No,Strongly Yes,Yes,Very Hungry,Yes,Less Smelly
+40000,Female,65,65+,Strong Democrat,Moderate,Some college,,White,,City,Neither Approve nor disapprove,Decreased,Yes,No,More Equal Society,60,Strongly No,Strongly No,No,Not Hungry,Yes,Less Smelly
+150000,Male,38,35-44,Strong Republican,Strong Conservative,College degree,,White,,Suburb,Approve,Decreased,No,Yes,More Unequal Society,50,Strongly No,Strongly Yes,Yes,Not Hungry,DK/REF,DK/REF
+80000,Male,63,55-64,Independent,Strong Liberal,High school or less,,White,,Small Town,Disapprove,Kept the Same,No,Yes,More Equal Society,1,Strongly Yes,DK/REF,Yes,Not Hungry,Yes,Less Smelly
+100000,Female,49,45-54,Independent,DK/REF,High school or less,,White,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,5,Not Very Strongly No,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+33000,Male,66,65+,Strong Republican,Strong Conservative,College degree,,White,,Suburb,Approve,Decreased,Yes,Yes,More Equal Society,10,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+100000,Female,20,18-24,Not Strong Democrat,Moderate,Some college,,Other,Hispanic,City,Disapprove,Kept the Same,No,No,More Equal Society,100,Not Very Strongly No,Not Very Strongly Yes,No,Not Hungry,Yes,Less Smelly
+70000,Male,32,25-34,Strong Democrat,Not very strong Liberal,Graduate degree,,White,,Small Town,Disapprove,Increased,No,No,More Equal Society,99,Not Very Strongly Yes,Strongly No,Yes,Not Hungry,No,Less Smelly
+,Male,77,65+,Independent,Moderate,Graduate degree,,White,,City,Disapprove,Kept the Same,No,No,More Equal Society,85,DK/REF,Strongly No,Yes,Not Hungry,No,Less Smelly
+18,Female,59,55-64,Not Strong Democrat,Moderate,Some college,,White,,City,Approve,Kept the Same,No,Yes,More Equal Society,75,Strongly Yes,Strongly No,No,Not Hungry,No,Less Smelly
+,Female,64,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Suburb,Disapprove,Increased,No,No,More Equal Society,45,Strongly Yes,Strongly No,No,Not Hungry,No,DK/REF
+12,Male,65,65+,Independent,Strong Conservative,Graduate degree,,Asian,,Small Town,DK/REF,Kept the Same,No,No,More Equal Society,1,Strongly No,Strongly No,No,Not Hungry,No,More Smelly
+35000,Other,42,35-44,DK/REF,DK/REF,High school or less,,Other,American Indian,DK/REF,Approve,Increased,No,No,More Unequal Society,1,Strongly No,Strongly No,DK/REF,Very Hungry,Yes,Less Smelly
+,Female,63,55-64,Strong Republican,Moderate,High school or less,,White,,City,Approve,Kept the Same,Yes,DK/REF,More Equal Society,50,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,60,55-64,Strong Democrat,Strong Liberal,College degree,,White,,Small Town,Disapprove,Increased,DK/REF,DK/REF,More Equal Society,59,Strongly Yes,DK/REF,Yes,Not Hungry,No,DK/REF
+,Female,66,65+,DK/REF,Moderate,Some college,,White,,Small Town,DK/REF,Kept the Same,No,No,More Equal Society,80,Not Very Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+50000,Female,74,65+,Not Strong Democrat,Moderate,Graduate degree,,White,,DK/REF,Neither Approve nor disapprove,Kept the Same,DK/REF,Yes,DK/REF,75,Not Very Strongly Yes,Strongly No,Yes,Not Hungry,No,DK/REF
+100000,Male,39,35-44,Independent,Strong Liberal,High school or less,,White,,Small Town,Disapprove,Increased,No,No,More Equal Society,50,Strongly Yes,Not Very Strongly No,Yes,A Little Hungry,Yes,More Smelly
+,Male,48,45-54,Not Strong Democrat,Moderate,College degree,,White,,City,Disapprove,Kept the Same,No,No,More Equal Society,30,Strongly No,Strongly Yes,Yes,Not Hungry,Yes,Less Smelly
+110000,Male,50,45-54,Independent,Moderate,Other,Master's Degree,Other,spanish,Small Town,Disapprove,Kept the Same,No,No,More Equal Society,DK/REF,Strongly Yes,Strongly Yes,Yes,Not Hungry,DK/REF,DK/REF
+,Male,55,55-64,Not Strong Republican,Moderate,Graduate degree,,Black,,City,Approve,Decreased,No,Yes,More Equal Society,30,Strongly No,Strongly No,Yes,Very Hungry,Yes,More Smelly
+120000,Other,60,55-64,DK/REF,Not Very Strong Conservative,College degree,,White,,Suburb,Approve,Decreased,No,No,More Equal Society,DK/REF,Strongly No,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+,Male,21,18-24,DK/REF,Moderate,Some college,,White,,Small Town,Disapprove,Increased,No,Yes,More Equal Society,80,Not Very Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,40,35-44,Strong Democrat,Moderate,Graduate degree,,Latino,,Suburb,Disapprove,Increased,No,Yes,More Equal Society,20,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+700,Female,51,45-54,Strong Democrat,Moderate,High school or less,,White,,City,Disapprove,Increased,Yes,Yes,More Equal Society,75,Strongly Yes,Strongly No,Yes,Not Hungry,No,Less Smelly
+,Male,33,25-34,DK/REF,Not very strong Liberal,Graduate degree,,Asian,,City,Disapprove,Increased,DK/REF,DK/REF,More Equal Society,98,Strongly Yes,Not Very Strongly Yes,Yes,Not Hungry,No,DK/REF
+,Female,65,65+,Strong Republican,Moderate,Some college,,White,,City,Approve,Decreased,No,Yes,More Equal Society,1,Strongly No,Not Very Strongly No,No,Not Hungry,No,More Smelly
+,Female,21,18-24,Independent,Moderate,High school or less,,Latino,,Small Town,Disapprove,Kept the Same,No,No,More Equal Society,70,Strongly Yes,Strongly Yes,Yes,Not Hungry,No,DK/REF
+100000,Male,61,55-64,Not Strong Democrat,Not very strong Liberal,College degree,,White,,Small Town,Disapprove,Kept the Same,Yes,No,More Equal Society,94,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,More Smelly
+50,Female,40,35-44,Not Strong Republican,Strong Conservative,Some college,,White,,Small Town,Approve,Decreased,Yes,Yes,More Equal Society,50,Strongly Yes,Strongly No,Yes,Not Hungry,No,DK/REF
+350,Male,36,35-44,Strong Republican,Strong Conservative,Graduate degree,,White,,Suburb,Approve,Decreased,No,No,More Equal Society,75,Strongly No,Not Very Strongly Yes,No,Not Hungry,Yes,More Smelly
+100000,Male,74,65+,DK/REF,Moderate,Graduate degree,,Asian,,City,Disapprove,Kept the Same,Yes,Yes,More Unequal Society,40,DK/REF,Strongly No,No,Not Hungry,No,Less Smelly
+,DK/REF,99,65+,Strong Democrat,Moderate,Some college,,Latino,,DK/REF,Disapprove,Increased,Yes,No,DK/REF,5,Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+20000,Female,29,25-34,Strong Democrat,Moderate,High school or less,,Black,,City,Disapprove,Increased,Yes,Yes,More Equal Society,90,Strongly Yes,Strongly No,Yes,Very Hungry,Yes,Less Smelly
+140000,Male,63,55-64,Independent,Moderate,High school or less,,White,,Suburb,Disapprove,Kept the Same,Yes,Yes,More Equal Society,80,Not Very Strongly Yes,Strongly No,Yes,A Little Hungry,Yes,DK/REF
+,Female,68,65+,Independent,Moderate,High school or less,,DK/REF,,Small Town,Neither Approve nor disapprove,Increased,No,No,More Equal Society,DK/REF,Strongly No,Strongly Yes,No,Very Hungry,No,Less Smelly
+19999,Other,19,18-24,DK/REF,DK/REF,High school or less,,DK/REF,,Suburb,DK/REF,Kept the Same,DK/REF,DK/REF,More Equal Society,100,DK/REF,DK/REF,DK/REF,Not Hungry,DK/REF,DK/REF
+20000,Female,52,45-54,Independent,Strong Conservative,High school or less,,White,,Suburb,DK/REF,Increased,Yes,No,DK/REF,30,Strongly Yes,Strongly Yes,Yes,A Little Hungry,No,Less Smelly
+25000,Female,59,55-64,Independent,Strong Conservative,Some college,,Black,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,75,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+18,Female,82,65+,Independent,Strong Conservative,College degree,,White,,Small Town,Approve,Increased,No,No,More Equal Society,DK/REF,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+,Male,65,65+,Independent,Strong Liberal,Graduate degree,,White,,Suburb,Disapprove,Decreased,No,Yes,More Equal Society,100,Not Very Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+80000,Male,36,35-44,Strong Republican,Strong Conservative,High school or less,,White,,City,Approve,Decreased,DK/REF,Yes,More Equal Society,90,Strongly No,Strongly No,No,Not Hungry,Yes,More Smelly
+,Female,34,25-34,DK/REF,DK/REF,College degree,,DK/REF,,DK/REF,Disapprove,DK/REF,No,No,DK/REF,50,Not Very Strongly No,DK/REF,DK/REF,A Little Hungry,No,DK/REF
+,Female,99,65+,Strong Republican,Strong Conservative,DK/REF,,DK/REF,,Small Town,Approve,Increased,Yes,Yes,More Equal Society,80,Strongly No,Strongly No,No,Very Hungry,No,DK/REF
+40000,Female,35,35-44,DK/REF,Moderate,College degree,,White,,Small Town,Disapprove,DK/REF,No,Yes,More Equal Society,80,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,More Smelly
+12000,Other,43,35-44,DK/REF,Strong Liberal,Graduate degree,,DK/REF,,City,DK/REF,Kept the Same,No,No,More Equal Society,85,DK/REF,Strongly No,Yes,Not Hungry,Yes,DK/REF
+110000,Male,41,35-44,Not Strong Republican,Strong Conservative,Some college,,White,,Suburb,Approve,Decreased,No,No,More Unequal Society,60,Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+,Male,60,55-64,Strong Democrat,Moderate,College degree,,Black,,Small Town,Disapprove,DK/REF,No,Yes,More Equal Society,85,Strongly No,Not Very Strongly No,No,Not Hungry,No,DK/REF
+,Female,39,35-44,Strong Democrat,Strong Liberal,College degree,,Black,,City,Disapprove,Kept the Same,No,Yes,More Equal Society,70,Strongly Yes,Strongly No,Yes,A Little Hungry,No,Less Smelly
+80000,Male,43,35-44,DK/REF,DK/REF,College degree,,White,,City,DK/REF,DK/REF,DK/REF,DK/REF,More Equal Society,DK/REF,Strongly No,DK/REF,No,Not Hungry,DK/REF,DK/REF
+,Male,60,55-64,DK/REF,Not Very Strong Conservative,College degree,,Other,Middle Eastern,City,Neither Approve nor disapprove,Kept the Same,No,Yes,More Unequal Society,2,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+500000,Male,22,18-24,Strong Republican,Strong Conservative,Graduate degree,,White,,Suburb,Approve,Kept the Same,No,No,DK/REF,60,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+49000,Female,45,45-54,DK/REF,DK/REF,High school or less,,Black,,City,Neither Approve nor disapprove,Kept the Same,No,Yes,More Equal Society,25,Not Very Strongly Yes,Strongly No,Yes,Not Hungry,No,Less Smelly
+,Female,64,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Small Town,Disapprove,Increased,Yes,Yes,More Equal Society,10,Not Very Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+70000,Female,57,55-64,Strong Democrat,Moderate,Graduate degree,,White,,Suburb,Disapprove,Increased,Yes,Yes,More Equal Society,DK/REF,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,22,18-24,Independent,Moderate,Some college,,White,,City,Approve,Decreased,DK/REF,No,More Equal Society,50,Strongly No,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+,Male,37,35-44,DK/REF,DK/REF,Graduate degree,,White,,Small Town,Approve,DK/REF,No,No,DK/REF,DK/REF,DK/REF,DK/REF,Yes,A Little Hungry,Yes,DK/REF
+,Other,97,65+,DK/REF,Moderate,Graduate degree,,DK/REF,,Small Town,Neither Approve nor disapprove,Increased,No,No,More Unequal Society,1,Strongly Yes,Strongly No,Yes,Very Hungry,Yes,Less Smelly
+60000,Female,66,65+,Independent,Strong Liberal,Graduate degree,,Other,European American,City,Disapprove,Increased,DK/REF,DK/REF,More Equal Society,80,DK/REF,Not Very Strongly No,Yes,A Little Hungry,No,Less Smelly
+1120,Female,66,65+,Strong Democrat,Moderate,High school or less,,Latino,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,50,Strongly Yes,Strongly No,Yes,Not Hungry,No,Less Smelly
+,Male,51,45-54,Independent,DK/REF,College degree,,White,,City,Disapprove,Kept the Same,No,Yes,More Equal Society,92,Strongly No,Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+55000,Male,19,18-24,Independent,Moderate,Some college,,Black,,Suburb,Disapprove,Decreased,No,No,More Equal Society,80,Not Very Strongly No,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+6000,Male,57,55-64,Strong Democrat,Strong Conservative,Graduate degree,,Black,,Small Town,Disapprove,Decreased,DK/REF,DK/REF,More Equal Society,97,Strongly Yes,Strongly No,No,A Little Hungry,Yes,More Smelly
+140000,Male,54,45-54,Independent,Strong Conservative,High school or less,,Black,,Small Town,Disapprove,Increased,No,Yes,More Equal Society,75,Strongly Yes,Strongly Yes,Yes,Very Hungry,Yes,More Smelly
+300000,Male,50,45-54,Strong Democrat,Not Very Strong Conservative,High school or less,,White,,Small Town,Approve,Increased,Yes,No,More Equal Society,100,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+30000,Male,50,45-54,DK/REF,DK/REF,Graduate degree,,Other,Inuit,Suburb,DK/REF,Kept the Same,No,No,DK/REF,DK/REF,DK/REF,Not Very Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+,Male,50,45-54,Independent,Strong Conservative,Graduate degree,,White,,Small Town,Approve,Decreased,DK/REF,DK/REF,More Equal Society,25,Strongly No,Strongly No,Yes,Very Hungry,Yes,More Smelly
+20000,Male,56,55-64,Strong Democrat,Not Very Strong Conservative,High school or less,,White,,Small Town,Neither Approve nor disapprove,Kept the Same,No,Yes,More Equal Society,5,Strongly No,Strongly No,No,Not Hungry,Yes,Less Smelly
+110000,Male,23,18-24,Strong Democrat,Not very strong Liberal,Graduate degree,,White,,Small Town,Neither Approve nor disapprove,Increased,No,Yes,More Equal Society,90,Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+24000,Male,24,18-24,Independent,Not Very Strong Conservative,Some college,,White,,City,Neither Approve nor disapprove,Increased,Yes,Yes,More Equal Society,80,Not Very Strongly Yes,Strongly Yes,Yes,Not Hungry,No,Less Smelly
+120000,Male,39,35-44,Independent,Moderate,Some college,,White,,City,Disapprove,Kept the Same,No,DK/REF,More Equal Society,90,Strongly Yes,Not Very Strongly Yes,Yes,Not Hungry,Yes,More Smelly
+60000,Male,86,65+,Independent,Moderate,College degree,,White,,Small Town,Disapprove,Increased,Yes,Yes,More Equal Society,10,Not Very Strongly Yes,Not Very Strongly No,No,Not Hungry,No,Less Smelly
+25000,Male,29,25-34,Independent,Moderate,Some college,,White,,Suburb,Disapprove,Kept the Same,Yes,Yes,More Equal Society,60,Strongly Yes,Strongly Yes,Yes,Not Hungry,Yes,More Smelly
+35,Male,50,45-54,Independent,Not Very Strong Conservative,Graduate degree,,White,,Small Town,Neither Approve nor disapprove,Kept the Same,No,No,More Unequal Society,50,Strongly Yes,Strongly No,No,Not Hungry,No,Less Smelly
+60000,Male,45,45-54,Strong Republican,Not Very Strong Conservative,College degree,,White,,Small Town,Approve,Decreased,No,No,More Equal Society,66,Strongly No,Strongly No,Yes,Not Hungry,Yes,More Smelly
+,Male,38,35-44,Independent,Strong Liberal,College degree,,White,,Suburb,Disapprove,Increased,No,Yes,More Equal Society,90,Strongly Yes,Not Very Strongly Yes,Yes,Not Hungry,Yes,More Smelly
+15000,Female,69,65+,Independent,Not very strong Liberal,Graduate degree,,White,,City,Disapprove,Increased,DK/REF,No,More Equal Society,15,Not Very Strongly Yes,Not Very Strongly Yes,Yes,A Little Hungry,No,More Smelly
+50000,Female,30,25-34,Strong Democrat,Strong Liberal,College degree,,White,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,5,Strongly Yes,Strongly Yes,Yes,Not Hungry,Yes,Less Smelly
+75000,Male,71,65+,Strong Republican,Moderate,Graduate degree,,White,,DK/REF,Approve,Kept the Same,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,No,DK/REF,DK/REF,DK/REF
+180,Female,48,45-54,Not Strong Republican,Moderate,College degree,,White,,Suburb,Approve,DK/REF,Yes,Yes,More Equal Society,80,Strongly No,Strongly No,Yes,Not Hungry,DK/REF,Less Smelly
+125000,Male,36,35-44,Independent,Moderate,College degree,,White,,City,Disapprove,Kept the Same,No,No,More Equal Society,75,Not Very Strongly No,Not Very Strongly No,Yes,Not Hungry,Yes,Less Smelly
+,Male,63,55-64,Independent,Strong Liberal,College degree,,White,,Small Town,Disapprove,Increased,No,No,More Equal Society,50,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,Yes,DK/REF
+70000,Male,32,25-34,Independent,Moderate,Graduate degree,,White,,Suburb,Disapprove,Kept the Same,No,Yes,More Equal Society,60,Strongly No,Strongly No,Yes,A Little Hungry,Yes,Less Smelly
+30000,Female,68,65+,Strong Republican,Not Very Strong Conservative,Some college,,White,,City,Approve,DK/REF,No,Yes,More Equal Society,10,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+,Male,55,55-64,Strong Democrat,Not very strong Liberal,Graduate degree,,White,,City,Disapprove,Kept the Same,No,DK/REF,More Equal Society,30,Strongly Yes,DK/REF,DK/REF,Not Hungry,No,DK/REF
+,Female,49,45-54,Strong Democrat,Moderate,Graduate degree,,White,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,80,Not Very Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+57000,Male,29,25-34,Independent,Not very strong Liberal,High school or less,,White,,Small Town,Disapprove,Kept the Same,No,Yes,More Equal Society,DK/REF,Strongly Yes,Strongly No,No,A Little Hungry,Yes,DK/REF
+150000,Male,60,55-64,Not Strong Republican,Strong Conservative,College degree,,White,,Small Town,Approve,DK/REF,No,Yes,More Equal Society,30,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+,Male,64,55-64,Independent,Moderate,College degree,,White,,Suburb,Neither Approve nor disapprove,Kept the Same,No,Yes,More Equal Society,80,Not Very Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+45000,Male,44,35-44,Strong Republican,Strong Conservative,Some college,,White,,Small Town,Approve,Kept the Same,No,No,More Equal Society,80,Strongly No,Strongly No,No,A Little Hungry,No,Less Smelly
+35000,Female,23,18-24,Not Strong Republican,Moderate,Graduate degree,,White,,Suburb,Neither Approve nor disapprove,Decreased,No,Yes,More Equal Society,50,Strongly No,Strongly Yes,Yes,A Little Hungry,No,Less Smelly
+,DK/REF,39,35-44,Independent,DK/REF,Some college,,DK/REF,,Small Town,Approve,Decreased,DK/REF,Yes,DK/REF,1,Strongly No,Strongly No,DK/REF,Not Hungry,DK/REF,DK/REF
+50000,Male,48,45-54,Strong Democrat,Strong Conservative,College degree,,Black,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,48,Strongly No,Strongly No,Yes,A Little Hungry,DK/REF,DK/REF
+,Female,69,65+,Strong Democrat,Strong Liberal,College degree,,White,,Suburb,Disapprove,Increased,No,No,More Equal Society,80,Strongly Yes,DK/REF,Yes,Not Hungry,No,DK/REF
+,Female,61,55-64,Independent,Moderate,College degree,,White,,Small Town,DK/REF,Decreased,No,No,More Equal Society,3,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+5000,Female,56,55-64,Independent,Moderate,Some college,,White,,Small Town,Disapprove,DK/REF,DK/REF,DK/REF,More Equal Society,80,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+,Male,48,45-54,Independent,Moderate,Graduate degree,,Black,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,80,Strongly No,Strongly No,Yes,Not Hungry,Yes,DK/REF
+,Male,28,25-34,Independent,Moderate,College degree,,White,,City,Disapprove,Decreased,Yes,Yes,More Equal Society,90,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,Yes,Less Smelly
+,Male,63,55-64,Independent,Not Very Strong Conservative,College degree,,White,,Suburb,Approve,Decreased,DK/REF,No,DK/REF,5,Strongly No,Strongly No,No,A Little Hungry,DK/REF,DK/REF
+,Female,53,45-54,Strong Democrat,Moderate,Graduate degree,,White,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,70,Not Very Strongly Yes,Strongly Yes,Yes,Not Hungry,No,DK/REF
+100000,Male,58,55-64,Strong Republican,Strong Conservative,College degree,,White,,Suburb,Approve,Decreased,No,No,DK/REF,DK/REF,Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+,Male,61,55-64,Independent,Not Very Strong Conservative,High school or less,,White,,Small Town,Disapprove,Kept the Same,No,No,More Equal Society,60,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+130,Male,36,35-44,Strong Republican,Moderate,Graduate degree,,White,,City,Disapprove,Kept the Same,DK/REF,No,More Equal Society,75,Not Very Strongly Yes,Strongly Yes,Yes,Not Hungry,Yes,More Smelly
+20000,Male,23,18-24,Independent,Moderate,College degree,,Latino,,Suburb,Approve,Decreased,No,No,More Equal Society,90,Strongly No,Strongly No,Yes,Not Hungry,Yes,DK/REF
+90000,Male,52,45-54,DK/REF,Moderate,High school or less,,Other,Native American,City,Approve,Decreased,No,No,More Equal Society,70,Strongly No,Strongly No,Yes,Very Hungry,Yes,Less Smelly
+100000,Male,57,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,City,Disapprove,Increased,No,No,More Equal Society,DK/REF,Strongly Yes,DK/REF,No,DK/REF,DK/REF,DK/REF
+,Male,66,65+,Strong Democrat,Moderate,High school or less,,Black,,DK/REF,Disapprove,Increased,No,Yes,More Equal Society,100,Strongly Yes,Strongly Yes,No,Not Hungry,Yes,DK/REF
+100000,Female,50,45-54,Independent,Moderate,Graduate degree,,White,,Suburb,Neither Approve nor disapprove,Decreased,DK/REF,Yes,More Equal Society,30,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+,Male,18,18-24,DK/REF,Moderate,College degree,,White,,Small Town,Disapprove,Kept the Same,No,Yes,More Equal Society,85,Strongly Yes,Strongly No,Yes,Not Hungry,No,DK/REF
+18,Male,69,65+,Strong Democrat,Strong Liberal,Some college,,White,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,60,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+,Male,19,18-24,Independent,Not very strong Liberal,Some college,,Asian,,Suburb,Approve,Kept the Same,Yes,Yes,More Equal Society,5,Strongly No,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+,Female,72,65+,Independent,Not very strong Liberal,College degree,,White,,City,Disapprove,Kept the Same,Yes,Yes,More Equal Society,DK/REF,Strongly Yes,Strongly No,No,Not Hungry,DK/REF,DK/REF
+,Female,61,55-64,Independent,Strong Liberal,College degree,,Black,,City,Disapprove,Increased,No,Yes,More Equal Society,90,Strongly Yes,Strongly Yes,Yes,Not Hungry,No,Less Smelly
+,Male,54,45-54,Strong Democrat,Moderate,College degree,,White,,City,Disapprove,Increased,No,Yes,More Equal Society,90,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,DK/REF
+500000,Male,58,55-64,Independent,Moderate,Graduate degree,,Other,Pacific Islander,City,Disapprove,Kept the Same,Yes,No,More Equal Society,97,Strongly Yes,Strongly No,No,Not Hungry,No,Less Smelly
+60000,Female,46,45-54,Independent,Not Very Strong Conservative,College degree,,Latino,,Suburb,Neither Approve nor disapprove,Kept the Same,DK/REF,DK/REF,More Equal Society,DK/REF,Strongly Yes,Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+,Male,40,35-44,Independent,Moderate,High school or less,,White,,City,Neither Approve nor disapprove,Increased,No,No,More Unequal Society,99,Strongly No,Strongly Yes,Yes,Not Hungry,No,More Smelly
+50000,Male,87,65+,Independent,Moderate,High school or less,,White,,Small Town,Disapprove,Kept the Same,No,Yes,More Equal Society,98,Strongly Yes,Strongly No,No,Not Hungry,No,Less Smelly
+85000,Male,65,65+,Independent,Strong Conservative,Some college,,White,,Small Town,Approve,Increased,No,No,More Equal Society,90,Strongly No,Strongly Yes,Yes,Not Hungry,No,DK/REF
+,Female,51,45-54,Independent,Moderate,College degree,,White,,Small Town,Disapprove,Kept the Same,No,Yes,More Equal Society,45,Not Very Strongly No,Not Very Strongly Yes,No,Not Hungry,No,Less Smelly
+,Male,24,18-24,Independent,Moderate,College degree,,DK/REF,,City,Disapprove,Decreased,Yes,Yes,More Equal Society,98,Strongly No,Strongly No,Yes,Not Hungry,Yes,More Smelly
+,Female,47,45-54,Strong Republican,Not Very Strong Conservative,Graduate degree,,White,,Suburb,Approve,Kept the Same,Yes,Yes,DK/REF,50,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,More Smelly
+,Female,53,45-54,Independent,Moderate,Graduate degree,,Other,Native American,City,Approve,Decreased,No,Yes,More Equal Society,20,Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+,Male,34,25-34,Independent,Strong Liberal,High school or less,,Latino,,City,Disapprove,Increased,No,No,More Equal Society,70,Not Very Strongly No,Not Very Strongly No,Yes,A Little Hungry,Yes,More Smelly
+,Male,77,65+,Independent,Moderate,High school or less,,White,,City,Approve,Decreased,Yes,DK/REF,DK/REF,DK/REF,Not Very Strongly Yes,Strongly No,DK/REF,Not Hungry,No,DK/REF
+,Female,58,55-64,Strong Republican,Not Very Strong Conservative,Graduate degree,,White,,Suburb,Neither Approve nor disapprove,Kept the Same,No,No,DK/REF,10,Not Very Strongly No,Not Very Strongly Yes,Yes,Not Hungry,No,DK/REF
+100000,Male,23,18-24,Independent,Strong Conservative,College degree,,White,,Suburb,Neither Approve nor disapprove,Decreased,No,No,More Equal Society,90,Strongly No,Not Very Strongly No,Yes,Not Hungry,Yes,Less Smelly
+20,Male,82,65+,Independent,Strong Conservative,Some college,,White,,Small Town,Approve,Increased,DK/REF,Yes,More Equal Society,DK/REF,Strongly No,Not Very Strongly No,DK/REF,Not Hungry,No,DK/REF
+30000,Male,30,25-34,Strong Republican,Strong Conservative,College degree,,White,,City,Neither Approve nor disapprove,DK/REF,No,No,DK/REF,1,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+30000,Male,20,18-24,Independent,Strong Conservative,College degree,,White,,Suburb,Disapprove,Decreased,No,Yes,More Unequal Society,98,Strongly Yes,Strongly No,Yes,Not Hungry,No,More Smelly
+300000,Male,66,65+,Strong Republican,Strong Conservative,Other,Master's Degree,DK/REF,,Suburb,Approve,Decreased,No,Yes,More Unequal Society,25,Strongly No,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+,Female,28,25-34,Not Strong Democrat,Not very strong Liberal,High school or less,,White,,Small Town,Disapprove,Kept the Same,No,Yes,More Equal Society,99,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,More Smelly
+30000,Female,22,18-24,Not Strong Democrat,Moderate,College degree,,White,,City,Disapprove,Increased,No,No,More Equal Society,80,Not Very Strongly No,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+1500,Male,84,65+,Strong Democrat,Moderate,High school or less,,Black,,Small Town,Disapprove,Increased,DK/REF,Yes,More Equal Society,DK/REF,Strongly No,Strongly No,Yes,Not Hungry,Yes,DK/REF
+25000,Female,24,18-24,Independent,Moderate,Some college,,Latino,,City,Disapprove,Kept the Same,No,No,More Equal Society,90,Strongly Yes,Not Very Strongly No,Yes,A Little Hungry,Yes,More Smelly
+1000100,Female,68,65+,Strong Republican,Strong Conservative,College degree,,White,,Small Town,Neither Approve nor disapprove,Kept the Same,No,Yes,More Equal Society,60,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+,Female,62,55-64,Strong Democrat,Moderate,Graduate degree,,Black,,Suburb,Disapprove,Increased,No,Yes,More Equal Society,25,Strongly Yes,DK/REF,Yes,Not Hungry,DK/REF,DK/REF
+100000,Male,20,18-24,Independent,Moderate,Some college,,Latino,,Suburb,Neither Approve nor disapprove,Kept the Same,Yes,Yes,More Equal Society,70,Not Very Strongly Yes,Not Very Strongly Yes,Yes,Not Hungry,No,More Smelly
+,Female,25,25-34,Not Strong Democrat,Not very strong Liberal,College degree,,Latino,,Suburb,Disapprove,Increased,No,No,More Unequal Society,95,Strongly Yes,Not Very Strongly No,Yes,DK/REF,Yes,DK/REF
+100000,Female,50,45-54,Not Strong Republican,Strong Conservative,Some college,,White,,City,Disapprove,Increased,Yes,Yes,DK/REF,90,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+40000,Female,25,25-34,Strong Democrat,Strong Liberal,Graduate degree,,Black,,Small Town,Disapprove,Increased,No,Yes,More Equal Society,50,Not Very Strongly Yes,Strongly No,No,Not Hungry,DK/REF,DK/REF
+,Male,65,65+,Strong Republican,Strong Conservative,Some college,,White,,Suburb,Approve,Decreased,No,No,More Equal Society,1,Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+,Male,56,55-64,Independent,Not Very Strong Conservative,Some college,,Latino,,Small Town,Disapprove,Decreased,No,No,More Equal Society,DK/REF,Not Very Strongly Yes,Strongly Yes,No,Not Hungry,No,DK/REF
+40000,Male,32,25-34,Not Strong Republican,Moderate,Graduate degree,,White,,Suburb,Neither Approve nor disapprove,Decreased,Yes,No,More Equal Society,95,Not Very Strongly No,Strongly No,Yes,Not Hungry,Yes,More Smelly
+30000,Male,26,25-34,Independent,Moderate,Some college,,Asian,,City,Approve,Kept the Same,No,Yes,More Equal Society,50,Not Very Strongly No,Strongly No,Yes,Not Hungry,Yes,More Smelly
+50000,Female,20,18-24,Not Strong Democrat,Moderate,High school or less,,Asian,,City,Disapprove,Kept the Same,Yes,Yes,More Equal Society,90,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+,Male,66,65+,Strong Republican,Strong Conservative,Some college,,White,,City,Approve,Decreased,Yes,Yes,More Equal Society,DK/REF,DK/REF,Strongly No,No,Not Hungry,Yes,DK/REF
+200000,Male,61,55-64,Independent,Moderate,College degree,,White,,Small Town,Disapprove,DK/REF,No,Yes,More Equal Society,90,Strongly No,DK/REF,No,Not Hungry,No,Less Smelly
+,Male,75,65+,Strong Democrat,Strong Conservative,Graduate degree,,Latino,,Suburb,Approve,Decreased,Yes,Yes,More Equal Society,10,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+20000,Male,61,55-64,Strong Republican,Strong Conservative,Some college,,Black,,City,Approve,Decreased,Yes,Yes,More Equal Society,1,Strongly No,Strongly No,No,Very Hungry,Yes,Less Smelly
+15,Female,54,45-54,Independent,Moderate,High school or less,,Black,,Small Town,Disapprove,Increased,Yes,No,More Equal Society,50,Strongly Yes,Not Very Strongly No,Yes,A Little Hungry,No,Less Smelly
+,Male,65,65+,Strong Democrat,Strong Conservative,Some college,,Black,,City,Disapprove,Increased,No,No,More Equal Society,100,Strongly No,Strongly No,No,Very Hungry,No,Less Smelly
+,Female,69,65+,Independent,Not very strong Liberal,High school or less,,White,,City,Approve,Decreased,No,Yes,More Equal Society,20,Not Very Strongly Yes,Strongly Yes,No,Not Hungry,No,DK/REF
+,Female,73,65+,Strong Democrat,Moderate,Some college,,Latino,,City,Disapprove,Increased,DK/REF,DK/REF,More Equal Society,DK/REF,Strongly Yes,Strongly Yes,No,Not Hungry,Yes,DK/REF
+200,Female,59,55-64,Not Strong Republican,Moderate,Graduate degree,,White,,Suburb,Neither Approve nor disapprove,Kept the Same,No,Yes,More Equal Society,100,Strongly No,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+75000,Male,61,55-64,Independent,Not very strong Liberal,Graduate degree,,White,,City,Disapprove,Kept the Same,No,Yes,More Equal Society,85,Strongly Yes,Not Very Strongly No,Yes,A Little Hungry,No,DK/REF
+130000,Male,37,35-44,Independent,Moderate,Some college,,White,,Suburb,Disapprove,Decreased,No,No,More Equal Society,80,Strongly No,Strongly No,Yes,Not Hungry,Yes,More Smelly
+,Male,58,55-64,Strong Republican,Strong Conservative,High school or less,,White,,Suburb,DK/REF,Kept the Same,DK/REF,No,More Equal Society,DK/REF,Strongly Yes,Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+50000,Male,50,45-54,Independent,Strong Conservative,High school or less,,White,,Small Town,Approve,Decreased,No,No,More Equal Society,90,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+,Male,60,55-64,Not Strong Republican,Strong Conservative,College degree,,White,,Suburb,Approve,Kept the Same,No,No,More Equal Society,85,Strongly No,DK/REF,Yes,A Little Hungry,Yes,More Smelly
+,Female,60,55-64,Independent,Strong Conservative,Some college,,White,,City,Approve,Decreased,DK/REF,Yes,DK/REF,10,Strongly Yes,Strongly No,No,Not Hungry,No,DK/REF
+100000,Female,58,55-64,Strong Democrat,Strong Liberal,College degree,,White,,City,Disapprove,Increased,No,No,More Equal Society,5,Strongly Yes,DK/REF,Yes,Not Hungry,No,DK/REF
+,Female,58,55-64,Strong Democrat,Strong Liberal,College degree,,Black,,City,Disapprove,Increased,No,No,More Equal Society,87,Strongly Yes,Not Very Strongly Yes,Yes,Not Hungry,No,Less Smelly
+15000,Female,31,25-34,Strong Democrat,Not Very Strong Conservative,High school or less,,Black,,Small Town,Disapprove,Kept the Same,No,No,More Equal Society,DK/REF,Strongly Yes,Strongly No,No,Not Hungry,Yes,More Smelly
+40000,Female,47,45-54,Independent,Strong Liberal,High school or less,,Latino,,City,Disapprove,Increased,DK/REF,No,More Equal Society,50,Strongly Yes,Strongly No,No,Not Hungry,No,Less Smelly
+100000,Female,40,35-44,Not Strong Democrat,Strong Liberal,Graduate degree,,White,,Suburb,Disapprove,Increased,No,No,DK/REF,98,DK/REF,DK/REF,Yes,Very Hungry,DK/REF,DK/REF
+24000,Female,66,65+,Strong Democrat,Moderate,High school or less,,White,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,DK/REF,Strongly Yes,Strongly No,No,A Little Hungry,No,Less Smelly
+,Female,50,45-54,Strong Republican,Moderate,College degree,,White,,Small Town,Neither Approve nor disapprove,Decreased,No,No,More Equal Society,DK/REF,Strongly No,Strongly No,Yes,Not Hungry,No,More Smelly
+,Female,50,45-54,Independent,Moderate,Some college,,White,,City,Approve,DK/REF,No,No,More Equal Society,100,Strongly No,Strongly Yes,No,Not Hungry,Yes,More Smelly
+25000,Male,53,45-54,Independent,Moderate,High school or less,,Latino,,City,Disapprove,Kept the Same,No,Yes,More Equal Society,60,Strongly Yes,Strongly No,No,Not Hungry,No,DK/REF
+250000,Male,50,45-54,Independent,Moderate,College degree,,White,,City,Approve,Decreased,No,No,More Equal Society,1,Not Very Strongly Yes,Strongly No,Yes,Not Hungry,DK/REF,Less Smelly
+132000,Female,54,45-54,Not Strong Republican,Strong Liberal,Graduate degree,,White,,Suburb,Disapprove,Decreased,No,Yes,DK/REF,99,Not Very Strongly No,DK/REF,Yes,Not Hungry,No,Less Smelly
+,Female,81,65+,Strong Republican,Moderate,College degree,,White,,Suburb,DK/REF,DK/REF,DK/REF,No,More Equal Society,65,Not Very Strongly No,DK/REF,Yes,Not Hungry,Yes,DK/REF
+47,Female,60,55-64,Independent,Strong Conservative,College degree,,White,,Suburb,Disapprove,Increased,No,No,More Unequal Society,DK/REF,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+75000,Male,49,45-54,Independent,Moderate,College degree,,White,,Small Town,Disapprove,Kept the Same,No,Yes,More Equal Society,75,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,DK/REF
+100000,Male,58,55-64,Independent,Moderate,High school or less,,White,,Suburb,Disapprove,Decreased,Yes,Yes,More Equal Society,90,Strongly No,Strongly No,Yes,A Little Hungry,No,DK/REF
+30000,Male,60,55-64,Independent,Moderate,High school or less,,White,,Suburb,Approve,Decreased,No,No,More Equal Society,DK/REF,Not Very Strongly Yes,Strongly No,No,Not Hungry,Yes,DK/REF
+,Female,66,65+,Strong Republican,Strong Conservative,Some college,,White,,Suburb,Approve,Kept the Same,DK/REF,DK/REF,More Equal Society,DK/REF,DK/REF,Strongly No,DK/REF,Not Hungry,No,DK/REF
+10000,Male,75,65+,Strong Republican,Strong Conservative,Graduate degree,,White,,City,Approve,Decreased,Yes,DK/REF,More Equal Society,DK/REF,Strongly No,Strongly No,DK/REF,Not Hungry,No,More Smelly
+130000,Male,63,55-64,Strong Republican,Strong Conservative,Graduate degree,,White,,Suburb,Approve,Decreased,No,Yes,DK/REF,10,Not Very Strongly Yes,Strongly No,No,A Little Hungry,No,More Smelly
+25000,Female,70,65+,Independent,Moderate,College degree,,DK/REF,,Small Town,DK/REF,Increased,No,No,More Equal Society,DK/REF,Not Very Strongly Yes,Strongly No,DK/REF,A Little Hungry,No,DK/REF
+29000,Female,64,55-64,Strong Democrat,Moderate,Some college,,Latino,,City,Disapprove,Kept the Same,No,No,More Equal Society,70,Not Very Strongly No,Strongly Yes,Yes,Not Hungry,No,Less Smelly
+25000,Female,40,35-44,Strong Republican,Strong Conservative,Some college,,Other,Native American,Suburb,Approve,Decreased,Yes,Yes,More Equal Society,DK/REF,Strongly No,Strongly No,No,Not Hungry,Yes,DK/REF
+1000000,Other,25,25-34,DK/REF,DK/REF,Graduate degree,,Black,,City,Approve,Decreased,Yes,No,More Equal Society,90,Strongly No,Strongly No,No,Not Hungry,Yes,More Smelly
+50000,Female,50,45-54,Strong Republican,Strong Conservative,Graduate degree,,Other,Native American,Small Town,Approve,Decreased,No,No,More Unequal Society,1,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+23000,Female,64,55-64,Strong Republican,Strong Conservative,High school or less,,White,,Small Town,Approve,Kept the Same,No,Yes,More Equal Society,60,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+900,Female,84,65+,Independent,Moderate,High school or less,,Black,,Small Town,Approve,Increased,Yes,Yes,More Equal Society,50,Strongly No,Strongly Yes,No,Not Hungry,No,More Smelly
+,Female,73,65+,Strong Republican,Strong Conservative,Some college,,White,,DK/REF,Approve,Kept the Same,No,No,More Equal Society,DK/REF,Strongly Yes,Strongly No,No,Not Hungry,No,DK/REF
+9000,Male,59,55-64,Independent,Strong Conservative,Graduate degree,,White,,Suburb,Disapprove,Kept the Same,No,Yes,More Equal Society,60,Not Very Strongly No,Not Very Strongly No,Yes,Not Hungry,Yes,DK/REF
+48000,Male,69,65+,Strong Republican,Strong Conservative,High school or less,,White,,Small Town,Approve,Increased,No,Yes,More Equal Society,DK/REF,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,59,55-64,Independent,Moderate,Some college,,White,,Small Town,Disapprove,Kept the Same,Yes,Yes,More Equal Society,5,Not Very Strongly Yes,Strongly Yes,Yes,Not Hungry,No,Less Smelly
+,Female,45,45-54,Independent,Moderate,Some college,,White,,Small Town,Disapprove,Decreased,Yes,No,More Equal Society,50,Strongly No,Strongly No,No,Not Hungry,DK/REF,DK/REF
+,Female,59,55-64,Independent,Moderate,High school or less,,White,,Small Town,DK/REF,DK/REF,No,No,More Equal Society,10,Strongly Yes,Strongly No,No,Not Hungry,Yes,DK/REF
+75000,Male,65,65+,Strong Republican,Strong Conservative,Some college,,White,,Suburb,Approve,Decreased,No,No,More Equal Society,35,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+17700,Female,65,65+,Not Strong Democrat,Moderate,High school or less,,White,,Small Town,Approve,Decreased,Yes,Yes,More Equal Society,2,Strongly No,Strongly Yes,No,Not Hungry,No,DK/REF
+80000,Male,61,55-64,Strong Republican,Strong Conservative,High school or less,,White,,DK/REF,Approve,Decreased,No,Yes,More Equal Society,80,Strongly No,Strongly No,No,Very Hungry,No,DK/REF
+150000,Male,45,45-54,Independent,Moderate,Graduate degree,,White,,City,Disapprove,Kept the Same,No,Yes,More Equal Society,85,Strongly Yes,Not Very Strongly No,Yes,A Little Hungry,No,DK/REF
+14000,Female,71,65+,Strong Democrat,DK/REF,High school or less,,White,,Small Town,Neither Approve nor disapprove,Increased,DK/REF,DK/REF,More Equal Society,100,Strongly Yes,Strongly Yes,Yes,Not Hungry,No,DK/REF
+50000,Male,64,55-64,Independent,Strong Conservative,High school or less,,White,,Small Town,Approve,Decreased,No,No,DK/REF,DK/REF,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+20000,Female,28,25-34,DK/REF,Moderate,College degree,,Black,,City,Disapprove,Increased,No,No,More Equal Society,33,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,More Smelly
+250000,Male,50,45-54,Not Strong Republican,Not Very Strong Conservative,Graduate degree,,Black,,City,Disapprove,Kept the Same,No,Yes,More Equal Society,1,Not Very Strongly No,Strongly Yes,Yes,Not Hungry,Yes,Less Smelly
+55000,Male,32,25-34,Strong Democrat,Moderate,College degree,,White,,Suburb,Approve,Decreased,Yes,Yes,More Equal Society,2,Strongly Yes,Strongly No,No,A Little Hungry,No,More Smelly
+,Male,19,18-24,Not Strong Democrat,Not very strong Liberal,Some college,,Black,,Small Town,Disapprove,Increased,No,Yes,More Equal Society,100,Strongly Yes,Not Very Strongly No,Yes,Very Hungry,Yes,More Smelly
+70000,Female,53,45-54,Not Strong Republican,Moderate,College degree,,White,,Small Town,Disapprove,Kept the Same,DK/REF,Yes,More Equal Society,10,Not Very Strongly Yes,Not Very Strongly No,No,Not Hungry,Yes,Less Smelly
+,Male,50,45-54,DK/REF,Not very strong Liberal,College degree,,Black,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,1,Strongly Yes,Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+200000,Female,46,45-54,Strong Republican,Strong Conservative,Graduate degree,,White,,Small Town,Approve,Decreased,No,No,More Equal Society,90,Strongly No,Strongly No,DK/REF,Not Hungry,Yes,DK/REF
+75000,Female,50,45-54,Strong Republican,Strong Liberal,High school or less,,White,,Small Town,Approve,Decreased,No,No,More Equal Society,5,Strongly No,Strongly No,No,A Little Hungry,No,More Smelly
+22000,Male,32,25-34,Not Strong Democrat,Strong Liberal,High school or less,,Latino,,City,Approve,Decreased,No,No,More Unequal Society,80,Strongly No,Strongly No,Yes,Very Hungry,Yes,More Smelly
+,Female,32,25-34,Independent,Moderate,Some college,,White,,Small Town,Disapprove,Increased,No,No,More Equal Society,DK/REF,Strongly Yes,Strongly No,No,Not Hungry,No,DK/REF
+,Female,46,45-54,Independent,Moderate,College degree,,White,,Small Town,Approve,Kept the Same,No,No,More Equal Society,90,Strongly No,Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+70000,Male,46,45-54,Independent,Moderate,College degree,,Black,,Small Town,Disapprove,Kept the Same,No,No,More Equal Society,10,Strongly Yes,Strongly No,Yes,Not Hungry,No,Less Smelly
+140000,Female,25,25-34,Independent,Strong Conservative,College degree,,White,,Suburb,Neither Approve nor disapprove,Decreased,Yes,Yes,More Equal Society,DK/REF,Strongly No,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+900,Male,67,65+,DK/REF,Not very strong Liberal,High school or less,,Latino,,Small Town,Neither Approve nor disapprove,Decreased,DK/REF,No,More Equal Society,75,Not Very Strongly No,Not Very Strongly No,No,Not Hungry,No,Less Smelly
+,Male,54,45-54,Strong Democrat,Not Very Strong Conservative,College degree,,Black,,City,Disapprove,Increased,No,No,More Equal Society,5,Strongly Yes,Strongly No,Yes,Not Hungry,No,More Smelly
+60000,Male,39,35-44,Not Strong Democrat,Strong Liberal,College degree,,DK/REF,,City,Disapprove,Kept the Same,No,Yes,More Equal Society,90,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,Yes,Less Smelly
+,Male,44,35-44,Not Strong Democrat,Moderate,College degree,,Latino,,City,Disapprove,Kept the Same,No,Yes,More Equal Society,95,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,DK/REF
+,Female,82,65+,Strong Democrat,Moderate,High school or less,,White,,City,Disapprove,Increased,No,Yes,More Equal Society,DK/REF,Strongly No,Strongly No,Yes,Not Hungry,Yes,DK/REF
+20000,Male,35,35-44,Independent,Strong Liberal,College degree,,Black,,Suburb,Disapprove,Increased,No,No,More Equal Society,80,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,More Smelly
+75000,Male,64,55-64,Independent,Moderate,College degree,,White,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,40,Not Very Strongly Yes,Strongly No,Yes,A Little Hungry,No,More Smelly
+,Female,20,18-24,Not Strong Democrat,Not Very Strong Conservative,Some college,,Asian,,City,Disapprove,Increased,Yes,Yes,More Equal Society,70,Strongly Yes,Strongly Yes,Yes,Very Hungry,No,Less Smelly
+30,Female,19,18-24,Independent,Strong Liberal,Some college,,White,,City,DK/REF,Kept the Same,No,Yes,More Equal Society,35,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+,Male,50,45-54,Strong Democrat,Strong Liberal,Some college,,DK/REF,,Suburb,Disapprove,Increased,DK/REF,No,More Unequal Society,DK/REF,Strongly No,Strongly Yes,Yes,A Little Hungry,DK/REF,DK/REF
+,Female,56,55-64,Strong Democrat,Moderate,High school or less,,Latino,,City,Disapprove,Increased,Yes,Yes,More Equal Society,0,Strongly No,Strongly No,No,Very Hungry,No,DK/REF
+,Female,62,55-64,Strong Democrat,Strong Liberal,High school or less,,Black,,City,Approve,Increased,Yes,Yes,More Equal Society,1,Strongly No,Strongly Yes,Yes,Not Hungry,Yes,More Smelly
+,Male,73,65+,Independent,Not Very Strong Conservative,Graduate degree,,White,,Suburb,Neither Approve nor disapprove,Kept the Same,No,Yes,More Equal Society,99,Not Very Strongly Yes,Strongly No,Yes,Not Hungry,No,More Smelly
+35000,Male,50,45-54,Strong Democrat,Moderate,Some college,,Black,,City,Disapprove,Kept the Same,No,No,More Equal Society,95,Strongly Yes,Strongly No,Yes,Very Hungry,Yes,Less Smelly
+,Male,63,55-64,Strong Republican,Strong Conservative,Some college,,Other,Pacific Islander,City,Approve,Decreased,DK/REF,Yes,More Equal Society,DK/REF,Strongly No,Strongly No,No,Not Hungry,Yes,DK/REF
+20000,Female,72,65+,Strong Republican,Strong Conservative,Some college,,White,,Small Town,Approve,Decreased,No,No,More Unequal Society,DK/REF,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+,Female,64,55-64,DK/REF,DK/REF,Some college,,Black,,City,DK/REF,DK/REF,DK/REF,No,DK/REF,99,DK/REF,DK/REF,Yes,Not Hungry,No,DK/REF
+800,Female,60,55-64,Independent,Strong Conservative,High school or less,,White,,Small Town,Neither Approve nor disapprove,Kept the Same,No,Yes,More Equal Society,75,Not Very Strongly Yes,Strongly No,Yes,Not Hungry,No,Less Smelly
+,Male,21,18-24,Strong Democrat,Strong Liberal,Some college,,Other,Pacific Islander,Suburb,DK/REF,DK/REF,DK/REF,Yes,More Equal Society,90,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+80000,Female,59,55-64,DK/REF,DK/REF,Some college,,White,,Small Town,Approve,Increased,No,No,More Equal Society,80,Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+60000,Male,66,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Small Town,Disapprove,Increased,No,No,More Equal Society,90,DK/REF,DK/REF,Yes,Not Hungry,No,DK/REF
+80000,Female,55,55-64,Not Strong Republican,Moderate,College degree,,White,,City,Neither Approve nor disapprove,Decreased,No,Yes,More Unequal Society,85,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+56000,Male,67,65+,Strong Republican,Not Very Strong Conservative,Some college,,White,,Small Town,Approve,Kept the Same,DK/REF,No,More Unequal Society,20,DK/REF,Strongly No,No,Not Hungry,No,DK/REF
+50000,Female,69,65+,Strong Democrat,Strong Liberal,High school or less,,White,,Small Town,Disapprove,Kept the Same,No,Yes,More Equal Society,50,Strongly Yes,Strongly No,No,Not Hungry,No,DK/REF
+,Male,32,25-34,Strong Democrat,Strong Liberal,High school or less,,White,,City,Disapprove,Increased,No,No,More Equal Society,99,Strongly No,Strongly Yes,Yes,Not Hungry,Yes,More Smelly
+26000,Female,70,65+,Not Strong Republican,Moderate,High school or less,,White,,Small Town,DK/REF,Kept the Same,DK/REF,No,More Equal Society,DK/REF,Strongly Yes,Not Very Strongly Yes,Yes,Not Hungry,No,DK/REF
+50000,Male,35,35-44,Not Strong Republican,Moderate,Some college,,White,,City,Approve,Kept the Same,No,No,More Equal Society,2,Not Very Strongly No,Not Very Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+,Female,39,35-44,Strong Democrat,Strong Liberal,College degree,,White,,City,Disapprove,Increased,No,Yes,More Equal Society,75,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,Yes,Less Smelly
+16000,Female,21,18-24,Not Strong Democrat,Moderate,Some college,,Latino,,Small Town,Disapprove,Increased,Yes,Yes,More Equal Society,60,Strongly Yes,Not Very Strongly No,No,Not Hungry,Yes,Less Smelly
+100000,Female,48,45-54,Strong Democrat,Moderate,College degree,,Latino,,City,Disapprove,Kept the Same,Yes,Yes,More Equal Society,1,Strongly Yes,Strongly Yes,Yes,A Little Hungry,No,DK/REF
+100000,Male,69,65+,Strong Republican,Strong Conservative,College degree,,White,,Suburb,Approve,Kept the Same,No,No,DK/REF,65,Strongly No,Strongly No,No,Not Hungry,Yes,Less Smelly
+120,Male,38,35-44,Strong Republican,Strong Conservative,College degree,,White,,Small Town,Approve,Decreased,Yes,Yes,More Equal Society,75,Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+12000,Female,66,65+,Strong Democrat,Strong Liberal,College degree,,White,,Small Town,Disapprove,Increased,No,Yes,More Equal Society,80,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+75000,Female,43,35-44,Not Strong Republican,Strong Conservative,Some college,,White,,Small Town,Neither Approve nor disapprove,Decreased,No,No,More Equal Society,10,Strongly No,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+,Male,74,65+,Strong Republican,Strong Conservative,College degree,,White,,Small Town,Approve,Kept the Same,Yes,Yes,More Equal Society,25,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+60000,Male,65,65+,Strong Democrat,Strong Liberal,High school or less,,White,,Small Town,Disapprove,Increased,No,No,More Equal Society,40,Strongly Yes,Strongly No,No,Not Hungry,No,Less Smelly
+40000,Female,69,65+,Strong Democrat,Moderate,College degree,,White,,Small Town,Disapprove,Kept the Same,DK/REF,No,More Equal Society,DK/REF,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+40000,Male,52,45-54,Not Strong Republican,Not very strong Liberal,Some college,,White,,Small Town,Approve,Kept the Same,No,Yes,More Equal Society,80,Not Very Strongly No,Not Very Strongly No,Yes,A Little Hungry,No,Less Smelly
+,Female,66,65+,DK/REF,Strong Conservative,High school or less,,White,,Small Town,Approve,Kept the Same,No,Yes,More Equal Society,DK/REF,Strongly Yes,Strongly Yes,Yes,Not Hungry,No,Less Smelly
+,Female,65,65+,Strong Democrat,Strong Conservative,Some college,,Black,,Small Town,Disapprove,Increased,DK/REF,Yes,More Equal Society,75,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,More Smelly
+110000,Female,54,45-54,Not Strong Democrat,Not Very Strong Conservative,College degree,,White,,Suburb,Disapprove,Kept the Same,No,Yes,More Equal Society,92,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,48,45-54,Independent,Strong Liberal,College degree,,White,,Small Town,Disapprove,Increased,No,No,More Equal Society,90,Strongly Yes,Strongly No,Yes,Not Hungry,No,DK/REF
+,Male,84,65+,Strong Democrat,Strong Liberal,High school or less,,Black,,Small Town,Disapprove,Kept the Same,No,DK/REF,More Equal Society,100,Strongly No,Strongly Yes,Yes,Not Hungry,No,DK/REF
+400000,Female,37,35-44,Independent,Moderate,Graduate degree,,White,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,70,Strongly No,Strongly No,Yes,Very Hungry,No,Less Smelly
+40000,Female,42,35-44,Independent,Strong Liberal,College degree,,White,,City,Disapprove,Increased,No,No,More Equal Society,85,Strongly No,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+30000,Male,68,65+,Strong Democrat,Moderate,Some college,,White,,City,Disapprove,Increased,DK/REF,Yes,More Equal Society,30,Strongly Yes,Strongly No,Yes,Not Hungry,No,Less Smelly
+8000,Female,67,65+,Strong Republican,Strong Conservative,Some college,,White,,Suburb,Approve,Increased,No,No,DK/REF,90,Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+150000,Male,36,35-44,Independent,Moderate,College degree,,White,,City,Disapprove,Kept the Same,No,No,More Equal Society,60,Not Very Strongly Yes,Not Very Strongly No,Yes,A Little Hungry,DK/REF,More Smelly
+120000,Female,48,45-54,Strong Republican,Moderate,High school or less,,White,,Small Town,Approve,Decreased,Yes,No,More Equal Society,40,Strongly No,Strongly No,No,A Little Hungry,No,DK/REF
+,Male,45,45-54,DK/REF,DK/REF,College degree,,White,,City,Neither Approve nor disapprove,Kept the Same,DK/REF,DK/REF,More Equal Society,90,DK/REF,Not Very Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+70000,Female,28,25-34,Independent,Moderate,College degree,,White,,City,Disapprove,Kept the Same,No,No,More Equal Society,10,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+75000,Male,27,25-34,Independent,Moderate,Graduate degree,,White,,City,Neither Approve nor disapprove,Kept the Same,No,No,More Equal Society,30,Not Very Strongly No,Strongly No,Yes,Not Hungry,Yes,More Smelly
+30000,Male,29,25-34,Independent,DK/REF,High school or less,,White,,Small Town,Approve,Kept the Same,DK/REF,Yes,More Equal Society,30,Not Very Strongly No,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+,Male,68,65+,Strong Republican,Strong Conservative,Graduate degree,,White,,City,Approve,DK/REF,Yes,Yes,More Equal Society,6,Not Very Strongly No,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+,Male,46,45-54,Strong Republican,Strong Conservative,College degree,,White,,Suburb,Approve,Decreased,No,No,More Equal Society,80,Strongly No,Strongly No,Yes,A Little Hungry,No,DK/REF
+,Male,71,65+,Independent,Strong Liberal,Graduate degree,,White,,Small Town,Disapprove,Increased,No,DK/REF,More Equal Society,30,Strongly Yes,DK/REF,Yes,Not Hungry,No,DK/REF
+,Male,33,25-34,Independent,Strong Conservative,Some college,,White,,Small Town,Approve,Decreased,No,No,More Unequal Society,4,Strongly No,Strongly No,No,Not Hungry,Yes,DK/REF
+157000,Male,37,35-44,Independent,Moderate,College degree,,White,,Small Town,Disapprove,Increased,Yes,Yes,More Equal Society,30,Strongly No,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+20000,Female,53,45-54,Strong Democrat,Strong Liberal,Graduate degree,,White,,City,Disapprove,Increased,No,No,More Equal Society,90,Not Very Strongly No,Strongly Yes,Yes,Not Hungry,No,More Smelly
+18000,Female,54,45-54,Independent,Moderate,Graduate degree,,Latino,,DK/REF,Approve,Increased,No,No,More Equal Society,DK/REF,Strongly Yes,Strongly No,No,A Little Hungry,No,DK/REF
+,Male,49,45-54,Strong Republican,Strong Conservative,College degree,,White,,Suburb,Approve,Kept the Same,No,No,More Equal Society,25,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+,Male,37,35-44,Not Strong Republican,Not Very Strong Conservative,Graduate degree,,White,,Small Town,Neither Approve nor disapprove,Decreased,No,Yes,More Equal Society,75,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,More Smelly
+,DK/REF,44,35-44,Independent,Moderate,College degree,,White,,Small Town,Disapprove,Increased,No,Yes,More Equal Society,50,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,Yes,Less Smelly
+34000,Female,52,45-54,Independent,Not Very Strong Conservative,Graduate degree,,Other,Native American,Small Town,Approve,Decreased,No,No,More Equal Society,5,Strongly No,Not Very Strongly No,Yes,Not Hungry,Yes,Less Smelly
+35000,Male,31,25-34,DK/REF,DK/REF,Graduate degree,,Asian,,Suburb,Disapprove,Increased,Yes,Yes,DK/REF,98,Not Very Strongly Yes,Strongly No,No,Not Hungry,Yes,Less Smelly
+70000,Female,25,25-34,Strong Democrat,Strong Liberal,College degree,,Latino,,City,Disapprove,Increased,No,No,More Equal Society,95,Strongly Yes,Not Very Strongly No,Yes,A Little Hungry,No,Less Smelly
+130,Male,39,35-44,Independent,Moderate,Some college,,White,,City,Approve,Increased,No,No,More Equal Society,67,Strongly No,Strongly No,Yes,Not Hungry,Yes,More Smelly
+190000,Female,34,25-34,Independent,Moderate,College degree,,White,,Small Town,Disapprove,Decreased,DK/REF,DK/REF,More Equal Society,75,Not Very Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,More Smelly
+110000,Female,35,35-44,DK/REF,Moderate,High school or less,,White,,City,Approve,Kept the Same,No,No,More Equal Society,50,Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+350000,Female,48,45-54,Strong Democrat,Strong Liberal,Graduate degree,,White,,City,Disapprove,Increased,DK/REF,Yes,More Equal Society,90,Strongly No,Not Very Strongly No,Yes,A Little Hungry,No,Less Smelly
+1600,Male,35,35-44,Independent,Moderate,College degree,,White,,City,Neither Approve nor disapprove,Kept the Same,No,Yes,More Equal Society,35,Strongly Yes,Strongly No,Yes,Not Hungry,No,Less Smelly
+,Male,54,45-54,Independent,Not Very Strong Conservative,College degree,,White,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,25,Not Very Strongly Yes,Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,32,25-34,DK/REF,Not very strong Liberal,Some college,,White,,City,Neither Approve nor disapprove,Increased,No,Yes,More Equal Society,50,Strongly Yes,Strongly No,Yes,Not Hungry,No,Less Smelly
+100000,Female,51,45-54,Strong Democrat,Strong Liberal,College degree,,White,,City,Disapprove,Increased,No,No,More Equal Society,90,Strongly Yes,DK/REF,Yes,Not Hungry,No,DK/REF
+,Female,42,35-44,DK/REF,Strong Conservative,Graduate degree,,DK/REF,,Small Town,Approve,DK/REF,DK/REF,No,More Equal Society,DK/REF,Strongly No,Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+,Male,40,35-44,Strong Republican,Strong Conservative,Graduate degree,,DK/REF,,Small Town,Approve,Decreased,Yes,No,More Unequal Society,90,Strongly Yes,Strongly No,Yes,A Little Hungry,DK/REF,DK/REF
+100000,Male,40,35-44,Strong Republican,Strong Conservative,College degree,,White,,Suburb,Approve,Decreased,Yes,Yes,More Unequal Society,2,Strongly No,Not Very Strongly Yes,Yes,Not Hungry,Yes,Less Smelly
+350000,Male,21,18-24,Independent,DK/REF,High school or less,,White,,Small Town,Neither Approve nor disapprove,Increased,Yes,Yes,More Unequal Society,40,Strongly No,Strongly Yes,No,Not Hungry,No,More Smelly
+100000000,Male,50,45-54,Strong Democrat,Moderate,Graduate degree,,White,,City,Disapprove,Increased,No,No,More Equal Society,50,Strongly Yes,Strongly Yes,Yes,Not Hungry,Yes,DK/REF
+7000,Male,31,25-34,Independent,Strong Conservative,Some college,,White,,Small Town,Approve,Decreased,No,No,More Unequal Society,60,Strongly No,Strongly No,Yes,A Little Hungry,Yes,More Smelly
+50000,Male,31,25-34,Independent,Moderate,Some college,,White,,Small Town,Approve,Decreased,Yes,No,More Equal Society,50,Not Very Strongly Yes,Strongly No,Yes,Not Hungry,No,Less Smelly
+100000,Female,33,25-34,Independent,Moderate,College degree,,White,,Small Town,DK/REF,Decreased,No,No,More Equal Society,3,Not Very Strongly No,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+70000,Male,52,45-54,Independent,Moderate,Some college,,White,,City,Disapprove,Kept the Same,DK/REF,Yes,More Equal Society,10,Strongly No,Strongly No,Yes,Not Hungry,Yes,DK/REF
+,Female,18,18-24,Not Strong Democrat,Moderate,High school or less,,White,,City,Neither Approve nor disapprove,DK/REF,No,Yes,More Equal Society,20,Not Very Strongly No,Not Very Strongly Yes,Yes,Not Hungry,Yes,Less Smelly
+50000,Female,52,45-54,Strong Republican,Strong Conservative,Some college,,White,,Small Town,Approve,Increased,No,No,More Unequal Society,DK/REF,Strongly No,Strongly No,No,A Little Hungry,No,DK/REF
+25000,Female,50,45-54,DK/REF,DK/REF,Graduate degree,,White,,City,Disapprove,Increased,DK/REF,DK/REF,More Unequal Society,50,DK/REF,DK/REF,Yes,Not Hungry,No,DK/REF
+50000,Female,30,25-34,Not Strong Democrat,Not very strong Liberal,College degree,,Latino,,Small Town,Disapprove,Increased,No,No,More Equal Society,85,Not Very Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+,Male,65,65+,Strong Republican,Strong Conservative,College degree,,White,,City,Approve,Kept the Same,Yes,Yes,DK/REF,20,Strongly No,Strongly No,Yes,Not Hungry,Yes,DK/REF
+,Male,40,35-44,Not Strong Republican,Strong Conservative,College degree,,DK/REF,,Small Town,Approve,Decreased,No,No,More Equal Society,80,Strongly No,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+,Male,42,35-44,Not Strong Republican,Moderate,Some college,,White,,Suburb,Approve,Kept the Same,No,Yes,More Equal Society,20,Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+,Female,45,45-54,Strong Republican,Strong Conservative,College degree,,White,,Small Town,Neither Approve nor disapprove,Kept the Same,No,No,More Equal Society,90,Strongly No,DK/REF,Yes,Not Hungry,No,DK/REF
+,DK/REF,19,18-24,Independent,Strong Conservative,High school or less,,Black,,City,Approve,Decreased,Yes,Yes,More Unequal Society,99,Strongly No,Strongly No,No,Very Hungry,Yes,More Smelly
+500000,Male,44,35-44,Independent,Strong Liberal,College degree,,Asian,,Suburb,Disapprove,Increased,No,No,More Equal Society,50,Strongly Yes,Strongly Yes,Yes,Not Hungry,No,Less Smelly
+,Male,51,45-54,Independent,Moderate,High school or less,,Latino,,City,Disapprove,Decreased,Yes,Yes,More Equal Society,5,Strongly No,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+40,Male,21,18-24,Independent,Not Very Strong Conservative,College degree,,Asian,,City,Neither Approve nor disapprove,Increased,Yes,No,More Equal Society,19,Strongly No,Not Very Strongly No,No,A Little Hungry,Yes,Less Smelly
+30000,Male,35,35-44,Strong Democrat,Strong Liberal,College degree,,Black,,City,Disapprove,Increased,No,No,More Equal Society,20,Not Very Strongly Yes,Strongly Yes,Yes,Not Hungry,DK/REF,DK/REF
+110000,Other,48,45-54,Independent,Not Very Strong Conservative,Graduate degree,,Black,,Suburb,Approve,Kept the Same,No,Yes,More Equal Society,99,Not Very Strongly No,Strongly No,Yes,Not Hungry,Yes,More Smelly
+80000,Male,38,35-44,Independent,Not very strong Liberal,Graduate degree,,White,,City,Disapprove,Increased,No,No,More Equal Society,75,Not Very Strongly No,Not Very Strongly No,Yes,Not Hungry,No,More Smelly
+40,Female,66,65+,Strong Democrat,Moderate,Graduate degree,,White,,City,Disapprove,Decreased,No,No,More Equal Society,DK/REF,DK/REF,Strongly No,Yes,Not Hungry,No,Less Smelly
+50000,Male,68,65+,Strong Democrat,Strong Liberal,Some college,,Other,American Indian,Small Town,Disapprove,DK/REF,No,No,More Equal Society,70,Strongly Yes,Not Very Strongly Yes,Yes,Not Hungry,Yes,Less Smelly
+13000,Female,56,55-64,Strong Democrat,Strong Liberal,Some college,,White,,Small Town,Disapprove,Increased,No,No,More Equal Society,85,Strongly Yes,Not Very Strongly No,Yes,A Little Hungry,No,More Smelly
+,Male,20,18-24,DK/REF,DK/REF,College degree,,White,,Small Town,Approve,Decreased,DK/REF,Yes,DK/REF,0,Strongly No,Strongly No,DK/REF,Very Hungry,Yes,Less Smelly
+,Male,42,35-44,Not Strong Republican,Moderate,High school or less,,White,,Small Town,Neither Approve nor disapprove,Increased,Yes,Yes,More Equal Society,25,Not Very Strongly Yes,Strongly Yes,Yes,Not Hungry,Yes,Less Smelly
+,Female,54,45-54,Independent,Moderate,Graduate degree,,Asian,,Suburb,Disapprove,Kept the Same,No,Yes,DK/REF,80,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+,Male,60,55-64,Independent,Strong Conservative,College degree,,White,,Small Town,Approve,DK/REF,No,No,DK/REF,DK/REF,Strongly No,Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+,Male,19,18-24,Independent,Not very strong Liberal,Some college,,White,,Suburb,Neither Approve nor disapprove,Decreased,No,No,More Equal Society,87,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+21000,Male,30,25-34,Independent,Strong Liberal,Some college,,White,,City,Disapprove,Increased,No,No,More Equal Society,99,Strongly Yes,Strongly No,Yes,A Little Hungry,No,More Smelly
+,Male,52,45-54,Strong Republican,Strong Conservative,High school or less,,White,,Suburb,Approve,Kept the Same,No,Yes,DK/REF,95,Strongly No,Strongly No,DK/REF,Very Hungry,DK/REF,More Smelly
+60000,Male,25,25-34,Strong Democrat,Moderate,Some college,,White,,City,Disapprove,Kept the Same,No,Yes,More Equal Society,80,Not Very Strongly No,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+125,Male,33,25-34,Not Strong Republican,Moderate,College degree,,White,,Small Town,Neither Approve nor disapprove,Decreased,No,No,More Equal Society,90,Strongly No,Strongly No,Yes,Very Hungry,Yes,DK/REF
+10000,Male,45,45-54,DK/REF,DK/REF,Some college,,Asian,,City,DK/REF,Increased,No,DK/REF,More Equal Society,DK/REF,Strongly Yes,Not Very Strongly Yes,Yes,Not Hungry,DK/REF,DK/REF
+90000,Female,35,35-44,Not Strong Democrat,Moderate,Graduate degree,,Black,,Suburb,Disapprove,Decreased,No,Yes,More Equal Society,DK/REF,Not Very Strongly Yes,Strongly No,Yes,Not Hungry,DK/REF,Less Smelly
+150000,Female,60,55-64,Strong Democrat,Moderate,Graduate degree,,White,,Small Town,Disapprove,Kept the Same,No,No,More Equal Society,75,Not Very Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+60,Male,29,25-34,Independent,Not Very Strong Conservative,College degree,,White,,Suburb,Neither Approve nor disapprove,Decreased,No,DK/REF,DK/REF,70,Strongly No,Strongly No,Yes,A Little Hungry,Yes,Less Smelly
+60000,Female,34,25-34,Strong Republican,Strong Conservative,College degree,,White,,Suburb,Neither Approve nor disapprove,Decreased,No,No,More Equal Society,10,Not Very Strongly No,Strongly No,Yes,A Little Hungry,DK/REF,DK/REF
+120000,Male,52,45-54,Independent,Not Very Strong Conservative,College degree,,White,,Small Town,DK/REF,Decreased,No,No,More Equal Society,80,Strongly No,Strongly No,Yes,A Little Hungry,Yes,More Smelly
+50000,Male,37,35-44,Not Strong Democrat,Moderate,High school or less,,White,,Small Town,Neither Approve nor disapprove,DK/REF,Yes,Yes,DK/REF,50,Strongly Yes,Strongly No,No,Very Hungry,DK/REF,DK/REF
+40000,Male,75,65+,Not Strong Democrat,Moderate,Graduate degree,,White,,Small Town,Disapprove,Kept the Same,No,Yes,More Equal Society,96,DK/REF,Not Very Strongly No,Yes,Not Hungry,Yes,More Smelly
+175000,Female,42,35-44,Independent,Moderate,College degree,,White,,Suburb,Disapprove,Increased,No,No,More Equal Society,80,Strongly No,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+80000,Male,37,35-44,Independent,Moderate,Some college,,White,,Suburb,Neither Approve nor disapprove,Increased,No,Yes,More Equal Society,90,Strongly Yes,Not Very Strongly No,Yes,A Little Hungry,Yes,More Smelly
+50000,Male,66,65+,Independent,DK/REF,Graduate degree,,White,,Small Town,Approve,Kept the Same,No,Yes,More Equal Society,90,Not Very Strongly No,Strongly No,No,Not Hungry,No,More Smelly
+85000,Male,34,25-34,Independent,Moderate,College degree,,White,,Suburb,Disapprove,Kept the Same,No,Yes,More Equal Society,70,Not Very Strongly No,Not Very Strongly No,Yes,A Little Hungry,Yes,DK/REF
+37000,Female,22,18-24,Strong Democrat,Strong Liberal,College degree,,White,,City,Disapprove,Increased,No,Yes,More Equal Society,65,Strongly Yes,Not Very Strongly Yes,Yes,A Little Hungry,No,Less Smelly
+,Male,77,65+,DK/REF,Strong Conservative,Graduate degree,,White,,City,Approve,Decreased,No,Yes,More Equal Society,80,Strongly No,Strongly No,No,A Little Hungry,No,DK/REF
+24000,Female,27,25-34,Strong Democrat,Strong Liberal,College degree,,White,,City,Disapprove,Increased,DK/REF,Yes,More Equal Society,98,Strongly Yes,Strongly Yes,Yes,A Little Hungry,No,Less Smelly
+,Female,50,45-54,Independent,Moderate,Graduate degree,,White,,Suburb,Approve,Decreased,No,Yes,More Equal Society,10,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+80000,Male,37,35-44,Strong Democrat,Moderate,Graduate degree,,White,,Small Town,Disapprove,Kept the Same,No,No,More Equal Society,99,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,Yes,More Smelly
+,Female,25,25-34,Strong Democrat,Strong Liberal,Graduate degree,,White,,Small Town,Disapprove,Increased,No,No,More Equal Society,45,Not Very Strongly Yes,Strongly No,Yes,Not Hungry,No,DK/REF
+12000,Male,50,45-54,Independent,Not Very Strong Conservative,High school or less,,White,,City,Disapprove,Decreased,Yes,Yes,More Equal Society,80,Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+,Female,65,65+,Strong Republican,Strong Conservative,College degree,,White,,City,Approve,Decreased,No,No,More Equal Society,20,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+30000,Female,48,45-54,Independent,Moderate,Some college,,White,,DK/REF,DK/REF,Kept the Same,No,Yes,More Equal Society,DK/REF,Not Very Strongly No,Strongly No,Yes,Not Hungry,Yes,DK/REF
+,Male,74,65+,Not Strong Republican,Strong Conservative,Some college,,White,,Suburb,Approve,Decreased,No,Yes,More Equal Society,DK/REF,Strongly No,Not Very Strongly Yes,No,Not Hungry,No,DK/REF
+90000,Female,65,65+,Not Strong Republican,Moderate,Graduate degree,,White,,City,Approve,Decreased,Yes,No,More Unequal Society,75,Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+55000,Male,34,25-34,Not Strong Republican,Moderate,High school or less,,White,,Small Town,DK/REF,Kept the Same,No,Yes,More Equal Society,85,Strongly No,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+50000,Female,55,55-64,Not Strong Republican,Moderate,High school or less,,White,,Small Town,Approve,Kept the Same,No,No,More Equal Society,30,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+10000,Female,21,18-24,Independent,Not Very Strong Conservative,College degree,,White,,Small Town,Approve,Kept the Same,No,Yes,More Equal Society,97,Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+,Male,37,35-44,Independent,Strong Liberal,Graduate degree,,White,,City,Disapprove,Kept the Same,No,Yes,More Equal Society,70,Not Very Strongly No,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+,Female,35,35-44,Strong Democrat,Strong Liberal,College degree,,White,,City,Disapprove,Increased,No,No,More Equal Society,90,Strongly Yes,Not Very Strongly Yes,Yes,Not Hungry,No,Less Smelly
+40000,Male,24,18-24,Independent,Not very strong Liberal,Some college,,White,,Suburb,Disapprove,Increased,No,Yes,More Equal Society,99,Strongly Yes,Strongly Yes,Yes,Not Hungry,No,Less Smelly
+18000,Male,30,25-34,Independent,Not Very Strong Conservative,Some college,,White,,City,Neither Approve nor disapprove,Decreased,No,No,DK/REF,90,Strongly No,DK/REF,Yes,Not Hungry,No,DK/REF
+60000,Male,59,55-64,Independent,Moderate,College degree,,White,,Small Town,Disapprove,Increased,No,Yes,More Equal Society,10,Strongly Yes,Strongly Yes,Yes,Not Hungry,No,DK/REF
+55000,Female,44,35-44,Strong Republican,Strong Conservative,College degree,,White,,Small Town,Approve,Decreased,No,Yes,More Unequal Society,5,Strongly No,Strongly No,Yes,Not Hungry,Yes,DK/REF
+80000,Male,70,65+,Strong Republican,Strong Conservative,College degree,,White,,Small Town,Approve,Kept the Same,No,Yes,More Unequal Society,60,Strongly No,Strongly No,Yes,Not Hungry,No,More Smelly
+100000,Male,33,25-34,Independent,DK/REF,College degree,,White,,Suburb,DK/REF,DK/REF,No,No,More Equal Society,3,Strongly No,Strongly No,Yes,Not Hungry,Yes,DK/REF
+65000,Male,70,65+,Independent,Strong Conservative,High school or less,,White,,Small Town,Approve,Kept the Same,No,No,DK/REF,80,Not Very Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+60000,Male,29,25-34,Strong Republican,Not Very Strong Conservative,Some college,,White,,Small Town,Approve,Decreased,No,Yes,More Equal Society,70,Not Very Strongly No,Strongly No,Yes,A Little Hungry,No,More Smelly
+90000,Female,57,55-64,Strong Democrat,Strong Liberal,College degree,,White,,Small Town,Disapprove,Increased,No,Yes,More Equal Society,80,Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+50000,Male,63,55-64,Strong Democrat,Strong Liberal,College degree,,White,,Small Town,Disapprove,Kept the Same,No,No,More Equal Society,10,Strongly Yes,Strongly No,No,Not Hungry,DK/REF,DK/REF
+15000,Female,24,18-24,Strong Democrat,Strong Liberal,Some college,,Latino,,Suburb,Disapprove,Increased,No,No,More Equal Society,90,Strongly Yes,Strongly Yes,Yes,Not Hungry,No,Less Smelly
+100000,Male,57,55-64,Independent,Not Very Strong Conservative,College degree,,White,,City,Disapprove,Increased,No,No,More Equal Society,90,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,More Smelly
+,Female,26,25-34,Independent,DK/REF,College degree,,Other,Hispanic,Small Town,Neither Approve nor disapprove,Kept the Same,Yes,Yes,More Equal Society,1,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+40000,Male,63,55-64,Not Strong Republican,Strong Conservative,College degree,,White,,Suburb,Approve,Kept the Same,Yes,Yes,More Unequal Society,DK/REF,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,40,35-44,Not Strong Democrat,Not Very Strong Conservative,College degree,,Asian,,City,DK/REF,DK/REF,No,DK/REF,More Equal Society,50,DK/REF,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+125000,Male,69,65+,Strong Democrat,Moderate,Graduate degree,,White,,Suburb,Disapprove,Increased,DK/REF,Yes,More Equal Society,10,Strongly Yes,Strongly No,No,Not Hungry,Yes,DK/REF
+,Male,23,18-24,Independent,Not Very Strong Conservative,College degree,,Black,,Small Town,Neither Approve nor disapprove,Increased,DK/REF,DK/REF,More Equal Society,0.05,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,Yes,DK/REF
+,Male,60,55-64,Not Strong Republican,Strong Conservative,College degree,,White,,Suburb,Approve,Decreased,No,No,More Equal Society,1,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+90000,Male,38,35-44,Independent,Not Very Strong Conservative,Graduate degree,,White,,Small Town,Disapprove,Decreased,No,No,DK/REF,15,Strongly No,Strongly No,Yes,Not Hungry,No,More Smelly
+,Male,35,35-44,Independent,Not Very Strong Conservative,High school or less,,White,,City,Neither Approve nor disapprove,Decreased,No,Yes,More Equal Society,70,Not Very Strongly Yes,Strongly Yes,No,Not Hungry,Yes,Less Smelly
+127000,Male,53,45-54,Independent,Not Very Strong Conservative,Graduate degree,,White,,Small Town,Neither Approve nor disapprove,Decreased,Yes,Yes,More Equal Society,80,Strongly No,Strongly No,Yes,Not Hungry,Yes,More Smelly
+20000,Male,30,25-34,Strong Republican,Not Very Strong Conservative,College degree,,White,,Small Town,Approve,Kept the Same,Yes,No,More Unequal Society,90,Strongly No,Strongly No,Yes,Not Hungry,Yes,More Smelly
+57000,Male,69,65+,Not Strong Republican,Strong Conservative,High school or less,,White,,City,Approve,Increased,DK/REF,Yes,More Equal Society,80,Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+43000,Male,36,35-44,Independent,Moderate,High school or less,,White,,Small Town,Disapprove,Kept the Same,No,No,More Equal Society,87,Strongly Yes,Strongly No,Yes,Very Hungry,Yes,Less Smelly
+,Male,50,45-54,Independent,Moderate,High school or less,,White,,City,Disapprove,Kept the Same,No,No,More Equal Society,10,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+,Male,50,45-54,Independent,Moderate,College degree,,White,,City,Disapprove,Decreased,No,Yes,More Equal Society,60,Strongly No,Strongly No,Yes,Not Hungry,Yes,DK/REF
+60000,Male,63,55-64,Not Strong Republican,Moderate,College degree,,White,,DK/REF,Neither Approve nor disapprove,Kept the Same,No,Yes,DK/REF,2,Strongly No,DK/REF,Yes,Not Hungry,No,DK/REF
+70000,Male,23,18-24,DK/REF,DK/REF,DK/REF,,Black,,Small Town,Disapprove,Kept the Same,DK/REF,No,More Equal Society,80,DK/REF,Strongly No,Yes,A Little Hungry,Yes,DK/REF
+40000,Male,52,45-54,Independent,Strong Conservative,High school or less,,White,,Small Town,Approve,Decreased,Yes,Yes,More Unequal Society,60,Strongly No,Strongly No,Yes,Not Hungry,No,More Smelly
+80000,Male,57,55-64,Not Strong Republican,Moderate,High school or less,,White,,Suburb,Approve,Decreased,Yes,Yes,More Unequal Society,DK/REF,Not Very Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+12000,Male,68,65+,Strong Democrat,Moderate,High school or less,,Black,,City,Disapprove,Increased,Yes,No,More Equal Society,95,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,DK/REF
+50000,Female,55,55-64,Independent,DK/REF,Some college,,White,,Suburb,Neither Approve nor disapprove,Decreased,No,Yes,More Equal Society,80,Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+,Male,35,35-44,Independent,Moderate,College degree,,Black,,Small Town,Neither Approve nor disapprove,Decreased,Yes,Yes,More Equal Society,10,Strongly No,Strongly No,Yes,A Little Hungry,Yes,More Smelly
+100000,Female,65,65+,Independent,Moderate,Graduate degree,,White,,City,Disapprove,Kept the Same,No,No,More Equal Society,100,Not Very Strongly No,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+55,Male,65,65+,Not Strong Democrat,Moderate,High school or less,,Latino,,Small Town,DK/REF,Kept the Same,DK/REF,No,More Equal Society,DK/REF,Strongly Yes,Not Very Strongly No,No,Very Hungry,Yes,Less Smelly
+150000,Male,53,45-54,Independent,DK/REF,Some college,,White,,Suburb,Disapprove,Kept the Same,Yes,Yes,More Equal Society,75,Strongly Yes,Strongly No,No,A Little Hungry,Yes,More Smelly
+,Female,65,65+,Not Strong Democrat,Moderate,Some college,,White,,Suburb,Disapprove,DK/REF,Yes,DK/REF,More Equal Society,DK/REF,Strongly Yes,Not Very Strongly Yes,Yes,Not Hungry,No,More Smelly
+2000,Other,30,25-34,DK/REF,DK/REF,Some college,,White,,City,Disapprove,Increased,Yes,Yes,More Equal Society,6,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+,Male,21,18-24,Not Strong Democrat,Not very strong Liberal,High school or less,,White,,Suburb,Disapprove,DK/REF,No,No,More Equal Society,70,Not Very Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+90000,Male,52,45-54,Strong Republican,Strong Liberal,College degree,,White,,Suburb,Approve,Decreased,DK/REF,Yes,More Equal Society,10,Strongly No,Strongly No,Yes,Not Hungry,Yes,DK/REF
+20000,Male,50,45-54,Strong Republican,Strong Conservative,College degree,,White,,Small Town,Approve,Kept the Same,No,No,More Equal Society,10,Strongly No,Strongly No,Yes,A Little Hungry,No,Less Smelly
+100000,Female,69,65+,Strong Republican,Strong Conservative,Some college,,White,,Suburb,Approve,Decreased,Yes,Yes,More Unequal Society,10,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+85000,Female,41,35-44,Not Strong Republican,Not Very Strong Conservative,Graduate degree,,White,,City,Approve,Decreased,No,No,More Equal Society,85,Strongly No,Strongly No,Yes,A Little Hungry,DK/REF,More Smelly
+,Male,45,45-54,Strong Democrat,Strong Liberal,College degree,,White,,City,DK/REF,Kept the Same,No,No,More Equal Society,95,Not Very Strongly Yes,Strongly No,No,Not Hungry,No,Less Smelly
+30000,Female,66,65+,Strong Democrat,Strong Conservative,College degree,,Black,,City,Disapprove,Increased,No,Yes,More Equal Society,80,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+,Female,62,55-64,Independent,DK/REF,High school or less,,White,,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,Strongly No,No,DK/REF,DK/REF,DK/REF
+,Female,66,65+,Not Strong Republican,Strong Conservative,Some college,,White,,Small Town,Approve,Kept the Same,Yes,No,DK/REF,DK/REF,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+50000,Female,65,65+,Not Strong Republican,Moderate,High school or less,,White,,Small Town,Approve,Increased,No,No,More Unequal Society,70,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+20000,Male,65,65+,Independent,Strong Liberal,Some college,,White,,City,Disapprove,Increased,No,Yes,More Equal Society,35,Strongly No,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+,Male,57,55-64,Independent,Moderate,High school or less,,White,,Small Town,Approve,Kept the Same,No,Yes,More Equal Society,10,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+1000,Female,43,35-44,Independent,Moderate,High school or less,,White,,Small Town,Approve,Kept the Same,No,No,More Equal Society,1,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+85000,Male,45,45-54,Independent,Not Very Strong Conservative,High school or less,,White,,Small Town,Approve,Decreased,Yes,Yes,More Equal Society,90,Strongly No,Strongly No,Yes,A Little Hungry,Yes,DK/REF
+,Female,66,65+,Independent,Strong Conservative,College degree,,White,,Small Town,Approve,Decreased,No,No,More Equal Society,25,Strongly No,Strongly No,No,Not Hungry,No,More Smelly
+953,Female,81,65+,Not Strong Republican,Moderate,High school or less,,White,,Suburb,DK/REF,Increased,No,No,More Equal Society,70,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+,Male,40,35-44,Strong Democrat,DK/REF,High school or less,,Black,,Small Town,Disapprove,Increased,No,No,More Equal Society,100,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,More Smelly
+40000,Male,70,65+,Independent,Strong Conservative,Other,Post Graduate,Other,Native American,Small Town,Approve,Decreased,No,No,DK/REF,25,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+18000,Female,53,45-54,Independent,Moderate,High school or less,,Latino,,City,Neither Approve nor disapprove,Decreased,No,No,More Equal Society,75,Strongly No,Strongly Yes,DK/REF,Not Hungry,No,DK/REF
+,Female,52,45-54,Strong Democrat,Strong Liberal,College degree,,White,,City,Disapprove,DK/REF,DK/REF,No,More Equal Society,80,DK/REF,DK/REF,Yes,Not Hungry,DK/REF,DK/REF
+45,Male,34,25-34,Independent,Strong Liberal,Graduate degree,,White,,Suburb,Disapprove,Increased,No,Yes,More Equal Society,1,Not Very Strongly Yes,Strongly No,Yes,Very Hungry,Yes,Less Smelly
+,Female,35,35-44,Strong Democrat,Not very strong Liberal,Graduate degree,,Black,,Small Town,Disapprove,Kept the Same,No,No,More Equal Society,70,Strongly No,Not Very Strongly Yes,Yes,Not Hungry,No,DK/REF
+50000,Male,63,55-64,Strong Republican,Strong Conservative,Some college,,White,,Suburb,Approve,Decreased,No,No,More Unequal Society,95,Strongly No,Strongly No,No,Not Hungry,Yes,DK/REF
+20000,Male,47,45-54,Not Strong Democrat,Strong Conservative,High school or less,,Latino,,Small Town,Disapprove,Decreased,DK/REF,DK/REF,More Equal Society,50,Not Very Strongly Yes,Strongly No,No,Not Hungry,Yes,Less Smelly
+40000,Male,73,65+,Independent,DK/REF,Some college,,White,,City,Approve,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,Strongly No,DK/REF,Yes,Not Hungry,DK/REF,DK/REF
+,Male,72,65+,Independent,Strong Conservative,High school or less,,White,,City,Approve,Decreased,No,Yes,More Unequal Society,50,Strongly No,Strongly No,No,Not Hungry,Yes,Less Smelly
+55000,Female,62,55-64,Strong Republican,Strong Conservative,High school or less,,White,,Small Town,Approve,Kept the Same,Yes,Yes,More Equal Society,1,Not Very Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+,Male,47,45-54,DK/REF,DK/REF,Some college,,White,,Suburb,Approve,Decreased,No,No,More Equal Society,2,Strongly No,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+70000,Male,50,45-54,Independent,Moderate,College degree,,White,,Small Town,DK/REF,Kept the Same,No,DK/REF,More Equal Society,20,DK/REF,Strongly Yes,Yes,Not Hungry,No,DK/REF
+50000,Female,62,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Small Town,Disapprove,Increased,No,No,More Equal Society,60,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,74,65+,Strong Democrat,Moderate,Some college,,Black,,City,Disapprove,Kept the Same,No,No,More Equal Society,55,Not Very Strongly No,Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+120000,Male,57,55-64,Strong Republican,Strong Conservative,Some college,,White,,Small Town,Approve,Decreased,No,Yes,DK/REF,DK/REF,Strongly No,Strongly No,Yes,Not Hungry,Yes,DK/REF
+2.1,Male,54,45-54,Strong Republican,Strong Conservative,Graduate degree,,Black,,City,Approve,Kept the Same,DK/REF,DK/REF,More Unequal Society,100,Strongly No,DK/REF,Yes,Not Hungry,Yes,DK/REF
+65000,Male,58,55-64,Strong Republican,Strong Conservative,High school or less,,White,,DK/REF,Approve,Decreased,No,Yes,More Equal Society,75,Not Very Strongly Yes,Strongly No,Yes,Not Hungry,No,More Smelly
+23000,Male,44,35-44,Not Strong Democrat,Not very strong Liberal,College degree,,White,,Suburb,Disapprove,Kept the Same,Yes,Yes,More Equal Society,90,Strongly Yes,Strongly No,Yes,Not Hungry,No,More Smelly
+,Female,46,45-54,Not Strong Democrat,Moderate,College degree,,Black,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,80,Strongly No,Strongly Yes,Yes,Not Hungry,No,DK/REF
+,Female,53,45-54,Not Strong Republican,Moderate,College degree,,White,,Small Town,Approve,Kept the Same,Yes,Yes,More Equal Society,80,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,52,45-54,Strong Democrat,Strong Liberal,High school or less,,White,,Small Town,Disapprove,Increased,No,No,More Unequal Society,30,Not Very Strongly Yes,Strongly No,Yes,A Little Hungry,No,Less Smelly
+,Male,56,55-64,Independent,Moderate,High school or less,,White,,Small Town,Approve,Decreased,No,No,More Equal Society,50,Strongly No,Strongly No,Yes,Not Hungry,No,More Smelly
+,Female,79,65+,Strong Republican,Moderate,High school or less,,White,,Small Town,Neither Approve nor disapprove,Kept the Same,Yes,Yes,More Equal Society,10,Not Very Strongly No,Strongly No,No,Not Hungry,No,More Smelly
+,Male,58,55-64,Not Strong Republican,Moderate,Some college,,White,,Small Town,Approve,Decreased,DK/REF,Yes,More Equal Society,60,Strongly No,Not Very Strongly No,No,Not Hungry,Yes,DK/REF
+,Female,73,65+,Strong Republican,Strong Conservative,College degree,,White,,Suburb,Approve,Decreased,Yes,Yes,More Equal Society,80,Strongly Yes,Strongly No,No,Not Hungry,No,DK/REF
+250000,Female,47,45-54,Strong Democrat,Strong Liberal,College degree,,White,,City,Disapprove,Decreased,No,No,More Equal Society,25,Not Very Strongly Yes,Not Very Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+,Female,72,65+,Strong Democrat,Strong Liberal,College degree,,White,,Small Town,Disapprove,DK/REF,No,Yes,More Equal Society,DK/REF,Strongly Yes,Strongly Yes,DK/REF,Not Hungry,No,DK/REF
+,Other,32,25-34,DK/REF,Strong Conservative,College degree,,Other,Indian,Small Town,Approve,Kept the Same,Yes,Yes,More Equal Society,50,Strongly No,Strongly No,No,Not Hungry,No,More Smelly
+,Female,58,55-64,Strong Republican,Strong Conservative,Some college,,White,,Suburb,Approve,Decreased,No,No,More Unequal Society,10,Strongly No,Not Very Strongly No,No,Not Hungry,Yes,Less Smelly
+25000,Male,40,35-44,Strong Republican,Strong Conservative,High school or less,,White,,Small Town,Approve,Decreased,No,No,More Equal Society,2,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+55000,Male,69,65+,Independent,Strong Liberal,Some college,,White,,Small Town,Disapprove,Increased,No,Yes,More Equal Society,60,Strongly Yes,Not Very Strongly No,No,Not Hungry,No,DK/REF
+180000,Male,58,55-64,Not Strong Republican,Not Very Strong Conservative,Graduate degree,,White,,Small Town,Neither Approve nor disapprove,Decreased,No,No,DK/REF,90,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,More Smelly
+40000,Male,66,65+,Independent,Not Very Strong Conservative,Some college,,White,,Small Town,Approve,Kept the Same,No,No,More Equal Society,1,DK/REF,Not Very Strongly No,No,Not Hungry,No,DK/REF
+,Female,53,45-54,Strong Republican,Strong Conservative,High school or less,,White,,Suburb,Approve,Decreased,Yes,Yes,More Equal Society,80,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+24000,Female,65,65+,DK/REF,DK/REF,Some college,,Black,,Small Town,Disapprove,Increased,No,No,More Equal Society,95,Not Very Strongly No,Strongly No,No,Not Hungry,No,More Smelly
+,Male,62,55-64,Independent,Moderate,High school or less,,White,,Suburb,Approve,Kept the Same,No,No,DK/REF,DK/REF,Strongly Yes,Strongly No,No,Not Hungry,Yes,DK/REF
+500000,Male,57,55-64,Independent,Moderate,College degree,,White,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,80,Strongly Yes,Strongly No,Yes,Not Hungry,No,More Smelly
+12000,Male,74,65+,Independent,Moderate,High school or less,,White,,Small Town,Approve,Kept the Same,Yes,No,More Equal Society,10,Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+,Female,45,45-54,Independent,Moderate,Graduate degree,,DK/REF,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,70,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+40000,Female,52,45-54,Independent,Not Very Strong Conservative,College degree,,Asian,,Suburb,Approve,Decreased,Yes,Yes,More Equal Society,75,Strongly No,Strongly Yes,Yes,Not Hungry,No,DK/REF
+45000,Female,29,25-34,Independent,Moderate,Graduate degree,,White,,Small Town,Neither Approve nor disapprove,Decreased,No,No,More Equal Society,95,Strongly No,Strongly No,Yes,Not Hungry,No,More Smelly
+20000,Female,66,65+,Not Strong Democrat,Moderate,High school or less,,White,,City,Disapprove,Decreased,Yes,DK/REF,More Equal Society,25,Strongly Yes,Strongly No,No,Not Hungry,No,Less Smelly
+60000,Female,52,45-54,Independent,Not Very Strong Conservative,High school or less,,White,,City,Disapprove,Decreased,Yes,Yes,More Equal Society,50,Strongly Yes,Strongly No,Yes,Not Hungry,No,DK/REF
+85000,Female,48,45-54,Strong Democrat,Strong Liberal,College degree,,White,,Suburb,Neither Approve nor disapprove,DK/REF,No,No,More Equal Society,1,Not Very Strongly No,Strongly No,DK/REF,Not Hungry,No,DK/REF
+8640,Female,67,65+,Independent,Strong Conservative,Some college,,White,,City,Disapprove,Increased,No,Yes,More Equal Society,70,Strongly Yes,Strongly No,Yes,Not Hungry,No,Less Smelly
+100000,Female,28,25-34,Independent,Strong Liberal,College degree,,Black,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,50,Strongly Yes,Strongly No,Yes,Not Hungry,No,DK/REF
+800000,Male,59,55-64,Strong Republican,Strong Conservative,College degree,,White,,City,Approve,Decreased,No,Yes,More Equal Society,80,Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+,Male,26,25-34,Independent,Moderate,High school or less,,White,,Small Town,Approve,Increased,No,No,More Equal Society,90,Strongly Yes,Strongly Yes,No,A Little Hungry,No,Less Smelly
+80000,Male,21,18-24,Strong Democrat,Strong Liberal,College degree,,White,,Small Town,Disapprove,Increased,DK/REF,No,More Equal Society,50,Strongly Yes,DK/REF,Yes,Not Hungry,No,DK/REF
+95000,Female,35,35-44,Independent,Moderate,Graduate degree,,Asian,,City,Disapprove,Kept the Same,No,Yes,More Unequal Society,1,Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+90000,Male,68,65+,Strong Republican,Strong Conservative,College degree,,White,,DK/REF,Approve,Decreased,Yes,Yes,More Unequal Society,50,Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+,Female,18,18-24,Independent,Moderate,High school or less,,White,,Small Town,Disapprove,Increased,No,No,More Equal Society,50,Strongly Yes,Not Very Strongly No,Yes,A Little Hungry,Yes,Less Smelly
+70000,Male,34,25-34,Independent,Moderate,Some college,,Other,Native American,Small Town,Approve,Kept the Same,No,No,More Equal Society,90,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+,Male,18,18-24,Independent,Moderate,Some college,,DK/REF,,City,Neither Approve nor disapprove,Decreased,No,Yes,More Equal Society,67,Strongly No,Strongly No,Yes,Very Hungry,Yes,Less Smelly
+25000,Female,74,65+,Independent,Strong Liberal,Some college,,White,,Small Town,Disapprove,Increased,No,Yes,More Equal Society,1,Strongly Yes,Strongly Yes,Yes,Not Hungry,Yes,More Smelly
+,Female,52,45-54,Strong Republican,Strong Conservative,Graduate degree,,White,,Small Town,Approve,Decreased,Yes,No,More Equal Society,DK/REF,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+400000000,Other,24,18-24,Independent,DK/REF,Graduate degree,,Black,,Small Town,DK/REF,DK/REF,No,No,More Equal Society,100,DK/REF,Not Very Strongly No,Yes,Very Hungry,Yes,Less Smelly
+,Female,62,55-64,Strong Republican,Strong Conservative,Some college,,White,,City,Approve,Kept the Same,No,Yes,DK/REF,DK/REF,Strongly No,Strongly No,DK/REF,Not Hungry,No,DK/REF
+36000,Male,60,55-64,Strong Democrat,Moderate,Some college,,Black,,City,Approve,Increased,Yes,No,More Equal Society,25,Strongly Yes,Strongly No,Yes,A Little Hungry,Yes,Less Smelly
+50000,Female,70,65+,Independent,Moderate,Some college,,White,,City,Disapprove,Increased,No,DK/REF,More Equal Society,1,Strongly Yes,Strongly Yes,No,Not Hungry,No,DK/REF
+150000,Male,51,45-54,DK/REF,Not very strong Liberal,DK/REF,,White,,Suburb,Disapprove,Decreased,Yes,Yes,More Equal Society,75,Strongly Yes,Not Very Strongly No,No,Not Hungry,Yes,More Smelly
+48000,Male,68,65+,Strong Democrat,Moderate,Graduate degree,,White,,Small Town,Disapprove,Increased,No,No,More Equal Society,10,Strongly No,Strongly No,Yes,Very Hungry,No,More Smelly
+125000,Male,43,35-44,Not Strong Republican,Not Very Strong Conservative,Some college,,DK/REF,,Suburb,Disapprove,Decreased,No,No,More Equal Society,5,Strongly No,Strongly Yes,Yes,Not Hungry,Yes,Less Smelly
+,Female,53,45-54,DK/REF,Strong Conservative,Some college,,Latino,,City,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,Not Hungry,DK/REF,DK/REF
+50000,Male,54,45-54,DK/REF,Strong Liberal,College degree,,White,,City,Disapprove,Kept the Same,No,No,More Equal Society,40,Strongly Yes,Strongly Yes,Yes,Not Hungry,Yes,DK/REF
+25000,Female,78,65+,Strong Democrat,Strong Liberal,College degree,,White,,City,Disapprove,Increased,No,Yes,More Equal Society,65,Strongly Yes,Strongly No,DK/REF,Not Hungry,No,Less Smelly
+80000,Male,62,55-64,Strong Republican,Moderate,Some college,,White,,City,Approve,Kept the Same,DK/REF,DK/REF,More Equal Society,18,Strongly No,Strongly No,No,Not Hungry,No,More Smelly
+17000,Female,38,35-44,Not Strong Democrat,Strong Liberal,Graduate degree,,White,,City,Disapprove,DK/REF,No,DK/REF,More Equal Society,40,Strongly Yes,Strongly Yes,Yes,Not Hungry,No,DK/REF
+100000,Female,66,65+,Strong Republican,Strong Conservative,High school or less,,White,,Suburb,Approve,Decreased,Yes,Yes,More Equal Society,DK/REF,DK/REF,DK/REF,No,Very Hungry,No,DK/REF
+12000,Female,58,55-64,Strong Republican,Strong Conservative,College degree,,White,,City,Approve,Decreased,No,No,DK/REF,DK/REF,Strongly No,DK/REF,Yes,A Little Hungry,No,DK/REF
+100000,Male,44,35-44,Independent,Not Very Strong Conservative,College degree,,White,,City,Approve,Kept the Same,DK/REF,Yes,More Equal Society,97,Strongly No,Strongly No,No,Not Hungry,DK/REF,Less Smelly
+85000,Female,62,55-64,Strong Republican,Strong Conservative,College degree,,White,,Suburb,Approve,Kept the Same,No,Yes,DK/REF,DK/REF,Strongly No,Strongly No,No,Very Hungry,No,DK/REF
+,Male,58,55-64,Independent,Moderate,High school or less,,White,,Small Town,Approve,DK/REF,DK/REF,Yes,DK/REF,DK/REF,DK/REF,Strongly Yes,Yes,Not Hungry,DK/REF,More Smelly
+100000,Male,40,35-44,Strong Republican,Strong Conservative,College degree,,White,,Suburb,Approve,Decreased,No,No,More Equal Society,85,Not Very Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+,Male,50,45-54,Strong Republican,Strong Conservative,High school or less,,White,,DK/REF,Approve,Decreased,Yes,Yes,More Equal Society,75,Strongly No,Strongly No,No,A Little Hungry,No,More Smelly
+45000,Female,62,55-64,Not Strong Republican,Strong Conservative,Graduate degree,,White,,City,Neither Approve nor disapprove,Kept the Same,No,Yes,More Equal Society,2,Strongly Yes,Strongly No,No,Not Hungry,Yes,Less Smelly
+150000,Male,31,25-34,Independent,Strong Conservative,Some college,,Latino,,Suburb,Approve,Decreased,Yes,Yes,More Equal Society,60,Strongly Yes,Strongly Yes,No,Not Hungry,No,More Smelly
+,Female,67,65+,Strong Republican,Strong Conservative,College degree,,White,,Suburb,Approve,Decreased,Yes,Yes,More Equal Society,DK/REF,Strongly No,Strongly No,No,A Little Hungry,No,Less Smelly
+38000,Female,35,35-44,DK/REF,Strong Liberal,High school or less,,White,,City,Approve,Kept the Same,No,No,More Equal Society,90,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+50000,Male,70,65+,Not Strong Republican,Strong Conservative,Graduate degree,,White,,Suburb,Approve,Kept the Same,Yes,Yes,More Equal Society,50,Not Very Strongly Yes,Strongly No,Yes,Very Hungry,No,DK/REF
+80000,Male,47,45-54,DK/REF,Moderate,Some college,,Asian,,City,Approve,Increased,No,No,More Equal Society,70,Strongly Yes,Strongly Yes,Yes,Not Hungry,Yes,More Smelly
+100000,DK/REF,47,45-54,Independent,Not Very Strong Conservative,College degree,,DK/REF,,Suburb,Neither Approve nor disapprove,Decreased,No,No,More Unequal Society,70,Strongly No,Strongly No,Yes,Not Hungry,No,More Smelly
+200000,Male,47,45-54,Strong Democrat,Strong Liberal,Graduate degree,,White,,Suburb,Disapprove,Increased,Yes,Yes,More Equal Society,95,Strongly Yes,Strongly Yes,Yes,Not Hungry,Yes,Less Smelly
+60000,Female,64,55-64,Strong Republican,DK/REF,Some college,,White,,Suburb,Approve,Decreased,Yes,Yes,More Equal Society,DK/REF,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+22000,Male,53,45-54,Independent,Strong Conservative,Some college,,Asian,,Suburb,Approve,Decreased,No,Yes,DK/REF,40,Strongly No,Strongly No,No,Not Hungry,Yes,Less Smelly
+50000,Female,28,25-34,Independent,Moderate,Graduate degree,,Latino,,City,Disapprove,Decreased,No,Yes,More Unequal Society,50,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,More Smelly
+,Female,69,65+,Strong Republican,Moderate,Some college,,White,,Suburb,Approve,Decreased,No,Yes,More Equal Society,1,Strongly No,Strongly No,No,Not Hungry,Yes,DK/REF
+,Male,24,18-24,Not Strong Democrat,Not Very Strong Conservative,Some college,,Black,,Suburb,Disapprove,Kept the Same,No,Yes,More Equal Society,10,Not Very Strongly Yes,Not Very Strongly No,Yes,A Little Hungry,DK/REF,Less Smelly
+,Male,40,35-44,Independent,Moderate,Graduate degree,,DK/REF,,Suburb,Neither Approve nor disapprove,Decreased,No,Yes,More Equal Society,50,Strongly No,Strongly No,Yes,Not Hungry,Yes,More Smelly
+,Male,65,65+,Not Strong Democrat,Moderate,Graduate degree,,White,,Suburb,Disapprove,Kept the Same,No,Yes,More Unequal Society,25,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+40000,Female,30,25-34,Independent,Strong Conservative,High school or less,,Latino,,City,Disapprove,Kept the Same,No,Yes,More Unequal Society,25,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+35000,Female,37,35-44,Not Strong Democrat,Not Very Strong Conservative,High school or less,,Black,,Small Town,Disapprove,Decreased,No,No,More Equal Society,25,Strongly Yes,Strongly No,No,Not Hungry,No,DK/REF
+140000,Male,56,55-64,DK/REF,DK/REF,College degree,,White,,Suburb,Neither Approve nor disapprove,DK/REF,DK/REF,Yes,More Equal Society,75,Not Very Strongly No,DK/REF,Yes,Not Hungry,DK/REF,DK/REF
+22000,Male,62,55-64,Strong Democrat,Strong Liberal,College degree,,Latino,,Small Town,Disapprove,Increased,No,No,More Equal Society,20,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,DK/REF
+250000,Male,45,45-54,Independent,Moderate,College degree,,Other,Native American,Suburb,Neither Approve nor disapprove,Decreased,No,No,More Equal Society,90,Strongly No,Strongly No,Yes,Not Hungry,No,Less Smelly
+,Female,50,45-54,Not Strong Democrat,Not very strong Liberal,Graduate degree,,Black,,Suburb,Disapprove,Increased,No,No,More Equal Society,70,Strongly Yes,DK/REF,Yes,Not Hungry,Yes,DK/REF
+9000,Male,46,45-54,Not Strong Republican,Strong Conservative,College degree,,White,,Suburb,Approve,Decreased,No,Yes,More Equal Society,60,Not Very Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+,Female,67,65+,Not Strong Democrat,Strong Liberal,Graduate degree,,White,,City,Disapprove,Increased,No,No,More Equal Society,85,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,80,65+,Strong Republican,Strong Conservative,Graduate degree,,White,,Small Town,Approve,Increased,No,Yes,More Equal Society,75,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+35000,Female,67,65+,Strong Democrat,Moderate,Some college,,Black,,City,Disapprove,Increased,No,Yes,More Equal Society,90,Strongly Yes,Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+3,Male,65,65+,DK/REF,Strong Conservative,Graduate degree,,Asian,,Small Town,Approve,Kept the Same,DK/REF,Yes,More Equal Society,34,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+100000,Female,68,65+,Independent,Not Very Strong Conservative,Graduate degree,,White,,Small Town,Approve,Decreased,No,Yes,DK/REF,60,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+100000,Female,63,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,City,Disapprove,Increased,No,No,More Equal Society,70,Strongly Yes,Strongly Yes,Yes,Not Hungry,Yes,More Smelly
+,Male,64,55-64,Independent,Strong Conservative,Graduate degree,,White,,Suburb,Approve,Decreased,No,No,DK/REF,25,Strongly No,Strongly No,No,Not Hungry,Yes,DK/REF
+150000,Female,60,55-64,Independent,Moderate,College degree,,White,,Small Town,Disapprove,Kept the Same,No,Yes,More Equal Society,90,Strongly Yes,Strongly No,Yes,Not Hungry,No,DK/REF
+,Male,53,45-54,Strong Democrat,Moderate,Graduate degree,,White,,Suburb,Disapprove,Kept the Same,Yes,Yes,More Equal Society,60,Not Very Strongly No,Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+,Male,64,55-64,Strong Republican,Strong Conservative,Graduate degree,,Latino,,Suburb,Approve,Decreased,No,Yes,DK/REF,DK/REF,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,40,35-44,DK/REF,Strong Liberal,College degree,,White,,City,Disapprove,Increased,No,No,More Equal Society,90,Strongly Yes,DK/REF,Yes,Not Hungry,No,DK/REF
+,Female,53,45-54,Not Strong Republican,Strong Liberal,College degree,,White,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,40,Strongly No,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,99,65+,Strong Democrat,Strong Liberal,College degree,,White,,Suburb,Disapprove,DK/REF,DK/REF,Yes,More Equal Society,1,Not Very Strongly No,Not Very Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+,Male,69,65+,Strong Democrat,Not Very Strong Conservative,College degree,,White,,Small Town,Disapprove,Increased,DK/REF,Yes,More Equal Society,75,DK/REF,Strongly No,No,Not Hungry,No,DK/REF
+,Male,66,65+,DK/REF,DK/REF,Graduate degree,,White,,Suburb,Approve,DK/REF,No,No,More Unequal Society,60,Strongly No,Strongly No,No,A Little Hungry,No,DK/REF
+300000,Female,50,45-54,Independent,Moderate,Graduate degree,,Other,mixed,Suburb,Neither Approve nor disapprove,Decreased,No,No,More Unequal Society,DK/REF,Strongly No,Strongly Yes,No,Not Hungry,No,DK/REF
+,Male,50,45-54,Independent,Moderate,College degree,,Other,"Spanish, Eastern, Italian",Suburb,Neither Approve nor disapprove,Kept the Same,No,No,More Equal Society,25,Strongly No,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+200000,Male,58,55-64,Strong Democrat,Strong Liberal,Graduate degree,,Black,,City,Disapprove,Increased,No,No,More Equal Society,99,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,More Smelly
+,Male,36,35-44,Independent,DK/REF,Graduate degree,,Asian,,Suburb,Neither Approve nor disapprove,DK/REF,DK/REF,DK/REF,More Equal Society,25,DK/REF,Strongly No,DK/REF,Not Hungry,DK/REF,DK/REF
+150000,Female,37,35-44,Independent,Moderate,Graduate degree,,Asian,,City,Disapprove,Increased,No,Yes,More Equal Society,15,Strongly Yes,Strongly Yes,Yes,Not Hungry,Yes,Less Smelly
+,Female,69,65+,DK/REF,DK/REF,Graduate degree,,DK/REF,,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,No,Not Hungry,DK/REF,DK/REF
+65000,Male,26,25-34,Strong Democrat,Strong Liberal,College degree,,Black,,City,Disapprove,Increased,No,No,More Equal Society,80,Strongly Yes,Not Very Strongly Yes,Yes,Not Hungry,Yes,Less Smelly
+200000,Male,45,45-54,DK/REF,DK/REF,Graduate degree,,White,,Small Town,Disapprove,DK/REF,No,No,More Equal Society,80,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,Yes,DK/REF
+35000,Female,28,25-34,Independent,Moderate,College degree,,White,,Suburb,Disapprove,Kept the Same,Yes,Yes,More Equal Society,90,Strongly No,Strongly No,Yes,Not Hungry,Yes,More Smelly
+,Female,38,35-44,DK/REF,Moderate,High school or less,,White,,Small Town,Approve,Decreased,No,Yes,More Equal Society,60,Not Very Strongly Yes,Strongly No,Yes,Not Hungry,No,DK/REF
+,Male,70,65+,Strong Republican,Strong Conservative,Graduate degree,,White,,Small Town,Approve,Decreased,No,No,More Equal Society,25,Strongly No,Strongly No,Yes,Not Hungry,Yes,DK/REF
+100,Other,25,25-34,DK/REF,DK/REF,High school or less,,Black,,Small Town,Disapprove,Increased,No,No,More Equal Society,5,DK/REF,DK/REF,Yes,Not Hungry,No,DK/REF
+140000,Male,29,25-34,Strong Democrat,Strong Liberal,College degree,,White,,Small Town,Disapprove,Kept the Same,No,No,More Equal Society,60,DK/REF,Not Very Strongly No,Yes,A Little Hungry,Yes,More Smelly
+,Female,20,18-24,Independent,Moderate,High school or less,,White,,City,DK/REF,Decreased,No,No,More Equal Society,80,Not Very Strongly No,Not Very Strongly No,Yes,Not Hungry,Yes,Less Smelly
+160000,Female,66,65+,Not Strong Democrat,Strong Liberal,Graduate degree,,Other,American Indian,Small Town,Disapprove,Increased,No,Yes,More Equal Society,85,Not Very Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+25000,Female,21,18-24,Strong Republican,Strong Conservative,Some college,,White,,Suburb,Approve,Kept the Same,Yes,Yes,More Equal Society,75,Strongly No,Strongly No,No,Not Hungry,No,Less Smelly
+32000,Female,28,25-34,Strong Democrat,Strong Conservative,College degree,,Black,,City,Neither Approve nor disapprove,Kept the Same,No,Yes,More Equal Society,50,Strongly Yes,Strongly No,Yes,Not Hungry,No,Less Smelly
+,Male,34,25-34,Independent,Strong Conservative,College degree,,White,,Small Town,Approve,Decreased,No,No,More Unequal Society,85,Strongly No,Strongly No,Yes,Not Hungry,Yes,DK/REF
+,Male,46,45-54,Independent,Strong Conservative,High school or less,,White,,Small Town,Approve,Decreased,No,No,More Equal Society,1,Strongly No,Strongly No,Yes,Not Hungry,No,DK/REF
+,Male,31,25-34,Not Strong Democrat,Moderate,Graduate degree,,Asian,,City,Disapprove,Increased,No,No,More Equal Society,95,Not Very Strongly Yes,Not Very Strongly Yes,Yes,Not Hungry,Yes,Less Smelly
+45000,Male,24,18-24,Independent,DK/REF,Some college,,White,,DK/REF,DK/REF,Kept the Same,No,No,More Unequal Society,60,DK/REF,Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+20000,Other,19,18-24,Not Strong Democrat,Strong Liberal,High school or less,,White,,City,Disapprove,Increased,No,No,More Equal Society,55,Strongly Yes,Strongly Yes,Yes,A Little Hungry,No,Less Smelly
+,Female,46,45-54,Strong Democrat,Strong Liberal,Graduate degree,,White,,Suburb,Disapprove,Increased,No,No,More Equal Society,60,DK/REF,DK/REF,Yes,Not Hungry,No,DK/REF
+6000,Female,74,65+,Independent,Moderate,Some college,,White,,Small Town,Disapprove,Kept the Same,Yes,Yes,More Equal Society,35,Strongly No,Strongly No,No,Not Hungry,No,More Smelly
+50000,Female,60,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Small Town,Disapprove,Kept the Same,Yes,Yes,More Equal Society,2,Not Very Strongly No,Strongly No,Yes,A Little Hungry,No,Less Smelly
+40000,Male,20,18-24,Strong Democrat,DK/REF,College degree,,Asian,,Suburb,Disapprove,Kept the Same,No,Yes,More Equal Society,90,Strongly No,Not Very Strongly No,Yes,Not Hungry,Yes,More Smelly
+60,Male,62,55-64,Strong Republican,Strong Conservative,College degree,,White,,DK/REF,Approve,Decreased,Yes,Yes,More Equal Society,90,Strongly No,Strongly No,Yes,Not Hungry,Yes,More Smelly
+,Female,44,35-44,Strong Republican,Moderate,College degree,,White,,Suburb,Approve,Decreased,Yes,No,More Equal Society,DK/REF,Strongly No,Strongly No,No,Not Hungry,Yes,DK/REF
+,Female,62,55-64,Not Strong Democrat,Not Very Strong Conservative,High school or less,,White,,Suburb,Disapprove,Increased,No,No,More Equal Society,65,Strongly No,Strongly No,No,Not Hungry,No,More Smelly
+,Female,69,65+,Strong Republican,Strong Conservative,High school or less,,White,,DK/REF,Approve,Decreased,DK/REF,Yes,More Equal Society,1,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+,Male,35,35-44,Not Strong Republican,Moderate,College degree,,White,,Suburb,Neither Approve nor disapprove,Increased,No,No,More Unequal Society,30,Strongly No,Strongly No,Yes,Not Hungry,Yes,DK/REF
+100000,Male,55,55-64,Independent,Moderate,Graduate degree,,White,,City,Neither Approve nor disapprove,Kept the Same,No,No,More Equal Society,DK/REF,Strongly No,Strongly No,Yes,Not Hungry,Yes,More Smelly
+50000,Female,43,35-44,Strong Republican,Strong Conservative,Some college,,White,,Small Town,Approve,Kept the Same,DK/REF,No,More Equal Society,20,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+10000,Female,22,18-24,Strong Democrat,Not very strong Liberal,College degree,,Black,,City,Disapprove,Kept the Same,No,No,More Equal Society,30,Not Very Strongly No,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+,Female,57,55-64,Independent,Moderate,Some college,,DK/REF,,Suburb,Neither Approve nor disapprove,Decreased,No,No,More Equal Society,DK/REF,Strongly No,Strongly No,Yes,A Little Hungry,No,DK/REF
+100000,Female,52,45-54,Strong Democrat,Strong Liberal,Graduate degree,,White,,City,Disapprove,Increased,No,No,More Equal Society,90,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,Less Smelly
+,Female,68,65+,Strong Republican,Strong Conservative,Some college,,White,,Small Town,Approve,Increased,No,No,More Equal Society,1,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,More Smelly
+32000,Male,19,18-24,Not Strong Democrat,Moderate,Some college,,White,,City,Disapprove,Increased,No,Yes,More Equal Society,90,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,DK/REF
+35000,Female,47,45-54,Strong Republican,Moderate,Some college,,White,,City,Approve,Decreased,No,No,More Equal Society,72,Strongly Yes,Strongly No,Yes,Not Hungry,No,DK/REF
+32000,Female,62,55-64,DK/REF,Strong Conservative,College degree,,White,,City,DK/REF,Increased,No,No,More Equal Society,89,Strongly Yes,Strongly No,Yes,Not Hungry,Yes,Less Smelly
+16000,Male,63,55-64,Not Strong Democrat,Moderate,High school or less,,White,,Suburb,Disapprove,Increased,No,No,More Equal Society,1,Strongly Yes,Strongly No,No,Not Hungry,No,More Smelly
+,Female,60,55-64,Strong Republican,Strong Conservative,College degree,,White,,Small Town,Approve,Decreased,DK/REF,DK/REF,More Equal Society,10,Strongly No,Strongly No,No,Not Hungry,DK/REF,DK/REF
+35000,Female,45,45-54,Strong Democrat,Not very strong Liberal,Some college,,Latino,,City,Disapprove,Decreased,No,No,More Equal Society,99,Strongly No,DK/REF,Yes,Not Hungry,Yes,DK/REF
+100000,Female,63,55-64,Strong Republican,Strong Conservative,College degree,,White,,Small Town,Approve,Decreased,No,DK/REF,DK/REF,DK/REF,Strongly No,Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+,Female,68,65+,Strong Democrat,Strong Liberal,College degree,,White,,Suburb,Disapprove,Increased,No,No,More Equal Society,DK/REF,Strongly Yes,Not Very Strongly Yes,Yes,Not Hungry,No,DK/REF
+,Male,54,45-54,Independent,Moderate,Graduate degree,,DK/REF,,City,Disapprove,Kept the Same,No,No,More Equal Society,60,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+100000,Male,51,45-54,Independent,Moderate,College degree,,White,,Suburb,Approve,Kept the Same,No,Yes,More Equal Society,95,Strongly No,Strongly No,Yes,Very Hungry,No,Less Smelly
+,Male,64,55-64,Independent,DK/REF,High school or less,,White,,Small Town,DK/REF,Kept the Same,DK/REF,DK/REF,More Equal Society,80,DK/REF,DK/REF,Yes,Not Hungry,No,DK/REF
+,Male,18,18-24,Independent,DK/REF,High school or less,,Latino,,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,Not Very Strongly No,Yes,Not Hungry,DK/REF,DK/REF
+,Female,50,45-54,Strong Democrat,Moderate,Some college,,Black,,Suburb,Disapprove,Increased,No,Yes,More Equal Society,75,Not Very Strongly Yes,Strongly Yes,Yes,A Little Hungry,Yes,DK/REF
+,Female,53,45-54,Strong Democrat,Strong Liberal,College degree,,White,,Suburb,Disapprove,Kept the Same,No,No,More Equal Society,85,Strongly Yes,Not Very Strongly No,Yes,Not Hungry,No,DK/REF
+,Female,72,65+,Independent,Moderate,Graduate degree,,White,,Small Town,Disapprove,Decreased,No,No,More Equal Society,DK/REF,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+100000,Male,54,45-54,Not Strong Republican,Moderate,High school or less,,Black,,City,Disapprove,Decreased,No,No,More Equal Society,89,Strongly Yes,Strongly No,No,A Little Hungry,No,Less Smelly
+,Other,65,65+,DK/REF,Moderate,High school or less,,Latino,,Suburb,Approve,Decreased,Yes,No,DK/REF,DK/REF,Strongly No,Strongly No,No,Not Hungry,No,DK/REF
+,Female,69,65+,DK/REF,DK/REF,High school or less,,White,,City,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,No,Not Hungry,DK/REF,DK/REF
+75000,Female,40,35-44,Independent,Strong Conservative,College degree,,White,,Small Town,Approve,DK/REF,No,Yes,More Equal Society,10,Strongly Yes,Strongly No,Yes,Not Hungry,No,DK/REF
+100000,Male,36,35-44,Independent,Strong Conservative,College degree,,White,,Small Town,Approve,Decreased,No,Yes,More Unequal Society,90,Strongly No,Strongly No,Yes,Not Hungry,Yes,More Smelly
+24000,Female,70,65+,Strong Republican,Not Very Strong Conservative,Some college,,White,,Small Town,Approve,Decreased,No,No,More Equal Society,50,Strongly No,Strongly No,No,Not Hungry,No,More Smelly
+,Male,80,65+,Not Strong Republican,Moderate,Graduate degree,,White,,Small Town,Disapprove,DK/REF,DK/REF,DK/REF,More Equal Society,90,DK/REF,Not Very Strongly Yes,No,Not Hungry,Yes,DK/REF
+40000,Other,29,25-34,DK/REF,DK/REF,High school or less,,Other,Brown,City,Approve,DK/REF,DK/REF,DK/REF,More Equal Society,DK/REF,DK/REF,Not Very Strongly No,Yes,Very Hungry,No,DK/REF
+,Female,25,25-34,Independent,Not Very Strong Conservative,College degree,,Asian,,Small Town,Disapprove,Kept the Same,DK/REF,Yes,More Equal Society,60,Not Very Strongly Yes,Strongly No,Yes,Not Hungry,DK/REF,Less Smelly
+50000,Male,41,35-44,Strong Republican,Strong Conservative,Some college,,White,,City,Approve,Decreased,No,No,More Equal Society,DK/REF,Strongly No,Strongly No,No,Not Hungry,Yes,DK/REF

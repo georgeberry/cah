@@ -1,0 +1,802 @@
+Gender,Age,Age Range ,"In politics today, do you consider yourself a Democrat, a Republican, or Independent?","Would you say you are liberal, conservative, or moderate?","What is your highest level of education? (High school or less, Some college, College degree, Graduate degree)",Other,"
+What is your race? (white, black, latino, asian, other)",Other,"Do you approve, disapprove, or neither approve nor disapprove of how Donald Trump is handling his job as president? (for ""approve"" or ""disapprove,"" probe: strongly or somewhat?)",Would you consider yourself pro-life or pro-choice?,"Are the people you interact with on a day-to-day basis, both in person and on social media, mostly conservatives, a mix of conservatives and liberals, or mostly liberals?",What's the first word that comes to your mind when you think of Donald Trump?,Other,Do you support or oppose Trump's plan to build a wall between Mexico and the United States?,"A number of women have accused Donald Trump of sexual misconduct. How likely is it that these allegations are true: very likely, somewhat likely, or not at all likely?","Has unemployment gone up, gone down, or stayed the same since Donald Trump became president?",True or false: Donald Trump has always publically opposed abortion.,How many times has Donald Trump been married?,Would you describe Donald Trump as a humble person?,"Donald Trump is 6 feet, 3 inches tall. If you had to guess, how much do you think he weighs?","According to reports of his recent medical exam, Donald Trump weighs 239 pounds. Do you think that number is too high, too low, or accurate?","If you were a Mexican trying to illegally enter the United States, do you think you could probably find a way to get past Trump's border wall?",Do you plan on voting for Donald Trump in 2020?,Q21
+Female,85,65+,Democrat,Moderate,Some college,,Black,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,terrible person,,Oppose,Very Likely,Stayed the same,DK/REF,4,No,275,DK/REF,Yes,No,
+Female,37,35-44,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,arrogant,,Oppose,Very Likely,Stayed the same,TRUE,4,No,250,Accurate,No,No,
+Female,74,65+,DK/REF,Moderate,Some college,,Black,,Neither approve nor disapprove,Pro-life,Mostly Liberals,"I don't even know. I'm undecided, I really don't know.",,Oppose,Very Likely,Stayed the same,DK/REF,2,No,270,Too low,No,No,
+Female,60,55-64,Democrat,Moderate,High school or less,,Other,Native American,Strongly Disapprove,Pro-Choice,Mostly Liberals,trash,,Oppose,Very Likely,Gone down,TRUE,100,No,350,Too low,Yes,No,
+Female,80,65+,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,Pro-Choice,Mostly Liberals,I really don't know.,,DK/REF,Not at all likely,DK/REF,TRUE,5,Yes,500,DK/REF,No,No,
+Female,58,55-64,Independent,Conservative,Some college,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,agressive,,Support,Not at all likely,Gone down,FALSE,3,No,239,Accurate,No,Yes,No
+Female,54,45-54,Democrat,Liberal,Some college,,Black,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,I have no opinion.,,Oppose,DK/REF,DK/REF,DK/REF,6,No,190,Accurate,Yes,No,
+Female,72,65+,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mostly Conservatives,good man,,Support,Not at all likely,Gone up,TRUE,3,Yes,195,Accurate,Yes,Yes,DK/REF
+Male,50,45-54,Democrat,Liberal,College degree,,Black,,Somewhat Disapprove,Pro-Choice,Mix of conservatives and liberals,radical liberal,,Oppose,Somewhat Likely,Stayed the same,FALSE,3,Yes,250,Accurate,No,No,
+Female,61,55-64,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,dangerous,,Oppose,Very Likely,Gone down,DK/REF,2,No,270,Too low,Yes,No,
+Male,63,55-64,Democrat,Moderate,College degree,,Black,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,rich,,Oppose,Somewhat Likely,Stayed the same,DK/REF,3,No,250,Accurate,Yes,No,
+Male,69,65+,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,liar,,Oppose,Very Likely,Gone down,FALSE,3,No,245,Too low,Yes,No,
+Female,82,65+,Democrat,Conservative,High school or less,,Latino,,Strongly Disapprove,DK/REF,Mostly Liberals,I don't like him.,,Support,Very Likely,DK/REF,DK/REF,1,No,190,Too high,Yes,No,
+Male,47,45-54,Independent,Conservative,High school or less,,White,,Strongly Approve,Pro-Choice,DK/REF,great,,Support,DK/REF,Gone down,DK/REF,1,Yes,250,Too high,DK/REF,Yes,DK/REF
+Female,22,18-24,Independent,Moderate,High school or less,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,twitter,,Oppose,Somewhat Likely,DK/REF,TRUE,1,No,230,Accurate,Yes,No,
+Male,29,25-34,DK/REF,DK/REF,College degree,,White,,Somewhat Approve,Pro-Choice,DK/REF,rich,,DK/REF,Somewhat Likely,Gone down,DK/REF,5,DK/REF,220,Accurate,Yes,No,
+Female,64,55-64,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,racist,,Oppose,Very Likely,Gone up,FALSE,3,No,250,Accurate,Yes,No,
+Male,62,55-64,Independent,Moderate,Some college,,Black,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,tyrant,,Oppose,Somewhat Likely,Stayed the same,TRUE,3,No,300,Too low,Yes,No,
+Female,34,25-34,DK/REF,DK/REF,Some college,,White,,Neither approve nor disapprove,Pro-life,DK/REF,president,,DK/REF,DK/REF,DK/REF,DK/REF,1,DK/REF,200,Accurate,DK/REF,DK/REF,
+Male,76,65+,Republican,Moderate,DK/REF,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,tall,,Support,DK/REF,Gone down,DK/REF,2,No,250,Accurate,Yes,Yes,DK/REF
+Female,50,45-54,DK/REF,DK/REF,College degree,,White,,Neither approve nor disapprove,Pro-life,Mix of conservatives and liberals,president,,Support,Somewhat Likely,Stayed the same,DK/REF,3,No,240,DK/REF,Yes,DK/REF,
+Female,51,45-54,Democrat,Moderate,Some college,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,ass,,Oppose,Very Likely,Gone down,FALSE,3,No,240,Accurate,No,No,
+Female,27,25-34,Independent,DK/REF,High school or less,,White,,Strongly Approve,Pro-life,DK/REF,amazing,,Support,Somewhat Likely,Gone down,DK/REF,2,Yes,220,Too low,Yes,Yes,Yes
+Other,30,25-34,Independent,Liberal,College degree,,DK/REF,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,fat,,Oppose,Very Likely,DK/REF,DK/REF,3,No,275,DK/REF,Yes,No,
+Male,83,65+,Independent,Moderate,High school or less,,Black,,Neither approve nor disapprove,Pro-Choice,DK/REF,He can finish what he started.,,Oppose,Very Likely,Stayed the same,DK/REF,3,No,250,DK/REF,Yes,No,
+Female,63,55-64,Independent,Conservative,High school or less,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,I don't know.,,Oppose,Very Likely,Stayed the same,TRUE,4,No,235,Accurate,Yes,No,
+Female,59,55-64,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,incompetent liar,,Oppose,Very Likely,Stayed the same,FALSE,3,No,260,Too low,Yes,No,
+Female,67,65+,Democrat,Liberal,Some college,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,catastrophe,,Oppose,Very Likely,Gone down,TRUE,3,No,270,Too low,Yes,No,
+Female,68,65+,Democrat,DK/REF,High school or less,,Black,,Somewhat Disapprove,DK/REF,DK/REF,There is none. I'll just pray for him.,,DK/REF,DK/REF,DK/REF,DK/REF,1,DK/REF,200,DK/REF,DK/REF,No,
+Male,38,35-44,Republican,Conservative,Some college,,Latino,,Somewhat Approve,Pro-Choice,Mix of conservatives and liberals,misunderstood,,Oppose,DK/REF,Gone up,DK/REF,3,No,240,Accurate,Yes,Yes,No
+Female,58,55-64,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,incompetent,,Oppose,Very Likely,Gone down,FALSE,3,No,250,Too low,Yes,No,
+Female,29,25-34,Independent,Moderate,Some college,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,He is crazy.,,Oppose,DK/REF,DK/REF,TRUE,2,DK/REF,280,Too low,Yes,No,
+Male,52,45-54,Independent,Conservative,High school or less,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,economy,,Support,Somewhat Likely,Gone down,DK/REF,3,Yes,240,Accurate,Yes,Yes,No
+Female,68,65+,Independent,DK/REF,College degree,,White,,Neither approve nor disapprove,Pro-Choice,DK/REF,"Big guy, he is a big man.",,DK/REF,DK/REF,Gone down,DK/REF,3,No,215,DK/REF,Yes,DK/REF,
+Female,40,35-44,Democrat,Conservative,High school or less,,Black,,Strongly Disapprove,DK/REF,Mostly Conservatives,stupid,,Oppose,Somewhat Likely,Stayed the same,TRUE,1,No,230,Accurate,Yes,No,
+Male,39,35-44,Democrat,Liberal,Graduate degree,,Latino,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,impeach,,Oppose,Very Likely,Gone down,FALSE,3,No,430,Too low,Yes,No,
+Male,42,35-44,Republican,Moderate,Some college,,Latino,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,difficult,,DK/REF,Somewhat Likely,DK/REF,TRUE,3,No,250,Accurate,Yes,Yes,No
+Female,56,55-64,Independent,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,unqualified,,Oppose,Very Likely,Gone down,FALSE,3,No,240,Accurate,No,No,
+Female,32,25-34,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,DK/REF,It's non-presidential.,,Oppose,Somewhat Likely,Gone down,TRUE,3,No,250,Accurate,Yes,No,
+Female,39,35-44,Democrat,Moderate,Some college,,Black,,Neither approve nor disapprove,Pro-Choice,Mostly Conservatives,There is nothing.,,Oppose,Very Likely,Gone up,DK/REF,5,No,270,Too low,No,No,
+Female,18,18-24,Independent,Moderate,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Idiot,,Oppose,Very Likely,Gone up,TRUE,999,No,999,Accurate,Yes,No,
+Male,23,18-24,Independent,Moderate,College degree,,White,,DK/REF,DK/REF,Mix of conservatives and liberals,President,,Oppose,DK/REF,Gone up,DK/REF,999,Yes,270,Too low,DK/REF,DK/REF,
+Male,58,55-64,Republican,Conservative,Graduate degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Decisive,,Support,Somewhat Likely,Gone down,DK/REF,3,No,255,Too low,DK/REF,DK/REF,
+Female,70,65+,Democrat,DK/REF,Some college,,Black,,DK/REF,Pro-life,Mostly Liberals,,DK/REF,Oppose,DK/REF,Stayed the same,FALSE,5,No,999,Too high,Yes,No,
+Female,21,18-24,Democrat,Liberal,Some college,,Latino,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Insane,,Oppose,Very Likely,Gone down,TRUE,3,No,230,Too high,Yes,No,
+Female,42,35-44,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Joke,,Oppose,Very Likely,Gone down,TRUE,2,No,250,Too low,Yes,No,
+Female,56,55-64,Independent,Conservative,College degree,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,His hair,,Oppose,DK/REF,Gone down,DK/REF,2,No,220,Accurate,Yes,Yes,No
+Female,25,25-34,Independent,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Unqualified,,Oppose,Very Likely,Stayed the same,TRUE,3,No,999,Too high,Yes,No,
+Female,28,25-34,Independent,Moderate,Graduate degree,,Latino,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Irresponsible,,Oppose,Somewhat Likely,DK/REF,TRUE,3,No,240,Too low,Yes,No,
+Male,61,55-64,Independent,DK/REF,High school or less,,White,,Strongly Approve,Pro-life,Mostly Conservatives,A good president,,Support,Not at all likely,Gone up,DK/REF,3,No,200,Accurate,No,Yes,No
+Female,25,25-34,Democrat,Liberal,Some college,,Black,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Blunt,,Oppose,Somewhat Likely,Gone up,FALSE,2,No,280,Accurate,Yes,No,
+Male,50,45-54,Republican,Conservative,Some college,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,President,,Support,Not at all likely,Gone down,TRUE,2,No,245,Accurate,Yes,Yes,No
+Female,34,25-34,Independent,Moderate,High school or less,,Latino,,Strongly Disapprove,Pro-Choice,Mostly Liberals,He is garbage.,,Oppose,Very Likely,Gone down,DK/REF,2,Yes,200,Accurate,No,No,
+Male,18,18-24,Independent,Moderate,High school or less,,Asian,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,Businessman,,Oppose,Somewhat Likely,Stayed the same,FALSE,1,No,200,Too high,No,No,
+Male,21,18-24,Independent,Moderate,Some college,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,Loud,,Oppose,Not at all likely,Gone down,FALSE,3,Yes,250,Accurate,No,No,
+Female,60,55-64,DK/REF,Conservative,College degree,,DK/REF,,Somewhat Approve,Pro-Choice,Mostly Liberals,No nonsense,,Support,DK/REF,Gone down,DK/REF,2,No,200,DK/REF,Yes,DK/REF,
+Male,23,18-24,DK/REF,DK/REF,College degree,,Black,,DK/REF,Pro-life,Mix of conservatives and liberals,Prideful,,DK/REF,Not at all likely,Gone down,FALSE,3,No,240,Accurate,Yes,No,
+Female,50,45-54,Republican,Moderate,Graduate degree,,White,,Somewhat Approve,Pro-Choice,Mostly Liberals,President,,Oppose,Somewhat Likely,Gone down,DK/REF,2,No,210,Too high,Yes,Yes,No
+Male,37,35-44,Independent,Moderate,College degree,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,President,,Oppose,Very Likely,Stayed the same,DK/REF,4,No,250,DK/REF,Yes,No,
+Female,18,18-24,Independent,Moderate,High school or less,,White,,Somewhat Approve,Pro-Choice,Mostly Conservatives,Bigot,,Oppose,Somewhat Likely,Stayed the same,FALSE,3,No,180,Accurate,No,No,
+Female,30,25-34,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Idiot,,Oppose,Very Likely,Stayed the same,DK/REF,3,No,328,Too low,Yes,No,
+Male,60,55-64,Democrat,Conservative,College degree,,Latino,,Strongly Disapprove,Pro-life,Mostly Conservatives,Not a good politician,,Oppose,Very Likely,Stayed the same,DK/REF,3,No,240,Accurate,Yes,No,
+Female,84,65+,DK/REF,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Man of his word,,Support,DK/REF,Gone down,DK/REF,3,Yes,999,DK/REF,DK/REF,Yes,No
+Male,23,18-24,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Disgraceful,,Oppose,Somewhat Likely,Stayed the same,FALSE,3,No,300,Too low,Yes,No,
+Female,50,45-54,Independent,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,"Orange, like his skin color",,Oppose,Somewhat Likely,Stayed the same,FALSE,3,No,250,Accurate,Yes,No,
+Female,25,25-34,Independent,DK/REF,Graduate degree,,Latino,,Somewhat Disapprove,DK/REF,DK/REF,,DK/REF,Support,Very Likely,Stayed the same,DK/REF,999,No,260,Accurate,No,No,
+Male,67,65+,Republican,Conservative,Graduate degree,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,He is not politically correct. He speaks before he thinks.,,Oppose,Very Likely,Gone down,FALSE,999,No,237,Accurate,Yes,DK/REF,
+Female,46,45-54,Independent,Liberal,Some college,,White,,Neither approve nor disapprove,Pro-Choice,DK/REF,He is an asshole.,,Oppose,Very Likely,Gone down,DK/REF,4,No,250,Accurate,Yes,No,
+Female,67,65+,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Idiot,,Oppose,Very Likely,Gone down,FALSE,3,No,250,Too low,Yes,No,
+Female,50,45-54,Independent,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Not qualified,,Oppose,Very Likely,DK/REF,DK/REF,3,No,999,DK/REF,Yes,No,
+Female,30,25-34,Independent,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Asshat,,Oppose,Very Likely,Stayed the same,FALSE,3,No,250,Accurate,Yes,No,
+Male,28,25-34,Independent,Liberal,College degree,,White,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Probably manipulative,,Oppose,Somewhat Likely,Stayed the same,FALSE,3,No,240,Too low,Yes,No,
+Male,28,25-34,Democrat,Moderate,Some college,,Asian,,Somewhat Disapprove,Pro-life,Mix of conservatives and liberals,Twitter,,Oppose,Very Likely,Gone down,FALSE,3,No,260,Too low,Yes,No,
+Female,62,55-64,Independent,Moderate,Graduate degree,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,Controversy,,Oppose,Somewhat Likely,Stayed the same,FALSE,3,No,250,Accurate,Yes,DK/REF,
+Male,30,25-34,Republican,Conservative,Graduate degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Freedom,,Support,Not at all likely,Gone down,FALSE,4,Yes,360,Too high,No,Yes,No
+Male,67,65+,Republican,Conservative,Some college,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,Appreciative,,Support,Somewhat Likely,Gone down,TRUE,3,Yes,250,Accurate,Yes,Yes,Yes
+Female,65,65+,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,DK/REF,Mostly Conservatives,Racist,,Oppose,Somewhat Likely,Stayed the same,DK/REF,999,No,999,Too high,No,No,
+Female,59,55-64,Democrat,Conservative,High school or less,,Black,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,Arrogant,,Oppose,Very Likely,Stayed the same,DK/REF,3,No,170,Accurate,No,No,
+Female,87,65+,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,Pro-life,Mostly Conservatives,"An unfair, silly man or person",,Oppose,Not at all likely,Gone down,DK/REF,3,No,999,Too high,Yes,No,
+Female,37,35-44,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Horrible,,Oppose,Very Likely,Gone down,FALSE,3,No,240,Accurate,Yes,No,
+Female,50,45-54,Democrat,Moderate,College degree,,Black,,Strongly Disapprove,Pro-life,DK/REF,Crazy,,Oppose,Very Likely,DK/REF,TRUE,2,No,250,Too low,Yes,No,
+Male,46,45-54,Democrat,Liberal,Some college,,Black,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Unstable,,Oppose,Very Likely,Stayed the same,FALSE,3,No,240,Accurate,No,No,
+Female,27,25-34,Independent,DK/REF,Some college,,White,,DK/REF,Pro-life,Mostly Conservatives,The apprentice,,DK/REF,Very Likely,Stayed the same,TRUE,3,No,220,Accurate,Yes,Yes,No
+Female,70,65+,Democrat,Liberal,College degree,,Black,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Liar,,Oppose,Very Likely,Gone down,FALSE,3,No,200,Accurate,Yes,No,
+Female,52,45-54,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,Pro-life,Mostly Conservatives,Awful,,Oppose,Very Likely,Gone down,TRUE,5,No,260,Accurate,Yes,No,
+Female,70,65+,Independent,DK/REF,High school or less,,White,,DK/REF,DK/REF,DK/REF,No comment,,Support,DK/REF,DK/REF,DK/REF,999,DK/REF,999,DK/REF,No,DK/REF,
+Male,69,65+,Democrat,Moderate,College degree,,Black,,Somewhat Disapprove,DK/REF,Mostly Liberals,"That would be, why? Why is he the president?",,Oppose,Very Likely,Gone down,DK/REF,3,No,220,Too high,Yes,No,
+Female,75,65+,Independent,Moderate,High school or less,,Black,,Somewhat Disapprove,Pro-life,Mostly Liberals,He is not a good president.,,Oppose,Very Likely,Gone down,TRUE,999,No,210,Accurate,No,No,
+Female,39,35-44,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Asshole,,Oppose,Very Likely,Gone down,FALSE,3,No,239,Too low,Yes,No,
+Female,70,65+,Democrat,Liberal,DK/REF,,Black,,Strongly Approve,Pro-Choice,Mostly Liberals,He is doing a good job.,,Support,Not at all likely,Stayed the same,TRUE,999,Yes,999,Accurate,No,Yes,Yes
+Male,60,55-64,Independent,Moderate,High school or less,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,Great,,Support,Not at all likely,Gone down,TRUE,3,Yes,240,Too high,Yes,Yes,No
+Male,46,45-54,Independent,DK/REF,Some college,,White,,Strongly Approve,DK/REF,Mix of conservatives and liberals,Hard butt,,Support,Not at all likely,Stayed the same,DK/REF,999,Yes,999,DK/REF,Yes,Yes,No
+Female,74,65+,Democrat,Liberal,High school or less,,Black,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Racist,,Support,Very Likely,Gone up,FALSE,3,No,240,Too low,Yes,No,
+Female,60,55-64,DK/REF,Moderate,Graduate degree,,Black,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Resign,,Support,Very Likely,Stayed the same,TRUE,1,No,240,Accurate,Yes,DK/REF,
+Female,35,35-44,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,Pro-life,Mostly Conservatives,Racist,,Oppose,Very Likely,Gone up,FALSE,3,No,200,Accurate,Yes,No,
+Female,74,65+,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,Pro-Choice,Mostly Liberals,I don't like him.,,Oppose,DK/REF,Gone down,DK/REF,2,No,999,DK/REF,DK/REF,No,
+Female,53,45-54,Independent,Moderate,College degree,,White,,Strongly Approve,DK/REF,Mix of conservatives and liberals,Business,,DK/REF,DK/REF,Gone down,DK/REF,3,Yes,210,Accurate,Yes,Yes,DK/REF
+Female,47,45-54,Democrat,Liberal,Graduate degree,,Black,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Asshole,,Oppose,Very Likely,Gone up,FALSE,3,No,215,Accurate,Yes,No,
+Female,21,18-24,Democrat,Moderate,College degree,,White,,Neither approve nor disapprove,Pro-Choice,Mostly Conservatives,Loud,,Oppose,Somewhat Likely,Gone down,TRUE,2,No,270,Too low,Yes,No,
+Female,66,65+,Democrat,Conservative,Some college,,Black,,Neither approve nor disapprove,Pro-life,Mix of conservatives and liberals,,DK/REF,Oppose,Somewhat Likely,Stayed the same,DK/REF,999,No,200,Accurate,Yes,DK/REF,
+Female,49,45-54,Republican,Conservative,High school or less,,White,,Somewhat Approve,Pro-life,Mostly Conservatives,President,,Support,Somewhat Likely,Stayed the same,FALSE,3,Yes,200,Accurate,Yes,Yes,Yes
+Female,52,45-54,Democrat,Liberal,College degree,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,Anger,,Oppose,Very Likely,Gone down,TRUE,3,No,180,Accurate,Yes,No,
+Female,51,45-54,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Conservative,,Support,Not at all likely,Gone down,TRUE,3,Yes,180,Accurate,No,DK/REF,
+Female,49,45-54,Democrat,Moderate,Some college,,White,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,Idiot,,Oppose,Very Likely,Stayed the same,FALSE,2,No,230,Accurate,No,No,
+Female,77,65+,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mostly Conservatives,President,,Support,Not at all likely,DK/REF,TRUE,999,No,999,Accurate,No,Yes,Yes
+Female,53,45-54,DK/REF,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Leadership,,Support,DK/REF,Gone down,TRUE,3,Yes,230,Accurate,Yes,Yes,DK/REF
+Female,54,45-54,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Success,,Support,DK/REF,Gone up,TRUE,2,No,230,Accurate,No,Yes,DK/REF
+Female,80,65+,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Immature,,Oppose,Very Likely,Stayed the same,FALSE,3,No,250,DK/REF,Yes,No,
+Female,63,55-64,Independent,Conservative,Some college,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,USA,,Support,Not at all likely,Gone down,TRUE,2,DK/REF,220,Accurate,No,Yes,No
+Male,63,55-64,Democrat,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Disgrace,,Oppose,Very Likely,Stayed the same,FALSE,3,No,245,Too low,Yes,No,
+Male,54,45-54,Republican,Liberal,High school or less,,White,,Somewhat Disapprove,Pro-Choice,DK/REF,Idiot,,Oppose,Very Likely,Gone up,FALSE,3,No,240,DK/REF,Yes,No,
+Male,66,65+,Democrat,Conservative,High school or less,,White,,DK/REF,Pro-life,Mostly Conservatives,He stole in the election.,,Support,Very Likely,Gone up,FALSE,4,No,999,Too high,No,No,
+Male,25,25-34,DK/REF,Moderate,High school or less,,White,,Somewhat Approve,DK/REF,Mostly Conservatives,,DK/REF,Oppose,DK/REF,Stayed the same,DK/REF,999,Yes,260,Accurate,Yes,DK/REF,
+Male,50,45-54,Independent,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,President,,Support,Not at all likely,Stayed the same,DK/REF,999,No,200,Accurate,Yes,Yes,No
+Male,62,55-64,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Pride,,Support,Not at all likely,Gone down,TRUE,2,No,250,Accurate,No,Yes,DK/REF
+Female,43,35-44,Democrat,Moderate,Some college,,Black,,Strongly Disapprove,Pro-Choice,DK/REF,Nothing,,Oppose,Very Likely,Gone down,FALSE,3,No,215,Accurate,Yes,No,
+Male,54,45-54,Independent,Conservative,Some college,,White,,Somewhat Approve,Pro-life,Mostly Liberals,Businessman,,Support,Not at all likely,Gone up,TRUE,2,No,270,Too low,Yes,DK/REF,
+DK/REF,62,55-64,DK/REF,Conservative,Graduate degree,,White,,Strongly Approve,Pro-life,Mostly Liberals,Economy,,Support,Not at all likely,Gone down,FALSE,3,No,263,Accurate,Yes,DK/REF,
+Female,71,65+,Republican,Conservative,High school or less,,White,,Somewhat Approve,Pro-life,Mostly Conservatives,He is not a straight conservative.,,Oppose,Somewhat Likely,Gone down,TRUE,3,No,210,Accurate,Yes,Yes,Yes
+Female,48,45-54,Independent,Moderate,Graduate degree,,White,,Somewhat Approve,Pro-life,Mostly Liberals,Getting it done,,Support,DK/REF,Gone up,FALSE,3,No,245,Accurate,No,DK/REF,
+Male,83,65+,DK/REF,Conservative,High school or less,,White,,Somewhat Approve,Pro-Choice,Mostly Conservatives,President of the United States,,DK/REF,Somewhat Likely,Gone up,TRUE,3,Yes,205,Too high,Yes,DK/REF,
+Male,72,65+,DK/REF,Conservative,Graduate degree,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Pro-Constitution,,Support,DK/REF,Gone down,DK/REF,3,No,200,DK/REF,Yes,Yes,No
+Female,54,45-54,Republican,Conservative,Some college,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,President,,Support,Not at all likely,Gone down,TRUE,999,No,200,Accurate,Yes,Yes,No
+Female,65,65+,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Idiot,,Oppose,Very Likely,Gone up,FALSE,3,No,999,DK/REF,Yes,No,
+Female,35,35-44,Republican,Moderate,Some college,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,Leader,,DK/REF,DK/REF,Gone down,FALSE,3,No,220,Accurate,Yes,Yes,No
+Female,62,55-64,Independent,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Liar,,Oppose,Very Likely,Stayed the same,FALSE,3,No,285,Too low,Yes,No,
+Male,37,35-44,Republican,Moderate,Graduate degree,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,Idiot,,Support,Somewhat Likely,Gone down,FALSE,2,No,240,Accurate,Yes,DK/REF,
+Male,45,45-54,Independent,Moderate,High school or less,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Businessman,,Support,Not at all likely,Gone up,FALSE,5,No,230,Accurate,No,Yes,No
+Male,66,65+,Independent,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Con man,,Oppose,Very Likely,Stayed the same,FALSE,3,No,230,Accurate,Yes,No,
+Male,31,25-34,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Con man,,Oppose,Very Likely,Gone down,FALSE,3,No,250,Too low,Yes,No,
+Male,29,25-34,Independent,Moderate,Graduate degree,,White,,Neither approve nor disapprove,Pro-Choice,DK/REF,President,,DK/REF,Somewhat Likely,Gone down,FALSE,999,No,285,Accurate,Yes,DK/REF,
+Male,76,65+,Independent,Conservative,Graduate degree,,White,,Strongly Approve,Pro-life,DK/REF,Wonderful,,Support,Not at all likely,Gone down,FALSE,999,No,999,DK/REF,No,DK/REF,
+Female,69,65+,Republican,Conservative,College degree,,Black,,Strongly Approve,Pro-life,Mostly Conservatives,Caring,,Support,Somewhat Likely,Gone down,FALSE,3,No,239,Accurate,Yes,Yes,DK/REF
+Female,39,35-44,Independent,Moderate,College degree,,White,,Somewhat Disapprove,Pro-Choice,Mix of conservatives and liberals,Orange,,Oppose,Very Likely,Gone down,TRUE,3,No,270,Too low,Yes,No,
+Male,69,65+,Republican,Moderate,College degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Positive,,Support,Somewhat Likely,Gone up,DK/REF,2,No,225,Accurate,Yes,Yes,No
+Male,33,25-34,Independent,Moderate,Graduate degree,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Different,,Support,Not at all likely,Stayed the same,FALSE,3,No,210,Accurate,Yes,Yes,No
+Male,70,65+,Democrat,Liberal,High school or less,,Black,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Racist,,Oppose,Very Likely,Gone down,FALSE,3,No,280,Too low,Yes,No,
+Male,65,65+,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Arrogant,,Oppose,Very Likely,Stayed the same,FALSE,3,No,255,Too low,Yes,No,
+Female,66,65+,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Destructive,,Oppose,Very Likely,Gone down,FALSE,3,No,250,Too low,No,No,
+Male,19,18-24,Republican,Moderate,Some college,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,Rush,,Oppose,Somewhat Likely,Gone down,FALSE,3,No,230,Accurate,Yes,No,
+Female,47,45-54,Democrat,Moderate,Graduate degree,,Other,Arab American,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Crazy,,Oppose,Very Likely,DK/REF,DK/REF,3,No,180,Too high,No,No,
+Male,45,45-54,Republican,Conservative,High school or less,,White,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Strong,,Support,Somewhat Likely,Gone down,DK/REF,3,No,240,Accurate,Yes,Yes,No
+Male,33,25-34,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Twitter,,Oppose,Somewhat Likely,Gone down,FALSE,3,No,270,Too low,Yes,No,
+Male,37,35-44,Independent,Conservative,Graduate degree,,Black,,DK/REF,Pro-life,Mix of conservatives and liberals,No comment,,DK/REF,DK/REF,Gone down,DK/REF,999,No,999,Accurate,No,No,
+Female,38,35-44,Democrat,Moderate,College degree,,Black,,Strongly Disapprove,Pro-life,DK/REF,Idiot,,Oppose,Very Likely,Gone down,TRUE,999,No,200,DK/REF,Yes,No,
+Male,30,25-34,Independent,Moderate,Some college,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,Successful,,Support,Somewhat Likely,Gone down,DK/REF,999,No,220,Accurate,No,No,
+Male,46,45-54,Independent,Conservative,Some college,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,President,,Support,DK/REF,DK/REF,DK/REF,1,No,999,Accurate,Yes,No,
+Male,40,35-44,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mostly Conservatives,President,,Support,Somewhat Likely,Gone down,TRUE,3,No,240,Accurate,No,Yes,No
+Male,27,25-34,Independent,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Brash,,Support,DK/REF,Gone down,FALSE,4,No,240,Accurate,Yes,Yes,No
+Female,72,65+,Democrat,Conservative,College degree,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,Strong-willed,,Support,Somewhat Likely,Gone down,FALSE,3,No,210,Too high,Yes,DK/REF,
+Male,32,25-34,Independent,Moderate,Graduate degree,,Latino,,Somewhat Approve,Pro-Choice,Mix of conservatives and liberals,Arrogant,,Support,Somewhat Likely,Gone up,FALSE,4,No,239,Accurate,Yes,Yes,No
+Female,67,65+,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Shithole,,Oppose,Very Likely,Gone down,TRUE,3,No,280,Too low,Yes,No,
+Female,50,45-54,Democrat,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Lying,,Oppose,Very Likely,Stayed the same,TRUE,2,No,230,Accurate,Yes,No,
+Male,66,65+,Independent,Conservative,College degree,,DK/REF,,Strongly Approve,Pro-life,Mix of conservatives and liberals,He is honest and pro-life. He keeps his commitments.,,Support,DK/REF,DK/REF,FALSE,999,DK/REF,999,DK/REF,DK/REF,Yes,Yes
+Male,62,55-64,Republican,Conservative,College degree,,DK/REF,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Strong,,Support,Not at all likely,Gone down,DK/REF,999,No,230,Accurate,Yes,Yes,DK/REF
+Male,31,25-34,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Turd,,Oppose,Somewhat Likely,Gone down,FALSE,3,No,240,Accurate,Yes,No,
+Male,32,25-34,Independent,DK/REF,Graduate degree,,White,,Strongly Disapprove,DK/REF,Mix of conservatives and liberals,Arrogant,,Oppose,Somewhat Likely,Stayed the same,FALSE,3,No,240,Accurate,No,No,
+Female,32,25-34,Independent,DK/REF,Some college,,Latino,,Strongly Approve,Pro-life,Mix of conservatives and liberals,,DK/REF,Support,Not at all likely,Gone up,DK/REF,999,No,999,DK/REF,DK/REF,Yes,DK/REF
+Female,54,45-54,Independent,DK/REF,Graduate degree,,White,,Somewhat Disapprove,Pro-Choice,Mostly Liberals,Stupid,,DK/REF,Somewhat Likely,DK/REF,DK/REF,999,DK/REF,220,Accurate,Yes,DK/REF,
+Male,35,35-44,Democrat,Moderate,Some college,,Black,,Strongly Disapprove,Pro-Choice,Mostly Liberals,He is a jerk.,,Oppose,Very Likely,Stayed the same,DK/REF,3,No,999,Accurate,DK/REF,No,
+Female,62,55-64,Democrat,Moderate,Some college,,Black,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Con man,,Oppose,Very Likely,Stayed the same,TRUE,3,No,250,Too high,Yes,No,
+Female,60,55-64,Republican,Liberal,High school or less,,White,,DK/REF,Pro-Choice,Mix of conservatives and liberals,Rich,,DK/REF,Somewhat Likely,Stayed the same,DK/REF,2,No,250,Too low,DK/REF,DK/REF,
+Male,24,18-24,Independent,Moderate,High school or less,,White,,Neither approve nor disapprove,DK/REF,Mix of conservatives and liberals,That would be orange. He looks like an orange.,,Support,Somewhat Likely,Gone down,DK/REF,2,No,200,Accurate,Yes,No,
+Female,26,25-34,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Arrogant,,Oppose,Very Likely,Gone down,FALSE,2,No,275,Accurate,Yes,No,
+Female,74,65+,Independent,Liberal,College degree,,White,,Somewhat Approve,Pro-Choice,Mix of conservatives and liberals,His hair,,Oppose,Very Likely,Gone down,TRUE,2,No,200,Accurate,Yes,DK/REF,
+Male,76,65+,Democrat,Moderate,College degree,,Black,,Somewhat Disapprove,Pro-Choice,Mostly Liberals,President,,Oppose,Somewhat Likely,Gone down,FALSE,2,No,240,Accurate,Yes,No,
+Male,49,45-54,Democrat,Conservative,High school or less,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,President,,Support,Somewhat Likely,Gone down,FALSE,3,No,220,Accurate,Yes,Yes,Yes
+Other,65,65+,DK/REF,Conservative,College degree,,DK/REF,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,America,,Support,Not at all likely,Gone down,FALSE,2,Yes,999,Too low,No,Yes,Yes
+Female,80,65+,Democrat,Liberal,Graduate degree,,White,,DK/REF,Pro-Choice,Mostly Liberals,Stupid,,Oppose,Very Likely,Gone down,TRUE,2,No,210,Accurate,Yes,No,
+Male,62,55-64,DK/REF,DK/REF,High school or less,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Criminal,,Oppose,Very Likely,DK/REF,DK/REF,999,No,220,Accurate,Yes,No,
+Female,56,55-64,Republican,Conservative,Some college,,Other,American Indian,Strongly Approve,Pro-life,Mix of conservatives and liberals,Arrogant,,Support,Not at all likely,Gone down,DK/REF,2,Yes,210,Accurate,Yes,Yes,No
+Female,77,65+,Democrat,Moderate,High school or less,,White,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,Dishonest,,Oppose,Very Likely,Gone down,TRUE,2,Yes,180,Too low,No,No,
+Female,77,65+,Independent,DK/REF,Some college,,White,,Strongly Approve,Pro-life,Mostly Liberals,Very different person,,Support,Somewhat Likely,Stayed the same,DK/REF,3,DK/REF,200,Accurate,No,Yes,No
+Male,80,65+,Democrat,Liberal,High school or less,,DK/REF,,Strongly Disapprove,DK/REF,DK/REF,I say neutral on that.,,DK/REF,DK/REF,DK/REF,DK/REF,999,DK/REF,999,DK/REF,DK/REF,DK/REF,
+Female,22,18-24,Independent,Moderate,College degree,,White,,Somewhat Disapprove,Pro-life,Mostly Liberals,Orange,,Oppose,Somewhat Likely,DK/REF,FALSE,4,No,300,Too low,No,No,
+Male,47,45-54,Republican,Conservative,Some college,,White,,Somewhat Approve,Pro-Choice,Mix of conservatives and liberals,President,,DK/REF,Somewhat Likely,DK/REF,DK/REF,2,No,240,Accurate,Yes,DK/REF,
+Male,65,65+,Republican,Conservative,Graduate degree,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Fair,,Support,Very Likely,Gone down,TRUE,2,No,250,Accurate,Yes,Yes,No
+Male,70,65+,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Wrong,,Oppose,Very Likely,Gone down,FALSE,3,No,240,Accurate,Yes,No,
+Male,65,65+,Democrat,Moderate,Some college,,White,,DK/REF,Pro-Choice,Mostly Conservatives,Con man,,Oppose,Very Likely,Gone down,FALSE,2,No,999,DK/REF,Yes,No,
+Female,63,55-64,Democrat,Liberal,Graduate degree,,Black,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Evil,,Oppose,Very Likely,Stayed the same,FALSE,3,No,230,Accurate,Yes,No,
+Female,41,35-44,Independent,Moderate,College degree,,White,,Strongly Disapprove,DK/REF,Mix of conservatives and liberals,Rude,,Oppose,Very Likely,Stayed the same,DK/REF,3,No,240,Accurate,No,No,
+Male,52,45-54,Independent,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Incompetent,,Oppose,Very Likely,Gone down,FALSE,3,No,300,Too low,Yes,No,
+Female,64,55-64,Independent,Conservative,Some college,,White,,Somewhat Approve,Pro-Choice,Mix of conservatives and liberals,President,,DK/REF,DK/REF,Gone down,DK/REF,999,DK/REF,999,DK/REF,Yes,DK/REF,
+Male,39,35-44,Republican,Conservative,Graduate degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,President,,Support,Not at all likely,Gone down,TRUE,3,No,220,Accurate,Yes,Yes,No
+Female,65,65+,Independent,Liberal,High school or less,,White,,Neither approve nor disapprove,Pro-life,Mostly Liberals,Unpredictable,,Oppose,Very Likely,Gone down,TRUE,3,No,220,Accurate,No,DK/REF,
+Male,78,65+,Independent,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mostly Liberals,Brash,,Support,Somewhat Likely,Gone down,TRUE,3,No,260,Accurate,Yes,Yes,Yes
+Female,75,65+,Republican,Liberal,College degree,,White,,Strongly Approve,Pro-Choice,DK/REF,Great,,Support,Somewhat Likely,Gone up,TRUE,3,No,220,Accurate,No,Yes,No
+Male,22,18-24,Republican,Conservative,Some college,,White,,Strongly Approve,Pro-Choice,Mostly Conservatives,Wealthy,,Support,Somewhat Likely,Gone down,TRUE,2,No,260,Accurate,Yes,Yes,No
+Male,47,45-54,Republican,Conservative,Some college,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,Businessman,,Support,Not at all likely,Gone up,FALSE,2,No,205,Too high,Yes,Yes,No
+Male,60,55-64,Democrat,Moderate,High school or less,,White,,Neither approve nor disapprove,Pro-Choice,Mostly Conservatives,"USSF, the football league",,Oppose,Somewhat Likely,Stayed the same,TRUE,2,No,195,Accurate,Yes,No,
+Male,23,18-24,DK/REF,DK/REF,High school or less,,Black,,Strongly Disapprove,DK/REF,DK/REF,Not needed,,Oppose,Very Likely,Stayed the same,TRUE,999,No,250,Accurate,No,No,
+Male,35,35-44,Independent,Moderate,Graduate degree,,White,,Neither approve nor disapprove,Pro-Choice,Mostly Liberals,President,,Oppose,DK/REF,DK/REF,DK/REF,999,No,200,Accurate,No,No,
+Female,32,25-34,Independent,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Extreme,,Oppose,DK/REF,Stayed the same,FALSE,3,No,275,Too low,Yes,DK/REF,
+Male,49,45-54,Independent,Moderate,High school or less,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Liar,,Oppose,Very Likely,Stayed the same,FALSE,3,No,250,Too low,Yes,No,
+Female,49,45-54,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Incompetent,,Oppose,Very Likely,Stayed the same,DK/REF,3,No,280,Too low,DK/REF,No,
+Female,19,18-24,Democrat,Conservative,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Idiot,,Oppose,Very Likely,Gone down,TRUE,3,No,250,Accurate,Yes,No,
+Female,53,45-54,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Truthful,,Support,Not at all likely,Gone up,TRUE,3,No,290,Accurate,No,Yes,Yes
+Female,75,65+,Independent,Liberal,Graduate degree,,White,,Somewhat Disapprove,Pro-Choice,Mostly Conservatives,Narcissistic,,Oppose,Very Likely,Gone down,TRUE,4,No,300,Too low,Yes,No,
+Male,53,45-54,Independent,Conservative,Some college,,Latino,,Strongly Approve,Pro-life,Mix of conservatives and liberals,President,,Oppose,Not at all likely,Gone up,DK/REF,3,No,210,Accurate,Yes,Yes,No
+Male,33,25-34,Republican,Moderate,High school or less,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,American,,Support,DK/REF,Gone down,DK/REF,3,Yes,270,Accurate,Yes,Yes,Yes
+Male,69,65+,Independent,Conservative,Graduate degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Successful,,Support,Somewhat Likely,Gone down,FALSE,2,No,230,Accurate,Yes,Yes,No
+Female,26,25-34,Republican,Conservative,Some college,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Great President,,Support,Not at all likely,Gone down,TRUE,3,Yes,210,Accurate,No,Yes,No
+Female,31,25-34,Independent,Moderate,Some college,,Black,,Neither approve nor disapprove,Pro-Choice,Mostly Liberals,Opinionated,,Oppose,Very Likely,Stayed the same,FALSE,999,No,175,Too high,No,No,
+Female,32,25-34,Democrat,Moderate,Some college,,Latino,,Neither approve nor disapprove,Pro-Choice,Mostly Liberals,A joke,,Oppose,Somewhat Likely,Stayed the same,TRUE,2,No,205,Accurate,No,No,
+Male,70,65+,DK/REF,Conservative,DK/REF,,Black,,Somewhat Disapprove,Pro-Choice,DK/REF,Trouble,,DK/REF,Not at all likely,DK/REF,FALSE,999,No,200,Too high,Yes,No,
+Female,58,55-64,Republican,Conservative,Some college,,White,,Strongly Approve,Pro-life,DK/REF,Great,,Support,Not at all likely,Gone down,TRUE,3,Yes,240,Accurate,No,Yes,No
+Female,50,45-54,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Idiot,,Oppose,Very Likely,Gone down,FALSE,3,No,175,Accurate,Yes,No,
+Male,59,55-64,Republican,Moderate,Some college,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,President,,Support,Not at all likely,Gone down,TRUE,999,Yes,230,Accurate,Yes,Yes,Yes
+Female,58,55-64,Independent,Moderate,High school or less,,White,,Neither approve nor disapprove,Pro-life,Mix of conservatives and liberals,Not honest,,Oppose,Very Likely,Stayed the same,TRUE,2,No,200,Accurate,Yes,No,
+Male,94,65+,DK/REF,DK/REF,High school or less,,DK/REF,,DK/REF,DK/REF,DK/REF,Carrot,,Support,Not at all likely,DK/REF,DK/REF,999,No,200,DK/REF,Yes,No,
+Male,69,65+,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Clueless,,Oppose,Very Likely,Stayed the same,FALSE,2,No,260,Too low,Yes,No,
+Male,56,55-64,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-Choice,Mostly Conservatives,Positive,,Support,Not at all likely,Stayed the same,DK/REF,999,Yes,200,Accurate,Yes,Yes,Yes
+Female,64,55-64,Independent,Moderate,College degree,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,Arrogant,,Oppose,Somewhat Likely,Gone up,TRUE,2,No,210,Accurate,Yes,DK/REF,
+Female,88,65+,Republican,Conservative,High school or less,,White,,Somewhat Approve,Pro-life,DK/REF,Determined,,Support,Somewhat Likely,Gone up,TRUE,3,No,225,Accurate,DK/REF,Yes,No
+Female,58,55-64,Independent,DK/REF,High school or less,,White,,Somewhat Approve,DK/REF,Mix of conservatives and liberals,President,,DK/REF,Not at all likely,DK/REF,FALSE,999,No,230,Too high,No,Yes,No
+Male,60,55-64,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Liar,,Oppose,Very Likely,Gone down,FALSE,3,No,235,Accurate,Yes,No,
+Female,69,65+,DK/REF,Moderate,High school or less,,White,,Neither approve nor disapprove,Pro-Choice,DK/REF,President,,DK/REF,DK/REF,Gone down,DK/REF,3,Yes,999,DK/REF,DK/REF,DK/REF,
+Male,57,55-64,Democrat,Moderate,High school or less,,White,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,,DK/REF,Oppose,Very Likely,Stayed the same,FALSE,3,No,320,Too low,Yes,No,
+Male,63,55-64,Independent,Conservative,Some college,,Black,,Somewhat Approve,Pro-Choice,Mix of conservatives and liberals,President,,Support,Somewhat Likely,Gone down,FALSE,2,No,250,Accurate,Yes,No,
+Female,68,65+,Republican,Conservative,Some college,,White,,Neither approve nor disapprove,Pro-life,Mostly Liberals,President,,Support,Somewhat Likely,DK/REF,DK/REF,3,No,240,Accurate,Yes,DK/REF,
+Male,64,55-64,Republican,Moderate,College degree,,White,,Strongly Approve,DK/REF,Mix of conservatives and liberals,President,,Support,Not at all likely,Gone down,FALSE,3,No,260,Accurate,Yes,DK/REF,
+Female,65,65+,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Stupid,,DK/REF,Very Likely,Gone down,FALSE,3,No,239,Too high,Yes,No,
+Female,56,55-64,Republican,Moderate,Graduate degree,,White,,Neither approve nor disapprove,Pro-life,Mix of conservatives and liberals,Impolite,,Oppose,Somewhat Likely,Gone down,FALSE,3,No,200,Too high,Yes,No,
+Female,49,45-54,Independent,Moderate,College degree,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,Stern,,Support,Very Likely,DK/REF,DK/REF,3,No,250,Accurate,Yes,Yes,No
+Female,70,65+,Democrat,Moderate,High school or less,,White,,Strongly Disapprove,Pro-life,Mostly Liberals,Idiot,,Oppose,Very Likely,Gone up,FALSE,3,No,250,Too low,Yes,No,
+Female,58,55-64,Democrat,Conservative,Some college,,Black,,Neither approve nor disapprove,Pro-Choice,Mostly Conservatives,Crazy,,Oppose,Somewhat Likely,Gone down,DK/REF,999,No,250,Accurate,Yes,No,
+Female,77,65+,Independent,Conservative,High school or less,,White,,Strongly Disapprove,Pro-life,DK/REF,Dictator,,Oppose,Somewhat Likely,Stayed the same,TRUE,3,No,238,Too high,Yes,No,
+Female,86,65+,Republican,Moderate,High school or less,,White,,Somewhat Disapprove,Pro-life,Mix of conservatives and liberals,Egotistical,,Oppose,Somewhat Likely,Stayed the same,DK/REF,3,No,250,Too low,Yes,No,
+Female,75,65+,Independent,Moderate,Graduate degree,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,Talker,,Support,DK/REF,Gone down,FALSE,3,No,240,Accurate,DK/REF,Yes,DK/REF
+Male,70,65+,Democrat,Liberal,Some college,,White,,Strongly Disapprove,DK/REF,Mix of conservatives and liberals,Vomit,,Oppose,Very Likely,Gone down,DK/REF,3,No,260,Too low,Yes,No,
+Male,35,35-44,Independent,Moderate,Graduate degree,,Other,Native American,Strongly Approve,Pro-life,Mix of conservatives and liberals,Economy,,Support,Not at all likely,Gone down,FALSE,3,Yes,239,Accurate,Yes,Yes,Yes
+Female,68,65+,Democrat,Moderate,High school or less,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Unqualified,,Support,Very Likely,Gone down,TRUE,3,No,220,Too high,Yes,No,
+Female,80,65+,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Wonderful,,Support,Not at all likely,Gone up,DK/REF,3,Yes,190,Accurate,No,Yes,DK/REF
+Female,83,65+,Democrat,Liberal,Graduate degree,,White,,Somewhat Disapprove,Pro-Choice,Mix of conservatives and liberals,Inane,,Oppose,Very Likely,Gone up,FALSE,4,No,170,Accurate,Yes,No,
+Female,78,65+,DK/REF,Conservative,High school or less,,White,,Somewhat Approve,Pro-life,Mostly Conservatives,Big man,,Support,DK/REF,Stayed the same,TRUE,2,Yes,280,Accurate,No,DK/REF,
+Male,73,65+,Democrat,Moderate,High school or less,,Black,,Somewhat Disapprove,DK/REF,Mix of conservatives and liberals,,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,999,No,999,DK/REF,DK/REF,No,
+Female,78,65+,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Finances,,Support,Not at all likely,Gone down,FALSE,3,No,225,Too high,No,Yes,DK/REF
+Male,79,65+,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mostly Liberals,Competent,,Support,Not at all likely,Gone down,FALSE,3,No,525,Accurate,No,Yes,DK/REF
+Male,67,65+,Republican,Moderate,High school or less,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Excellent leader,,Support,Not at all likely,Gone up,TRUE,2,No,150,Accurate,No,Yes,No
+Male,78,65+,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Dangerous,,Oppose,Very Likely,Gone down,FALSE,3,No,235,Accurate,No,No,
+Male,72,65+,Independent,Moderate,Some college,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Misunderstood,,DK/REF,Not at all likely,Gone down,DK/REF,3,No,20,DK/REF,DK/REF,DK/REF,
+Female,70,65+,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Insecure,,Oppose,Very Likely,Gone up,FALSE,3,No,200,Too low,Yes,No,
+Female,47,45-54,Independent,Conservative,Some college,,White,,Neither approve nor disapprove,Pro-life,Mix of conservatives and liberals,President,,DK/REF,Somewhat Likely,DK/REF,DK/REF,999,No,200,Accurate,Yes,DK/REF,
+Male,66,65+,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Haughty,,Oppose,Very Likely,Gone down,FALSE,3,No,310,Too low,Yes,No,
+Male,38,35-44,Republican,Conservative,College degree,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,Over the top,,Support,Not at all likely,Gone up,DK/REF,5,No,275,Accurate,DK/REF,Yes,No
+Male,22,18-24,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Bosom,,Oppose,DK/REF,DK/REF,FALSE,2,No,310,Accurate,DK/REF,No,
+Male,59,55-64,Republican,Conservative,Graduate degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Bold,,Support,Not at all likely,Gone up,DK/REF,3,No,999,DK/REF,No,Yes,DK/REF
+Female,74,65+,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Businessman,,Support,Not at all likely,Gone up,DK/REF,3,DK/REF,999,Accurate,No,Yes,DK/REF
+Male,70,65+,Independent,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Incompetent,,Oppose,Somewhat Likely,Gone down,DK/REF,2,No,230,Accurate,Yes,No,
+Male,72,65+,Independent,Liberal,Some college,,White,,Somewhat Approve,Pro-Choice,Mix of conservatives and liberals,President,,Support,Somewhat Likely,Gone up,FALSE,3,No,230,Accurate,Yes,Yes,No
+Male,35,35-44,Independent,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,Lier,,Oppose,Very Likely,Stayed the same,FALSE,4,No,300,Too low,No,No,
+Male,35,35-44,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Sad,,Oppose,Very Likely,Gone down,FALSE,3,No,280,Accurate,Yes,No,
+Male,37,35-44,Republican,Conservative,College degree,,White,,Somewhat Approve,Pro-life,Mostly Conservatives,Good,,Support,Somewhat Likely,Gone up,TRUE,2,No,230,Accurate,Yes,DK/REF,
+Female,75,65+,DK/REF,Conservative,Some college,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Rude,,Support,Somewhat Likely,Gone down,TRUE,2,No,230,Too high,DK/REF,Yes,No
+Male,44,35-44,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Successful,,Support,DK/REF,Gone up,DK/REF,3,No,999,Accurate,Yes,Yes,Yes
+Male,66,65+,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Rude,,Oppose,Very Likely,Gone down,FALSE,3,No,290,Too low,Yes,No,
+Male,46,45-54,DK/REF,DK/REF,Some college,,White,,Somewhat Approve,DK/REF,Mix of conservatives and liberals,Wall,,Support,DK/REF,Gone down,DK/REF,999,No,999,DK/REF,Yes,DK/REF,
+Female,60,55-64,Independent,Moderate,High school or less,,White,,Strongly Approve,Pro-life,Mostly Liberals,Leader,,Support,Somewhat Likely,Stayed the same,DK/REF,999,No,190,Accurate,Yes,DK/REF,
+Female,51,45-54,Republican,Moderate,Graduate degree,,White,,Strongly Approve,Pro-Choice,Mostly Conservatives,Childish,,Support,Somewhat Likely,Gone down,DK/REF,3,No,999,Accurate,No,Yes,Yes
+Other,65,65+,Republican,Conservative,College degree,,Black,,Strongly Approve,DK/REF,Mix of conservatives and liberals,Pure awesomeness,,Support,Not at all likely,Gone down,FALSE,3,Yes,225,Accurate,No,Yes,No
+Male,69,65+,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Great job,,Support,Not at all likely,Gone down,DK/REF,2,Yes,215,Too high,DK/REF,Yes,Yes
+Female,26,25-34,Independent,Moderate,Graduate degree,,Latino,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Unfit,,Oppose,Very Likely,Stayed the same,TRUE,2,No,240,Accurate,Yes,No,
+Female,37,35-44,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Strong,,Support,Not at all likely,Gone down,FALSE,3,No,240,Accurate,No,Yes,DK/REF
+Male,59,55-64,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,Dishonest,,Oppose,Very Likely,Stayed the same,FALSE,3,No,250,Too low,Yes,No,
+Male,57,55-64,Independent,Moderate,Graduate degree,,White,,Somewhat Disapprove,DK/REF,Mix of conservatives and liberals,Twitter,,DK/REF,Very Likely,Gone up,FALSE,3,No,275,Accurate,Yes,No,
+Male,70,65+,Independent,Conservative,Some college,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Intelligence,,Support,DK/REF,Gone down,DK/REF,999,DK/REF,110,Accurate,Yes,DK/REF,
+Male,61,55-64,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Fraud,,Oppose,Very Likely,Stayed the same,TRUE,3,No,260,Accurate,Yes,No,
+Female,67,65+,Democrat,Moderate,College degree,,Black,,Strongly Disapprove,Pro-life,Mostly Conservatives,Stupid,,Oppose,Very Likely,Stayed the same,DK/REF,3,No,180,Too high,Yes,No,
+Female,57,55-64,Independent,Moderate,High school or less,,White,,Somewhat Disapprove,DK/REF,Mostly Conservatives,Fake,,Support,Somewhat Likely,Stayed the same,TRUE,2,No,150,Too high,No,No,
+Female,28,25-34,Democrat,Conservative,High school or less,,White,,DK/REF,Pro-life,Mostly Conservatives,,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,999,No,999,DK/REF,DK/REF,DK/REF,
+Female,40,35-44,Democrat,Moderate,High school or less,,Black,,Somewhat Approve,Pro-Choice,Mix of conservatives and liberals,Bad,,Oppose,Very Likely,Stayed the same,TRUE,999,No,230,Accurate,No,No,
+Male,57,55-64,Democrat,Liberal,High school or less,,Black,,Strongly Disapprove,Pro-Choice,DK/REF,Unqualified,,Oppose,Very Likely,Stayed the same,FALSE,3,No,230,Accurate,Yes,No,
+Female,46,45-54,Democrat,Moderate,Graduate degree,,Latino,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Disaster,,Oppose,Very Likely,Gone down,FALSE,2,No,238,Too low,Yes,No,
+Male,45,45-54,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Pompous,,Oppose,Very Likely,Stayed the same,FALSE,3,No,245,Accurate,Yes,No,
+Female,45,45-54,Democrat,Moderate,College degree,,Black,,Strongly Disapprove,Pro-Choice,DK/REF,Bitch,,Support,Very Likely,Gone up,DK/REF,3,No,250,Accurate,Yes,No,
+Male,38,35-44,Independent,Moderate,Some college,,Black,,Somewhat Disapprove,Pro-Choice,Mix of conservatives and liberals,Not good,,Oppose,Somewhat Likely,Gone up,DK/REF,2,No,240,Accurate,DK/REF,No,
+Female,80,65+,Democrat,Liberal,High school or less,,Black,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,Prejudiced,,Oppose,Very Likely,DK/REF,TRUE,3,No,999,DK/REF,DK/REF,No,
+Female,49,45-54,Independent,Liberal,Graduate degree,,DK/REF,,Strongly Disapprove,Pro-Choice,DK/REF,Demonic,,Oppose,Very Likely,Gone up,FALSE,999,No,250,Too low,Yes,No,
+Female,59,55-64,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,President,,Support,DK/REF,Gone down,DK/REF,2,Yes,999,DK/REF,No,DK/REF,
+Female,79,65+,Independent,Liberal,Some college,,White,,Neither approve nor disapprove,Pro-life,Mix of conservatives and liberals,Different,,Support,Somewhat Likely,Gone down,TRUE,3,No,225,Too high,Yes,No,
+Female,74,65+,Republican,Moderate,High school or less,,White,,DK/REF,DK/REF,DK/REF,"I've never thought about it, but weird maybe.",,DK/REF,Somewhat Likely,Gone down,DK/REF,999,DK/REF,220,DK/REF,No,DK/REF,
+Female,43,35-44,Independent,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Inappropriate,,Oppose,Very Likely,Gone down,DK/REF,3,No,190,Accurate,No,No,
+Male,50,45-54,Independent,Moderate,Graduate degree,,DK/REF,,Strongly Approve,Pro-life,Mostly Liberals,President,,Oppose,Not at all likely,Gone down,DK/REF,3,No,250,Accurate,Yes,Yes,No
+Female,50,45-54,Independent,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,President,,Support,DK/REF,DK/REF,FALSE,3,No,999,Accurate,Yes,DK/REF,
+Female,52,45-54,Democrat,Moderate,Graduate degree,,White,,Somewhat Approve,Pro-Choice,DK/REF,President,,Support,Very Likely,Gone down,TRUE,3,No,250,Accurate,Yes,DK/REF,
+Female,53,45-54,Independent,Liberal,Some college,,Latino,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Disaster,,Oppose,Very Likely,Stayed the same,DK/REF,3,No,290,Too low,DK/REF,No,
+Female,62,55-64,Independent,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Liar,,Oppose,Very Likely,DK/REF,FALSE,3,No,240,Accurate,Yes,No,
+Female,45,45-54,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Devil,,Oppose,Very Likely,Gone down,FALSE,3,No,280,Too low,Yes,No,
+Female,62,55-64,DK/REF,DK/REF,College degree,,White,,DK/REF,DK/REF,Mostly Liberals,Not a good person,,Support,DK/REF,DK/REF,DK/REF,3,Yes,200,Accurate,DK/REF,Yes,Yes
+Female,72,65+,Democrat,DK/REF,Some college,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Shit,,Oppose,Very Likely,Stayed the same,FALSE,3,No,260,Too low,Yes,No,
+Male,52,45-54,Republican,Moderate,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Idiot,,Oppose,Very Likely,Stayed the same,FALSE,3,No,275,Too low,Yes,No,
+Male,50,45-54,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Unqualified,,Oppose,Very Likely,Gone down,DK/REF,3,No,240,Accurate,DK/REF,No,
+Female,80,65+,Independent,Conservative,Graduate degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Aggressive,,Support,DK/REF,Gone down,DK/REF,999,No,999,DK/REF,No,Yes,No
+Female,60,55-64,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Idiot,,Oppose,Very Likely,Stayed the same,FALSE,3,No,280,Too low,DK/REF,No,
+Female,81,65+,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,He is trying his darndest. He is trying to the right thing for the country.,,DK/REF,DK/REF,Stayed the same,DK/REF,2,Yes,999,DK/REF,Yes,Yes,DK/REF
+Female,59,55-64,Democrat,Conservative,High school or less,,Latino,,DK/REF,Pro-Choice,Mix of conservatives and liberals,"Worse, not good",,Oppose,Somewhat Likely,Stayed the same,TRUE,4,No,999,Too high,Yes,No,
+Male,84,65+,Democrat,Liberal,High school or less,,Black,,Somewhat Disapprove,DK/REF,Mostly Liberals,He should do a little better on what he is doing. He doesn't know how to talk with others.,,DK/REF,Very Likely,Gone down,TRUE,3,No,230,Accurate,Yes,No,
+Female,39,35-44,Independent,Moderate,College degree,,Black,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Unprofessional,,Oppose,Somewhat Likely,Stayed the same,FALSE,3,No,270,Too low,Yes,No,
+Male,68,65+,Independent,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Disruptive,,Oppose,Very Likely,DK/REF,FALSE,3,No,260,Too low,Yes,No,
+Female,44,35-44,Republican,Conservative,College degree,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,Conservative,,Support,Not at all likely,Gone down,TRUE,3,No,230,DK/REF,Yes,Yes,No
+Male,30,25-34,Independent,Moderate,Some college,,Latino,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,"He is doing good things just to cover himself. Basically, he doesn't do good things for others, especially for low income people. He only cares about his money.",,Support,Very Likely,Stayed the same,TRUE,999,No,200,Too high,No,No,
+Female,26,25-34,Democrat,DK/REF,High school or less,,Latino,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Racism,,Oppose,Very Likely,Stayed the same,TRUE,2,No,230,Too low,No,No,
+Male,90,65+,Independent,Moderate,High school or less,,Black,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,He is doing well.,,DK/REF,Not at all likely,DK/REF,FALSE,999,Yes,999,Too high,Yes,DK/REF,
+Female,34,25-34,Republican,Moderate,College degree,,White,,Neither approve nor disapprove,Pro-life,Mix of conservatives and liberals,,DK/REF,DK/REF,Somewhat Likely,Gone down,TRUE,999,No,280,DK/REF,Yes,No,
+Female,45,45-54,Independent,Conservative,Some college,,DK/REF,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Economy,,Support,Somewhat Likely,Gone down,FALSE,3,No,240,Accurate,DK/REF,Yes,No
+Male,30,25-34,Democrat,Moderate,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Irrational,,Oppose,Somewhat Likely,DK/REF,DK/REF,1,No,280,Accurate,Yes,No,
+Male,19,18-24,Independent,Liberal,Some college,,Black,,Somewhat Disapprove,Pro-life,Mix of conservatives and liberals,Racist,,DK/REF,DK/REF,Stayed the same,DK/REF,999,No,999,Accurate,No,No,
+Male,32,25-34,Independent,Conservative,Some college,,Other,Native American,Strongly Approve,Pro-life,Mix of conservatives and liberals,President,,Support,Somewhat Likely,Gone down,TRUE,3,Yes,270,Too low,Yes,Yes,No
+Male,58,55-64,Independent,Conservative,Some college,,White,,DK/REF,DK/REF,Mostly Conservatives,,DK/REF,Oppose,Somewhat Likely,Gone down,DK/REF,3,No,240,Accurate,Yes,Yes,No
+Female,27,25-34,Independent,DK/REF,Some college,,Latino,,Neither approve nor disapprove,Pro-Choice,DK/REF,Twitter,,DK/REF,DK/REF,Stayed the same,DK/REF,999,DK/REF,180,Accurate,Yes,No,
+Female,66,65+,Democrat,Moderate,College degree,,White,,Neither approve nor disapprove,Pro-Choice,Mostly Conservatives,A big mouth,,Oppose,Somewhat Likely,Gone down,TRUE,3,No,280,Too low,No,No,
+Female,75,65+,Independent,Liberal,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Insane,,Oppose,Somewhat Likely,Gone down,FALSE,3,No,235,Accurate,Yes,No,
+Male,38,35-44,Independent,DK/REF,High school or less,,White,,Strongly Disapprove,Pro-Choice,DK/REF,Joke,,DK/REF,DK/REF,DK/REF,TRUE,2,DK/REF,230,Accurate,Yes,DK/REF,
+Male,40,35-44,Independent,Conservative,Some college,,Latino,,Strongly Approve,Pro-life,Mix of conservatives and liberals,He does not care about what he says.,,Support,Somewhat Likely,Gone down,TRUE,2,No,230,Accurate,Yes,Yes,No
+Male,45,45-54,Republican,Conservative,Some college,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Firm,,Support,Somewhat Likely,Gone down,FALSE,2,Yes,225,Accurate,Yes,Yes,No
+Male,40,35-44,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,President,,Support,Not at all likely,DK/REF,DK/REF,3,Yes,200,Too high,DK/REF,Yes,No
+Male,27,25-34,Independent,Moderate,Some college,,White,,Neither approve nor disapprove,DK/REF,DK/REF,Our president,,Oppose,Somewhat Likely,DK/REF,DK/REF,999,No,200,Accurate,Yes,No,
+Male,32,25-34,Independent,Moderate,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Joke,,Oppose,Very Likely,Stayed the same,TRUE,3,No,300,Accurate,Yes,No,
+Male,32,25-34,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,President,,Oppose,Very Likely,DK/REF,FALSE,3,No,225,Accurate,DK/REF,No,
+Female,42,35-44,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Horrible,,Oppose,Very Likely,Stayed the same,FALSE,3,No,300,Too low,Yes,No,
+Female,56,55-64,DK/REF,DK/REF,High school or less,,White,,Strongly Approve,DK/REF,Mix of conservatives and liberals,President,,Support,DK/REF,DK/REF,DK/REF,999,Yes,240,Accurate,Yes,Yes,DK/REF
+Female,40,35-44,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Outrageous and unhinged,,Oppose,Very Likely,Gone down,DK/REF,4,No,260,Too high,Yes,No,
+Female,50,45-54,Independent,Moderate,College degree,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,Power,,Support,Not at all likely,Gone down,DK/REF,999,Yes,210,Accurate,Yes,Yes,DK/REF
+Male,57,55-64,Democrat,Liberal,Some college,,Latino,,Strongly Disapprove,Pro-Choice,DK/REF,Racist,,Oppose,Very Likely,Gone up,DK/REF,3,No,300,Too low,Yes,No,
+Female,40,35-44,Republican,Conservative,Graduate degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Appointed by God,,DK/REF,Somewhat Likely,Gone down,TRUE,3,No,180,DK/REF,No,Yes,No
+Female,55,55-64,Democrat,Liberal,Some college,,Latino,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Crazy,,Oppose,Very Likely,Gone up,DK/REF,3,No,250,Too low,Yes,No,
+Male,37,35-44,Independent,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,The Apprentice,,Oppose,Very Likely,DK/REF,FALSE,3,No,270,Accurate,DK/REF,No,
+Male,40,35-44,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Liar,,Oppose,Somewhat Likely,Gone down,DK/REF,4,No,220,Accurate,Yes,No,
+Male,18,18-24,Democrat,DK/REF,High school or less,,Latino,,Strongly Disapprove,DK/REF,DK/REF,Terrible person,,Oppose,Very Likely,Stayed the same,FALSE,999,No,245,Accurate,Yes,No,
+Male,41,35-44,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Savage,,Support,Very Likely,Gone down,TRUE,3,Yes,280,Too low,Yes,Yes,DK/REF
+Female,77,65+,Republican,Conservative,Graduate degree,,White,,Somewhat Approve,Pro-life,Mostly Conservatives,Outspoken,,Support,Somewhat Likely,Gone down,FALSE,3,No,280,Too low,No,DK/REF,
+Female,36,35-44,Democrat,Liberal,Some college,,White,,Somewhat Approve,DK/REF,Mix of conservatives and liberals,President,,Support,Somewhat Likely,Gone down,TRUE,999,Yes,250,Accurate,Yes,Yes,DK/REF
+Male,40,35-44,Independent,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,I don't know.,,Oppose,Very Likely,Gone down,FALSE,3,No,225,Accurate,Yes,No,
+Male,44,35-44,Republican,Conservative,Other,Technical,White,,Strongly Approve,Pro-life,Mostly Conservatives,President,,Support,DK/REF,DK/REF,DK/REF,1,DK/REF,999,DK/REF,DK/REF,Yes,Yes
+Male,37,35-44,Independent,Liberal,College degree,,White,,Neither approve nor disapprove,Pro-Choice,Mostly Conservatives,Goof,,Oppose,Very Likely,Stayed the same,FALSE,3,No,239,Too high,Yes,No,
+Male,41,35-44,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Orange,,Oppose,Somewhat Likely,Gone down,FALSE,3,No,260,Too low,Yes,No,
+Female,61,55-64,Republican,Conservative,College degree,,White,,DK/REF,Pro-life,Mix of conservatives and liberals,Hopeful,,DK/REF,Not at all likely,DK/REF,DK/REF,1,No,230,Accurate,Yes,Yes,DK/REF
+Male,41,35-44,Republican,Conservative,Graduate degree,,Asian,,Strongly Approve,Pro-Choice,Mostly Liberals,Focused,,Support,Not at all likely,Gone down,FALSE,3,No,240,Accurate,DK/REF,Yes,No
+Female,54,45-54,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Leader,,Support,Not at all likely,Gone down,FALSE,3,No,200,Accurate,Yes,Yes,No
+Male,38,35-44,Democrat,Conservative,Some college,,Black,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Not suitable for the position,,Oppose,Very Likely,Gone down,DK/REF,3,No,265,Accurate,No,No,
+Male,37,35-44,Independent,Conservative,Graduate degree,,White,,Somewhat Approve,Pro-life,Mostly Liberals,"Rich, arrogant, asshole",,Support,Very Likely,Stayed the same,TRUE,3,Yes,250,Accurate,Yes,No,
+Male,42,35-44,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Genius,,Support,Not at all likely,Gone down,FALSE,999,Yes,210,Accurate,No,Yes,DK/REF
+Male,37,35-44,Independent,Moderate,College degree,,DK/REF,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,Business,,Oppose,Somewhat Likely,Stayed the same,DK/REF,1,No,230,Accurate,Yes,No,
+Female,42,35-44,Democrat,Liberal,Graduate degree,,Black,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Idiot,,Oppose,Very Likely,Stayed the same,FALSE,3,No,300,Too low,Yes,No,
+Female,75,65+,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Disaster,,Oppose,Very Likely,Stayed the same,FALSE,3,No,259,Too low,Yes,No,
+Female,31,25-34,Independent,Conservative,Graduate degree,,White,,Somewhat Approve,Pro-Choice,Mix of conservatives and liberals,President,,DK/REF,Somewhat Likely,Gone down,DK/REF,3,No,250,Accurate,Yes,Yes,No
+Female,50,45-54,Republican,Conservative,Some college,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,controversial,,Support,Somewhat Likely,Gone down,DK/REF,3,No,250,Accurate,Yes,Yes,No
+Male,72,65+,Democrat,Moderate,High school or less,,Black,,Somewhat Disapprove,Pro-Choice,Mix of conservatives and liberals,,DK/REF,Oppose,Somewhat Likely,Stayed the same,DK/REF,3,No,250,Accurate,No,No,
+Female,73,65+,Democrat,DK/REF,College degree,,Black,,Somewhat Approve,Pro-Choice,Mostly Conservatives,,DK/REF,DK/REF,Somewhat Likely,DK/REF,DK/REF,999,Yes,999,Too high,No,No,
+Female,70,65+,Democrat,Liberal,Graduate degree,,Black,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,unfair,,Oppose,Very Likely,Stayed the same,DK/REF,3,No,260,Accurate,No,No,
+Male,48,45-54,DK/REF,Conservative,College degree,,Black,,Strongly Approve,Pro-Choice,Mostly Conservatives,huge,,Support,Not at all likely,Gone down,DK/REF,3,Yes,220,Accurate,No,Yes,Yes
+Female,18,18-24,Democrat,Conservative,High school or less,,Black,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,idiot,,Oppose,Very Likely,Gone up,TRUE,999,No,190,Too high,Yes,No,
+Male,78,65+,Democrat,Liberal,High school or less,,Black,,Strongly Disapprove,Pro-life,Mostly Liberals,unqualified,,Oppose,Very Likely,Gone up,FALSE,3,No,25,Accurate,No,No,
+Female,69,65+,Democrat,Liberal,Graduate degree,,Black,,Strongly Disapprove,Pro-life,Mostly Liberals,fat,,Oppose,Very Likely,Stayed the same,TRUE,3,No,225,Accurate,Yes,No,
+Female,59,55-64,Independent,Conservative,High school or less,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,leader,,Support,Somewhat Likely,Gone up,FALSE,3,No,180,Too high,Yes,No,
+Male,77,65+,Democrat,Liberal,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,bozo,,Oppose,Very Likely,Gone down,FALSE,3,No,250,Too low,Yes,No,
+Female,58,55-64,Republican,DK/REF,High school or less,,White,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,asshole,,Oppose,Very Likely,Stayed the same,FALSE,4,No,260,Too low,Yes,No,
+Female,43,35-44,Democrat,Moderate,Some college,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,,DK/REF,Oppose,DK/REF,DK/REF,DK/REF,5,No,220,Accurate,Yes,No,
+Female,55,55-64,Independent,DK/REF,High school or less,,White,,DK/REF,DK/REF,DK/REF,arrogant,,Support,Somewhat Likely,DK/REF,DK/REF,2,No,200,Too high,Yes,No,
+Male,49,45-54,Independent,Moderate,Graduate degree,,Asian,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,funny,,Support,Very Likely,Gone up,FALSE,3,No,280,Too low,Yes,Yes,No
+Male,55,55-64,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,deficit,,Support,Somewhat Likely,Gone down,TRUE,3,No,250,Accurate,No,Yes,DK/REF
+Male,63,55-64,Independent,Conservative,High school or less,,White,,Somewhat Disapprove,Pro-Choice,Mostly Liberals,arrogant,,Support,Somewhat Likely,Gone down,FALSE,2,Yes,240,Accurate,No,No,
+Female,18,18-24,Independent,Conservative,Some college,,Latino,,Neither approve nor disapprove,Pro-life,Mix of conservatives and liberals,president,,Oppose,Somewhat Likely,Stayed the same,DK/REF,999,No,250,Too low,Yes,No,
+Female,55,55-64,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,idiot,,Oppose,Very Likely,Gone up,FALSE,3,No,270,Too low,Yes,No,
+Male,59,55-64,Democrat,Liberal,High school or less,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,,DK/REF,Oppose,Somewhat Likely,DK/REF,DK/REF,3,Yes,225,Accurate,Yes,Yes,No
+Female,48,45-54,DK/REF,DK/REF,Some college,,White,,Neither approve nor disapprove,Pro-life,DK/REF,president,,DK/REF,DK/REF,DK/REF,DK/REF,3,DK/REF,280,DK/REF,DK/REF,DK/REF,
+Male,50,45-54,Independent,Moderate,College degree,,White,,Somewhat Disapprove,Pro-life,Mix of conservatives and liberals,misbehaved,,Support,Somewhat Likely,Gone down,DK/REF,3,No,250,Accurate,Yes,DK/REF,
+Male,59,55-64,Independent,Moderate,Some college,,White,,Somewhat Approve,Pro-life,Mostly Conservatives,good guy,,Support,Not at all likely,Stayed the same,DK/REF,2,No,250,Accurate,DK/REF,DK/REF,
+Female,62,55-64,Democrat,Conservative,Graduate degree,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,power,,Support,Not at all likely,Stayed the same,DK/REF,999,Yes,198,Too high,No,Yes,DK/REF
+Other,82,65+,Republican,Liberal,DK/REF,,Black,,Strongly Approve,Pro-life,DK/REF,penis,,Support,Somewhat Likely,Gone up,DK/REF,3,Yes,999,Accurate,No,Yes,Yes
+Male,60,55-64,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,phony,,Oppose,Very Likely,Gone down,TRUE,3,No,250,Too low,Yes,No,
+Male,48,45-54,Independent,Moderate,College degree,,Other,Native American,Strongly Approve,Pro-life,Mix of conservatives and liberals,good,,Support,Not at all likely,Gone down,TRUE,3,No,239,Accurate,No,Yes,No
+Male,68,65+,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,DK/REF,DK/REF,braggart,,Oppose,Very Likely,Gone down,DK/REF,4,No,210,Too high,Yes,No,
+Male,62,55-64,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-Choice,Mostly Conservatives,great job,,Support,Somewhat Likely,Gone up,DK/REF,3,No,190,Accurate,Yes,Yes,Yes
+Male,65,65+,Independent,Conservative,College degree,,White,,Strongly Approve,DK/REF,Mix of conservatives and liberals,president,,Support,Somewhat Likely,Gone down,TRUE,3,No,190,Accurate,DK/REF,Yes,No
+Female,30,25-34,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,hair,,Oppose,Somewhat Likely,Gone down,TRUE,2,Yes,220,Accurate,Yes,Yes,Yes
+Female,60,55-64,Independent,Liberal,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,asshole,,Oppose,Very Likely,Gone down,FALSE,4,No,210,Accurate,Yes,No,
+Male,64,55-64,Democrat,Moderate,College degree,,Black,,Strongly Disapprove,Pro-life,DK/REF,He is not doing it right.,,Oppose,Very Likely,DK/REF,TRUE,4,No,225,Too high,Yes,No,
+Female,61,55-64,Democrat,Moderate,High school or less,,Latino,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,dangerous,,Oppose,Very Likely,Stayed the same,TRUE,3,No,235,Accurate,No,No,
+Female,69,65+,Independent,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,scattered,,Support,Somewhat Likely,Gone down,FALSE,3,No,999,Accurate,No,DK/REF,
+Male,77,65+,Republican,DK/REF,High school or less,,DK/REF,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,great,,Support,Not at all likely,Gone down,TRUE,999,No,999,Too high,DK/REF,Yes,DK/REF
+Female,76,65+,Republican,Conservative,Some college,,White,,Somewhat Disapprove,Pro-life,Mix of conservatives and liberals,president,,Support,Somewhat Likely,Gone down,DK/REF,3,No,999,Accurate,Yes,No,
+Male,62,55-64,Independent,Moderate,College degree,,White,,Somewhat Approve,DK/REF,Mix of conservatives and liberals,ambitious,,Support,Not at all likely,Gone up,FALSE,3,No,235,Accurate,Yes,Yes,No
+Female,68,65+,Independent,Moderate,Other,vocational,White,,Strongly Approve,Pro-Choice,DK/REF,,DK/REF,Support,Somewhat Likely,Gone up,DK/REF,999,No,999,Accurate,Yes,Yes,DK/REF
+Male,67,65+,Independent,Conservative,Graduate degree,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,president,,Oppose,Somewhat Likely,Stayed the same,TRUE,2,No,250,Accurate,Yes,Yes,DK/REF
+Female,58,55-64,Republican,Moderate,Some college,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,strong,,Support,Somewhat Likely,Gone down,FALSE,3,Yes,999,DK/REF,DK/REF,Yes,DK/REF
+Male,56,55-64,Republican,Liberal,High school or less,,White,,Strongly Approve,Pro-Choice,Mostly Liberals,good,,Support,Not at all likely,Gone up,FALSE,2,Yes,230,Accurate,Yes,Yes,No
+Female,59,55-64,DK/REF,DK/REF,Some college,,White,,Strongly Disapprove,DK/REF,DK/REF,quack,,DK/REF,DK/REF,Gone up,DK/REF,999,DK/REF,999,DK/REF,DK/REF,DK/REF,
+Female,73,65+,Independent,Moderate,High school or less,,White,,Strongly Disapprove,Pro-life,Mostly Liberals,hate,,Oppose,Very Likely,Gone down,TRUE,999,No,999,Too low,Yes,No,
+Male,60,55-64,Democrat,Moderate,Graduate degree,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,rich,,Support,Not at all likely,Gone down,TRUE,2,No,235,Accurate,Yes,Yes,DK/REF
+Male,74,65+,Democrat,Moderate,College degree,,Black,,Strongly Disapprove,Pro-life,DK/REF,stammer,,Oppose,Very Likely,Gone up,FALSE,3,No,270,Too low,Yes,No,
+Female,55,55-64,Republican,Liberal,Graduate degree,,White,,Strongly Approve,Pro-Choice,Mostly Liberals,forceful,,Support,Not at all likely,Gone down,FALSE,3,Yes,225,Accurate,No,Yes,Yes
+Female,61,55-64,Democrat,Moderate,Some college,,White,,Strongly Disapprove,DK/REF,Mix of conservatives and liberals,joke,,Oppose,Very Likely,Stayed the same,DK/REF,4,No,250,Too high,Yes,No,
+Female,71,65+,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,liar,,Oppose,Very Likely,Stayed the same,FALSE,3,No,310,Too low,Yes,No,
+Male,70,65+,Republican,Moderate,College degree,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,strong,,Support,Somewhat Likely,Gone down,TRUE,2,No,200,Accurate,Yes,Yes,No
+Female,75,65+,DK/REF,DK/REF,High school or less,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,idiot,,Oppose,Very Likely,Stayed the same,DK/REF,3,No,250,Too low,Yes,No,
+Female,78,65+,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mostly Conservatives,great leader,,Support,Not at all likely,Gone down,TRUE,3,No,240,Accurate,DK/REF,Yes,No
+Female,70,65+,Democrat,Conservative,Graduate degree,,White,,Neither approve nor disapprove,Pro-life,Mostly Conservatives,president,,DK/REF,Somewhat Likely,Gone up,DK/REF,3,No,230,Accurate,DK/REF,Yes,No
+Female,77,65+,Independent,Conservative,High school or less,,White,,Somewhat Approve,Pro-life,DK/REF,capable,,Support,Very Likely,Stayed the same,TRUE,3,No,180,Accurate,Yes,Yes,DK/REF
+Female,65,65+,Independent,Moderate,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,insane,,Oppose,Very Likely,Stayed the same,FALSE,4,No,350,Accurate,Yes,No,
+Male,66,65+,Republican,Moderate,Some college,,White,,Strongly Approve,Pro-life,Mostly Conservatives,determined,,Support,Not at all likely,Gone down,TRUE,3,No,220,Too high,DK/REF,Yes,Yes
+Female,90,65+,Republican,Moderate,High school or less,,White,,DK/REF,Pro-life,Mix of conservatives and liberals,smart,,Support,Not at all likely,Gone down,TRUE,3,No,155,DK/REF,Yes,Yes,Yes
+Female,80,65+,Democrat,Liberal,Some college,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,idiot,,Oppose,Very Likely,Stayed the same,FALSE,3,No,260,Accurate,Yes,No,
+Female,80,65+,Independent,Moderate,High school or less,,White,,DK/REF,Pro-life,DK/REF,nothing,,DK/REF,DK/REF,Gone down,DK/REF,3,DK/REF,999,Accurate,DK/REF,DK/REF,
+Male,65,65+,DK/REF,Moderate,Graduate degree,,White,,Neither approve nor disapprove,Pro-life,Mix of conservatives and liberals,asshole,,Support,Very Likely,Gone down,DK/REF,2,No,238,Accurate,No,No,
+Male,67,65+,Democrat,Liberal,High school or less,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,money,,Support,Not at all likely,Gone down,TRUE,2,Yes,195,Accurate,Yes,No,
+Female,75,65+,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,leader,,Support,Not at all likely,Gone down,FALSE,3,No,250,Accurate,No,Yes,Yes
+Female,50,45-54,Independent,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,educated,,Support,Not at all likely,Gone down,TRUE,3,No,200,Accurate,Yes,Yes,No
+Male,62,55-64,Republican,Moderate,Some college,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,president,,DK/REF,Not at all likely,Gone down,DK/REF,3,No,230,Accurate,Yes,Yes,DK/REF
+Male,90,65+,DK/REF,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mostly Conservatives,different,,Support,DK/REF,Gone down,FALSE,999,No,230,Too high,No,Yes,No
+Female,85,65+,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mostly Conservatives,president,,Oppose,Somewhat Likely,Gone down,DK/REF,3,No,200,Accurate,Yes,Yes,No
+Male,67,65+,DK/REF,Moderate,College degree,,White,,Strongly Disapprove,DK/REF,Mix of conservatives and liberals,,DK/REF,Oppose,Very Likely,DK/REF,FALSE,4,No,250,Too low,Yes,No,
+Female,62,55-64,Independent,Moderate,High school or less,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,liar,,Oppose,Very Likely,Stayed the same,FALSE,3,No,285,Too low,Yes,No,
+Male,77,65+,Democrat,Moderate,Graduate degree,,Asian,,Somewhat Disapprove,Pro-life,Mostly Liberals,immature,,Oppose,Very Likely,Gone down,FALSE,999,No,999,DK/REF,No,No,
+Female,29,25-34,Independent,Moderate,Some college,,White,,Strongly Approve,Pro-Choice,Mostly Conservatives,great,,Oppose,Somewhat Likely,DK/REF,DK/REF,3,No,260,Accurate,Yes,Yes,DK/REF
+Female,69,65+,Independent,Conservative,Some college,,Other,Native American,Strongly Approve,Pro-life,Mostly Conservatives,"He is pretty bold, unafraid to stand up for what is right and very brave.",,Support,Not at all likely,Gone down,DK/REF,999,No,999,DK/REF,DK/REF,Yes,DK/REF
+Female,60,55-64,Independent,Moderate,High school or less,,White,,Strongly Disapprove,Pro-Choice,DK/REF,idiot,,Oppose,Very Likely,Gone up,DK/REF,3,No,250,Accurate,No,No,
+Male,52,45-54,Independent,Conservative,Some college,,White,,Strongly Approve,Pro-life,Mostly Conservatives,,DK/REF,Support,Not at all likely,Gone down,DK/REF,3,No,230,Accurate,No,Yes,No
+Male,21,18-24,DK/REF,DK/REF,Graduate degree,,White,,DK/REF,Pro-life,Mostly Liberals,banana,,DK/REF,DK/REF,DK/REF,DK/REF,2,Yes,999,DK/REF,DK/REF,DK/REF,
+Female,38,35-44,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,idiot,,Oppose,Very Likely,Stayed the same,FALSE,3,No,240,Accurate,Yes,No,
+Male,72,65+,Independent,Conservative,Graduate degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,conservative,,Support,Somewhat Likely,Gone up,FALSE,3,No,230,Accurate,Yes,Yes,DK/REF
+Male,49,45-54,Independent,Conservative,College degree,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,savior,,Support,Not at all likely,Gone down,DK/REF,999,No,270,Accurate,Yes,Yes,No
+Male,39,35-44,Independent,Conservative,College degree,,White,,Neither approve nor disapprove,Pro-life,Mostly Liberals,bloviate,,Support,Somewhat Likely,Gone down,FALSE,3,No,245,Accurate,Yes,No,
+Male,89,65+,Republican,DK/REF,High school or less,,White,,Strongly Approve,Pro-life,Mostly Conservatives,,DK/REF,Support,DK/REF,Gone down,TRUE,999,No,260,DK/REF,No,DK/REF,
+Male,39,35-44,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,America,,Support,Not at all likely,Gone down,DK/REF,2,No,265,Accurate,Yes,Yes,Yes
+Male,67,65+,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Freedom,,Support,Somewhat Likely,Gone down,DK/REF,2,No,230,Too high,Yes,Yes,No
+Female,57,55-64,Democrat,Conservative,Some college,,Black,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,Asshole,,Oppose,Very Likely,Gone down,DK/REF,3,No,230,Accurate,Yes,No,
+Female,57,55-64,Independent,Moderate,High school or less,,White,,Somewhat Disapprove,Pro-life,Mostly Liberals,Jerk,,Oppose,Very Likely,DK/REF,TRUE,3,No,245,Accurate,DK/REF,No,
+Male,63,55-64,Democrat,Conservative,Some college,,Black,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Asshole,,Oppose,Very Likely,Gone down,TRUE,4,No,240,Too high,Yes,No,
+Female,54,45-54,Republican,Liberal,College degree,,Black,,Strongly Disapprove,Pro-life,Mostly Liberals,Insecure,,Oppose,Somewhat Likely,Stayed the same,TRUE,1,No,165,Accurate,Yes,No,
+Male,90,65+,Republican,DK/REF,College degree,,Black,,DK/REF,Pro-life,DK/REF,President of the USA,,DK/REF,Very Likely,Gone up,DK/REF,1,Yes,999,DK/REF,DK/REF,Yes,Yes
+Female,73,65+,Independent,Moderate,Some college,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,Good businessman,,Support,Somewhat Likely,Gone up,FALSE,3,No,180,Accurate,No,Yes,Yes
+Female,51,45-54,Democrat,Conservative,College degree,,Black,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Not good,,Oppose,Very Likely,Gone down,FALSE,2,No,220,Accurate,No,No,
+Male,48,45-54,Republican,Conservative,Graduate degree,,White,,Somewhat Approve,Pro-life,Mostly Conservatives,Smart,,Support,Somewhat Likely,Stayed the same,TRUE,3,No,235,Accurate,No,Yes,No
+Male,72,65+,DK/REF,Moderate,Some college,,Black,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Lousy,,Oppose,DK/REF,DK/REF,DK/REF,3,No,200,Accurate,Yes,No,
+DK/REF,77,65+,Democrat,Liberal,Some college,,Black,,DK/REF,Pro-Choice,Mix of conservatives and liberals,,DK/REF,Oppose,DK/REF,DK/REF,TRUE,3,No,999,DK/REF,Yes,No,
+Female,62,55-64,Democrat,Moderate,High school or less,,White,,Strongly Approve,Pro-life,Mostly Liberals,He is okay.,,Support,DK/REF,Stayed the same,DK/REF,999,Yes,160,Accurate,Yes,Yes,Yes
+Female,64,55-64,Republican,Conservative,Some college,,Asian,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Genius,,Support,DK/REF,Gone down,DK/REF,2,DK/REF,180,Accurate,No,Yes,DK/REF
+Female,43,35-44,DK/REF,Liberal,High school or less,,Latino,,DK/REF,Pro-Choice,Mostly Conservatives,The hair,,Support,Very Likely,Gone down,TRUE,999,No,230,Accurate,No,No,
+Female,62,55-64,Republican,Liberal,College degree,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,Strong,,Oppose,Somewhat Likely,Gone down,DK/REF,4,Yes,210,Too high,Yes,DK/REF,
+Female,63,55-64,Republican,Liberal,High school or less,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,Makes American great,,Support,Not at all likely,Gone down,FALSE,3,No,225,Accurate,Yes,Yes,No
+Female,54,45-54,Independent,DK/REF,High school or less,,White,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,Asshole,,Oppose,Very Likely,Gone down,FALSE,2,No,140,Too high,Yes,No,
+Male,54,45-54,Republican,Conservative,Graduate degree,,White,,Strongly Approve,DK/REF,Mostly Conservatives,Conservative,,Support,DK/REF,Gone down,FALSE,999,No,999,DK/REF,No,Yes,DK/REF
+Female,84,65+,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Ignorant,,Oppose,Very Likely,Gone down,FALSE,3,No,250,Too low,Yes,No,
+Male,61,55-64,Independent,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,,DK/REF,Oppose,Very Likely,Stayed the same,TRUE,3,Yes,200,Accurate,No,No,
+Male,71,65+,Democrat,Conservative,High school or less,,White,,Somewhat Approve,Pro-life,Mostly Conservatives,,DK/REF,Support,Somewhat Likely,Gone down,DK/REF,3,No,220,Accurate,No,No,
+Male,44,35-44,Independent,Moderate,High school or less,,Asian,,Neither approve nor disapprove,DK/REF,Mix of conservatives and liberals,Penis,,Oppose,Very Likely,Gone down,FALSE,4,No,280,Too low,Yes,No,
+Male,26,25-34,Republican,Moderate,College degree,,Asian,,Neither approve nor disapprove,Pro-Choice,Mostly Liberals,Dumb,,Oppose,Somewhat Likely,Stayed the same,FALSE,2,No,220,Too high,No,No,
+Male,60,55-64,Republican,Moderate,Graduate degree,,White,,Strongly Approve,Pro-Choice,DK/REF,It is about time.,,Support,Not at all likely,Gone down,DK/REF,999,Yes,239,Accurate,Yes,Yes,Yes
+Male,61,55-64,Independent,Conservative,High school or less,,White,,Somewhat Disapprove,Pro-life,Mix of conservatives and liberals,Arrogant,,Oppose,Very Likely,Gone up,FALSE,3,No,250,Too low,Yes,No,
+Female,62,55-64,Independent,Liberal,High school or less,,White,,Strongly Approve,Pro-Choice,DK/REF,True to life,,Support,DK/REF,Gone down,DK/REF,999,No,999,DK/REF,DK/REF,Yes,DK/REF
+Female,37,35-44,Independent,Liberal,Some college,,Other,Mixed,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Tyrant,,Oppose,Very Likely,Stayed the same,TRUE,2,No,215,Accurate,No,No,
+Female,33,25-34,Republican,Moderate,College degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Interesting,,Support,Somewhat Likely,Gone down,TRUE,3,No,230,Accurate,Yes,Yes,No
+Male,46,45-54,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Great,,Support,Not at all likely,Gone down,TRUE,3,Yes,235,Accurate,No,Yes,DK/REF
+Female,62,55-64,Independent,Conservative,High school or less,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Rotten,,Oppose,Very Likely,Gone down,TRUE,3,No,316,Accurate,Yes,No,
+Male,47,45-54,Republican,Conservative,High school or less,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,Different,,Support,DK/REF,Gone down,FALSE,3,No,260,Too low,Yes,Yes,No
+Male,36,35-44,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Dishonest,,Oppose,Somewhat Likely,DK/REF,TRUE,2,No,280,Too low,Yes,No,
+Male,42,35-44,Republican,Moderate,College degree,,Asian,,Neither approve nor disapprove,Pro-life,Mix of conservatives and liberals,Our president,,DK/REF,Somewhat Likely,Stayed the same,TRUE,3,No,225,Accurate,Yes,DK/REF,
+Female,63,55-64,Independent,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Idiot,,Oppose,Very Likely,Stayed the same,FALSE,3,No,300,Too low,No,No,
+Female,72,65+,Republican,Moderate,Graduate degree,,White,,Somewhat Disapprove,Pro-Choice,Mix of conservatives and liberals,Radical,,Support,Somewhat Likely,Gone down,TRUE,2,No,195,Too high,Yes,DK/REF,
+Female,36,35-44,Democrat,Conservative,High school or less,,Latino,,Strongly Approve,Pro-life,Mostly Conservatives,Crazy,,Oppose,Very Likely,Stayed the same,TRUE,2,No,230,Accurate,Yes,No,
+Female,59,55-64,DK/REF,Moderate,College degree,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,President,,DK/REF,Somewhat Likely,Gone down,DK/REF,3,No,270,Too low,No,DK/REF,
+Male,29,25-34,Democrat,Liberal,College degree,,Latino,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,,DK/REF,Oppose,Somewhat Likely,Stayed the same,FALSE,999,No,200,Too high,No,No,
+DK/REF,40,35-44,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,America,,Support,Not at all likely,Gone up,FALSE,999,Yes,225,Accurate,Yes,Yes,Yes
+Female,30,25-34,Independent,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Idiot,,Oppose,Somewhat Likely,Stayed the same,DK/REF,2,No,999,Too low,Yes,No,
+Male,27,25-34,Independent,Conservative,High school or less,,White,,Neither approve nor disapprove,DK/REF,Mix of conservatives and liberals,Millionaire,,Support,DK/REF,DK/REF,DK/REF,2,Yes,200,DK/REF,Yes,No,
+Female,40,35-44,Independent,Conservative,Some college,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,Successful,,Support,DK/REF,Gone down,DK/REF,4,DK/REF,999,DK/REF,DK/REF,Yes,No
+Male,25,25-34,Independent,Conservative,High school or less,,Latino,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,Like a boss,,Support,Not at all likely,Gone down,TRUE,1,Yes,230,Accurate,Yes,No,
+Male,60,55-64,Democrat,Moderate,High school or less,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Disaster,,Oppose,Very Likely,Stayed the same,TRUE,3,No,250,Too low,Yes,No,
+Male,36,35-44,Independent,Conservative,Some college,,Latino,,Strongly Approve,DK/REF,DK/REF,Doing a great job as president,,Oppose,Not at all likely,Gone up,FALSE,2,Yes,250,Too high,Yes,Yes,No
+Female,62,55-64,Democrat,Liberal,High school or less,,Black,,Strongly Disapprove,DK/REF,Mostly Conservatives,Yuck,,Oppose,DK/REF,Gone down,DK/REF,2,No,999,DK/REF,No,No,
+Female,40,35-44,Republican,Moderate,College degree,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,Determined,,Support,Not at all likely,Gone down,DK/REF,2,No,230,Accurate,Yes,DK/REF,
+Male,67,65+,Independent,Moderate,Some college,,Black,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Monster,,Oppose,Very Likely,Gone up,TRUE,3,No,260,Too low,Yes,No,
+Male,57,55-64,Democrat,Moderate,High school or less,,White,,Strongly Approve,Pro-life,Mostly Liberals,President,,Support,Not at all likely,Stayed the same,TRUE,2,Yes,224,Accurate,Yes,Yes,Yes
+Female,78,65+,Independent,Moderate,Some college,,White,,Somewhat Approve,Pro-life,DK/REF,Loud,,Support,DK/REF,Stayed the same,DK/REF,999,No,999,DK/REF,Yes,DK/REF,
+Female,75,65+,Republican,Conservative,Graduate degree,,White,,Somewhat Disapprove,Pro-life,Mostly Conservatives,Egotistic,,Support,Very Likely,DK/REF,DK/REF,3,No,235,Accurate,No,No,
+Female,55,55-64,Republican,Moderate,Graduate degree,,White,,Somewhat Approve,DK/REF,Mix of conservatives and liberals,Hope,,DK/REF,DK/REF,Stayed the same,DK/REF,2,No,999,Accurate,Yes,Yes,DK/REF
+Female,63,55-64,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,"Embarrassment, jerk",,Oppose,Very Likely,Stayed the same,TRUE,3,No,230,Too low,Yes,No,
+Female,66,65+,Democrat,Moderate,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Unstable,,Oppose,Very Likely,Stayed the same,FALSE,3,No,250,Too low,Yes,No,
+Female,59,55-64,Independent,DK/REF,College degree,,White,,Somewhat Disapprove,Pro-Choice,DK/REF,Mouthy,,Support,Very Likely,Gone up,TRUE,3,No,999,Too high,No,No,
+Male,53,45-54,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Calm artist,,Oppose,Very Likely,Stayed the same,TRUE,3,No,270,Accurate,No,No,
+Female,57,55-64,Independent,Moderate,Graduate degree,,Latino,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Tramp,,Oppose,Very Likely,Gone down,FALSE,3,No,240,Accurate,Yes,No,
+Female,65,65+,Republican,Moderate,Graduate degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Businessman,,Support,Somewhat Likely,Gone down,FALSE,3,No,250,Accurate,No,Yes,Yes
+Male,68,65+,Democrat,Liberal,High school or less,,White,,Somewhat Approve,Pro-life,Mostly Liberals,,DK/REF,Oppose,Somewhat Likely,Gone down,FALSE,2,Yes,200,Accurate,Yes,DK/REF,
+Male,57,55-64,Republican,Moderate,College degree,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,Business,,Support,Not at all likely,Gone down,FALSE,2,No,210,Too high,DK/REF,Yes,No
+Female,65,65+,Independent,Moderate,College degree,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,President,,Oppose,Somewhat Likely,Stayed the same,FALSE,3,No,200,Accurate,Yes,DK/REF,
+Female,34,25-34,Independent,Moderate,Graduate degree,,White,,Strongly Approve,Pro-life,Mostly Conservatives,President,,Support,Not at all likely,Gone up,FALSE,999,Yes,285,Accurate,No,Yes,Yes
+Female,83,65+,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Frightening,,DK/REF,Very Likely,Gone down,DK/REF,3,No,270,Too low,DK/REF,No,
+Male,71,65+,Independent,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Business,,Support,Not at all likely,Gone down,FALSE,3,No,190,Accurate,No,Yes,DK/REF
+Female,71,65+,DK/REF,DK/REF,High school or less,,White,,DK/REF,DK/REF,DK/REF,Trouble,,Oppose,Somewhat Likely,Stayed the same,TRUE,3,No,185,Too low,No,No,
+Male,69,65+,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Unqualified,,Oppose,Very Likely,Gone down,DK/REF,3,No,270,Too low,Yes,No,
+Female,70,65+,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Mouth,,Support,Somewhat Likely,Gone down,FALSE,4,No,260,Accurate,Yes,Yes,No
+Male,71,65+,Republican,Conservative,Some college,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,President,,Support,Not at all likely,Gone down,TRUE,3,No,235,Accurate,No,Yes,Yes
+Female,72,65+,Republican,Moderate,High school or less,,White,,Strongly Approve,Pro-life,DK/REF,Successful,,Support,Not at all likely,DK/REF,DK/REF,3,DK/REF,999,DK/REF,Yes,Yes,DK/REF
+Female,87,65+,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Rich guy,,Support,Somewhat Likely,Gone up,DK/REF,2,Yes,999,Too high,Yes,Yes,No
+Male,56,55-64,Democrat,Moderate,High school or less,,White,,Strongly Approve,Pro-life,DK/REF,,DK/REF,Support,Not at all likely,Stayed the same,FALSE,3,Yes,999,DK/REF,No,Yes,No
+Male,72,65+,Republican,Moderate,Graduate degree,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,Good job,,Support,Somewhat Likely,Gone down,FALSE,3,No,230,Too high,No,Yes,DK/REF
+Female,84,65+,Independent,Conservative,High school or less,,White,,DK/REF,Pro-Choice,Mostly Conservatives,Stump,,Oppose,DK/REF,Gone down,FALSE,3,No,270,Too low,Yes,No,
+Female,88,65+,DK/REF,Conservative,Some college,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,President,,Support,Not at all likely,Gone down,TRUE,3,Yes,200,DK/REF,DK/REF,DK/REF,
+Female,72,65+,Democrat,Liberal,College degree,,DK/REF,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Sad,,Oppose,Very Likely,Gone up,TRUE,3,No,215,Accurate,Yes,No,
+Female,82,65+,Independent,Moderate,High school or less,,White,,DK/REF,DK/REF,DK/REF,,DK/REF,Support,Somewhat Likely,DK/REF,DK/REF,999,No,999,DK/REF,DK/REF,DK/REF,
+Female,84,65+,Republican,Moderate,High school or less,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Pleasant,,Support,Not at all likely,Gone down,TRUE,3,Yes,195,Too high,No,Yes,No
+Male,18,18-24,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Perfect President,,Support,Not at all likely,Gone down,FALSE,1,Yes,250,Accurate,No,Yes,Yes
+Female,54,45-54,Republican,Conservative,Graduate degree,,Latino,,Somewhat Approve,Pro-life,Mostly Conservatives,,DK/REF,Support,Somewhat Likely,Gone down,DK/REF,3,DK/REF,999,DK/REF,No,DK/REF,
+Male,39,35-44,Democrat,Liberal,Graduate degree,,White,,Neither approve nor disapprove,Pro-life,Mostly Conservatives,Forward,,Oppose,Somewhat Likely,Gone down,FALSE,2,Yes,175,Accurate,Yes,No,
+Female,29,25-34,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Idiot,,Oppose,Very Likely,Gone up,FALSE,3,No,285,Accurate,Yes,No,
+Male,53,45-54,Democrat,DK/REF,High school or less,,Black,,DK/REF,DK/REF,Mostly Conservatives,,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,999,No,220,Accurate,Yes,No,
+Female,58,55-64,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,DK/REF,Jackass,,Oppose,Very Likely,Stayed the same,FALSE,3,No,190,Accurate,Yes,No,
+Male,69,65+,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,DK/REF,Shit,,Oppose,Very Likely,Stayed the same,FALSE,3,No,300,Too low,Yes,No,
+Female,33,25-34,Democrat,Liberal,College degree,,White,,Neither approve nor disapprove,Pro-Choice,Mostly Liberals,Dump,,Oppose,Very Likely,DK/REF,TRUE,3,No,280,Too low,Yes,No,
+Female,69,65+,Republican,Moderate,College degree,,White,,Neither approve nor disapprove,Pro-life,DK/REF,President,,Support,DK/REF,Stayed the same,DK/REF,3,DK/REF,225,Accurate,Yes,DK/REF,
+Male,30,25-34,DK/REF,DK/REF,High school or less,,Latino,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Unfair,,Support,DK/REF,Gone down,DK/REF,999,No,230,Accurate,Yes,No,
+Male,21,18-24,Independent,DK/REF,High school or less,,Latino,,Neither approve nor disapprove,Pro-life,Mix of conservatives and liberals,Rich President,,Oppose,Very Likely,DK/REF,FALSE,3,No,240,Too high,No,No,
+Female,68,65+,Independent,Moderate,College degree,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,Outgoing,,Support,Not at all likely,Gone down,FALSE,3,No,230,Accurate,No,Yes,No
+Female,47,45-54,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Abomination,,Oppose,Very Likely,Gone up,FALSE,3,No,320,Too low,DK/REF,No,
+Male,44,35-44,Independent,Liberal,Some college,,Black,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,Entrepreneur,,Support,Somewhat Likely,Gone down,TRUE,2,No,220,Too high,Yes,No,
+Female,30,25-34,Democrat,Moderate,Graduate degree,,Asian,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Incompetent,,Oppose,Somewhat Likely,Gone up,FALSE,3,No,280,Accurate,Yes,No,
+Male,28,25-34,Independent,Moderate,College degree,,White,,Somewhat Disapprove,Pro-Choice,Mix of conservatives and liberals,Businessman,,Oppose,Somewhat Likely,Stayed the same,TRUE,2,No,260,Accurate,DK/REF,No,
+Male,19,18-24,DK/REF,DK/REF,High school or less,,Latino,,Neither approve nor disapprove,DK/REF,Mix of conservatives and liberals,Hotdog,,Oppose,Not at all likely,Stayed the same,DK/REF,1,No,210,Too high,Yes,DK/REF,
+Male,31,25-34,Democrat,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Stubborn,,Oppose,Very Likely,Gone down,FALSE,3,No,260,Too low,Yes,No,
+Male,44,35-44,Independent,Moderate,Graduate degree,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,Heir,,Support,Somewhat Likely,Stayed the same,FALSE,3,No,230,Accurate,DK/REF,DK/REF,
+Male,31,25-34,Republican,Moderate,Some college,,White,,Strongly Approve,Pro-Choice,Mostly Liberals,Strong,,Support,Not at all likely,Gone down,DK/REF,999,DK/REF,999,Accurate,Yes,Yes,DK/REF
+Male,57,55-64,Democrat,Moderate,Graduate degree,,Asian,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Incompetent,,Oppose,Very Likely,Gone up,TRUE,4,No,300,Too low,Yes,No,
+Male,58,55-64,Democrat,DK/REF,High school or less,,Black,,DK/REF,DK/REF,DK/REF,He is doing the things he likes.,,Oppose,DK/REF,Gone up,FALSE,999,No,999,DK/REF,DK/REF,No,
+Female,38,35-44,Democrat,Moderate,Some college,,Black,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Unfit,,Oppose,Very Likely,Gone down,DK/REF,3,No,300,Accurate,No,No,
+Female,71,65+,Democrat,Liberal,High school or less,,Black,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Stupid,,Oppose,Very Likely,Gone up,FALSE,2,No,230,Accurate,Yes,No,
+Female,40,35-44,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Leader,,Support,Not at all likely,Gone down,TRUE,2,No,270,Accurate,No,Yes,No
+Male,80,65+,Democrat,Conservative,High school or less,,Black,,DK/REF,Pro-Choice,Mostly Liberals,,DK/REF,Oppose,Not at all likely,Stayed the same,FALSE,999,Yes,999,Too high,No,No,
+Female,77,65+,Independent,Conservative,Graduate degree,,Black,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,An uneducated asshole,,Oppose,Very Likely,Gone down,TRUE,3,No,353,Too low,Yes,No,
+Female,60,55-64,Democrat,Conservative,High school or less,,White,,Somewhat Disapprove,Pro-life,DK/REF,Idiot,,Oppose,Somewhat Likely,Stayed the same,TRUE,3,No,230,Accurate,Yes,No,
+Female,68,65+,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Erratic,,Oppose,Very Likely,Gone down,FALSE,3,No,250,Accurate,Yes,No,
+Female,88,65+,Independent,Conservative,High school or less,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,President,,Support,Not at all likely,Gone down,FALSE,2,No,999,Accurate,DK/REF,DK/REF,
+Female,52,45-54,Independent,Moderate,College degree,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,Tweet,,Oppose,Somewhat Likely,Gone down,FALSE,3,No,215,Accurate,Yes,No,
+Male,67,65+,Democrat,Conservative,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Crook,,Oppose,Very Likely,DK/REF,FALSE,3,No,70,Too low,Yes,No,
+Male,53,45-54,Republican,Conservative,Graduate degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Awesome,,Support,Not at all likely,Gone up,DK/REF,999,Yes,205,Too high,No,Yes,Yes
+Male,54,45-54,Democrat,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Ignorant,,Oppose,Very Likely,Stayed the same,FALSE,3,No,250,Accurate,Yes,No,
+Female,51,45-54,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Incompetent,,Oppose,Very Likely,Stayed the same,FALSE,3,No,260,Too low,Yes,No,
+Female,56,55-64,Independent,Moderate,Some college,,White,,Somewhat Disapprove,Pro-Choice,Mostly Liberals,Disrespect,,Oppose,Somewhat Likely,DK/REF,DK/REF,3,No,185,Accurate,Yes,No,
+Female,79,65+,Republican,DK/REF,High school or less,,White,,Neither approve nor disapprove,DK/REF,Mix of conservatives and liberals,,DK/REF,Support,Somewhat Likely,DK/REF,DK/REF,999,DK/REF,190,DK/REF,DK/REF,DK/REF,
+Female,54,45-54,Independent,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Respect,,Support,Not at all likely,Gone down,DK/REF,3,No,220,Accurate,No,DK/REF,
+Female,79,65+,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Wise,,Support,Not at all likely,Gone down,TRUE,2,No,170,Accurate,No,Yes,No
+Female,86,65+,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Fake,,Oppose,Very Likely,Stayed the same,FALSE,3,No,240,Accurate,DK/REF,No,
+Female,68,65+,Independent,Moderate,High school or less,,White,,Somewhat Disapprove,Pro-life,Mix of conservatives and liberals,Unpredictable,,Oppose,Very Likely,Gone down,TRUE,999,No,250,Too low,Yes,No,
+Female,71,65+,Democrat,Moderate,Some college,,White,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,Crazy,,Oppose,Very Likely,Stayed the same,FALSE,8,No,260,Accurate,Yes,No,
+Female,73,65+,Independent,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,DK/REF,Scam,,Oppose,Very Likely,Stayed the same,DK/REF,3,No,250,Accurate,Yes,No,
+Male,67,65+,Independent,Conservative,High school or less,,White,,Somewhat Disapprove,Pro-Choice,Mix of conservatives and liberals,Idiot,,Support,Very Likely,Gone down,DK/REF,2,No,239,Accurate,Yes,No,
+Male,77,65+,Democrat,DK/REF,High school or less,,Black,,Somewhat Disapprove,Pro-Choice,DK/REF,,DK/REF,Oppose,Somewhat Likely,Stayed the same,DK/REF,999,No,300,Too low,Yes,No,
+Female,94,65+,Republican,Moderate,High school or less,,White,,Strongly Approve,DK/REF,DK/REF,Trying to do right,,DK/REF,Not at all likely,DK/REF,DK/REF,999,DK/REF,999,DK/REF,No,Yes,Yes
+Female,35,35-44,Democrat,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Asshole,,Oppose,Somewhat Likely,Stayed the same,FALSE,3,No,230,Accurate,Yes,No,
+Male,32,25-34,Republican,Conservative,Graduate degree,,Latino,,Strongly Approve,Pro-life,Mostly Liberals,Strength,,Support,Not at all likely,Gone down,FALSE,2,No,265,Accurate,Yes,Yes,DK/REF
+Male,41,35-44,DK/REF,Conservative,High school or less,,DK/REF,,Strongly Approve,Pro-life,Mostly Conservatives,President,,Support,DK/REF,Gone down,DK/REF,999,No,280,Accurate,No,No,
+Male,29,25-34,Republican,Moderate,High school or less,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,America,,Support,Somewhat Likely,Gone down,FALSE,3,Yes,210,Too high,Yes,Yes,No
+Male,21,18-24,Democrat,Moderate,Some college,,Black,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Wall,,Oppose,Very Likely,Stayed the same,DK/REF,2,No,160,Too high,Yes,No,
+Male,62,55-64,Republican,Moderate,Graduate degree,,White,,DK/REF,Pro-life,Mix of conservatives and liberals,,DK/REF,Support,DK/REF,Gone up,DK/REF,3,No,25,DK/REF,DK/REF,DK/REF,
+Male,26,25-34,Independent,DK/REF,College degree,,Latino,,Somewhat Disapprove,Pro-life,Mostly Conservatives,Inadequate,,Oppose,DK/REF,DK/REF,DK/REF,3,No,220,Accurate,Yes,No,
+Male,43,35-44,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Horrible,,Oppose,Very Likely,Gone down,FALSE,999,No,280,Accurate,Yes,No,
+Male,44,35-44,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,Unpleasant,,Oppose,Somewhat Likely,Stayed the same,FALSE,3,No,240,Too low,Yes,No,
+Male,40,35-44,Republican,Conservative,Some college,,White,,Somewhat Approve,Pro-life,Mostly Conservatives,A real president,,Support,Not at all likely,Gone down,FALSE,2,No,220,Accurate,Yes,Yes,No
+Male,34,25-34,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,Strong,,Support,Not at all likely,Gone down,FALSE,3,No,250,Accurate,Yes,Yes,No
+Male,34,25-34,Independent,DK/REF,College degree,,White,,Somewhat Approve,Pro-Choice,Mostly Conservatives,Orange,,Support,Very Likely,Gone up,DK/REF,999,No,300,Too high,No,Yes,No
+Male,39,35-44,Democrat,Moderate,High school or less,,White,,Strongly Approve,DK/REF,Mix of conservatives and liberals,None,,Support,Not at all likely,DK/REF,DK/REF,999,No,230,Accurate,DK/REF,Yes,Yes
+Male,42,35-44,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,He is great.,,Support,Not at all likely,Stayed the same,FALSE,3,No,250,Accurate,Yes,Yes,No
+Female,40,35-44,Democrat,Moderate,Some college,,Other,American Indian and African American,Strongly Disapprove,DK/REF,Mostly Conservatives,A big baby,,Oppose,Very Likely,Stayed the same,DK/REF,1,No,225,Accurate,No,No,
+Female,33,25-34,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Unqualified,,Oppose,Very Likely,DK/REF,FALSE,3,No,260,Too low,DK/REF,No,
+Female,82,65+,Republican,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,I don't trust him. I am really disgusted with the way he talks about other people.,,Oppose,Somewhat Likely,Stayed the same,FALSE,3,No,225,Accurate,Yes,No,
+Male,18,18-24,DK/REF,Moderate,High school or less,,Asian,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,President,,Oppose,Somewhat Likely,Stayed the same,FALSE,2,No,215,Accurate,Yes,No,
+Male,44,35-44,Independent,Liberal,Graduate degree,,Black,,Neither approve nor disapprove,Pro-life,Mix of conservatives and liberals,President,,DK/REF,Not at all likely,DK/REF,TRUE,999,DK/REF,201,Accurate,Yes,No,
+Male,65,65+,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Clown,,Oppose,Very Likely,Gone down,FALSE,3,No,225,Accurate,Yes,No,
+Female,59,55-64,Democrat,Liberal,College degree,,Black,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,A jerk,,Oppose,Somewhat Likely,Gone down,TRUE,999,No,180,Accurate,Yes,No,
+Male,67,65+,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,He is a jerk.,,Oppose,Very Likely,Gone down,FALSE,4,No,200,Too high,Yes,No,
+Female,43,35-44,Independent,Liberal,College degree,,White,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,,DK/REF,Oppose,Very Likely,Gone down,TRUE,3,No,182,Too low,No,No,
+Male,48,45-54,Independent,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,He is an egomaniac and a liar.,,Oppose,Very Likely,Stayed the same,FALSE,3,No,500,Too low,Yes,No,
+Male,74,65+,Republican,Conservative,College degree,,White,,Somewhat Disapprove,Pro-life,Mostly Conservatives,Good president,,Oppose,Somewhat Likely,Stayed the same,FALSE,2,No,210,Accurate,Yes,Yes,No
+Male,51,45-54,Independent,Moderate,High school or less,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,Trying,,Support,Not at all likely,Gone down,FALSE,3,No,225,Accurate,Yes,Yes,No
+Female,59,55-64,Democrat,DK/REF,High school or less,,White,,Strongly Disapprove,DK/REF,DK/REF,Idiot,,Oppose,Somewhat Likely,DK/REF,DK/REF,999,No,999,DK/REF,DK/REF,No,
+Male,74,65+,Democrat,Conservative,High school or less,,White,,Somewhat Approve,Pro-life,Mostly Conservatives,President,,Support,Somewhat Likely,Stayed the same,TRUE,999,No,200,Too high,Yes,Yes,Yes
+Female,61,55-64,Independent,DK/REF,Graduate degree,,DK/REF,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Abrasive,,Oppose,DK/REF,Gone down,FALSE,3,No,999,DK/REF,Yes,No,
+Male,60,55-64,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Spoon,,Oppose,Very Likely,Stayed the same,FALSE,3,No,260,Too low,Yes,No,
+Male,53,45-54,Independent,Liberal,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Liar,,Oppose,Very Likely,Stayed the same,FALSE,3,No,286,Accurate,Yes,No,
+Female,79,65+,Republican,Conservative,Some college,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Good guy,,Support,Not at all likely,Gone down,DK/REF,2,Yes,230,Accurate,No,Yes,DK/REF
+Female,51,45-54,Republican,Conservative,Some college,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Pro-life,,Support,Not at all likely,Gone down,TRUE,2,No,190,Too high,DK/REF,Yes,No
+Male,55,55-64,Independent,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Thief,,Oppose,Very Likely,Stayed the same,FALSE,3,No,280,Too low,Yes,No,
+Female,59,55-64,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Asshole,,Oppose,Very Likely,Stayed the same,FALSE,3,No,240,Accurate,Yes,No,
+Female,80,65+,Republican,Moderate,High school or less,,White,,Somewhat Approve,Pro-Choice,Mostly Conservatives,President,,Support,Somewhat Likely,DK/REF,DK/REF,2,No,200,DK/REF,DK/REF,Yes,DK/REF
+Male,40,35-44,DK/REF,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,He is a toilet paper.,,Oppose,Somewhat Likely,Gone down,TRUE,3,No,200,Accurate,Yes,DK/REF,
+Male,81,65+,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,He is a bully.,,Oppose,Very Likely,Gone down,FALSE,3,No,238,Too high,Yes,No,
+Female,92,65+,Republican,DK/REF,High school or less,,Black,,Strongly Approve,Pro-Choice,Mostly Conservatives,Honest,,Support,Somewhat Likely,Gone up,TRUE,999,No,200,Accurate,No,Yes,No
+Female,53,45-54,Independent,Moderate,Some college,,Black,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Racist,,Oppose,Very Likely,Gone up,FALSE,3,No,225,Too low,Yes,No,
+Male,52,45-54,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Idiot,,Oppose,Very Likely,DK/REF,TRUE,3,No,200,Accurate,Yes,No,
+Male,47,45-54,Republican,Moderate,Some college,,Other,American Indian,Somewhat Approve,Pro-Choice,Mix of conservatives and liberals,Stable,,Support,Somewhat Likely,Stayed the same,FALSE,3,No,250,Too low,No,Yes,No
+Female,35,35-44,Democrat,Liberal,Graduate degree,,Latino,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Racist,,Oppose,Very Likely,DK/REF,TRUE,4,No,300,Too low,Yes,No,
+Male,62,55-64,Independent,Moderate,Some college,,Black,,Strongly Disapprove,Pro-Choice,Mostly Liberals,He is our president.,,Oppose,Very Likely,Stayed the same,TRUE,2,No,220,Accurate,Yes,No,
+Male,22,18-24,Independent,Moderate,Graduate degree,,DK/REF,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Irresponsible and unprofessional,,Oppose,Somewhat Likely,DK/REF,DK/REF,999,No,190,Accurate,Yes,No,
+Male,50,45-54,Republican,Moderate,Graduate degree,,White,,DK/REF,Pro-Choice,Mix of conservatives and liberals,Different,,Oppose,Somewhat Likely,Gone down,TRUE,2,No,220,Accurate,Yes,No,
+Male,69,65+,Independent,Moderate,Some college,,White,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Idiot,,Oppose,Somewhat Likely,Stayed the same,FALSE,5,No,280,Accurate,Yes,No,
+Female,51,45-54,Republican,Moderate,College degree,,White,,Neither approve nor disapprove,Pro-Choice,Mostly Conservatives,Unpredictable,,Oppose,Very Likely,Gone down,DK/REF,2,No,220,Too low,Yes,No,
+Male,19,18-24,Democrat,Moderate,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Irresponsible,,Oppose,Very Likely,Gone down,FALSE,3,No,300,Too low,Yes,No,
+Male,50,45-54,Independent,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Erratic,,Oppose,Very Likely,Stayed the same,FALSE,3,No,260,Accurate,Yes,No,
+Female,85,65+,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Liar,,Oppose,Very Likely,Gone up,DK/REF,3,No,999,Accurate,No,No,
+Other,45,45-54,Independent,Conservative,Graduate degree,,Other,West Indian,Strongly Disapprove,Pro-life,Mostly Conservatives,Perfect genius,,Oppose,Very Likely,Gone down,FALSE,3,Yes,250,Accurate,No,Yes,DK/REF
+Male,21,18-24,Republican,Conservative,High school or less,,White,,Somewhat Approve,Pro-life,Mostly Conservatives,Smart man,,Support,Somewhat Likely,DK/REF,TRUE,3,Yes,260,Accurate,No,Yes,No
+Male,20,18-24,Independent,Liberal,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Basher,,Oppose,Somewhat Likely,Gone down,FALSE,2,No,250,Too high,No,No,
+Male,20,18-24,Independent,Moderate,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Scandals,,Oppose,Somewhat Likely,DK/REF,FALSE,3,No,250,Too low,Yes,No,
+Male,50,45-54,Democrat,Conservative,College degree,,Other,American Indian,Strongly Disapprove,Pro-Choice,Mostly Liberals,Impeach,,Oppose,Very Likely,Gone up,TRUE,3,No,175,Too high,Yes,No,
+Male,58,55-64,Independent,Moderate,High school or less,,Black,,Strongly Disapprove,Pro-life,Mostly Liberals,Crooked,,Oppose,Somewhat Likely,Gone down,DK/REF,2,No,200,Too high,Yes,No,
+Female,48,45-54,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-Choice,Mostly Conservatives,Strong,,Support,Somewhat Likely,Gone down,TRUE,999,No,235,Accurate,Yes,Yes,DK/REF
+Female,21,18-24,Democrat,Liberal,Some college,,DK/REF,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Apocalypse,,Oppose,Very Likely,Gone up,TRUE,4,No,200,Accurate,No,No,
+Female,55,55-64,Democrat,Moderate,Some college,,White,,Strongly Disapprove,Pro-Choice,DK/REF,That would be asshole. He is an idiot.,,Oppose,Very Likely,Stayed the same,TRUE,3,No,220,Accurate,Yes,No,
+Female,39,35-44,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Catastrophe,,Oppose,Very Likely,Gone down,DK/REF,2,No,999,Too low,Yes,No,
+Female,50,45-54,Independent,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Terrible,,Oppose,Very Likely,Gone up,FALSE,3,No,250,Too low,Yes,No,
+Female,52,45-54,Republican,Moderate,Some college,,Latino,,Strongly Approve,Pro-life,Mostly Liberals,,DK/REF,DK/REF,Somewhat Likely,Gone up,TRUE,3,No,200,DK/REF,Yes,Yes,DK/REF
+Male,71,65+,Democrat,Moderate,Some college,,White,,Somewhat Disapprove,Pro-life,Mix of conservatives and liberals,Rich,,Oppose,Somewhat Likely,Gone down,FALSE,3,No,220,Accurate,Yes,No,
+Female,46,45-54,DK/REF,DK/REF,College degree,,Black,,Neither approve nor disapprove,Pro-life,DK/REF,My president,,DK/REF,DK/REF,DK/REF,DK/REF,999,DK/REF,999,DK/REF,DK/REF,DK/REF,
+Male,55,55-64,Independent,Moderate,Graduate degree,,White,,Somewhat Approve,DK/REF,Mostly Liberals,Argumentative,,Support,Somewhat Likely,Gone down,FALSE,2,No,250,Accurate,Yes,Yes,No
+Male,35,35-44,Independent,Moderate,College degree,,White,,DK/REF,DK/REF,Mix of conservatives and liberals,Truth,,Oppose,DK/REF,DK/REF,DK/REF,2,No,250,Accurate,Yes,No,
+Male,71,65+,Republican,Conservative,Some college,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,,DK/REF,Support,Somewhat Likely,Gone down,TRUE,3,Yes,999,Accurate,DK/REF,Yes,DK/REF
+Male,19,18-24,Republican,Conservative,Some college,,White,,DK/REF,Pro-Choice,Mix of conservatives and liberals,Republican,,Oppose,Somewhat Likely,Gone down,FALSE,2,No,225,Accurate,Yes,No,
+Female,46,45-54,Independent,Conservative,Some college,,White,,Neither approve nor disapprove,Pro-Choice,Mostly Conservatives,Typical dickhead male,,Oppose,Very Likely,Gone up,DK/REF,999,Yes,240,Accurate,Yes,DK/REF,
+Male,51,45-54,Independent,Liberal,High school or less,,Latino,,Neither approve nor disapprove,Pro-life,Mostly Liberals,Crazy,,Oppose,Somewhat Likely,Stayed the same,TRUE,2,Yes,250,Accurate,Yes,No,
+Female,41,35-44,Democrat,Moderate,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Pig,,Support,Very Likely,Stayed the same,TRUE,2,No,280,Too low,No,No,
+Male,26,25-34,Independent,Moderate,Some college,,Black,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Crazy,,Oppose,Very Likely,Gone down,FALSE,3,No,230,Accurate,Yes,No,
+Male,58,55-64,Independent,DK/REF,Graduate degree,,White,,Somewhat Approve,Pro-Choice,Mix of conservatives and liberals,Effective,,Support,DK/REF,Gone down,DK/REF,3,No,999,DK/REF,Yes,DK/REF,
+Male,21,18-24,Independent,DK/REF,Some college,,White,,DK/REF,DK/REF,DK/REF,President,,DK/REF,Not at all likely,Gone down,DK/REF,999,No,205,Too high,No,No,
+Male,57,55-64,Republican,DK/REF,Some college,,White,,Somewhat Approve,Pro-Choice,Mostly Conservatives,Strong,,Support,Somewhat Likely,Gone down,TRUE,3,No,270,Accurate,No,Yes,No
+Female,25,25-34,Republican,Conservative,High school or less,,Black,,Strongly Approve,Pro-life,Mostly Liberals,Social Security,,Support,Somewhat Likely,Gone up,FALSE,2,Yes,200,Accurate,No,Yes,Yes
+Female,36,35-44,Independent,Moderate,High school or less,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,The Hunger Games,,Oppose,DK/REF,DK/REF,TRUE,3,No,230,Accurate,Yes,No,
+Male,46,45-54,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Embarrassment,,Oppose,Very Likely,Stayed the same,FALSE,3,No,250,Too low,Yes,No,
+Female,52,45-54,Democrat,Moderate,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Hair,,Oppose,DK/REF,DK/REF,DK/REF,1,No,180,Too high,Yes,No,
+Male,48,45-54,Republican,Conservative,Graduate degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Leader,,Support,Not at all likely,Gone down,FALSE,3,No,250,Too low,No,Yes,DK/REF
+Female,77,65+,Democrat,Conservative,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Sick,,Oppose,Very Likely,Gone down,FALSE,3,No,225,Accurate,No,No,
+Female,25,25-34,Democrat,Liberal,College degree,,Latino,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Ignorance,,Oppose,Very Likely,Stayed the same,TRUE,999,No,200,Accurate,Yes,No,
+Female,46,45-54,Democrat,DK/REF,College degree,,Black,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Racist,,Oppose,Very Likely,Stayed the same,FALSE,3,No,320,Too low,Yes,No,
+Female,50,45-54,Independent,Moderate,Graduate degree,,White,,DK/REF,Pro-life,Mix of conservatives and liberals,President,,Oppose,Very Likely,Gone down,DK/REF,3,No,195,Accurate,Yes,No,
+Female,35,35-44,Independent,Conservative,College degree,,White,,Neither approve nor disapprove,Pro-life,Mix of conservatives and liberals,Loudmouth,,Oppose,Somewhat Likely,Gone up,FALSE,3,No,210,Accurate,Yes,No,
+Male,47,45-54,Republican,Conservative,Some college,,White,,Strongly Approve,Pro-life,Mostly Conservatives,He is our president.,,Support,Not at all likely,Gone down,TRUE,2,No,280,Accurate,No,Yes,No
+Female,76,65+,Independent,Moderate,High school or less,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Crazy,,Oppose,Very Likely,Gone up,TRUE,3,No,200,Accurate,Yes,No,
+Female,55,55-64,Democrat,Liberal,College degree,,White,,Strongly Disapprove,DK/REF,DK/REF,Bad,,Support,DK/REF,Gone up,DK/REF,3,No,170,DK/REF,DK/REF,No,
+Male,79,65+,Independent,Conservative,Some college,,White,,Strongly Approve,Pro-life,Mostly Conservatives,President,,Support,Somewhat Likely,Gone down,FALSE,3,Yes,235,Accurate,No,Yes,No
+Male,43,35-44,Independent,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mostly Liberals,Successful,,Support,Somewhat Likely,Gone down,FALSE,3,No,270,Too low,Yes,Yes,No
+Female,54,45-54,Independent,Conservative,High school or less,,White,,Somewhat Approve,Pro-Choice,Mix of conservatives and liberals,Wow,,Oppose,Somewhat Likely,Gone down,TRUE,3,No,200,Accurate,Yes,DK/REF,
+Female,29,25-34,Republican,Conservative,Graduate degree,,Other,American Indian,Strongly Approve,Pro-Choice,Mostly Conservatives,Making America great again,,Support,Not at all likely,Gone down,FALSE,3,No,275,DK/REF,DK/REF,Yes,DK/REF
+Female,52,45-54,Independent,Moderate,College degree,,White,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Crazy,,Oppose,Very Likely,Gone down,FALSE,3,No,240,Accurate,Yes,No,
+Male,53,45-54,Independent,Moderate,Some college,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,Assertive,,Support,Not at all likely,Gone down,TRUE,3,No,265,Too low,Yes,DK/REF,
+Female,50,45-54,Independent,Moderate,College degree,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,President,,Support,Not at all likely,Stayed the same,DK/REF,2,DK/REF,230,Accurate,No,Yes,Yes
+Female,33,25-34,Independent,Moderate,High school or less,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,,DK/REF,Support,Somewhat Likely,Stayed the same,TRUE,2,Yes,140,Accurate,Yes,No,
+Female,37,35-44,Democrat,Moderate,Graduate degree,,Asian,,Somewhat Disapprove,Pro-life,Mix of conservatives and liberals,Unfit,,Oppose,Very Likely,DK/REF,DK/REF,999,No,250,Accurate,Yes,No,
+Male,18,18-24,Democrat,Moderate,Some college,,Black,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Ridiculous,,Oppose,Somewhat Likely,Gone up,TRUE,3,No,230,Accurate,No,No,
+Male,52,45-54,Independent,Moderate,College degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,It would be Clinton. She is a crook.,,Support,DK/REF,Gone down,TRUE,3,No,239,Accurate,No,Yes,No
+Male,51,45-54,Independent,Moderate,High school or less,,White,,DK/REF,Pro-life,Mostly Liberals,Bad idea,,Oppose,Not at all likely,Stayed the same,FALSE,999,No,180,Too high,Yes,No,
+Male,50,45-54,Independent,Liberal,College degree,,DK/REF,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Liar,,Oppose,Very Likely,Gone down,TRUE,3,No,225,Accurate,Yes,DK/REF,
+Female,45,45-54,Democrat,Conservative,High school or less,,Black,,Somewhat Disapprove,Pro-life,DK/REF,No good,,Oppose,DK/REF,Stayed the same,FALSE,999,No,160,Accurate,Yes,No,
+Female,63,55-64,Republican,Moderate,Graduate degree,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,President,,Oppose,DK/REF,Gone down,DK/REF,2,No,250,Accurate,Yes,No,
+Female,74,65+,Republican,Conservative,College degree,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,Unusual,,DK/REF,Not at all likely,Gone down,DK/REF,3,No,200,Accurate,Yes,Yes,No
+Male,46,45-54,Independent,DK/REF,Graduate degree,,DK/REF,,Strongly Disapprove,Pro-life,Mostly Conservatives,Imbecile,,Oppose,Very Likely,Gone down,FALSE,3,No,250,Accurate,Yes,No,
+Female,53,45-54,Republican,Conservative,Graduate degree,,White,,Strongly Approve,Pro-life,Mostly Conservatives,President,,Support,DK/REF,Gone down,TRUE,3,No,999,DK/REF,DK/REF,DK/REF,
+Male,25,25-34,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Incompetent,,Oppose,Somewhat Likely,Gone up,TRUE,4,No,240,Accurate,Yes,No,
+Male,22,18-24,Independent,Moderate,Some college,,White,,Neither approve nor disapprove,Pro-life,Mix of conservatives and liberals,Funny,,Oppose,Somewhat Likely,Gone down,FALSE,2,No,230,Accurate,Yes,No,
+Male,80,65+,Republican,Moderate,High school or less,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,I think that he is doing the right thing.,,Support,Not at all likely,Gone up,DK/REF,3,No,999,DK/REF,Yes,Yes,No
+Male,49,45-54,DK/REF,Moderate,Graduate degree,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,Millionaire,,Support,Somewhat Likely,Gone down,DK/REF,3,No,225,Accurate,Yes,Yes,DK/REF
+Female,52,45-54,Democrat,Liberal,College degree,,Black,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Selfish,,Oppose,Very Likely,Gone down,FALSE,3,No,270,Too low,Yes,No,
+Male,35,35-44,Independent,Moderate,Some college,,DK/REF,,DK/REF,Pro-Choice,Mix of conservatives and liberals,,DK/REF,DK/REF,Somewhat Likely,Stayed the same,DK/REF,3,No,999,DK/REF,DK/REF,No,
+Male,74,65+,Independent,Liberal,Some college,,DK/REF,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Asshole,,Oppose,Very Likely,Stayed the same,FALSE,3,No,255,Too low,Yes,No,
+Male,58,55-64,Democrat,Conservative,High school or less,,Black,,Somewhat Disapprove,Pro-life,Mostly Conservatives,,DK/REF,Support,DK/REF,DK/REF,TRUE,2,DK/REF,662,Too low,DK/REF,No,
+Male,25,25-34,Independent,Liberal,College degree,,White,,Strongly Disapprove,DK/REF,Mix of conservatives and liberals,,DK/REF,Oppose,DK/REF,DK/REF,FALSE,3,No,270,Too low,Yes,No,
+Female,41,35-44,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Idiot,,Oppose,Very Likely,Stayed the same,FALSE,3,No,250,Too low,Yes,No,
+Male,51,45-54,Independent,Conservative,High school or less,,White,,DK/REF,DK/REF,Mostly Conservatives,President,,Oppose,DK/REF,Stayed the same,TRUE,2,No,180,Accurate,No,DK/REF,
+Female,63,55-64,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,Idiot,,Oppose,Very Likely,Stayed the same,FALSE,3,No,250,Too low,Yes,No,
+Male,72,65+,Independent,Liberal,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Idiot,,Oppose,Very Likely,Gone down,TRUE,3,No,235,Accurate,Yes,No,
+Male,74,65+,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Inept,,Oppose,Very Likely,Gone down,TRUE,3,No,260,Too low,Yes,No,
+Female,74,65+,Democrat,DK/REF,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Arrogantly stupid,,Oppose,Somewhat Likely,Stayed the same,TRUE,3,No,280,Too low,Yes,No,
+Female,67,65+,Independent,Liberal,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Crazy,,Oppose,Very Likely,Gone down,DK/REF,4,No,220,Accurate,Yes,No,
+Female,82,65+,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mostly Conservatives,President,,Support,Very Likely,DK/REF,DK/REF,4,No,265,Accurate,Yes,DK/REF,
+Female,96,65+,Republican,Conservative,High school or less,,White,,Somewhat Approve,Pro-life,Mostly Conservatives,Hardworking,,Support,Not at all likely,Gone up,DK/REF,3,No,160,Too high,Yes,Yes,DK/REF
+Male,82,65+,Independent,Moderate,Graduate degree,,White,,DK/REF,Pro-Choice,Mix of conservatives and liberals,,DK/REF,DK/REF,Very Likely,Stayed the same,FALSE,999,Yes,200,Accurate,Yes,DK/REF,
+Male,92,65+,DK/REF,Conservative,College degree,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,Nothing special,,DK/REF,DK/REF,DK/REF,DK/REF,5,DK/REF,999,DK/REF,Yes,Yes,No
+Male,61,55-64,Republican,Conservative,Graduate degree,,White,,Somewhat Approve,Pro-Choice,Mostly Liberals,New Yorker,,Support,Somewhat Likely,Gone down,TRUE,3,No,270,Too low,Yes,Yes,No
+Female,92,65+,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Wealthy,,DK/REF,Not at all likely,Gone down,TRUE,3,No,200,Accurate,Yes,Yes,Yes
+Female,77,65+,Democrat,Moderate,High school or less,,Black,,Strongly Disapprove,DK/REF,DK/REF,He seems to be a joker. He says many things.,,Oppose,Somewhat Likely,Stayed the same,DK/REF,3,No,270,Too low,Yes,No,
+Female,56,55-64,Republican,Moderate,High school or less,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Fights,,Support,Somewhat Likely,Gone down,FALSE,2,Yes,225,Accurate,No,Yes,No
+Female,75,65+,Republican,Conservative,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Volatile,,Oppose,Somewhat Likely,Stayed the same,FALSE,3,No,175,Too high,Yes,No,
+Female,78,65+,Republican,Moderate,High school or less,,White,,Neither approve nor disapprove,DK/REF,DK/REF,President,,Support,DK/REF,Gone up,DK/REF,3,No,240,Accurate,Yes,DK/REF,
+Female,86,65+,Republican,Conservative,College degree,,White,,Somewhat Approve,Pro-life,Mostly Conservatives,,DK/REF,Support,Somewhat Likely,Gone up,FALSE,3,No,200,Accurate,No,Yes,No
+Female,69,65+,Democrat,Liberal,High school or less,,Black,,Strongly Disapprove,DK/REF,Mostly Liberals,He is uncouth and not intelligent. He does not know what he is doing.,,Oppose,Very Likely,Gone down,DK/REF,3,No,235,DK/REF,DK/REF,No,
+Male,59,55-64,Independent,Moderate,High school or less,,White,,Somewhat Approve,Pro-life,Mostly Liberals,Texting,,Support,Very Likely,Stayed the same,TRUE,2,No,250,Accurate,Yes,No,
+Female,70,65+,Republican,Liberal,College degree,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Good President,,Support,DK/REF,Gone down,TRUE,3,No,225,Too high,DK/REF,Yes,Yes
+Female,52,45-54,Republican,Moderate,Graduate degree,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,Businessman,,Support,DK/REF,Gone down,DK/REF,3,No,220,Accurate,Yes,Yes,DK/REF
+Male,71,65+,Republican,Moderate,College degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Dedicated,,Support,Somewhat Likely,Gone up,DK/REF,2,Yes,999,DK/REF,Yes,Yes,No
+Male,60,55-64,Democrat,Moderate,High school or less,,White,,Somewhat Approve,Pro-life,Mostly Liberals,Try hard,,Oppose,Not at all likely,Gone down,TRUE,2,Yes,250,DK/REF,Yes,DK/REF,
+Female,67,65+,Republican,Conservative,High school or less,,White,,Strongly Disapprove,Pro-life,Mostly Conservatives,Rude,,Oppose,DK/REF,Gone up,TRUE,4,No,200,Accurate,Yes,No,
+Female,75,65+,Democrat,Moderate,College degree,,Black,,Strongly Disapprove,DK/REF,Mix of conservatives and liberals,A crook,,Oppose,Very Likely,Gone down,FALSE,3,No,275,DK/REF,No,No,
+Female,90,65+,Republican,Moderate,High school or less,,White,,Somewhat Approve,Pro-Choice,DK/REF,,DK/REF,DK/REF,Somewhat Likely,Stayed the same,DK/REF,2,No,999,Accurate,Yes,No,
+Male,85,65+,Republican,Moderate,Graduate degree,,White,,Strongly Approve,Pro-life,Mostly Liberals,Businessman,,Support,Somewhat Likely,Gone down,FALSE,2,No,190,Too high,Yes,Yes,DK/REF
+Male,70,65+,Independent,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Crazy,,Oppose,Somewhat Likely,Stayed the same,DK/REF,3,No,260,Accurate,Yes,No,
+Male,72,65+,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Outstanding job,,Support,Somewhat Likely,Gone down,DK/REF,2,No,999,Accurate,Yes,Yes,DK/REF
+Female,70,65+,Democrat,Moderate,High school or less,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Liar,,Oppose,Very Likely,Gone up,FALSE,3,No,250,Too low,Yes,No,
+Male,55,55-64,Republican,Conservative,DK/REF,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,,DK/REF,Support,Somewhat Likely,Gone down,TRUE,2,Yes,999,Accurate,No,Yes,No
+Female,67,65+,Independent,DK/REF,High school or less,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Asshole,,Oppose,Very Likely,Gone up,DK/REF,999,No,200,Accurate,Yes,No,
+Female,83,65+,Democrat,Moderate,High school or less,,White,,Neither approve nor disapprove,Pro-Choice,DK/REF,Okay,,DK/REF,Somewhat Likely,DK/REF,DK/REF,2,No,200,Accurate,DK/REF,DK/REF,
+Female,81,65+,Democrat,Moderate,High school or less,,White,,Strongly Disapprove,DK/REF,Mostly Conservatives,Trash,,Oppose,Very Likely,Stayed the same,DK/REF,999,No,200,Accurate,No,No,
+Female,71,65+,Democrat,DK/REF,High school or less,,White,,DK/REF,DK/REF,DK/REF,,DK/REF,Oppose,DK/REF,Stayed the same,DK/REF,999,DK/REF,999,Accurate,No,No,
+Female,67,65+,Independent,Moderate,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Ridiculous,,Oppose,Very Likely,Gone down,FALSE,3,No,235,Accurate,Yes,No,
+Female,56,55-64,Republican,Moderate,Some college,,White,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Gruff,,Support,Somewhat Likely,DK/REF,TRUE,3,No,180,Accurate,Yes,DK/REF,
+Female,95,65+,Republican,Conservative,College degree,,White,,Strongly Approve,DK/REF,Mix of conservatives and liberals,He is trying.,,Support,Not at all likely,Stayed the same,DK/REF,999,DK/REF,999,Too high,DK/REF,Yes,Yes
+Female,41,35-44,Independent,Moderate,Some college,,Latino,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,Uneducated,,Oppose,Very Likely,Stayed the same,TRUE,3,No,230,Accurate,No,No,
+Male,30,25-34,Democrat,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Impeached,,Oppose,Very Likely,DK/REF,FALSE,3,No,290,DK/REF,Yes,No,
+Female,44,35-44,Independent,Moderate,College degree,,White,,Somewhat Disapprove,Pro-life,Mostly Liberals,Arrogant,,Oppose,Somewhat Likely,DK/REF,DK/REF,2,No,275,Accurate,Yes,No,
+Female,60,55-64,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-Choice,Mostly Liberals,Bold,,Support,Not at all likely,Gone down,TRUE,3,No,200,DK/REF,Yes,Yes,Yes
+Male,24,18-24,Independent,Moderate,High school or less,,White,,Somewhat Disapprove,Pro-Choice,Mix of conservatives and liberals,Businessman,,Oppose,Somewhat Likely,Stayed the same,FALSE,3,No,239,Too low,Yes,Yes,No
+Male,75,65+,DK/REF,Liberal,High school or less,,White,,Strongly Disapprove,Pro-life,DK/REF,Assassinate,,Oppose,Somewhat Likely,Gone down,TRUE,999,No,225,Accurate,Yes,No,
+Female,81,65+,Independent,Moderate,Some college,,White,,Somewhat Approve,Pro-Choice,Mix of conservatives and liberals,He is trying to do a good job.,,Support,Not at all likely,Gone down,DK/REF,3,No,999,DK/REF,Yes,DK/REF,
+Female,40,35-44,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,,DK/REF,Oppose,Very Likely,Stayed the same,FALSE,999,No,999,DK/REF,Yes,No,
+Female,50,45-54,Independent,Moderate,High school or less,,White,,Strongly Approve,DK/REF,DK/REF,,DK/REF,DK/REF,DK/REF,Gone down,DK/REF,999,Yes,200,DK/REF,Yes,Yes,Yes
+Female,25,25-34,Democrat,Moderate,College degree,,Asian,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Loud,,Oppose,Not at all likely,Stayed the same,TRUE,1,No,215,Accurate,Yes,No,
+Female,39,35-44,Democrat,Moderate,College degree,,Latino,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Ignorant,,Oppose,Very Likely,Stayed the same,TRUE,3,No,220,Accurate,Yes,No,
+Male,87,65+,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,DK/REF,Mix of conservatives and liberals,Incompetent,,Oppose,Very Likely,Gone down,FALSE,3,No,236,Too low,Yes,No,
+Male,50,45-54,Republican,Moderate,Some college,,White,,Strongly Approve,DK/REF,Mix of conservatives and liberals,Dumbass,,Support,Very Likely,Gone up,TRUE,3,Yes,220,Accurate,Yes,Yes,No
+Female,84,65+,Independent,Moderate,College degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Incompetent,,Oppose,DK/REF,DK/REF,DK/REF,999,No,999,DK/REF,Yes,No,
+Male,45,45-54,Republican,Conservative,Some college,,White,,Somewhat Approve,Pro-Choice,DK/REF,,DK/REF,Support,Somewhat Likely,Stayed the same,DK/REF,999,No,230,Accurate,No,Yes,Yes
+Male,59,55-64,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Great,,Support,DK/REF,Gone down,DK/REF,2,No,240,Accurate,No,Yes,No
+Male,70,65+,Independent,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,He is ballsy. He is not influenced by anyone else's beliefs. He does what he feels is best for the United States.,,Support,Not at all likely,Gone down,FALSE,2,No,999,DK/REF,No,Yes,DK/REF
+Male,80,65+,Republican,Conservative,Graduate degree,,White,,Neither approve nor disapprove,Pro-life,Mix of conservatives and liberals,,DK/REF,Oppose,DK/REF,Gone down,DK/REF,999,Yes,180,DK/REF,Yes,No,
+Male,84,65+,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,He is out of his mind.,,Oppose,Somewhat Likely,Gone down,TRUE,3,No,220,Accurate,Yes,No,
+Male,63,55-64,Independent,Moderate,Some college,,White,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Inappropriate,,Oppose,Somewhat Likely,DK/REF,TRUE,3,No,230,Accurate,Yes,No,
+Female,81,65+,Independent,Conservative,Some college,,White,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,Idiot,,Oppose,Somewhat Likely,Stayed the same,TRUE,999,No,999,Accurate,Yes,No,
+Male,65,65+,Democrat,Moderate,Graduate degree,,White,,Somewhat Disapprove,Pro-Choice,Mix of conservatives and liberals,Help,,Oppose,Somewhat Likely,DK/REF,TRUE,3,No,270,Too low,Yes,No,
+Female,42,35-44,Democrat,Conservative,High school or less,,Black,,Strongly Approve,DK/REF,Mostly Liberals,Hair,,Oppose,Very Likely,Gone up,FALSE,999,Yes,290,Too high,No,DK/REF,
+Female,40,35-44,Independent,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Idiot,,Oppose,Somewhat Likely,Stayed the same,FALSE,3,No,250,Accurate,Yes,No,
+Female,80,65+,Democrat,Moderate,Some college,,White,,Somewhat Disapprove,Pro-life,Mix of conservatives and liberals,Arrogant,,Oppose,Very Likely,Gone down,FALSE,3,No,250,Accurate,Yes,No,
+Female,71,65+,Democrat,Moderate,Some college,,Black,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,He is a liar because he tells a lot of lies.,,Oppose,Very Likely,Stayed the same,TRUE,3,No,230,Too high,Yes,No,
+Female,63,55-64,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Unqualified,,Oppose,Very Likely,Gone down,FALSE,3,No,275,Too low,Yes,No,
+Male,64,55-64,Democrat,Liberal,Some college,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,,DK/REF,Oppose,Somewhat Likely,Gone up,FALSE,3,No,290,Too low,No,No,
+Male,62,55-64,Republican,Conservative,Some college,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,Success,,Support,DK/REF,Gone down,TRUE,999,No,230,Too high,DK/REF,Yes,No
+Male,83,65+,Independent,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Dilettante,,Oppose,Very Likely,Stayed the same,FALSE,3,No,200,Too low,Yes,No,
+Male,77,65+,Democrat,Moderate,College degree,,DK/REF,,Neither approve nor disapprove,Pro-life,Mostly Liberals,Idiot,,DK/REF,Very Likely,Stayed the same,DK/REF,999,No,250,Too low,Yes,No,
+Female,69,65+,Republican,Moderate,Graduate degree,,White,,Neither approve nor disapprove,Pro-Choice,Mostly Conservatives,Yuck,,Oppose,DK/REF,Gone up,TRUE,999,No,200,Accurate,Yes,No,
+Male,79,65+,DK/REF,Conservative,Graduate degree,,White,,Neither approve nor disapprove,Pro-life,Mix of conservatives and liberals,He is a Republican. I don't like Republicans nor Democrats.,,Support,Somewhat Likely,Gone down,FALSE,3,No,999,Too high,Yes,No,
+Female,63,55-64,Independent,Moderate,High school or less,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,President,,Support,Somewhat Likely,Stayed the same,DK/REF,999,No,250,Too high,Yes,Yes,Yes
+Other,58,55-64,DK/REF,DK/REF,Some college,,DK/REF,,Strongly Disapprove,Pro-life,Mostly Conservatives,A liar,,DK/REF,Very Likely,Gone down,DK/REF,5,No,230,Accurate,Yes,No,
+Male,58,55-64,Republican,Moderate,Some college,,White,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Unpresidential,,Oppose,Very Likely,Stayed the same,FALSE,999,No,260,Accurate,Yes,No,
+Female,69,65+,Independent,Conservative,College degree,,White,,Somewhat Disapprove,Pro-life,Mix of conservatives and liberals,Arrogant,,DK/REF,Very Likely,Gone down,TRUE,2,No,160,Too high,Yes,No,
+Female,56,55-64,Democrat,Moderate,Some college,,Black,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Incompetent,,Oppose,Very Likely,Stayed the same,TRUE,3,No,230,Accurate,Yes,No,
+Female,62,55-64,Democrat,Conservative,High school or less,,Black,,DK/REF,Pro-life,Mix of conservatives and liberals,He is a president in this country.,,DK/REF,DK/REF,Gone up,DK/REF,999,No,180,Accurate,No,No,
+Female,56,55-64,Independent,Conservative,High school or less,,White,,Somewhat Disapprove,Pro-life,Mostly Liberals,Idiot,,Oppose,Somewhat Likely,Gone up,TRUE,999,No,180,Accurate,Yes,No,
+Male,73,65+,Independent,Moderate,High school or less,,White,,Neither approve nor disapprove,Pro-life,Mostly Conservatives,Rich,,Support,Somewhat Likely,Stayed the same,DK/REF,3,No,260,Too low,Yes,DK/REF,
+Female,48,45-54,DK/REF,Liberal,High school or less,,White,,Somewhat Disapprove,Pro-Choice,DK/REF,Millionaire,,Support,Somewhat Likely,Gone down,DK/REF,999,No,240,Accurate,Yes,No,
+Female,73,65+,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mostly Conservatives,He is strong. He makes America stronger.,,Support,Not at all likely,Gone down,DK/REF,999,DK/REF,999,Too high,No,Yes,DK/REF
+Female,76,65+,Republican,Moderate,Some college,,White,,Somewhat Approve,Pro-Choice,Mix of conservatives and liberals,He needs a haircut.,,Oppose,Somewhat Likely,Gone down,DK/REF,3,No,200,Accurate,No,Yes,No
+Male,82,65+,Republican,Conservative,College degree,,White,,Somewhat Approve,Pro-life,Mostly Conservatives,Honest,,Support,Not at all likely,Gone down,DK/REF,3,No,999,Accurate,DK/REF,Yes,No
+Male,44,35-44,Democrat,Moderate,College degree,,White,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Liar,,Oppose,Very Likely,Stayed the same,TRUE,3,No,265,Too low,Yes,No,
+Male,55,55-64,Republican,Conservative,College degree,,White,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,idiot,,Oppose,Very Likely,Gone down,FALSE,3,No,260,Too low,Yes,No,
+Female,62,55-64,Independent,Moderate,Graduate degree,,White,,Somewhat Approve,Pro-life,Mix of conservatives and liberals,Freedom,,Support,Not at all likely,DK/REF,DK/REF,3,No,220,Accurate,Yes,Yes,DK/REF
+Female,29,25-34,Independent,Moderate,College degree,,Asian,,Strongly Disapprove,DK/REF,Mix of conservatives and liberals,ISIS,,Oppose,Very Likely,Stayed the same,DK/REF,3,No,200,Accurate,Yes,No,
+Female,40,35-44,Democrat,Moderate,Graduate degree,,Black,,Strongly Disapprove,Pro-life,Mostly Conservatives,crazy,,Oppose,Very Likely,Gone up,DK/REF,3,No,110,Accurate,No,No,
+Male,44,35-44,DK/REF,DK/REF,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Death,,Oppose,Very Likely,Gone down,DK/REF,5,No,180,Accurate,Yes,No,
+Female,43,35-44,Independent,Conservative,Some college,,White,,Somewhat Approve,Pro-life,Mostly Conservatives,trying hard,,Support,Somewhat Likely,Stayed the same,TRUE,999,No,999,Accurate,Yes,DK/REF,
+Male,19,18-24,Democrat,Moderate,High school or less,,White,,Strongly Disapprove,DK/REF,Mostly Liberals,buffoon,,Oppose,Very Likely,Stayed the same,TRUE,3,No,220,Accurate,Yes,No,
+Female,29,25-34,Democrat,Liberal,Graduate degree,,Black,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Mess,,Oppose,Very Likely,Stayed the same,FALSE,3,No,230,Accurate,No,No,
+Male,51,45-54,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,criminal,,Oppose,Somewhat Likely,Stayed the same,FALSE,3,No,215,Accurate,Yes,No,
+Female,80,65+,Republican,Moderate,College degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,"Hardworking, good person",,Support,Not at all likely,Gone down,DK/REF,2,Yes,999,Too high,DK/REF,Yes,DK/REF
+Female,52,45-54,Democrat,Moderate,Graduate degree,,Black,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Terrible,,Oppose,Very Likely,Stayed the same,FALSE,3,No,220,Too low,Yes,No,
+Male,59,55-64,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Impeach,,Oppose,Very Likely,Gone down,FALSE,999,No,230,Accurate,Yes,No,
+Female,73,65+,Democrat,Moderate,High school or less,,White,,Strongly Disapprove,Pro-Choice,DK/REF,Liar,,Oppose,Very Likely,Stayed the same,FALSE,2,No,225,Accurate,Yes,No,
+Male,33,25-34,Republican,Moderate,High school or less,,White,,Strongly Approve,Pro-life,Mostly Liberals,Strong leader,,Support,Not at all likely,Gone down,TRUE,2,Yes,210,Accurate,No,Yes,No
+Male,70,65+,Republican,Conservative,College degree,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Dynamic,,Support,Somewhat Likely,Gone up,TRUE,3,No,240,Accurate,Yes,Yes,No
+Female,30,25-34,Independent,Moderate,College degree,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,President of the US,,Support,DK/REF,Gone down,DK/REF,2,No,999,DK/REF,Yes,DK/REF,
+Female,43,35-44,Independent,Conservative,Graduate degree,,White,,DK/REF,Pro-Choice,Mix of conservatives and liberals,President,,Oppose,DK/REF,Stayed the same,DK/REF,999,No,999,DK/REF,Yes,DK/REF,
+Female,42,35-44,Democrat,Liberal,High school or less,,White,,Strongly Disapprove,Pro-Choice,DK/REF,,DK/REF,Oppose,Very Likely,DK/REF,DK/REF,999,No,250,Too low,Yes,No,
+Female,38,35-44,DK/REF,DK/REF,Some college,,White,,Neither approve nor disapprove,Pro-Choice,DK/REF,Jackass,,Oppose,Very Likely,DK/REF,DK/REF,2,No,230,DK/REF,Yes,No,
+Female,53,45-54,Democrat,Moderate,Some college,,White,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,Idiot,,Oppose,Very Likely,Stayed the same,TRUE,3,No,250,Too high,No,No,
+Female,65,65+,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Impeachment,,Oppose,Very Likely,Stayed the same,FALSE,3,No,275,Too low,Yes,No,
+Female,24,18-24,Democrat,Liberal,Some college,,Black,,Strongly Disapprove,Pro-life,Mostly Liberals,idiot,,Oppose,Somewhat Likely,DK/REF,TRUE,2,No,210,Too high,DK/REF,No,
+Female,57,55-64,Independent,Liberal,College degree,,White,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,,DK/REF,Oppose,Very Likely,Stayed the same,FALSE,3,No,265,Too low,Yes,No,
+Female,56,55-64,Independent,Moderate,College degree,,White,,Strongly Disapprove,Pro-life,Mix of conservatives and liberals,Unpresidential,,Oppose,Very Likely,Gone down,FALSE,3,No,275,Too low,Yes,No,
+Female,82,65+,Democrat,Moderate,College degree,,White,,Strongly Disapprove,DK/REF,DK/REF,He has a lot of prejudice.,,Oppose,Very Likely,DK/REF,TRUE,2,No,999,Accurate,DK/REF,No,
+Female,60,55-64,Independent,Conservative,High school or less,,White,,Somewhat Approve,DK/REF,DK/REF,Strong minded,,Support,DK/REF,DK/REF,DK/REF,999,DK/REF,999,DK/REF,DK/REF,DK/REF,
+Female,27,25-34,Democrat,Liberal,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,hate,,Oppose,Very Likely,Stayed the same,FALSE,3,No,205,Accurate,Yes,No,
+Female,18,18-24,Independent,Moderate,College degree,,DK/REF,,DK/REF,Pro-Choice,Mix of conservatives and liberals,President,,Oppose,DK/REF,DK/REF,DK/REF,999,Yes,999,Accurate,DK/REF,DK/REF,
+Female,65,65+,Democrat,Conservative,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Disgusting,,Oppose,Very Likely,Gone down,FALSE,2,No,250,Too low,DK/REF,No,
+Male,53,45-54,Independent,Liberal,Some college,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,incompetent,,Oppose,Somewhat Likely,Gone down,DK/REF,3,No,265,Too low,Yes,No,
+Male,50,45-54,Republican,Conservative,College degree,,Other,NATIVE AMERICAN,Strongly Approve,Pro-life,Mix of conservatives and liberals,Real,,Support,DK/REF,Gone up,FALSE,3,No,230,Accurate,Yes,Yes,DK/REF
+Female,49,45-54,Democrat,Liberal,Graduate degree,,Black,,Strongly Disapprove,Pro-Choice,Mostly Liberals,Incompetent and a criminal,,Oppose,Very Likely,Stayed the same,FALSE,3,No,300,Too low,Yes,No,
+Male,76,65+,Independent,Conservative,College degree,,White,,Strongly Approve,Pro-Choice,Mix of conservatives and liberals,Winner,,Support,Not at all likely,Gone up,FALSE,3,No,230,Accurate,No,Yes,DK/REF
+Female,38,35-44,Independent,DK/REF,High school or less,,DK/REF,,Neither approve nor disapprove,DK/REF,DK/REF,,DK/REF,DK/REF,DK/REF,Gone down,TRUE,2,DK/REF,185,DK/REF,DK/REF,No,
+Female,45,45-54,Independent,Conservative,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,idiot,,Oppose,Very Likely,DK/REF,FALSE,3,No,220,Accurate,Yes,No,
+Male,30,25-34,Democrat,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,DK/REF,Incompetent,,Oppose,Very Likely,Gone down,FALSE,3,No,239,Too low,Yes,No,
+Male,25,25-34,Independent,Conservative,College degree,,Asian,,Somewhat Disapprove,Pro-life,Mostly Liberals,Hope,,Oppose,Somewhat Likely,Stayed the same,TRUE,2,Yes,200,Accurate,Yes,No,
+Female,65,65+,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Smart,,Support,Somewhat Likely,Gone up,FALSE,2,No,240,Accurate,No,Yes,No
+Female,80,65+,Democrat,Moderate,High school or less,,White,,Somewhat Disapprove,Pro-life,Mostly Liberals,Nothing,,Oppose,Very Likely,Gone down,DK/REF,3,No,250,Too high,Yes,No,
+Female,65,65+,Republican,Moderate,Some college,,White,,Strongly Approve,Pro-Choice,Mostly Conservatives,Strong,,Support,DK/REF,Gone down,DK/REF,3,No,999,DK/REF,Yes,Yes,No
+Male,69,65+,Republican,Moderate,Graduate degree,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Competent,,Support,Not at all likely,Gone down,FALSE,3,No,235,Too high,No,Yes,DK/REF
+Female,65,65+,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mix of conservatives and liberals,Successful,,Support,DK/REF,Gone down,DK/REF,2,DK/REF,267,Accurate,Yes,DK/REF,
+Male,82,65+,Independent,Conservative,Graduate degree,,White,,Strongly Approve,Pro-life,Mostly Liberals,Action,,Support,Not at all likely,Stayed the same,DK/REF,3,No,999,Accurate,Yes,Yes,DK/REF
+Male,71,65+,Independent,DK/REF,College degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Traitor,,Oppose,Very Likely,Gone down,FALSE,3,No,280,Too low,Yes,No,
+Female,73,65+,DK/REF,Moderate,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,A male chauvinist,,Oppose,Very Likely,Gone up,FALSE,3,No,250,Accurate,Yes,No,
+Female,63,55-64,Independent,Liberal,Graduate degree,,White,,Strongly Disapprove,Pro-Choice,Mostly Conservatives,Asshole,,Oppose,Very Likely,Stayed the same,TRUE,3,No,250,Accurate,Yes,No,
+Male,76,65+,Democrat,Moderate,High school or less,,White,,DK/REF,DK/REF,Mostly Liberals,I don't like him.,,Oppose,Not at all likely,Gone down,TRUE,999,No,230,Accurate,No,No,
+Female,71,65+,Democrat,Liberal,High school or less,,White,,Strongly Disapprove,Pro-Choice,Mix of conservatives and liberals,Hideous,,Oppose,Very Likely,Stayed the same,TRUE,3,No,300,Too low,Yes,No,
+Male,75,65+,Democrat,Liberal,College degree,,White,,Neither approve nor disapprove,Pro-Choice,Mix of conservatives and liberals,,DK/REF,Oppose,Somewhat Likely,Stayed the same,DK/REF,3,No,250,Too low,Yes,DK/REF,
+Male,51,45-54,Independent,Moderate,Graduate degree,,White,,Strongly Disapprove,DK/REF,Mostly Conservatives,Stupid,,Oppose,Very Likely,Stayed the same,FALSE,3,No,250,Too low,No,No,
+Female,87,65+,Republican,Conservative,High school or less,,White,,Strongly Approve,Pro-life,Mostly Conservatives,Knowledgeable,,Support,DK/REF,Gone down,DK/REF,3,Yes,999,Too high,DK/REF,Yes,DK/REF

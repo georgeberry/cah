@@ -1,0 +1,802 @@
+Gender,Age,Age Range,"In politics today, do you consider yourself a Democrat, a Republican, or Independent?","Would you say you are liberal, conservative, or moderate?",What is your highest level of education?,Q5OTH1,What is your race?,Q6OTH1,Do you believe that Americans should be more inclusive of people with different backgrounds and perspectives?,Do you believe it is wrong to hold negative stereotypes about a group of people based on their beliefs?,Do you believe that men and women are equal in their talents and abilities?,"This past August, a man drove his car into a crowd of protestors at Charlottesville, killing one person and injuring nineteen others. Do you believe that Trump supporters are at least partly to blame for this act of violence?",Do you agree or disagree with the following statement: Liberals should make a greater effort to understand and respect Trump supporters.,And do you agree or disagree with this next statement: Liberal college students should be more welcoming of conservative speakers on campus.,"
+And do you agree or disagree with this next statement: Whenever most scientists agree on an issue, we should believe the scientists. ",Do you believe that conservative Republicans are less compassionate than most people?,Do you believe that women in positions of power are better able to feel empathy than men?,Do you believe that women are better at multi-tasking than men?,Do you believe that most Trump supporters are racist?,Do you believe that genetically modified foods are safe to eat?,Do you believe that Muslims are at least partly to blame for acts of terrorism committed in the name of Islam?,Do you believe that America would be better or worse if everyone became gay?
+Female,57,55-64,Strong Democrat,Moderate,High school or less,,White,,Yes,No,No,Yes,Agree,Disagree,Disagree,Yes,Yes,Yes,Yes,No,Yes,Worse
+Female,74,65+,Not very strong Democrat,Moderate,High school or less,,White,,Yes,No,No,No,Agree,Agree,Disagree,No,No,Yes,No,No,Yes,Worse
+Male,55,55-64,Not very strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,DON'T KNOW/REFUSED,Yes,Yes,No,Yes,DON'T KNOW/REFUSED
+Male,52,45-54,Strong Democrat,Moderate,Graduate degree,,Black,,Yes,No,Yes,Yes,Disagree,Agree,DON'T KNOW/REFUSED,Yes,Yes,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Worse
+Female,77,65+,Strong Democrat,Moderate,Graduate degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,No,Yes,Yes,No,No,No,Worse
+Male,68,65+,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,No,Yes,Yes,No,Worse
+Female,60,55-64,Strong Democrat,Moderate,High school or less,,White,,No,Yes,Yes,Yes,Disagree,Agree,Disagree,No,No,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Male,73,65+,Strong Democrat,Moderate,High school or less,,Black,,Yes,Yes,Yes,Yes,Agree,Agree,Disagree,DON'T KNOW/REFUSED,Yes,Yes,DON'T KNOW/REFUSED,No,Yes,DON'T KNOW/REFUSED
+Female,71,65+,Strong Democrat,Strong Liberal,Graduate degree,,DON'T KNOW/REFUSED,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,DON'T KNOW/REFUSED,No,Yes,DON'T KNOW/REFUSED
+Female,30,25-34,Strong Democrat,Not very strong Liberal,Graduate degree,,Black,,Yes,Yes,Yes,No,Disagree,DON'T KNOW/REFUSED,Disagree,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,No,DON'T KNOW/REFUSED
+Female,75,65+,Strong Democrat,Strong Liberal,High school or less,,White,,Yes,No,Yes,No,Agree,Agree,Agree,Yes,Yes,Yes,No,Yes,Yes,Worse
+Female,70,65+,Not very strong Democrat,Moderate,DON'T KNOW/REFUSED,,DON'T KNOW/REFUSED,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,DON'T KNOW/REFUSED,Disagree,No,No,Yes,No,No,No,DON'T KNOW/REFUSED
+Female,76,65+,Strong Democrat,Not very strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,71,65+,Strong Democrat,Moderate,Some college,,Latino,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,76,65+,Strong Democrat,Strong Liberal,High school or less,,White,,Yes,Yes,Yes,No,Disagree,Disagree,Disagree,No,No,Yes,DON'T KNOW/REFUSED,Yes,No,Worse
+Male,64,55-64,Strong Democrat,Moderate,Some college,,White,,Yes,No,No,Yes,Disagree,Agree,Disagree,Yes,No,No,Yes,Yes,Yes,Better
+Male,93,65+,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,Yes,Yes,Yes,No,Yes,No,Worse
+Male,88,65+,Strong Democrat,DON'T KNOW/REFUSED,High school or less,,White,,No,No,Yes,No,Disagree,Agree,Disagree,No,Yes,No,No,Yes,Yes,Better
+Male,78,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,No,Yes,Yes,Agree,Agree,Agree,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,87,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,No,Disagree,Disagree,Disagree,No,No,No,No,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,74,65+,Strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,No,Yes,Yes,No,No,No,Worse
+Female,69,65+,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,Worse
+Male,52,45-54,Not very strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,Yes,No,Yes,No,No,No,Worse
+Female,49,45-54,Not very strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Agree,Yes,Yes,Yes,Yes,No,Yes,Worse
+Male,64,55-64,Strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,No,Disagree,Agree,Agree,No,No,No,No,Yes,No,Worse
+Female,71,65+,Strong Democrat,Moderate,Some college,,DON'T KNOW/REFUSED,,Yes,No,No,Yes,Disagree,Agree,Disagree,Yes,Yes,No,Yes,No,No,Worse
+Female,89,65+,Not very strong Democrat,Not Very Strong Conservative,Graduate degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Disagree,Yes,No,No,No,DON'T KNOW/REFUSED,Yes,Worse
+Male,64,55-64,Strong Democrat,Moderate,College degree,,Black,,No,No,No,No,Disagree,Disagree,Disagree,Yes,Yes,Yes,Yes,No,No,Worse
+Male,66,65+,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,DON'T KNOW/REFUSED,No,Yes,No,Worse
+Female,62,55-64,Strong Democrat,Moderate,College degree,,White,,DON'T KNOW/REFUSED,No,Yes,Yes,Agree,Agree,Disagree,Yes,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Male,88,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,DON'T KNOW/REFUSED,Agree,Yes,Yes,No,Yes,No,Yes,Worse
+Female,73,65+,Strong Democrat,Not very strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,No,No,No,DON'T KNOW/REFUSED
+Male,76,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,No,Yes,Worse
+Male,55,55-64,Not very strong Democrat,Not Very Strong Conservative,College degree,,White,,No,Yes,Yes,No,Disagree,Agree,Agree,Yes,No,Yes,Yes,No,No,Worse
+Male,81,65+,Strong Democrat,Moderate,College degree,,White,,No,Yes,Yes,DON'T KNOW/REFUSED,Disagree,Disagree,Agree,Yes,No,No,No,Yes,Yes,Worse
+Male,75,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,No,Worse
+Male,74,65+,Strong Democrat,Not very strong Liberal,Some college,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,No,No,Yes,Yes,No,Yes,Worse
+Male,35,35-44,Not very strong Democrat,Not very strong Liberal,College degree,,White,,No,No,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,57,55-64,Strong Democrat,DON'T KNOW/REFUSED,College degree,,Black,,DON'T KNOW/REFUSED,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,No,No,No,Yes,Worse
+Female,67,65+,Strong Democrat,DON'T KNOW/REFUSED,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,DON'T KNOW/REFUSED,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,73,65+,Strong Democrat,Moderate,High school or less,,White,,Yes,No,Yes,No,Agree,Agree,Agree,No,No,Yes,No,No,No,DON'T KNOW/REFUSED
+Female,79,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,Yes,No,Yes,No,Yes,No,Worse
+Male,51,45-54,Strong Democrat,Not very strong Liberal,Graduate degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Disagree,Disagree,Yes,No,Yes,Yes,Yes,No,Better
+Female,76,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,DON'T KNOW/REFUSED,Agree,Yes,Yes,Yes,Yes,Yes,No,DON'T KNOW/REFUSED
+Male,53,45-54,Not very strong Democrat,Strong Liberal,Graduate degree,,Black,,Yes,Yes,Yes,No,Agree,Agree,Agree,Yes,No,No,Yes,No,Yes,DON'T KNOW/REFUSED
+Male,75,65+,Strong Democrat,Moderate,High school or less,,Black,,No,No,No,Yes,Disagree,Disagree,Agree,Yes,No,No,Yes,Yes,No,Worse
+Female,75,65+,Strong Democrat,Strong Conservative,High school or less,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Disagree,DON'T KNOW/REFUSED,No,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,64,55-64,Strong Democrat,Strong Liberal,High school or less,,White,,No,No,Yes,No,Disagree,Disagree,Disagree,Yes,Yes,Yes,No,Yes,No,Worse
+Female,42,35-44,Strong Democrat,Moderate,Graduate degree,,Black,,No,Yes,No,Yes,Disagree,Disagree,Disagree,Yes,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,Worse
+Female,34,25-34,Strong Democrat,Moderate,High school or less,,Black,,Yes,Yes,No,DON'T KNOW/REFUSED,Disagree,DON'T KNOW/REFUSED,Disagree,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,64,55-64,Not very strong Democrat,Strong Conservative,Some college,,White,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,No,No,No,No,No,Yes,Worse
+Male,60,55-64,Strong Democrat,Moderate,Graduate degree,,Black,,Yes,No,Yes,Yes,Agree,Disagree,Agree,Yes,Yes,Yes,Yes,Yes,No,Worse
+Female,70,65+,Not very strong Democrat,DON'T KNOW/REFUSED,Some college,,White,,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,No,Yes,Yes,No,Yes,No,DON'T KNOW/REFUSED
+Male,99,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,Agree,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,78,65+,Strong Democrat,Strong Liberal,High school or less,,White,,Yes,No,Yes,No,Disagree,Disagree,Disagree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Male,60,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,No,Yes,Yes,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,Yes,No,DON'T KNOW/REFUSED
+Female,81,65+,Strong Democrat,DON'T KNOW/REFUSED,High school or less,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,Yes,Yes,Yes,No,Yes,No,Worse
+Female,56,55-64,Strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,Yes,No,Yes,No,Yes,No,DON'T KNOW/REFUSED
+Female,69,65+,Strong Democrat,Not Very Strong Conservative,High school or less,,White,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,No,Yes,Yes,No,Yes,No,Worse
+Female,21,18-24,Strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Disagree,No,No,No,Yes,Yes,No,Better
+Male,60,55-64,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Disagree,Agree,Agree,Yes,Yes,No,No,No,Yes,Worse
+Female,63,55-64,Strong Democrat,Moderate,High school or less,,Black,,DON'T KNOW/REFUSED,Yes,No,Yes,Disagree,DON'T KNOW/REFUSED,Disagree,DON'T KNOW/REFUSED,Yes,Yes,Yes,No,No,Worse
+Female,54,45-54,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,DON'T KNOW/REFUSED,Agree,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,No,No,DON'T KNOW/REFUSED
+Male,67,65+,Strong Democrat,Strong Liberal,High school or less,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,No,Yes,Worse
+Female,75,65+,Strong Democrat,Not Very Strong Conservative,High school or less,,White,,No,Yes,Yes,No,Disagree,Agree,Agree,No,Yes,No,No,DON'T KNOW/REFUSED,No,Worse
+Female,70,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,No,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,Yes,Better
+Female,54,45-54,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,80,65+,Strong Democrat,Not very strong Liberal,College degree,,DON'T KNOW/REFUSED,,Yes,No,No,No,Agree,Agree,Agree,Yes,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,Worse
+Female,68,65+,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,No,Disagree,Disagree,Agree,No,No,No,No,No,No,DON'T KNOW/REFUSED
+Male,39,35-44,Strong Democrat,Strong Liberal,Graduate degree,,White,,No,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,No,Yes,Yes,No,Better
+Female,71,65+,Strong Democrat,Not Very Strong Conservative,High school or less,,Black,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,No,No,Yes,Yes,No,Better
+Female,79,65+,Not very strong Democrat,Moderate,High school or less,,White,,No,No,No,No,Agree,Agree,Disagree,No,Yes,Yes,Yes,No,No,Better
+Male,75,65+,Not very strong Democrat,Not very strong Liberal,High school or less,,Black,,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,Disagree,Disagree,Disagree,Yes,No,No,Yes,No,Yes,Worse
+Female,60,55-64,Not very strong Democrat,Moderate,Graduate degree,,White,,Yes,No,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,Yes,Worse
+Female,58,55-64,Strong Democrat,Not very strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,42,35-44,Not very strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,No,Disagree,Agree,Agree,Yes,Yes,Yes,No,No,Yes,DON'T KNOW/REFUSED
+Female,72,65+,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,DON'T KNOW/REFUSED,Agree,Yes,Yes,Yes,No,Yes,No,DON'T KNOW/REFUSED
+Female,61,55-64,Strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,No,Agree,Disagree,Agree,No,No,No,No,Yes,No,DON'T KNOW/REFUSED
+Female,76,65+,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Disagree,No,Yes,No,No,No,No,DON'T KNOW/REFUSED
+Female,81,65+,Not very strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,35,35-44,Strong Democrat,Not Very Strong Conservative,High school or less,,Black,,Yes,No,Yes,Yes,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,43,35-44,Strong Democrat,Moderate,High school or less,,Black,,Yes,No,Yes,Yes,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,Yes,Worse
+Female,45,45-54,Strong Democrat,Moderate,High school or less,,White,,Yes,No,Yes,No,Disagree,Agree,Agree,No,Yes,Yes,Yes,No,No,Worse
+Female,70,65+,Strong Democrat,DON'T KNOW/REFUSED,Some college,,Black,,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,95,65+,Not very strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Disagree,Yes,Yes,Yes,No,Yes,Yes,Worse
+Male,60,55-64,Not very strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,No,No,No,No,DON'T KNOW/REFUSED
+Male,71,65+,Not very strong Democrat,Moderate,High school or less,,White,,Yes,No,No,No,Agree,Agree,Disagree,Yes,Yes,Yes,No,No,Yes,Worse
+Female,35,35-44,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,No,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Male,45,45-54,Strong Democrat,Moderate,Graduate degree,,White,,No,Yes,No,Yes,Agree,Disagree,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,Yes,Yes,Worse
+Male,64,55-64,Strong Democrat,Moderate,High school or less,,White,,Yes,No,Yes,No,Disagree,Disagree,Disagree,No,No,No,No,Yes,No,DON'T KNOW/REFUSED
+Male,38,35-44,Strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,No,Agree,Disagree,Agree,Yes,No,No,No,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,30,25-34,Not very strong Democrat,DON'T KNOW/REFUSED,Some college,,Latino,,Yes,Yes,No,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,50,45-54,Strong Democrat,Strong Liberal,High school or less,,White,,Yes,Yes,Yes,No,Agree,Agree,Disagree,Yes,Yes,Yes,No,No,No,DON'T KNOW/REFUSED
+Male,50,45-54,Strong Democrat,Strong Liberal,College degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,No,Yes,No,Yes,Worse
+Female,38,35-44,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,Yes,Yes,No,Yes,Yes,No,Worse
+Female,49,45-54,Not very strong Democrat,Not Very Strong Conservative,High school or less,,Black,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,No,Yes,No,No,Yes,No,Worse
+Male,32,25-34,Not very strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,No,Yes,No,Yes,Yes,DON'T KNOW/REFUSED
+Male,80,65+,Strong Democrat,Moderate,High school or less,,Black,,Yes,No,Yes,Yes,Agree,Agree,Agree,No,Yes,Yes,No,Yes,Yes,Better
+Female,63,55-64,Strong Democrat,Strong Conservative,High school or less,,Black,,No,No,Yes,No,Disagree,Agree,Disagree,No,Yes,Yes,Yes,No,No,Worse
+Female,39,35-44,Strong Democrat,Not very strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,Yes,Yes,No,No,No,Worse
+Female,44,35-44,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,Yes,DON'T KNOW/REFUSED
+Female,25,25-34,Strong Democrat,Moderate,High school or less,,Black,,Yes,Yes,Yes,No,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,Yes,Worse
+Male,48,45-54,Strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,No,No,Yes,No,Worse
+Male,69,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,DON'T KNOW/REFUSED,No,Yes,Yes,Worse
+Female,64,55-64,Strong Democrat,Strong Liberal,High school or less,,White,,Yes,No,Yes,Yes,DON'T KNOW/REFUSED,Disagree,DON'T KNOW/REFUSED,No,Yes,No,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Male,41,35-44,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,DON'T KNOW/REFUSED,No,No,Yes,Worse
+Male,46,45-54,Strong Democrat,Moderate,College degree,,Latino,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,No,Yes,No,Yes,Yes,Worse
+Female,60,55-64,Strong Democrat,Strong Conservative,Graduate degree,,DON'T KNOW/REFUSED,,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Disagree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,42,35-44,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,DON'T KNOW/REFUSED,Agree,No,No,Yes,No,No,No,DON'T KNOW/REFUSED
+Female,69,65+,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,No,No,Disagree,Agree,Agree,Yes,No,No,Yes,No,No,DON'T KNOW/REFUSED
+Female,61,55-64,Strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,Yes,Worse
+Female,21,18-24,Not very strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,No,Yes,No,No,No,Worse
+Female,54,45-54,Strong Democrat,Moderate,Some college,,Other,Native American,Yes,Yes,Yes,No,Disagree,Disagree,Disagree,Yes,No,No,No,No,No,Worse
+Female,28,25-34,Strong Democrat,Moderate,College degree,,Black,,Yes,No,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,No,Better
+Female,38,35-44,Strong Democrat,Strong Liberal,College degree,,DON'T KNOW/REFUSED,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,Better
+Male,49,45-54,Strong Democrat,Strong Liberal,College degree,,DON'T KNOW/REFUSED,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,No,No,Yes,Yes,No,Worse
+Female,45,45-54,Strong Democrat,Strong Liberal,Graduate degree,,Asian,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,Better
+Male,45,45-54,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,Yes,Yes,No,Yes,Yes,No,Worse
+Female,57,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,No,Yes,No,Agree,Agree,Agree,No,No,Yes,No,DON'T KNOW/REFUSED,Yes,Worse
+Female,62,55-64,Not very strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,No,Yes,Yes,Yes,No,Worse
+Male,56,55-64,Strong Democrat,Not Very Strong Conservative,High school or less,,White,,Yes,No,Yes,No,Agree,Disagree,Agree,No,Yes,No,No,Yes,Yes,Better
+Other,75,65+,Not very strong Democrat,Not Very Strong Conservative,High school or less,,Black,,No,No,No,No,Agree,Agree,Disagree,No,No,No,No,No,No,Worse
+Female,59,55-64,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,DON'T KNOW/REFUSED,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,43,35-44,Not very strong Democrat,Not Very Strong Conservative,High school or less,,Black,,Yes,Yes,Yes,No,Agree,Agree,Disagree,No,No,No,Yes,No,No,Worse
+Female,55,55-64,Strong Democrat,Strong Conservative,College degree,,Latino,,Yes,No,Yes,Yes,Disagree,Agree,Agree,No,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,Worse
+Female,63,55-64,Strong Democrat,Moderate,Graduate degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,No,No,Yes,No,Yes,Worse
+Male,45,45-54,Not very strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,No,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Male,33,25-34,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,No,No,No,Yes,No,Better
+Female,34,25-34,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,Yes,Yes,No,Yes,No,DON'T KNOW/REFUSED
+Male,38,35-44,Not very strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,No,Agree,Agree,Disagree,Yes,DON'T KNOW/REFUSED,No,No,No,No,Better
+Female,46,45-54,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,Agree,Yes,No,No,No,Yes,No,Better
+Male,55,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,No,No,Yes,Yes,No,DON'T KNOW/REFUSED
+Male,53,45-54,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,Yes,Yes,DON'T KNOW/REFUSED,Yes,Yes,Yes,Better
+Male,49,45-54,Strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,Yes,No,Yes,No,No,Worse
+Male,82,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,DON'T KNOW/REFUSED,Agree,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Male,60,55-64,Not very strong Democrat,Moderate,Some college,,White,,Yes,No,Yes,No,DON'T KNOW/REFUSED,Disagree,Disagree,Yes,No,Yes,No,Yes,No,DON'T KNOW/REFUSED
+Female,45,45-54,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,No,Worse
+Male,69,65+,Strong Democrat,Moderate,High school or less,,Black,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,Yes,No,No,Yes,No,No,Worse
+Male,64,55-64,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Yes,Yes,DON'T KNOW/REFUSED,Yes,No,No,DON'T KNOW/REFUSED
+Female,29,25-34,Strong Democrat,Strong Conservative,Some college,,Latino,,Yes,No,Yes,No,Disagree,Agree,Disagree,No,No,Yes,Yes,No,No,Better
+Male,62,55-64,Strong Democrat,Moderate,Some college,,Black,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,No,No,Yes,Worse
+Male,47,45-54,Strong Democrat,Not very strong Liberal,College degree,,White,,No,Yes,Yes,No,Disagree,Agree,Agree,Yes,No,No,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Worse
+Female,69,65+,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,55,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Male,60,55-64,Strong Democrat,Moderate,Some college,,White,,No,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,No,Yes,No,Yes,Worse
+Male,53,45-54,Not very strong Democrat,Not very strong Liberal,College degree,,Black,,Yes,No,Yes,No,Agree,Disagree,Disagree,Yes,No,No,Yes,No,Yes,Worse
+Female,60,55-64,Strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,DON'T KNOW/REFUSED,No,No,No,No,Worse
+Female,65,65+,Strong Democrat,Not very strong Liberal,High school or less,,Black,,Yes,Yes,No,Yes,Disagree,Disagree,Disagree,No,Yes,Yes,No,No,Yes,Worse
+Male,50,45-54,Not very strong Democrat,Moderate,Graduate degree,,Asian,,No,Yes,Yes,Yes,Agree,Agree,Disagree,No,No,No,Yes,No,Yes,DON'T KNOW/REFUSED
+Female,30,25-34,Not very strong Democrat,Not very strong Liberal,Graduate degree,,DON'T KNOW/REFUSED,,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Yes,Yes,Yes,Yes,Yes,No,Worse
+Female,20,18-24,Not very strong Democrat,Not very strong Liberal,Some college,,Latino,,Yes,Yes,Yes,Yes,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,No,Yes,Better
+Female,50,45-54,Strong Democrat,Strong Conservative,High school or less,,White,,No,Yes,Yes,Yes,Agree,Agree,Agree,No,Yes,Yes,No,No,Yes,Worse
+Male,45,45-54,Not very strong Democrat,Moderate,Graduate degree,,Asian,,DON'T KNOW/REFUSED,Yes,Yes,No,Agree,Agree,Agree,Yes,No,Yes,Yes,Yes,No,Better
+Male,56,55-64,Strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Disagree,Agree,Yes,No,Yes,No,Yes,No,DON'T KNOW/REFUSED
+Female,75,65+,Strong Democrat,Strong Liberal,Some college,,Other,Native American,Yes,Yes,Yes,No,Disagree,Agree,DON'T KNOW/REFUSED,No,No,Yes,No,No,Yes,Worse
+Male,80,65+,Not very strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,No,Yes,Disagree,Agree,Disagree,Yes,No,No,Yes,No,No,Worse
+Female,45,45-54,Not very strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,No,Yes,No,Worse
+Female,40,35-44,Strong Democrat,Moderate,Graduate degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,No,Yes,Yes,No,Yes,Worse
+Male,37,35-44,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,DON'T KNOW/REFUSED,No,Yes,No,No,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,54,45-54,Strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,No,Yes,Yes,No,Worse
+Male,51,45-54,Strong Democrat,Moderate,High school or less,,White,,No,Yes,Yes,Yes,Disagree,Agree,DON'T KNOW/REFUSED,Yes,No,No,No,No,No,DON'T KNOW/REFUSED
+Female,69,65+,Not very strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,No,Yes,No,Worse
+Female,53,45-54,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,DON'T KNOW/REFUSED,No,Yes,Yes,Yes,No,DON'T KNOW/REFUSED
+Female,66,65+,Not very strong Democrat,Not very strong Liberal,College degree,,White,,No,Yes,Yes,DON'T KNOW/REFUSED,Disagree,Disagree,Disagree,No,No,Yes,No,No,No,DON'T KNOW/REFUSED
+Female,53,45-54,Strong Democrat,DON'T KNOW/REFUSED,High school or less,,Black,,No,No,Yes,Yes,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,Yes,Worse
+Female,72,65+,Strong Democrat,Not very strong Liberal,Some college,,Black,,Yes,No,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,60,55-64,Strong Democrat,Moderate,High school or less,,White,,DON'T KNOW/REFUSED,Yes,Yes,No,Agree,DON'T KNOW/REFUSED,Disagree,No,Yes,Yes,No,No,DON'T KNOW/REFUSED,Worse
+Female,55,55-64,Strong Democrat,Strong Conservative,College degree,,Other,Jamaican,Yes,No,Yes,Yes,Disagree,Agree,Disagree,No,Yes,Yes,Yes,No,No,Worse
+Female,65,65+,Strong Democrat,Not very strong Liberal,College degree,,White,,Yes,No,Yes,Yes,Agree,Agree,Agree,Yes,No,Yes,Yes,Yes,No,Worse
+Female,81,65+,Strong Democrat,Moderate,High school or less,,White,,No,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,Worse
+Male,58,55-64,Strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,No,Disagree,Agree,Agree,No,No,No,No,No,Yes,Worse
+Female,67,65+,Strong Democrat,Strong Conservative,High school or less,,White,,Yes,No,Yes,Yes,Disagree,Agree,Disagree,Yes,No,Yes,No,No,Yes,Worse
+Male,70,65+,Strong Democrat,Strong Conservative,High school or less,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,Yes,Yes,Yes,Yes,No,Yes,Better
+Male,65,65+,Strong Democrat,Not Very Strong Conservative,College degree,,White,,Yes,No,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,No,Worse
+Female,72,65+,Strong Democrat,Not Very Strong Conservative,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,81,65+,Strong Democrat,Not Very Strong Conservative,Graduate degree,,White,,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,Agree,Agree,No,Yes,Yes,Yes,Yes,Yes,Worse
+Female,67,65+,Strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,No,No,No,No,DON'T KNOW/REFUSED,No,Worse
+Female,70,65+,Strong Democrat,Moderate,Some college,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Disagree,No,No,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,56,55-64,Strong Democrat,Not very strong Liberal,College degree,,White,,Yes,Yes,Yes,No,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,57,55-64,Strong Democrat,Moderate,College degree,,Black,,No,Yes,Yes,Yes,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,No,Yes,Worse
+Female,83,65+,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Disagree,No,Yes,Yes,No,Yes,Yes,Worse
+Female,70,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,No,Yes,Yes,No,DON'T KNOW/REFUSED
+Male,55,55-64,Strong Democrat,Strong Conservative,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,No,No,Yes,Yes,DON'T KNOW/REFUSED
+Female,82,65+,Not very strong Democrat,Not Very Strong Conservative,High school or less,,Black,,Yes,Yes,Yes,No,Disagree,Disagree,Disagree,No,No,Yes,No,No,Yes,Better
+Male,54,45-54,Not very strong Democrat,Not Very Strong Conservative,College degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,No,No,No,No,Yes,Yes,DON'T KNOW/REFUSED
+Female,58,55-64,Strong Democrat,Moderate,College degree,,Latino,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,No,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,69,65+,Strong Democrat,Strong Liberal,High school or less,,Black,,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,Agree,Yes,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,Worse
+DON'T KNOW/REFUSED,84,65+,Strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,Yes,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,Worse
+Female,57,55-64,Not very strong Democrat,Strong Liberal,Some college,,White,,No,Yes,Yes,DON'T KNOW/REFUSED,Disagree,Disagree,Agree,Yes,Yes,No,No,No,No,Better
+Female,42,35-44,Strong Democrat,Moderate,College degree,,Black,,No,No,Yes,Yes,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,87,65+,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Agree,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,40,35-44,Strong Democrat,Moderate,Some college,,White,,Yes,Yes,No,No,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,Yes,No,Worse
+Female,59,55-64,Strong Democrat,DON'T KNOW/REFUSED,College degree,,Black,,No,Yes,Yes,Yes,Disagree,Agree,Disagree,No,Yes,Yes,No,Yes,No,Worse
+Female,49,45-54,Strong Democrat,DON'T KNOW/REFUSED,Graduate degree,,DON'T KNOW/REFUSED,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Male,78,65+,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,No,No,Yes,Worse
+Female,75,65+,Not very strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,No,Yes,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,55,55-64,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,DON'T KNOW/REFUSED,No,No,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,53,45-54,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,No,Yes,DON'T KNOW/REFUSED
+Male,68,65+,Strong Democrat,Moderate,Some college,,White,,No,No,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,No,Yes,No,Worse
+Male,73,65+,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Agree,Yes,No,No,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Male,61,55-64,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Disagree,Yes,Yes,Yes,Yes,No,No,Better
+Male,63,55-64,Strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,No,Disagree,Agree,Agree,Yes,No,Yes,No,Yes,Yes,Worse
+Male,80,65+,Not very strong Democrat,Moderate,College degree,,White,,Yes,No,Yes,No,Agree,Agree,Agree,No,No,No,No,Yes,Yes,Worse
+Male,66,65+,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,No,Better
+Male,64,55-64,Not very strong Democrat,Strong Conservative,Some college,,White,,Yes,Yes,Yes,No,Agree,Disagree,Disagree,No,DON'T KNOW/REFUSED,No,No,No,Yes,Worse
+Female,80,65+,Strong Democrat,Not Very Strong Conservative,Graduate degree,,White,,Yes,No,Yes,Yes,Disagree,Disagree,Disagree,No,No,Yes,No,No,No,Worse
+Male,72,65+,Strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,No,Agree,DON'T KNOW/REFUSED,Disagree,Yes,No,DON'T KNOW/REFUSED,No,Yes,No,DON'T KNOW/REFUSED
+Male,76,65+,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,Agree,Disagree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,63,55-64,Strong Democrat,DON'T KNOW/REFUSED,High school or less,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Disagree,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,82,65+,Strong Democrat,Not very strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,Yes,Worse
+Female,85,65+,Strong Democrat,Strong Conservative,High school or less,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Disagree,Disagree,Disagree,No,No,DON'T KNOW/REFUSED,No,Yes,DON'T KNOW/REFUSED,Worse
+Female,80,65+,Strong Democrat,Moderate,High school or less,,Black,,No,No,Yes,Yes,Agree,Agree,Agree,DON'T KNOW/REFUSED,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Male,83,65+,Not very strong Democrat,Not Very Strong Conservative,High school or less,,White,,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,No,DON'T KNOW/REFUSED,Disagree,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,No,No,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Male,60,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Disagree,Yes,Yes,DON'T KNOW/REFUSED,Yes,Yes,Yes,DON'T KNOW/REFUSED
+Female,81,65+,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,74,65+,Strong Democrat,Moderate,Some college,,Black,,Yes,Yes,Yes,Yes,Disagree,Disagree,Disagree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,43,35-44,Strong Democrat,Not Very Strong Conservative,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,No,No,Yes,Yes,No,No,Worse
+Female,83,65+,Strong Democrat,Strong Liberal,Some college,,White,,Yes,No,Yes,No,Agree,Agree,Agree,Yes,Yes,No,DON'T KNOW/REFUSED,Yes,No,Worse
+Female,83,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,No,Yes,Agree,Agree,Disagree,Yes,Yes,Yes,No,No,Yes,Worse
+Male,66,65+,Strong Democrat,Moderate,High school or less,,Latino,,Yes,No,No,Yes,Disagree,Disagree,Disagree,No,Yes,Yes,Yes,No,Yes,Worse
+Female,75,65+,Strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,No,Yes,No,Worse
+Female,65,65+,Not very strong Democrat,Moderate,Graduate degree,,Black,,Yes,No,Yes,No,Disagree,Disagree,Disagree,Yes,Yes,Yes,Yes,Yes,No,Worse
+Female,73,65+,Strong Democrat,Not very strong Liberal,Some college,,White,,Yes,Yes,Yes,No,Disagree,Agree,Agree,No,Yes,No,Yes,No,No,Worse
+Male,81,65+,Not very strong Democrat,Not Very Strong Conservative,High school or less,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,DON'T KNOW/REFUSED,No,No,Better
+Female,69,65+,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,No,Agree,DON'T KNOW/REFUSED,Agree,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,No,DON'T KNOW/REFUSED
+Female,90,65+,Strong Democrat,Strong Conservative,High school or less,,White,,Yes,No,Yes,No,Agree,Agree,Agree,No,Yes,Yes,No,No,No,Worse
+Female,69,65+,Not very strong Democrat,Strong Conservative,High school or less,,White,,Yes,No,Yes,No,Disagree,Agree,Disagree,No,No,Yes,No,Yes,No,Worse
+Female,68,65+,Strong Democrat,Moderate,College degree,,White,,Yes,No,Yes,No,Disagree,Agree,Agree,No,No,No,No,No,No,Worse
+Female,69,65+,Strong Democrat,Strong Conservative,College degree,,White,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,No,Yes,Yes,No,No,No,Worse
+Female,36,35-44,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,No,No,No,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,65,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,No,Yes,Yes,No,No,Worse
+Female,59,55-64,Strong Democrat,Not very strong Liberal,Some college,,Black,,Yes,Yes,No,No,Disagree,Agree,Disagree,No,No,Yes,Yes,No,No,Worse
+Female,64,55-64,Strong Democrat,Moderate,Graduate degree,,Black,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,No,No,No,Worse
+Male,42,35-44,Not very strong Democrat,Moderate,Some college,,Latino,,Yes,No,Yes,No,Disagree,Disagree,Agree,Yes,No,No,Yes,No,No,Better
+Female,66,65+,Strong Democrat,Strong Liberal,College degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,No,No,Better
+Female,60,55-64,Strong Democrat,Not very strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,Yes,Worse
+Male,60,55-64,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,No,No,Yes,Yes,DON'T KNOW/REFUSED
+Male,69,65+,Not very strong Democrat,Moderate,Some college,,Black,,Yes,No,Yes,No,Agree,Agree,Agree,Yes,No,No,No,No,No,Worse
+Female,33,25-34,Not very strong Democrat,Moderate,College degree,,White,,Yes,Yes,No,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,No,Better
+Female,20,18-24,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,No,No,No,Yes,No,No,Better
+Female,42,35-44,Strong Democrat,Strong Liberal,Some college,,Black,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,No,No,Yes,No,No,No,Worse
+Male,38,35-44,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,No,No,No,Yes,Yes,Better
+Female,32,25-34,Not very strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,No,No,No,No,Yes,No,Worse
+Female,35,35-44,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,No,Yes,Yes,No,DON'T KNOW/REFUSED
+Female,24,18-24,Not very strong Democrat,Not very strong Liberal,High school or less,,White,,No,Yes,Yes,No,Disagree,Agree,Agree,Yes,Yes,Yes,No,No,No,Better
+Female,66,65+,Not very strong Democrat,Moderate,Graduate degree,,Black,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,No,Yes,Yes,No,Yes,Worse
+Female,49,45-54,Strong Democrat,Not Very Strong Conservative,Some college,,Black,,Yes,Yes,No,Yes,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,No,Yes,Worse
+Female,64,55-64,Strong Democrat,Not very strong Liberal,Some college,,DON'T KNOW/REFUSED,,Yes,No,Yes,No,Disagree,Disagree,Disagree,No,No,Yes,Yes,No,No,Worse
+Female,46,45-54,Strong Democrat,Moderate,College degree,,Black,,Yes,Yes,No,No,Disagree,Agree,Disagree,No,No,No,No,No,Yes,Worse
+Female,35,35-44,Strong Democrat,Strong Liberal,Graduate degree,,Latino,,Yes,Yes,Yes,No,Agree,Agree,Disagree,No,No,Yes,No,No,No,DON'T KNOW/REFUSED
+Female,72,65+,Strong Democrat,Not Very Strong Conservative,Some college,,Black,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,Yes,Yes,Yes,No,No,No,DON'T KNOW/REFUSED
+Male,66,65+,Not very strong Democrat,Not Very Strong Conservative,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,No,Yes,Yes,No,No,Worse
+Male,47,45-54,Strong Democrat,Moderate,College degree,,White,,Yes,No,Yes,Yes,Agree,Agree,Disagree,No,No,Yes,No,No,No,Better
+Female,68,65+,Strong Democrat,Strong Liberal,Graduate degree,,DON'T KNOW/REFUSED,,Yes,Yes,Yes,Yes,Disagree,DON'T KNOW/REFUSED,Agree,Yes,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,No,No,DON'T KNOW/REFUSED
+Female,45,45-54,Strong Democrat,Not very strong Liberal,High school or less,,Black,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,Better
+Male,44,35-44,Strong Democrat,Moderate,College degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Disagree,Yes,No,Yes,Yes,No,Yes,Worse
+Male,54,45-54,Not very strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,No,Disagree,Agree,Agree,Yes,No,Yes,No,Yes,No,DON'T KNOW/REFUSED
+Female,60,55-64,Strong Democrat,Strong Liberal,High school or less,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,Yes,Worse
+Male,58,55-64,Strong Democrat,Strong Liberal,Some college,,Asian,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Agree,Yes,No,Yes,DON'T KNOW/REFUSED,No,Yes,Worse
+Male,32,25-34,Strong Democrat,Not very strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,Yes,No,No,Yes,Yes,DON'T KNOW/REFUSED
+Male,46,45-54,Strong Democrat,Not very strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,No,No,No,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED
+Male,70,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,No,Worse
+Male,27,25-34,Not very strong Democrat,Moderate,College degree,,Black,,Yes,Yes,Yes,No,Agree,Agree,Agree,No,No,No,No,Yes,No,Worse
+Female,50,45-54,Strong Democrat,Moderate,Some college,,Black,,No,No,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Disagree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,64,55-64,Strong Democrat,Moderate,High school or less,,White,,No,No,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,Better
+Female,58,55-64,Strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,No,Yes,Yes,No,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Other,46,45-54,Strong Democrat,Strong Liberal,High school or less,,DON'T KNOW/REFUSED,,No,Yes,No,DON'T KNOW/REFUSED,Disagree,Disagree,Disagree,Yes,Yes,Yes,Yes,No,No,Better
+Female,40,35-44,Strong Democrat,DON'T KNOW/REFUSED,Some college,,White,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,Yes,No,No,Yes,Yes,No,Better
+Female,69,65+,Not very strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,No,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,Worse
+Male,71,65+,Strong Democrat,Strong Liberal,High school or less,,Black,,Yes,Yes,Yes,No,Disagree,Disagree,Agree,Yes,Yes,No,Yes,No,No,Worse
+Female,40,35-44,Strong Democrat,Strong Liberal,Some college,,Latino,,Yes,Yes,Yes,Yes,Agree,Agree,Disagree,Yes,No,Yes,Yes,No,No,Worse
+Female,60,55-64,Strong Democrat,Not very strong Liberal,Some college,,Black,,Yes,Yes,No,No,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,No,Yes,Worse
+Female,51,45-54,Strong Democrat,Not very strong Liberal,College degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Agree,DON'T KNOW/REFUSED,Yes,Yes,DON'T KNOW/REFUSED,No,No,Worse
+Male,66,65+,Not very strong Democrat,Not Very Strong Conservative,High school or less,,White,,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Disagree,DON'T KNOW/REFUSED,No,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Male,68,65+,Not very strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,No,Disagree,Agree,Agree,Yes,Yes,No,Yes,Yes,No,Worse
+Female,64,55-64,Strong Democrat,Moderate,Some college,,Black,,Yes,Yes,Yes,No,Agree,Disagree,Disagree,No,Yes,Yes,Yes,No,No,Worse
+Female,23,18-24,Strong Democrat,Not very strong Liberal,High school or less,,Black,,Yes,Yes,Yes,Yes,Disagree,Disagree,Disagree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,27,25-34,Strong Democrat,DON'T KNOW/REFUSED,Graduate degree,,Latino,,Yes,Yes,Yes,Yes,Disagree,Agree,Disagree,No,No,Yes,Yes,No,Yes,Better
+Female,63,55-64,Strong Democrat,Moderate,College degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,No,No,Yes,No,Yes,DON'T KNOW/REFUSED
+Female,84,65+,Strong Democrat,Moderate,Graduate degree,,White,,No,Yes,Yes,No,Disagree,Agree,Agree,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,70,65+,Not very strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,No,Disagree,DON'T KNOW/REFUSED,Disagree,No,No,No,No,No,No,Worse
+Female,55,55-64,Strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,Yes,Worse
+Female,74,65+,Not very strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,No,Yes,Yes,No,No,No,DON'T KNOW/REFUSED
+Male,38,35-44,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,Yes,No,No,Yes,Yes,No,Better
+Female,82,65+,Not very strong Democrat,Strong Conservative,High school or less,,Black,,Yes,No,Yes,DON'T KNOW/REFUSED,Agree,Agree,Agree,No,Yes,Yes,Yes,Yes,No,Worse
+Female,90,65+,Strong Democrat,Strong Conservative,High school or less,,White,,Yes,Yes,Yes,Yes,Agree,Agree,DON'T KNOW/REFUSED,Yes,Yes,Yes,No,Yes,No,Worse
+Female,73,65+,Not very strong Democrat,Not Very Strong Conservative,High school or less,,White,,Yes,DON'T KNOW/REFUSED,Yes,Yes,Disagree,Disagree,Agree,No,No,Yes,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,72,65+,Strong Democrat,Not very strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,DON'T KNOW/REFUSED,Yes,Yes,No,No,No,DON'T KNOW/REFUSED
+Male,51,45-54,Not very strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,No,No,Yes,No,Better
+Male,60,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,No,Yes,No,Yes,DON'T KNOW/REFUSED
+Male,77,65+,Strong Democrat,Moderate,High school or less,,Black,,Yes,Yes,Yes,No,Agree,Agree,Disagree,No,Yes,Yes,No,No,No,Worse
+Male,65,65+,Not very strong Democrat,Moderate,College degree,,Asian,,Yes,No,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,No,Yes,Worse
+Male,63,55-64,Strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,Yes,Yes,DON'T KNOW/REFUSED,No,No,No,DON'T KNOW/REFUSED
+Female,55,55-64,Strong Democrat,Strong Liberal,High school or less,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Disagree,Disagree,Agree,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,Yes,No,DON'T KNOW/REFUSED,Better
+Male,52,45-54,Strong Democrat,Strong Conservative,High school or less,,White,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,No,No,No,No,No,Yes,Worse
+Male,69,65+,Strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,Yes,Better
+Male,53,45-54,Strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,No,Yes,No,Yes,Yes,Worse
+Female,50,45-54,Not very strong Democrat,Not Very Strong Conservative,College degree,,Black,,Yes,Yes,Yes,No,Agree,Agree,Disagree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,56,55-64,Strong Democrat,Not very strong Liberal,High school or less,,Black,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,No,Yes,Yes,No,No,No,Worse
+Female,55,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,No,DON'T KNOW/REFUSED
+Female,40,35-44,Strong Democrat,Strong Liberal,College degree,,Black,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,No,Yes,No,No,No,No,Worse
+Female,59,55-64,Not very strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,Yes,Yes,Yes,No,No,Worse
+Male,77,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,No,Agree,DON'T KNOW/REFUSED,Agree,Yes,Yes,Yes,Yes,Yes,No,Better
+Female,80,65+,Not very strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Disagree,Yes,Yes,No,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Male,68,65+,Strong Democrat,DON'T KNOW/REFUSED,Graduate degree,,Asian,,Yes,DON'T KNOW/REFUSED,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,65,65+,Strong Democrat,Strong Liberal,Some college,,Latino,,Yes,Yes,Yes,No,Disagree,Disagree,Disagree,Yes,Yes,Yes,Yes,No,Yes,DON'T KNOW/REFUSED
+Female,91,65+,Strong Democrat,Moderate,College degree,,Black,,Yes,No,Yes,No,Disagree,Agree,Agree,Yes,No,Yes,Yes,Yes,Yes,Better
+Female,49,45-54,Not very strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,No,Yes,Yes,No,No,Yes,Worse
+Female,60,55-64,Not very strong Democrat,DON'T KNOW/REFUSED,High school or less,,White,,DON'T KNOW/REFUSED,No,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Disagree,DON'T KNOW/REFUSED,No,No,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,49,45-54,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,No,Yes,Agree,Agree,DON'T KNOW/REFUSED,Yes,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,20,18-24,Not very strong Democrat,Strong Liberal,Some college,,Asian,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,No,No,Yes,No,No,Better
+Female,64,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,Agree,Yes,No,Yes,No,Yes,Yes,Worse
+Other,30,25-34,Strong Democrat,Moderate,College degree,,Asian,,Yes,No,No,Yes,Agree,Disagree,Disagree,No,No,Yes,No,Yes,Yes,Worse
+Female,24,18-24,Not very strong Democrat,Strong Conservative,College degree,,Black,,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,Disagree,Yes,Yes,Yes,No,No,No,DON'T KNOW/REFUSED
+Female,40,35-44,Strong Democrat,Moderate,Graduate degree,,Other,Middle Eastern,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,80,65+,Strong Democrat,Not very strong Liberal,High school or less,,Latino,,No,No,Yes,No,Agree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,No,Worse
+Female,49,45-54,Strong Democrat,Moderate,College degree,,Other,Pacific Islander,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,No,DON'T KNOW/REFUSED
+Female,82,65+,Strong Democrat,Not very strong Liberal,Some college,,White,,Yes,No,Yes,DON'T KNOW/REFUSED,Disagree,Agree,Disagree,DON'T KNOW/REFUSED,No,Yes,DON'T KNOW/REFUSED,Yes,Yes,Worse
+Male,73,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,Yes,No,Worse
+Male,92,65+,Not very strong Democrat,Moderate,Graduate degree,,White,,Yes,No,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,No,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,75,65+,Strong Democrat,Strong Liberal,Some college,,Black,,Yes,Yes,Yes,Yes,Disagree,Disagree,DON'T KNOW/REFUSED,Yes,Yes,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,54,45-54,Strong Democrat,Strong Liberal,High school or less,,Black,,No,Yes,Yes,Yes,Agree,Disagree,Disagree,No,Yes,Yes,Yes,Yes,Yes,Better
+Female,94,65+,Not very strong Democrat,DON'T KNOW/REFUSED,Some college,,White,,Yes,Yes,Yes,No,Agree,Agree,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,Yes,No,DON'T KNOW/REFUSED,No,Worse
+Female,65,65+,Strong Democrat,Moderate,Graduate degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,54,45-54,Strong Democrat,Moderate,Some college,,White,,No,No,Yes,No,Disagree,Disagree,Agree,DON'T KNOW/REFUSED,Yes,Yes,DON'T KNOW/REFUSED,No,Yes,DON'T KNOW/REFUSED
+Female,52,45-54,Strong Democrat,Not very strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Disagree,DON'T KNOW/REFUSED,No,No,No,No,Yes,DON'T KNOW/REFUSED
+Male,62,55-64,Not very strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,No,No,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,Worse
+Female,70,65+,Strong Democrat,Moderate,Graduate degree,,Black,,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Disagree,Yes,Yes,Yes,DON'T KNOW/REFUSED,Yes,Yes,DON'T KNOW/REFUSED
+Male,62,55-64,Strong Democrat,Not very strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,No,No,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Male,79,65+,Strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,DON'T KNOW/REFUSED,Yes,No,No,DON'T KNOW/REFUSED
+Male,82,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,No,Yes,No,Better
+Male,65,65+,Not very strong Democrat,Not very strong Liberal,Some college,,Black,,Yes,Yes,No,No,Disagree,Disagree,Disagree,No,No,No,No,No,Yes,Worse
+Male,55,55-64,Strong Democrat,Strong Conservative,Some college,,Latino,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,Better
+Female,70,65+,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,No,No,Yes,Yes,No,Worse
+Male,72,65+,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Agree,DON'T KNOW/REFUSED,No,No,No,Yes,No,DON'T KNOW/REFUSED
+Female,80,65+,Strong Democrat,DON'T KNOW/REFUSED,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,DON'T KNOW/REFUSED,Yes,Yes,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED
+Male,72,65+,Not very strong Democrat,Not very strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,No,Yes,No,No,Worse
+Female,58,55-64,Strong Democrat,Moderate,Graduate degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,DON'T KNOW/REFUSED,Yes,Yes,No,No,Worse
+Male,86,65+,Strong Democrat,Strong Liberal,High school or less,,Black,,Yes,No,Yes,Yes,Disagree,Disagree,Disagree,No,No,No,No,DON'T KNOW/REFUSED,Yes,Worse
+Male,32,25-34,Strong Democrat,Not very strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,No,No,Yes,No,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Male,51,45-54,Strong Democrat,Moderate,High school or less,,Black,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Disagree,Disagree,Disagree,No,No,No,No,No,No,Worse
+Male,59,55-64,Strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,No,Agree,Disagree,Agree,Yes,No,Yes,No,Yes,Yes,Worse
+Male,69,65+,Strong Democrat,Strong Conservative,High school or less,,Other,Indian,Yes,Yes,Yes,No,Agree,Agree,Disagree,Yes,No,Yes,No,No,Yes,Worse
+Male,22,18-24,Strong Democrat,Not Very Strong Conservative,Graduate degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,No,No,No,No,No,No,Worse
+Female,79,65+,Strong Democrat,Strong Conservative,Some college,,White,,Yes,Yes,No,No,Agree,Agree,Agree,No,Yes,No,No,No,Yes,Worse
+Female,69,65+,Strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,Yes,Worse
+Female,83,65+,Strong Democrat,Moderate,High school or less,,Latino,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Disagree,Agree,No,Yes,No,Yes,Yes,No,Better
+Female,70,65+,Strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,DON'T KNOW/REFUSED,Yes,Yes,No,Yes,DON'T KNOW/REFUSED
+Female,65,65+,Strong Democrat,Moderate,Graduate degree,,White,,Yes,No,Yes,No,Disagree,Disagree,Agree,No,No,Yes,Yes,No,No,Better
+Male,24,18-24,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,Yes,No,Yes,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Male,57,55-64,Not very strong Democrat,Strong Liberal,College degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,No,No,Yes,No,No,No,Worse
+Female,46,45-54,Strong Democrat,Moderate,Some college,,Latino,,Yes,No,Yes,No,Agree,Agree,Agree,No,No,No,Yes,Yes,Yes,Worse
+Female,34,25-34,Strong Democrat,Moderate,Some college,,Latino,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,Yes,Yes,Yes,Yes,Yes,Yes,Better
+Female,62,55-64,Not very strong Democrat,Moderate,Some college,,Latino,,Yes,Yes,Yes,No,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED
+Female,34,25-34,Not very strong Democrat,Moderate,College degree,,Asian,,No,No,Yes,Yes,Disagree,Disagree,Disagree,No,No,Yes,Yes,No,No,Worse
+Female,48,45-54,Not very strong Democrat,Moderate,Graduate degree,,Asian,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,No,No,Worse
+Male,55,55-64,Strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,No,No,DON'T KNOW/REFUSED,Yes,Worse
+Female,35,35-44,Strong Democrat,Not very strong Liberal,Some college,,DON'T KNOW/REFUSED,,No,Yes,Yes,DON'T KNOW/REFUSED,Agree,Disagree,Agree,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Male,33,25-34,Not very strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,No,Yes,Yes,Agree,Agree,Agree,Yes,Yes,No,No,No,Yes,DON'T KNOW/REFUSED
+Male,45,45-54,Not very strong Democrat,Not very strong Liberal,College degree,,White,,Yes,Yes,Yes,No,Agree,Disagree,Agree,Yes,No,No,No,No,No,Worse
+Male,47,45-54,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,No,Yes,Yes,Yes,No,Worse
+Female,85,65+,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,Yes,Worse
+Female,80,65+,Not very strong Democrat,Not very strong Liberal,High school or less,,White,,Yes,No,Yes,Yes,Agree,Agree,Agree,No,Yes,Yes,No,Yes,Yes,DON'T KNOW/REFUSED
+Male,91,65+,Strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,No,No,Yes,No,No,Worse
+Female,50,45-54,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,DON'T KNOW/REFUSED,Agree,Yes,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,84,65+,Strong Democrat,Moderate,Some college,,Asian,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Agree,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Worse
+Male,61,55-64,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,No,No,No,Yes,No,Worse
+Male,70,65+,Strong Democrat,Moderate,College degree,,White,,Yes,No,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,Yes,Worse
+Male,84,65+,Not very strong Democrat,Moderate,High school or less,,White,,Yes,No,No,Yes,Disagree,Agree,Disagree,No,No,No,No,No,No,Worse
+Female,76,65+,Strong Democrat,Moderate,College degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,Yes,Worse
+Male,57,55-64,Not very strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,No,Yes,No,No,Yes,No,DON'T KNOW/REFUSED
+Female,69,65+,Strong Democrat,Not very strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,No,Yes,Yes,No,No,Worse
+Female,65,65+,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,Yes,Yes,No,DON'T KNOW/REFUSED
+Male,58,55-64,Strong Democrat,Moderate,Graduate degree,,White,,Yes,No,Yes,No,Agree,Agree,Agree,No,Yes,No,DON'T KNOW/REFUSED,No,No,Worse
+Female,83,65+,Not very strong Democrat,Moderate,High school or less,,White,,No,No,Yes,No,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,Yes,Worse
+Male,79,65+,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Disagree,DON'T KNOW/REFUSED,Agree,DON'T KNOW/REFUSED,Yes,No,Yes,Yes,No,Worse
+Female,74,65+,Strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,DON'T KNOW/REFUSED,Agree,Yes,Yes,DON'T KNOW/REFUSED,Yes,Yes,No,DON'T KNOW/REFUSED
+Female,85,65+,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,DON'T KNOW/REFUSED,Agree,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,Yes,Worse
+Male,81,65+,Strong Democrat,Not very strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,83,65+,Strong Democrat,Strong Liberal,Some college,,White,,Yes,No,Yes,Yes,Disagree,Agree,Agree,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED
+Female,58,55-64,Strong Democrat,Not very strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,No,No,No,No,Worse
+Female,79,65+,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,No,Yes,Yes,Yes,DON'T KNOW/REFUSED,Worse
+Female,67,65+,Strong Democrat,Strong Conservative,High school or less,,White,,Yes,No,Yes,No,Agree,Agree,Disagree,No,Yes,Yes,No,No,Yes,Worse
+Female,70,65+,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,No,Disagree,Agree,Agree,Yes,Yes,Yes,No,Yes,Yes,Worse
+Female,86,65+,Strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,Yes,Yes,Yes,Yes,Yes,Better
+Male,77,65+,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Disagree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,57,55-64,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,No,DON'T KNOW/REFUSED
+Male,72,65+,Strong Democrat,Moderate,Some college,,White,,No,No,Yes,Yes,Disagree,Agree,Agree,Yes,DON'T KNOW/REFUSED,Yes,No,Yes,No,Worse
+Male,25,25-34,Strong Democrat,Strong Liberal,High school or less,,Latino,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,No,No,No,No,No,No,DON'T KNOW/REFUSED
+Male,27,25-34,Not very strong Democrat,Moderate,Graduate degree,,Latino,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,No,Yes,Worse
+Female,63,55-64,Strong Democrat,Not very strong Liberal,High school or less,,Latino,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Disagree,No,No,No,No,Yes,Yes,Worse
+Male,62,55-64,Not very strong Democrat,DON'T KNOW/REFUSED,High school or less,,White,,DON'T KNOW/REFUSED,Yes,Yes,Yes,Agree,Agree,Disagree,No,No,No,No,No,No,DON'T KNOW/REFUSED
+Male,59,55-64,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,No,Better
+Male,56,55-64,Not very strong Democrat,Moderate,Graduate degree,,Black,,Yes,No,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,No,Yes,Worse
+Male,68,65+,Strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,No,Yes,Better
+Male,52,45-54,Not very strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,No,No,No,DON'T KNOW/REFUSED
+Male,34,25-34,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,No,Agree,Disagree,Agree,No,No,No,No,Yes,No,DON'T KNOW/REFUSED
+Female,47,45-54,Strong Democrat,Strong Liberal,College degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,No,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Male,45,45-54,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,No,Yes,No,Yes,No,DON'T KNOW/REFUSED
+Male,46,45-54,Not very strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Disagree,Agree,DON'T KNOW/REFUSED,No,No,No,No,No,DON'T KNOW/REFUSED
+Male,35,35-44,Not very strong Democrat,Strong Conservative,High school or less,,White,,No,No,No,No,Agree,Agree,Disagree,No,No,No,No,No,Yes,Worse
+Male,39,35-44,Strong Democrat,Strong Liberal,Some college,,Latino,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,No,No,No,Yes,Yes,DON'T KNOW/REFUSED
+Male,22,18-24,Not very strong Democrat,Moderate,Some college,,Asian,,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Disagree,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,Yes,Yes,No,DON'T KNOW/REFUSED
+Male,46,45-54,Strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,No,Disagree,Disagree,Agree,Yes,No,No,No,Yes,Yes,Worse
+Male,27,25-34,Not very strong Democrat,Not very strong Liberal,Graduate degree,,Asian,,Yes,Yes,Yes,Yes,Agree,Agree,Disagree,No,No,No,Yes,No,No,Worse
+Male,35,35-44,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,Agree,No,Yes,Yes,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,60,55-64,Strong Democrat,Moderate,Some college,,Black,,Yes,Yes,No,No,Disagree,Agree,Agree,Yes,Yes,Yes,No,Yes,No,Worse
+Male,29,25-34,Not very strong Democrat,Not very strong Liberal,Graduate degree,,Asian,,Yes,Yes,Yes,No,Agree,Agree,Agree,No,No,DON'T KNOW/REFUSED,No,Yes,No,DON'T KNOW/REFUSED
+Male,54,45-54,Strong Democrat,Strong Conservative,Some college,,Latino,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,No,Yes,Yes,No,Worse
+Male,61,55-64,Not very strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,Yes,No,No,No,No,Yes,Worse
+Male,26,25-34,Strong Democrat,Not very strong Liberal,Graduate degree,,Black,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,Worse
+Male,50,45-54,Strong Democrat,DON'T KNOW/REFUSED,High school or less,,Black,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Disagree,DON'T KNOW/REFUSED,Disagree,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,No,No,No,Worse
+Male,34,25-34,Strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,No,Yes,Yes,Yes,Yes,Better
+Male,33,25-34,Strong Democrat,Not Very Strong Conservative,Graduate degree,,Black,,Yes,Yes,Yes,No,Agree,Agree,DON'T KNOW/REFUSED,Yes,No,No,No,No,No,DON'T KNOW/REFUSED
+Male,38,35-44,Not very strong Democrat,Moderate,High school or less,,Latino,,Yes,Yes,Yes,No,Agree,Agree,Agree,No,No,Yes,No,No,No,DON'T KNOW/REFUSED
+Male,78,65+,Not very strong Democrat,Strong Liberal,High school or less,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Agree,Yes,DON'T KNOW/REFUSED,Yes,Yes,Yes,No,Better
+Female,52,45-54,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Male,41,35-44,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,Better
+Female,64,55-64,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,No,DON'T KNOW/REFUSED
+Male,50,45-54,Strong Democrat,Not very strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,Yes,Yes,DON'T KNOW/REFUSED,Yes,No,Yes,Worse
+Male,38,35-44,Not very strong Democrat,Moderate,College degree,,Latino,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,No,Yes,Yes,No,Better
+Male,52,45-54,Strong Democrat,Moderate,High school or less,,Black,,Yes,No,Yes,Yes,Agree,Agree,Agree,Yes,No,No,Yes,Yes,No,Worse
+Male,38,35-44,Not very strong Democrat,Moderate,Some college,,Black,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,No,No,No,No,Yes,DON'T KNOW/REFUSED
+Male,33,25-34,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Disagree,No,No,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED
+Male,35,35-44,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,No,Disagree,Agree,Agree,Yes,No,Yes,No,Yes,Yes,DON'T KNOW/REFUSED
+Male,31,25-34,Strong Democrat,Not very strong Liberal,College degree,,Latino,,Yes,Yes,Yes,No,Agree,Agree,Agree,No,No,No,No,Yes,No,DON'T KNOW/REFUSED
+Male,52,45-54,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,No,Yes,No,Disagree,Agree,Agree,Yes,Yes,No,No,Yes,Yes,Worse
+Male,54,45-54,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,No,Yes,Yes,Yes,Yes,No,Worse
+Male,33,25-34,Not very strong Democrat,Not very strong Liberal,High school or less,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Agree,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,No,No,No,DON'T KNOW/REFUSED
+Female,26,25-34,Strong Democrat,Strong Liberal,Some college,,Other,Native American,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Male,40,35-44,Not very strong Democrat,Not very strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,No,No,No,No,Worse
+Male,33,25-34,Not very strong Democrat,Not very strong Liberal,College degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Disagree,Agree,Agree,Yes,Yes,Yes,DON'T KNOW/REFUSED,No,No,DON'T KNOW/REFUSED
+Female,64,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,No,DON'T KNOW/REFUSED,No,No,DON'T KNOW/REFUSED
+Male,27,25-34,Strong Democrat,Not very strong Liberal,Some college,,Latino,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,No,No,Yes,No,No,DON'T KNOW/REFUSED
+Male,32,25-34,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,No,Yes,Yes,Yes,Worse
+Male,40,35-44,Not very strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,No,Agree,Disagree,Agree,Yes,Yes,Yes,No,Yes,No,Better
+Male,38,35-44,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,No,No,No,Yes,Yes,Yes,Worse
+Male,54,45-54,Strong Democrat,Strong Conservative,Some college,,Black,,Yes,Yes,Yes,Yes,Agree,Agree,Disagree,No,No,Yes,Yes,No,Yes,Worse
+Male,68,65+,Strong Democrat,Moderate,Some college,,Black,,Yes,Yes,Yes,Yes,Agree,Disagree,Disagree,Yes,Yes,No,Yes,No,Yes,Worse
+Male,71,65+,Strong Democrat,Strong Conservative,Some college,,White,,Yes,No,Yes,Yes,Agree,Agree,Agree,No,Yes,No,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,21,18-24,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,No,Yes,Yes,No,No,No,DON'T KNOW/REFUSED
+Male,62,55-64,Not very strong Democrat,Moderate,Some college,,Black,,Yes,Yes,Yes,Yes,Agree,Agree,Disagree,Yes,Yes,No,No,Yes,Yes,Worse
+Female,43,35-44,Strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,No,No,No,No,No,No,DON'T KNOW/REFUSED
+Female,20,18-24,Strong Democrat,Strong Liberal,College degree,,Asian,,Yes,Yes,Yes,No,Agree,Agree,Agree,Yes,No,No,No,No,No,DON'T KNOW/REFUSED
+Male,57,55-64,Strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,Yes,Agree,DON'T KNOW/REFUSED,Agree,Yes,Yes,No,Yes,Yes,No,DON'T KNOW/REFUSED
+Female,27,25-34,Strong Democrat,Strong Liberal,College degree,,Latino,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,Yes,No,No,Yes,No,DON'T KNOW/REFUSED
+Male,60,55-64,Strong Democrat,Strong Liberal,College degree,,White,,Yes,No,Yes,No,Agree,Agree,Agree,No,Yes,Yes,No,No,Yes,Better
+Female,42,35-44,Strong Democrat,Moderate,Some college,,White,,Yes,Yes,No,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,55,55-64,Strong Democrat,Moderate,Some college,,White,,Yes,No,Yes,No,Agree,Agree,Disagree,Yes,Yes,Yes,Yes,No,No,Worse
+Male,50,45-54,Strong Democrat,Strong Liberal,College degree,,Black,,Yes,Yes,No,Yes,Disagree,Disagree,Disagree,No,No,Yes,No,No,No,Worse
+Female,45,45-54,Strong Democrat,Moderate,College degree,,Black,,DON'T KNOW/REFUSED,No,Yes,No,Agree,Agree,Agree,DON'T KNOW/REFUSED,No,No,No,No,No,DON'T KNOW/REFUSED
+Female,36,35-44,Strong Democrat,Strong Liberal,Graduate degree,,Latino,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,No,Yes,Yes,No,DON'T KNOW/REFUSED
+Male,55,55-64,Strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,Yes,Yes,DON'T KNOW/REFUSED,Yes,No,No,DON'T KNOW/REFUSED
+Female,60,55-64,Not very strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,Agree,Disagree,No,No,DON'T KNOW/REFUSED,No,Yes,Yes,Worse
+Female,22,18-24,Strong Democrat,Strong Liberal,College degree,,Latino,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Disagree,Agree,No,No,No,Yes,Yes,No,Better
+Male,82,65+,Strong Democrat,DON'T KNOW/REFUSED,Graduate degree,,Black,,DON'T KNOW/REFUSED,No,Yes,Yes,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,Yes,No,DON'T KNOW/REFUSED
+Female,50,45-54,Strong Democrat,Moderate,Some college,,DON'T KNOW/REFUSED,,Yes,Yes,Yes,Yes,Disagree,Disagree,Disagree,No,No,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,57,55-64,Not very strong Democrat,Not Very Strong Conservative,Some college,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,No,Yes,Yes,No,No,No,Better
+Female,57,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,No,No,No,Agree,Agree,Agree,Yes,Yes,No,Yes,No,No,Worse
+Male,67,65+,Not very strong Democrat,Not Very Strong Conservative,High school or less,,White,,No,No,Yes,No,Disagree,Disagree,Agree,No,No,No,No,Yes,Yes,Better
+Male,52,45-54,Strong Democrat,Strong Conservative,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,No,DON'T KNOW/REFUSED,No,Yes,Worse
+Female,47,45-54,Not very strong Democrat,Not very strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,No,Disagree,Agree,Agree,No,Yes,Yes,No,Yes,No,DON'T KNOW/REFUSED
+Female,41,35-44,Strong Democrat,DON'T KNOW/REFUSED,Some college,,Black,,Yes,Yes,Yes,No,Disagree,Disagree,Disagree,No,No,No,No,No,No,Worse
+Male,66,65+,Strong Democrat,Moderate,High school or less,,Other,african american,Yes,Yes,Yes,Yes,Agree,Agree,Disagree,No,Yes,Yes,No,No,No,Worse
+Female,30,25-34,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,DON'T KNOW/REFUSED,Yes,Yes,Yes,Yes,No,Better
+Female,71,65+,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,No,Worse
+Female,38,35-44,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,No,Yes,Yes,No,Better
+Female,40,35-44,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,Yes,No,No,No,No,No,DON'T KNOW/REFUSED
+Female,36,35-44,Strong Democrat,Not very strong Liberal,College degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Disagree,No,No,No,No,No,No,DON'T KNOW/REFUSED
+Female,50,45-54,Not very strong Democrat,Strong Conservative,Some college,,Latino,,Yes,Yes,Yes,Yes,Disagree,Disagree,Disagree,Yes,Yes,Yes,Yes,Yes,No,Worse
+Male,55,55-64,Strong Democrat,Strong Liberal,College degree,,DON'T KNOW/REFUSED,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,No,Yes,DON'T KNOW/REFUSED
+Female,62,55-64,Strong Democrat,Strong Liberal,College degree,,Black,,Yes,Yes,Yes,No,Disagree,Disagree,Disagree,Yes,Yes,Yes,No,No,No,DON'T KNOW/REFUSED
+Female,75,65+,Strong Democrat,Not Very Strong Conservative,High school or less,,White,,Yes,Yes,Yes,No,Agree,Disagree,Disagree,No,No,No,No,No,Yes,Worse
+Female,64,55-64,Strong Democrat,Not Very Strong Conservative,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,No,Yes,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED
+Female,66,65+,Strong Democrat,Not very strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,No,Yes,DON'T KNOW/REFUSED,No,No,Worse
+Male,37,35-44,Strong Democrat,Strong Liberal,High school or less,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Agree,Yes,Yes,No,No,Yes,No,DON'T KNOW/REFUSED
+Male,29,25-34,Strong Democrat,Strong Liberal,Graduate degree,,Latino,,Yes,Yes,Yes,Yes,Disagree,Disagree,Disagree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Male,63,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,No,No,Yes,Yes,No,DON'T KNOW/REFUSED
+Female,32,25-34,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,No,Yes,No,Better
+Female,70,65+,Strong Democrat,Not very strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,No,Yes,No,No,No,Yes,Worse
+Female,52,45-54,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,Yes,Yes,Yes,No,No,No,Worse
+Male,40,35-44,Strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Agree,Yes,No,Yes,DON'T KNOW/REFUSED,No,No,Worse
+Male,65,65+,Not very strong Democrat,Not very strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Agree,DON'T KNOW/REFUSED,Agree,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Male,20,18-24,Not very strong Democrat,Not very strong Liberal,Some college,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,No,Yes,No,No,Yes,No,DON'T KNOW/REFUSED
+Male,57,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,Yes,DON'T KNOW/REFUSED,No,No,Yes,No,DON'T KNOW/REFUSED
+Female,53,45-54,Strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,No,Disagree,Disagree,Agree,Yes,No,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Male,81,65+,Strong Democrat,Strong Liberal,High school or less,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,No,Worse
+Female,73,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,DON'T KNOW/REFUSED,No,Yes,No,DON'T KNOW/REFUSED
+Female,49,45-54,Not very strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Yes,Yes,No,Yes,Yes,No,DON'T KNOW/REFUSED
+Female,46,45-54,Strong Democrat,Not very strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,Yes,Yes,Yes,Yes,Yes,Yes,Better
+Female,72,65+,Strong Democrat,Moderate,College degree,,White,,Yes,No,DON'T KNOW/REFUSED,Yes,Agree,Disagree,Agree,DON'T KNOW/REFUSED,Yes,Yes,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,35,35-44,Strong Democrat,Strong Conservative,High school or less,,Latino,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,No,No,No,No,Yes,No,Worse
+Female,58,55-64,Strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Disagree,DON'T KNOW/REFUSED,No,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,Worse
+Female,42,35-44,Not very strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,Yes,No,Yes,No,No,DON'T KNOW/REFUSED
+Female,21,18-24,Strong Democrat,Moderate,High school or less,,DON'T KNOW/REFUSED,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,No,No,Yes,No,No,Better
+Female,49,45-54,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,19,18-24,Not very strong Democrat,DON'T KNOW/REFUSED,Some college,,Other,Black and Asian,Yes,Yes,Yes,Yes,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,No,No,Better
+Female,75,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Agree,Yes,Yes,Yes,No,No,No,DON'T KNOW/REFUSED
+Male,50,45-54,Strong Democrat,Moderate,Some college,,Black,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Disagree,No,No,No,Yes,DON'T KNOW/REFUSED,Yes,Worse
+Female,47,45-54,Strong Democrat,Moderate,Graduate degree,,DON'T KNOW/REFUSED,,Yes,Yes,No,Yes,Agree,Agree,Disagree,Yes,Yes,Yes,Yes,No,No,Worse
+Male,72,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,No,Yes,No,No,Worse
+Female,35,35-44,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,DON'T KNOW/REFUSED,Agree,Yes,Yes,No,Yes,Yes,No,DON'T KNOW/REFUSED
+Female,35,35-44,Strong Democrat,Strong Liberal,Graduate degree,,White,,DON'T KNOW/REFUSED,Yes,Yes,No,Agree,Agree,Agree,Yes,No,No,No,Yes,No,DON'T KNOW/REFUSED
+Female,66,65+,Not very strong Democrat,Strong Conservative,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,No,Yes,Better
+Female,65,65+,Strong Democrat,Strong Conservative,High school or less,,Black,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,No,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Male,53,45-54,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,52,45-54,Strong Democrat,Strong Liberal,Graduate degree,,Black,,Yes,No,Yes,No,Disagree,Agree,Disagree,No,No,No,No,No,No,DON'T KNOW/REFUSED
+Female,23,18-24,Strong Democrat,Moderate,Some college,,Latino,,Yes,No,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,Yes,Worse
+Male,64,55-64,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,No,Yes,Yes,No,Worse
+Male,59,55-64,Strong Democrat,Strong Liberal,College degree,,Black,,Yes,No,Yes,No,Disagree,Agree,Disagree,No,Yes,No,Yes,No,No,DON'T KNOW/REFUSED
+Female,35,35-44,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,No,Yes,Yes,Yes,No,Worse
+Female,28,25-34,Not very strong Democrat,Moderate,College degree,,Other,Bi-Racial,Yes,Yes,Yes,No,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,32,25-34,Strong Democrat,Strong Liberal,College degree,,Other,Black Hispanic,Yes,Yes,Yes,Yes,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,64,55-64,Strong Democrat,DON'T KNOW/REFUSED,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,Agree,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,No,DON'T KNOW/REFUSED
+Female,18,18-24,Strong Democrat,Strong Liberal,Some college,,Asian,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,No,No,Yes,No,No,DON'T KNOW/REFUSED
+Female,50,45-54,Strong Democrat,Strong Liberal,Graduate degree,,DON'T KNOW/REFUSED,,Yes,No,No,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,52,45-54,Strong Democrat,DON'T KNOW/REFUSED,College degree,,Black,,Yes,Yes,Yes,No,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Male,62,55-64,Not very strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,No,No,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED
+Male,63,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,No,Disagree,Agree,Agree,Yes,No,No,Yes,Yes,No,Worse
+Female,54,45-54,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Yes,Yes,Yes,Yes,No,Yes,DON'T KNOW/REFUSED
+Female,65,65+,Strong Democrat,Moderate,College degree,,Black,,Yes,Yes,Yes,No,Disagree,Disagree,Agree,No,Yes,Yes,No,No,Yes,DON'T KNOW/REFUSED
+Male,65,65+,Strong Democrat,Moderate,Some college,,Black,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,DON'T KNOW/REFUSED,Yes,No,No,No,No,Worse
+Female,79,65+,Strong Democrat,Moderate,Some college,,Black,,Yes,No,Yes,Yes,Agree,Agree,Agree,No,Yes,No,Yes,No,Yes,Better
+Male,64,55-64,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,No,No,Yes,No,No,Better
+Male,58,55-64,Not very strong Democrat,Not Very Strong Conservative,Graduate degree,,White,,No,Yes,Yes,No,Disagree,Agree,Agree,No,No,No,No,No,Yes,Worse
+Male,55,55-64,Strong Democrat,Moderate,High school or less,,Black,,No,No,Yes,Yes,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,61,55-64,Not very strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,Yes,Yes,No,No,No,Worse
+Female,69,65+,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,No,Yes,Yes,DON'T KNOW/REFUSED
+Male,32,25-34,Strong Democrat,Strong Liberal,Graduate degree,,Latino,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,Yes,No,Yes,Yes,No,Better
+Male,73,65+,Strong Democrat,Moderate,High school or less,,Black,,Yes,Yes,No,DON'T KNOW/REFUSED,Disagree,Agree,Disagree,No,No,Yes,Yes,Yes,Yes,Better
+Female,75,65+,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,No,DON'T KNOW/REFUSED
+Male,59,55-64,Strong Democrat,Strong Liberal,Some college,,Latino,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,Better
+Female,50,45-54,Not very strong Democrat,Not very strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,DON'T KNOW/REFUSED,Agree,Yes,No,Yes,DON'T KNOW/REFUSED,Yes,No,DON'T KNOW/REFUSED
+Female,58,55-64,Not very strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,DON'T KNOW/REFUSED,Yes,Yes,Yes,No,No,Better
+Female,54,45-54,Strong Democrat,DON'T KNOW/REFUSED,Some college,,Black,,No,Yes,Yes,Yes,Disagree,DON'T KNOW/REFUSED,Disagree,No,No,No,No,No,No,DON'T KNOW/REFUSED
+Female,44,35-44,Strong Democrat,Moderate,Some college,,Black,,Yes,No,Yes,Yes,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,No,Yes,Worse
+Female,38,35-44,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,No,Disagree,Disagree,Agree,Yes,No,Yes,Yes,No,No,Worse
+Female,37,35-44,Strong Democrat,Strong Liberal,Graduate degree,,Asian,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,No,No,Yes,No,Better
+Male,21,18-24,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,Yes,Yes,No,Yes,Yes,No,Better
+Male,70,65+,Strong Democrat,Not very strong Liberal,Graduate degree,,Black,,Yes,No,Yes,No,Disagree,Disagree,Disagree,Yes,No,No,No,Yes,Yes,Worse
+Female,46,45-54,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,No,Yes,No,Yes,Yes,Worse
+Female,70,65+,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,No,DON'T KNOW/REFUSED
+Female,71,65+,Strong Democrat,Not very strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,DON'T KNOW/REFUSED,Yes,Yes,DON'T KNOW/REFUSED,Yes,Yes,DON'T KNOW/REFUSED
+Male,62,55-64,Strong Democrat,Moderate,Some college,,Latino,,Yes,Yes,Yes,Yes,Disagree,Disagree,Disagree,Yes,DON'T KNOW/REFUSED,No,No,DON'T KNOW/REFUSED,No,Worse
+Male,80,65+,Not very strong Democrat,Moderate,Some college,,Latino,,Yes,No,Yes,No,Agree,Agree,Agree,No,Yes,Yes,Yes,Yes,Yes,Worse
+Female,69,65+,Strong Democrat,Strong Liberal,Some college,,DON'T KNOW/REFUSED,,Yes,Yes,Yes,No,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,No,Worse
+Female,80,65+,Strong Democrat,DON'T KNOW/REFUSED,Some college,,White,,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Disagree,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,43,35-44,Strong Democrat,Moderate,College degree,,Latino,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,Worse
+Male,58,55-64,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,Yes,No,No,Yes,DON'T KNOW/REFUSED,Worse
+Female,61,55-64,Strong Democrat,Moderate,High school or less,,Other,Hispanic,Yes,No,No,Yes,Disagree,Agree,Agree,No,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,23,18-24,Not very strong Democrat,Strong Liberal,Some college,,Latino,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Disagree,No,No,No,No,Yes,No,DON'T KNOW/REFUSED
+Male,83,65+,Strong Democrat,Moderate,Some college,,Black,,Yes,No,Yes,No,Agree,Disagree,Disagree,No,Yes,Yes,No,No,Yes,Worse
+Male,67,65+,Strong Democrat,Strong Conservative,High school or less,,Black,,Yes,No,Yes,No,Disagree,Agree,Agree,No,Yes,Yes,Yes,No,No,Worse
+Male,77,65+,Strong Democrat,Moderate,Some college,,Black,,Yes,Yes,Yes,Yes,Disagree,Disagree,Disagree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,41,35-44,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,DON'T KNOW/REFUSED,Agree,Yes,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Male,31,25-34,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,Yes,Yes,No,Yes,Yes,Better
+Female,33,25-34,Not very strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Male,37,35-44,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,No,No,No,No,Yes,Yes,DON'T KNOW/REFUSED
+Female,23,18-24,Not very strong Democrat,Moderate,Some college,,Latino,,Yes,Yes,Yes,Yes,Agree,Agree,Disagree,Yes,Yes,Yes,No,No,No,Worse
+Female,46,45-54,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,No,Disagree,DON'T KNOW/REFUSED,Agree,DON'T KNOW/REFUSED,No,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,67,65+,Strong Democrat,Moderate,High school or less,,White,,No,No,Yes,No,Agree,Agree,Agree,No,Yes,Yes,No,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED
+Male,37,35-44,Not very strong Democrat,Moderate,Some college,,Latino,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,No,No,No,No,No,Worse
+Male,43,35-44,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Disagree,DON'T KNOW/REFUSED,Agree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Male,58,55-64,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,No,No,No,Yes,No,Worse
+Female,62,55-64,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,Yes,No,No,No,No,Worse
+Male,23,18-24,Not very strong Democrat,Moderate,College degree,,Latino,,Yes,Yes,Yes,No,Agree,Agree,Agree,Yes,Yes,No,No,No,No,Worse
+Female,55,55-64,Strong Democrat,Not very strong Liberal,Graduate degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,25,25-34,Strong Democrat,Strong Liberal,College degree,,Latino,,Yes,Yes,Yes,No,Disagree,Disagree,Disagree,Yes,Yes,Yes,Yes,No,No,Worse
+Male,22,18-24,Not very strong Democrat,Moderate,College degree,,DON'T KNOW/REFUSED,,Yes,Yes,Yes,No,Disagree,Disagree,Disagree,No,No,No,Yes,No,No,DON'T KNOW/REFUSED
+Male,38,35-44,Strong Democrat,Moderate,Graduate degree,,White,,Yes,No,Yes,No,Agree,Disagree,Agree,No,No,No,No,Yes,No,DON'T KNOW/REFUSED
+Male,33,25-34,Strong Democrat,Moderate,College degree,,Other,Pacific Islander,Yes,Yes,Yes,Yes,Agree,Agree,Disagree,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,No,No,DON'T KNOW/REFUSED
+Female,60,55-64,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,No,No,No,Yes,Yes,Worse
+Female,72,65+,Strong Democrat,Not Very Strong Conservative,High school or less,,Latino,,Yes,Yes,No,Yes,Agree,Agree,Agree,No,Yes,Yes,Yes,Yes,No,Worse
+Female,70,65+,Strong Democrat,Moderate,College degree,,Black,,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Disagree,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,No,No,DON'T KNOW/REFUSED
+Female,76,65+,Strong Democrat,Strong Conservative,High school or less,,Black,,No,No,No,No,Disagree,Agree,Disagree,No,Yes,No,No,No,No,Worse
+Female,73,65+,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,DON'T KNOW/REFUSED,Agree,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,63,55-64,Strong Democrat,Not very strong Liberal,High school or less,,Black,,No,Yes,Yes,No,Disagree,Agree,Disagree,No,No,No,No,No,No,DON'T KNOW/REFUSED
+Female,82,65+,Strong Democrat,Strong Conservative,College degree,,Black,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Disagree,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Worse
+Female,55,55-64,Strong Democrat,Not very strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,No,No,Yes,DON'T KNOW/REFUSED
+Male,74,65+,Strong Democrat,Moderate,High school or less,,Black,,Yes,No,Yes,Yes,Disagree,Agree,Disagree,Yes,No,No,Yes,DON'T KNOW/REFUSED,Yes,Worse
+Male,65,65+,Strong Democrat,DON'T KNOW/REFUSED,Graduate degree,,Black,,Yes,No,Yes,DON'T KNOW/REFUSED,Agree,Agree,Agree,DON'T KNOW/REFUSED,Yes,Yes,No,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED
+Female,21,18-24,Not very strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,No,Yes,No,Yes,No,DON'T KNOW/REFUSED
+Male,60,55-64,Strong Democrat,Moderate,High school or less,,Black,,Yes,No,Yes,No,Agree,Disagree,Disagree,No,No,No,No,No,Yes,Worse
+Male,61,55-64,Strong Democrat,Moderate,High school or less,,Black,,No,Yes,No,Yes,Disagree,Agree,Agree,Yes,No,Yes,Yes,No,No,Worse
+Female,56,55-64,Strong Democrat,DON'T KNOW/REFUSED,High school or less,,White,,Yes,Yes,No,Yes,Disagree,Disagree,Agree,No,Yes,Yes,Yes,Yes,No,DON'T KNOW/REFUSED
+Male,44,35-44,Not very strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,No,No,No,Yes,DON'T KNOW/REFUSED
+Male,32,25-34,Strong Democrat,Not very strong Liberal,Graduate degree,,Latino,,Yes,Yes,Yes,No,Agree,Agree,Agree,No,No,No,No,No,No,DON'T KNOW/REFUSED
+Male,18,18-24,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,No,No,No,No,No,DON'T KNOW/REFUSED
+Female,82,65+,Strong Democrat,Strong Conservative,High school or less,,Black,,Yes,Yes,Yes,No,Disagree,Agree,Agree,Yes,Yes,Yes,No,Yes,No,Worse
+Male,57,55-64,Strong Democrat,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,,Black,,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,Yes,Agree,Disagree,Disagree,Yes,DON'T KNOW/REFUSED,No,Yes,Yes,No,DON'T KNOW/REFUSED
+Female,55,55-64,Strong Democrat,DON'T KNOW/REFUSED,Some college,,Black,,Yes,No,Yes,DON'T KNOW/REFUSED,Disagree,Agree,Disagree,DON'T KNOW/REFUSED,No,No,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Worse
+Male,57,55-64,Strong Democrat,DON'T KNOW/REFUSED,College degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,Yes,Yes,DON'T KNOW/REFUSED
+Male,52,45-54,Strong Democrat,Strong Liberal,College degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,Yes,DON'T KNOW/REFUSED
+Female,58,55-64,Not very strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Disagree,Agree,Agree,Yes,No,Yes,No,No,No,Better
+Female,19,18-24,Not very strong Democrat,DON'T KNOW/REFUSED,High school or less,,Latino,,DON'T KNOW/REFUSED,Yes,Yes,DON'T KNOW/REFUSED,Disagree,DON'T KNOW/REFUSED,Disagree,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,65,65+,Strong Democrat,Moderate,High school or less,,Latino,,Yes,DON'T KNOW/REFUSED,Yes,No,Disagree,Agree,Agree,Yes,Yes,DON'T KNOW/REFUSED,Yes,Yes,No,Worse
+Female,57,55-64,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,51,45-54,Strong Democrat,Strong Liberal,High school or less,,Black,,Yes,Yes,Yes,No,Disagree,Disagree,Disagree,No,Yes,Yes,No,No,No,Worse
+Female,72,65+,Strong Democrat,Strong Liberal,High school or less,,White,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,Yes,No,No,Yes,No,No,Worse
+Female,50,45-54,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Agree,No,Yes,No,Yes,Yes,Yes,DON'T KNOW/REFUSED
+Male,74,65+,Strong Democrat,Strong Liberal,High school or less,,White,,Yes,Yes,Yes,No,Disagree,Disagree,Agree,Yes,No,No,No,No,No,Worse
+Female,50,45-54,Strong Democrat,Strong Conservative,Graduate degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,No,Yes,No,No,No,DON'T KNOW/REFUSED
+Male,28,25-34,Not very strong Democrat,Strong Conservative,High school or less,,Black,,Yes,Yes,Yes,No,Disagree,Disagree,Disagree,No,No,No,Yes,No,Yes,Worse
+Female,47,45-54,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,55,55-64,Not very strong Democrat,DON'T KNOW/REFUSED,College degree,,White,,Yes,No,Yes,No,Agree,Agree,Disagree,No,Yes,Yes,DON'T KNOW/REFUSED,No,Yes,Worse
+Male,45,45-54,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,No,No,No,Yes,No,Better
+Male,55,55-64,Not very strong Democrat,Not very strong Liberal,High school or less,,Black,,Yes,Yes,No,No,Agree,Agree,Agree,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,No,Yes,Worse
+Male,67,65+,Not very strong Democrat,Moderate,Some college,,Black,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,No,No,Yes,No,Worse
+Female,31,25-34,Strong Democrat,Strong Liberal,High school or less,,Black,,Yes,No,Yes,No,Disagree,Agree,Agree,No,Yes,Yes,Yes,No,No,Better
+Male,20,18-24,Not very strong Democrat,Not Very Strong Conservative,Some college,,Latino,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,No,Yes,Yes,Yes,Yes,No,Better
+Female,45,45-54,Strong Democrat,Moderate,Some college,,Black,,No,Yes,No,No,Disagree,Agree,Disagree,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED,Worse
+Male,66,65+,Strong Democrat,Strong Liberal,College degree,,White,,Yes,No,Yes,Yes,Agree,DON'T KNOW/REFUSED,Agree,Yes,Yes,No,DON'T KNOW/REFUSED,Yes,No,DON'T KNOW/REFUSED
+Female,31,25-34,Not very strong Democrat,Moderate,Graduate degree,,Other,Middle Eastern,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,No,Worse
+Female,81,65+,Strong Democrat,Moderate,Some college,,DON'T KNOW/REFUSED,,DON'T KNOW/REFUSED,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,No,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,27,25-34,Not very strong Democrat,Moderate,College degree,,Other,West Indian,Yes,Yes,Yes,No,Disagree,Agree,Disagree,Yes,Yes,No,Yes,No,No,Worse
+Female,50,45-54,Strong Democrat,Moderate,High school or less,,Latino,,Yes,No,Yes,DON'T KNOW/REFUSED,Agree,Agree,Agree,No,No,No,Yes,No,Yes,Worse
+Female,56,55-64,Strong Democrat,Moderate,Some college,,Black,,Yes,Yes,Yes,No,Agree,Agree,Agree,DON'T KNOW/REFUSED,Yes,Yes,Yes,No,No,Worse
+Male,41,35-44,Strong Democrat,DON'T KNOW/REFUSED,High school or less,,Black,,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,Disagree,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,Worse
+Female,32,25-34,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,No,No,No,No,Yes,No,DON'T KNOW/REFUSED
+Male,27,25-34,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,No,No,Yes,Yes,No,Worse
+Female,50,45-54,Strong Democrat,Moderate,Some college,,Black,,Yes,Yes,No,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,52,45-54,Strong Democrat,Moderate,Some college,,Black,,Yes,No,Yes,Yes,Disagree,Disagree,Disagree,No,No,No,Yes,No,No,Worse
+Female,25,25-34,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,No,Yes,DON'T KNOW/REFUSED,No,Yes,No,Better
+Female,60,55-64,Not very strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,No,Agree,Agree,Disagree,No,Yes,Yes,No,No,Yes,Worse
+Female,78,65+,Strong Democrat,DON'T KNOW/REFUSED,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,No,No,Worse
+Male,68,65+,Strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Disagree,Yes,Yes,No,Yes,No,No,Worse
+Female,75,65+,Not very strong Democrat,DON'T KNOW/REFUSED,Graduate degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,DON'T KNOW/REFUSED,Yes,No,No,Yes,No,DON'T KNOW/REFUSED
+Female,77,65+,Strong Democrat,Moderate,High school or less,,White,,Yes,No,Yes,No,DON'T KNOW/REFUSED,Agree,Disagree,Yes,No,Yes,No,No,No,Worse
+Female,70,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,No,No,Yes,No,No,DON'T KNOW/REFUSED
+Female,69,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Male,77,65+,Strong Democrat,Moderate,College degree,,White,,Yes,No,Yes,DON'T KNOW/REFUSED,Disagree,Agree,Agree,No,Yes,No,No,Yes,Yes,Worse
+Male,60,55-64,Strong Democrat,Strong Liberal,College degree,,DON'T KNOW/REFUSED,,Yes,Yes,Yes,No,Agree,Agree,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,No,No,Yes,No,DON'T KNOW/REFUSED
+Male,37,35-44,Strong Democrat,Strong Liberal,Some college,,White,,Yes,DON'T KNOW/REFUSED,Yes,Yes,Disagree,DON'T KNOW/REFUSED,Agree,No,No,No,No,Yes,No,DON'T KNOW/REFUSED
+Female,68,65+,Strong Democrat,Not very strong Liberal,College degree,,Asian,,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,95,65+,Strong Democrat,Strong Conservative,High school or less,,Black,,DON'T KNOW/REFUSED,Yes,Yes,DON'T KNOW/REFUSED,Disagree,Agree,DON'T KNOW/REFUSED,No,No,DON'T KNOW/REFUSED,No,No,DON'T KNOW/REFUSED,Worse
+Female,73,65+,Strong Democrat,Not Very Strong Conservative,Some college,,White,,No,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,No,No,No,DON'T KNOW/REFUSED
+Female,72,65+,Strong Democrat,Moderate,Graduate degree,,Black,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Disagree,Disagree,Disagree,Yes,Yes,Yes,Yes,No,Yes,Worse
+Male,80,65+,Strong Democrat,Strong Conservative,Some college,,White,,DON'T KNOW/REFUSED,No,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,68,65+,Strong Democrat,Not very strong Liberal,Some college,,Latino,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,Worse
+Female,79,65+,Strong Democrat,Moderate,High school or less,,White,,Yes,No,Yes,No,Disagree,Agree,Agree,Yes,DON'T KNOW/REFUSED,No,Yes,Yes,Yes,Worse
+Male,76,65+,Strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Disagree,Disagree,Agree,Yes,Yes,Yes,No,No,No,Worse
+Male,31,25-34,Strong Democrat,Strong Liberal,Some college,,Asian,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,No,No,No,No,Yes,No,DON'T KNOW/REFUSED
+Female,65,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,No,No,Yes,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,77,65+,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,No,Yes,No,Better
+Male,18,18-24,Strong Democrat,Not very strong Liberal,Some college,,Latino,,Yes,Yes,Yes,No,Agree,Agree,Disagree,No,Yes,No,No,No,No,Better
+Female,23,18-24,Strong Democrat,Strong Liberal,College degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Disagree,Yes,No,Yes,No,Yes,No,Better
+Female,23,18-24,Not very strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Disagree,No,Yes,Yes,Yes,No,No,Better
+Female,65,65+,Strong Democrat,Moderate,College degree,,White,,No,No,Yes,No,Disagree,Disagree,Disagree,Yes,Yes,Yes,Yes,Yes,Yes,Worse
+Female,34,25-34,Not very strong Democrat,Moderate,Graduate degree,,Latino,,Yes,No,No,No,Disagree,Agree,Agree,Yes,Yes,No,No,No,No,Worse
+Female,38,35-44,Strong Democrat,Strong Liberal,College degree,,Other,Mixed race,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,No,Yes,No,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,56,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,Yes,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,Better
+Female,58,55-64,Strong Democrat,Moderate,Some college,,Latino,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,Yes,Better
+Male,35,35-44,Not very strong Democrat,Moderate,College degree,,Other,White and Latino,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Disagree,No,No,No,No,No,No,DON'T KNOW/REFUSED
+Female,33,25-34,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,No,No,Yes,No,No,Yes,DON'T KNOW/REFUSED
+Female,32,25-34,Strong Democrat,Strong Conservative,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,No,Yes,Yes,Yes,No,DON'T KNOW/REFUSED
+Male,65,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,DON'T KNOW/REFUSED,Yes,Yes,Yes,DON'T KNOW/REFUSED
+Male,37,35-44,Strong Democrat,Moderate,Some college,,Asian,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,No,No,No,No,Yes,No,DON'T KNOW/REFUSED
+Female,34,25-34,Not very strong Democrat,Moderate,Graduate degree,,Latino,,Yes,Yes,Yes,No,Disagree,Disagree,Disagree,No,No,Yes,No,No,No,Worse
+Female,65,65+,Not very strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,DON'T KNOW/REFUSED,Yes,Disagree,DON'T KNOW/REFUSED,Agree,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED
+Female,94,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,No,Yes,No,Worse
+Female,57,55-64,Strong Democrat,DON'T KNOW/REFUSED,Some college,,Black,,No,No,Yes,Yes,Disagree,Disagree,Disagree,Yes,DON'T KNOW/REFUSED,Yes,Yes,No,Yes,Worse
+Male,86,65+,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,No,Yes,No,Worse
+Male,76,65+,Strong Democrat,Moderate,Graduate degree,,White,,Yes,No,Yes,No,Agree,Agree,Agree,Yes,Yes,No,Yes,Yes,No,Worse
+Female,75,65+,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,Better
+Female,89,65+,Strong Democrat,Moderate,Some college,,White,,Yes,DON'T KNOW/REFUSED,Yes,No,Agree,Agree,Agree,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,79,65+,Strong Democrat,Not very strong Liberal,High school or less,,Black,,Yes,No,Yes,Yes,Disagree,Disagree,Disagree,No,Yes,Yes,Yes,Yes,No,Worse
+Female,34,25-34,Strong Democrat,Moderate,College degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,No,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,92,65+,Strong Democrat,Strong Liberal,High school or less,,White,,Yes,No,No,Yes,Agree,Agree,Agree,Yes,No,Yes,Yes,Yes,No,Worse
+Male,78,65+,Not very strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,No,Yes,No,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED
+Female,82,65+,Not very strong Democrat,Moderate,College degree,,Black,,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,Disagree,Yes,No,Yes,No,No,DON'T KNOW/REFUSED,Worse
+Male,65,65+,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Disagree,No,Yes,No,No,Yes,Yes,Worse
+Male,70,65+,Strong Democrat,Moderate,High school or less,,Black,,Yes,Yes,No,No,Agree,Agree,Disagree,Yes,Yes,No,Yes,DON'T KNOW/REFUSED,No,Worse
+Male,66,65+,Strong Democrat,Not very strong Liberal,Some college,,White,,Yes,No,Yes,Yes,Disagree,Disagree,Disagree,Yes,No,No,Yes,No,No,DON'T KNOW/REFUSED
+Female,63,55-64,Not very strong Democrat,Strong Conservative,Some college,,White,,Yes,Yes,Yes,No,Agree,Agree,Disagree,No,Yes,Yes,No,Yes,Yes,Worse
+Female,62,55-64,Strong Democrat,Strong Liberal,High school or less,,White,,No,Yes,Yes,Yes,Disagree,DON'T KNOW/REFUSED,Agree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,73,65+,Strong Democrat,Strong Liberal,Some college,,White,,Yes,No,Yes,Yes,Disagree,Disagree,DON'T KNOW/REFUSED,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,78,65+,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,66,65+,Strong Democrat,Moderate,College degree,,Other,Native American,Yes,Yes,Yes,Yes,Agree,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,No,Worse
+Male,69,65+,Not very strong Democrat,Moderate,Some college,,Other,Native American and African American,Yes,Yes,Yes,No,Agree,Agree,Disagree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,60,55-64,Strong Democrat,Not Very Strong Conservative,High school or less,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,Better
+Female,85,65+,Strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,No,Agree,Agree,DON'T KNOW/REFUSED,No,Yes,No,No,No,No,Worse
+Female,84,65+,Strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,No,Disagree,DON'T KNOW/REFUSED,Agree,Yes,Yes,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Worse
+Female,78,65+,Strong Democrat,Not very strong Liberal,College degree,,White,,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,68,65+,Strong Democrat,Strong Liberal,Graduate degree,,DON'T KNOW/REFUSED,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,No,No,Yes,Yes,No,DON'T KNOW/REFUSED
+Female,75,65+,Strong Democrat,Not very strong Liberal,Some college,,Latino,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,No,Worse
+Female,85,65+,Strong Democrat,Moderate,High school or less,,White,,Yes,No,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,DON'T KNOW/REFUSED,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,Worse
+Male,57,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,DON'T KNOW/REFUSED,Yes,Yes,Disagree,Disagree,Agree,Yes,DON'T KNOW/REFUSED,Yes,No,No,No,DON'T KNOW/REFUSED
+Female,60,55-64,Strong Democrat,Moderate,Some college,,Black,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,DON'T KNOW/REFUSED,Yes,Yes,Yes,DON'T KNOW/REFUSED,Yes,No,DON'T KNOW/REFUSED
+Female,47,45-54,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,No,No,No,Yes,No,DON'T KNOW/REFUSED
+Female,79,65+,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,No,Yes,Yes,No,Yes,No,Worse
+Female,68,65+,Strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Disagree,Agree,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,74,65+,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Disagree,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Male,73,65+,Strong Democrat,Strong Liberal,College degree,,Black,,Yes,No,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,No,Yes,No,No,Worse
+Female,55,55-64,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,Yes,Yes,No,Yes,No,DON'T KNOW/REFUSED
+Male,54,45-54,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,Yes,No,No,No,No,DON'T KNOW/REFUSED
+Female,71,65+,Not very strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,No,Yes,Worse
+Male,64,55-64,Strong Democrat,Moderate,Graduate degree,,White,,Yes,No,Yes,No,Disagree,Agree,Agree,No,Yes,Yes,No,No,No,Better
+Female,56,55-64,Not very strong Democrat,Moderate,College degree,,White,,Yes,Yes,No,No,Disagree,Agree,Disagree,No,Yes,No,No,Yes,Yes,Worse
+Female,65,65+,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED
+Female,75,65+,Strong Democrat,Strong Liberal,High school or less,,Black,,Yes,Yes,Yes,Yes,Disagree,Disagree,Disagree,No,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,70,65+,Strong Democrat,Moderate,Graduate degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Disagree,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Male,57,55-64,Not very strong Democrat,Moderate,High school or less,,Black,,Yes,Yes,DON'T KNOW/REFUSED,Yes,Agree,Agree,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,No,No,Yes,No,Worse
+Male,18,18-24,Not very strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,No,No,No,No,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,32,25-34,Not very strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Agree,No,Yes,Yes,No,No,Yes,Worse
+Female,26,25-34,Strong Democrat,Strong Conservative,High school or less,,Black,,No,No,Yes,No,Disagree,Disagree,Disagree,Yes,DON'T KNOW/REFUSED,Yes,Yes,No,No,Worse
+Male,57,55-64,Strong Democrat,Moderate,High school or less,,DON'T KNOW/REFUSED,,No,Yes,Yes,Yes,Disagree,Agree,Agree,No,No,Yes,No,Yes,No,Better
+Female,58,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,No,Yes,Yes,No,DON'T KNOW/REFUSED
+Female,66,65+,Strong Democrat,Moderate,High school or less,,White,,Yes,No,Yes,Yes,Disagree,Agree,Agree,No,Yes,Yes,Yes,No,Yes,Worse
+Male,33,25-34,Not very strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,Yes,Yes,Yes,Yes,Yes,Better
+Male,55,55-64,Not very strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,Yes,No,DON'T KNOW/REFUSED
+Male,20,18-24,Strong Democrat,Strong Liberal,High school or less,,White,,No,Yes,Yes,No,Agree,Agree,Agree,No,No,No,No,Yes,No,Worse
+Female,19,18-24,Strong Democrat,Strong Liberal,Some college,,White,,Yes,Yes,Yes,No,Disagree,Disagree,Disagree,No,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,71,65+,Strong Democrat,Moderate,High school or less,,Latino,,Yes,No,Yes,No,DON'T KNOW/REFUSED,Agree,Agree,Yes,Yes,Yes,Yes,Yes,No,Worse
+Female,35,35-44,Not very strong Democrat,DON'T KNOW/REFUSED,College degree,,White,,Yes,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,Yes,No,DON'T KNOW/REFUSED
+Female,71,65+,Not very strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,No,Agree,Agree,Disagree,Yes,No,Yes,No,Yes,Yes,Worse
+Female,37,35-44,Not very strong Democrat,Not very strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,Agree,No,No,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Male,32,25-34,Not very strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,No,No,No,Yes,Yes,No,DON'T KNOW/REFUSED
+Female,28,25-34,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,No,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,Better
+Female,27,25-34,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,No,Yes,Yes,No,Better
+Female,28,25-34,Strong Democrat,Moderate,Some college,,Black,,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,Agree,Disagree,No,Yes,Yes,DON'T KNOW/REFUSED,No,Yes,Worse
+Male,57,55-64,Strong Democrat,Not very strong Liberal,High school or less,,Black,,Yes,No,No,Yes,Disagree,Disagree,Agree,No,Yes,No,DON'T KNOW/REFUSED,Yes,No,DON'T KNOW/REFUSED
+Male,64,55-64,Strong Democrat,Moderate,Graduate degree,,White,,Yes,No,Yes,No,Disagree,Agree,Agree,Yes,Yes,No,No,Yes,DON'T KNOW/REFUSED,Worse
+Female,57,55-64,Strong Democrat,Strong Liberal,Some college,,Black,,Yes,Yes,Yes,Yes,Agree,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,Better
+Male,39,35-44,Not very strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,Yes,No,Yes,Yes,No,No,Worse
+Male,37,35-44,Not very strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Agree,Agree,Agree,No,Yes,Yes,Yes,No,No,Worse
+Male,29,25-34,Not very strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,Yes,No,No,No,No,No,DON'T KNOW/REFUSED
+Male,52,45-54,Strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,DON'T KNOW/REFUSED,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,No,No,Worse
+Female,43,35-44,Not very strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,No,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,Yes,No,Better
+Female,40,35-44,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,DON'T KNOW/REFUSED,Yes,No,Better
+Male,53,45-54,Strong Democrat,Strong Liberal,College degree,,Black,,No,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,69,65+,Strong Democrat,Moderate,College degree,,Black,,Yes,No,Yes,Yes,Agree,Agree,Disagree,No,Yes,No,No,Yes,No,Worse
+Male,49,45-54,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,No,Yes,No,Yes,DON'T KNOW/REFUSED
+Female,41,35-44,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,No,No,No,DON'T KNOW/REFUSED
+Female,62,55-64,Strong Democrat,Strong Liberal,Some college,,DON'T KNOW/REFUSED,,Yes,No,No,Yes,Agree,Agree,Disagree,Yes,Yes,Yes,Yes,No,Yes,Worse
+Female,47,45-54,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Male,52,45-54,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,No,No,No,Yes,No,Better
+Female,62,55-64,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,66,65+,Strong Democrat,Strong Conservative,Graduate degree,,Black,,Yes,Yes,Yes,No,Agree,Agree,Disagree,Yes,Yes,Yes,No,No,No,Worse
+Male,65,65+,Strong Democrat,Not Very Strong Conservative,High school or less,,Black,,Yes,Yes,No,No,Agree,Agree,Agree,Yes,No,No,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,Worse
+Female,73,65+,Strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED
+Male,52,45-54,Not very strong Democrat,Moderate,Graduate degree,,Black,,Yes,Yes,No,DON'T KNOW/REFUSED,Agree,Agree,Disagree,No,No,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,No,Worse
+Male,65,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,No,Yes,DON'T KNOW/REFUSED,Disagree,Agree,Agree,No,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,Worse
+Female,37,35-44,Not very strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,DON'T KNOW/REFUSED,Yes,No,No,No,No,DON'T KNOW/REFUSED
+Female,40,35-44,Strong Democrat,Strong Liberal,Graduate degree,,Black,,Yes,No,Yes,Yes,Agree,Disagree,Agree,No,Yes,Yes,Yes,Yes,No,DON'T KNOW/REFUSED
+Female,22,18-24,Not very strong Democrat,DON'T KNOW/REFUSED,College degree,,Black,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,No,Yes,No,No,No,Yes,Better
+Male,22,18-24,Strong Democrat,Strong Liberal,College degree,,Latino,,Yes,Yes,Yes,Yes,Agree,Agree,Disagree,No,No,No,No,No,No,Better
+Male,22,18-24,Not very strong Democrat,Moderate,High school or less,,Latino,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,Yes,No,No,Yes,Yes,Worse
+Male,56,55-64,Strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,No,Yes,Yes,Yes,DON'T KNOW/REFUSED,Better
+Female,34,25-34,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,No,No,No,Yes,No,DON'T KNOW/REFUSED
+Female,42,35-44,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Disagree,Disagree,Agree,No,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,No,Better
+Male,58,55-64,Strong Democrat,Not very strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,No,Disagree,DON'T KNOW/REFUSED,Agree,Yes,Yes,No,No,Yes,No,DON'T KNOW/REFUSED
+Male,55,55-64,Strong Democrat,Moderate,Some college,,White,,DON'T KNOW/REFUSED,No,Yes,Yes,Agree,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,Better
+Male,42,35-44,Not very strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,No,Yes,Yes,Yes,No,Worse
+Male,36,35-44,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,No,No,Yes,No,No,Worse
+Male,40,35-44,Strong Democrat,Moderate,Graduate degree,,Black,,Yes,Yes,Yes,No,Disagree,Disagree,Disagree,Yes,No,No,No,No,No,Worse
+Male,26,25-34,Strong Democrat,Not very strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,No,No,No,Yes,No,No,DON'T KNOW/REFUSED
+Female,38,35-44,Not very strong Democrat,Moderate,Some college,,Latino,,Yes,Yes,Yes,Yes,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,No,Yes,Better
+Female,65,65+,Strong Democrat,Not Very Strong Conservative,High school or less,,White,,DON'T KNOW/REFUSED,No,No,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,Yes,DON'T KNOW/REFUSED,No,No,DON'T KNOW/REFUSED
+Male,44,35-44,Strong Democrat,Strong Liberal,College degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Disagree,Yes,No,No,No,No,Yes,Worse
+Female,68,65+,Not very strong Democrat,Not Very Strong Conservative,College degree,,Black,,Yes,Yes,Yes,Yes,Agree,Agree,Disagree,No,Yes,Yes,No,No,No,Worse
+Male,61,55-64,Strong Democrat,Not very strong Liberal,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,No,No,Yes,No,Yes,Worse
+Female,63,55-64,Strong Democrat,Not Very Strong Conservative,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,Worse
+Male,31,25-34,Not very strong Democrat,Moderate,College degree,,Black,,Yes,Yes,Yes,No,Disagree,Agree,Disagree,Yes,No,No,No,Yes,No,Worse
+Female,47,45-54,Strong Democrat,Moderate,College degree,,Latino,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Disagree,Agree,DON'T KNOW/REFUSED,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,27,25-34,Not very strong Democrat,Moderate,Some college,,Asian,,Yes,Yes,Yes,Yes,Agree,Disagree,Disagree,Yes,Yes,Yes,Yes,No,Yes,Worse
+Female,30,25-34,Not very strong Democrat,Not very strong Liberal,Some college,,White,,Yes,Yes,Yes,No,Agree,Agree,Disagree,Yes,Yes,Yes,Yes,No,No,Worse
+Female,63,55-64,Strong Democrat,Strong Liberal,High school or less,,White,,Yes,Yes,Yes,No,Disagree,Agree,Agree,Yes,Yes,Yes,No,No,No,Worse
+Female,57,55-64,Strong Democrat,Not very strong Liberal,College degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,Worse
+Male,25,25-34,Not very strong Democrat,Moderate,Some college,,DON'T KNOW/REFUSED,,Yes,Yes,Yes,Yes,Disagree,Agree,Disagree,Yes,Yes,No,Yes,No,No,Better
+Female,45,45-54,Strong Democrat,Moderate,College degree,,Black,,Yes,Yes,No,No,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Female,43,35-44,Strong Democrat,DON'T KNOW/REFUSED,Graduate degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Disagree,Yes,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED
+Male,24,18-24,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,Yes,Yes,No,No,Better
+Female,72,65+,Strong Democrat,Moderate,Some college,,Black,,Yes,Yes,Yes,Yes,Disagree,Disagree,Disagree,No,Yes,No,No,No,No,Worse
+Female,55,55-64,Strong Democrat,Strong Liberal,College degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,No,Yes,Yes,No,No,Worse
+Female,77,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,DON'T KNOW/REFUSED,No,No,No,No,No,No,DON'T KNOW/REFUSED
+Female,80,65+,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,No,Yes,Yes,Yes,Yes,No,Better
+Female,79,65+,Strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,No,Yes,Yes,Yes,Worse
+Male,29,25-34,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,Disagree,Disagree,Agree,Yes,Yes,No,Yes,Yes,No,Better
+Female,68,65+,Strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,No,Yes,Yes,Yes,Yes,No,DON'T KNOW/REFUSED
+Male,87,65+,Not very strong Democrat,Moderate,High school or less,,White,,Yes,Yes,Yes,No,DON'T KNOW/REFUSED,Agree,Disagree,No,No,No,No,No,Yes,Worse
+Male,69,65+,Not very strong Democrat,Not Very Strong Conservative,Some college,,White,,Yes,No,Yes,No,Agree,Disagree,Disagree,No,No,No,No,No,No,DON'T KNOW/REFUSED
+Female,63,55-64,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,80,65+,Strong Democrat,DON'T KNOW/REFUSED,High school or less,,Black,,No,No,Yes,No,Disagree,Agree,Disagree,No,Yes,Yes,No,Yes,No,Worse
+Male,55,55-64,Not very strong Democrat,Strong Conservative,College degree,,White,,Yes,Yes,Yes,No,Agree,Agree,Agree,No,DON'T KNOW/REFUSED,Yes,No,DON'T KNOW/REFUSED,Yes,Worse
+Female,69,65+,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,DON'T KNOW/REFUSED,Yes,Yes,Yes,Better
+Female,62,55-64,Strong Democrat,Moderate,Some college,,White,,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,DON'T KNOW/REFUSED,No,No,Worse
+Female,69,65+,Strong Democrat,Strong Conservative,Some college,,Black,,Yes,Yes,Yes,No,Disagree,Disagree,Agree,Yes,Yes,Yes,Yes,No,No,DON'T KNOW/REFUSED
+Female,62,55-64,Strong Democrat,Strong Liberal,College degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,No,Yes,Yes,Yes,No,No,Worse
+Female,83,65+,Strong Democrat,Strong Conservative,Graduate degree,,White,,Yes,Yes,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Agree,Agree,Yes,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,Yes,Worse
+Female,79,65+,Strong Democrat,Strong Conservative,High school or less,,White,,Yes,No,No,No,Agree,Agree,Disagree,No,Yes,Yes,DON'T KNOW/REFUSED,No,No,Worse
+Female,73,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,No,Yes,Yes,Yes,DON'T KNOW/REFUSED
+Male,59,55-64,Not very strong Democrat,Moderate,High school or less,,Black,,No,Yes,Yes,No,Disagree,Disagree,Disagree,Yes,Yes,No,DON'T KNOW/REFUSED,No,Yes,Worse
+Male,57,55-64,Strong Democrat,Moderate,Some college,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,Yes,No,Yes,Better
+Male,67,65+,Strong Democrat,Strong Liberal,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,Yes,Yes,No,No,Yes,Yes,Worse
+Female,69,65+,Strong Democrat,Moderate,College degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,No,No,No,No,No,No,DON'T KNOW/REFUSED
+Female,56,55-64,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Agree,Agree,Agree,Yes,Yes,Yes,No,No,No,DON'T KNOW/REFUSED
+Female,72,65+,Strong Democrat,Moderate,Graduate degree,,White,,Yes,Yes,Yes,Yes,Disagree,Agree,Agree,No,Yes,Yes,Yes,No,No,Worse
+Male,59,55-64,Strong Democrat,Moderate,High school or less,,Other,Guyanese,Yes,No,Yes,No,Agree,Agree,Agree,Yes,Yes,No,No,Yes,Yes,Better
+Male,60,55-64,Not very strong Democrat,Moderate,College degree,,White,,Yes,Yes,Yes,No,Disagree,DON'T KNOW/REFUSED,Agree,Yes,DON'T KNOW/REFUSED,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED,No,DON'T KNOW/REFUSED
+Female,65,65+,Strong Democrat,Strong Liberal,College degree,,Black,,Yes,Yes,Yes,Yes,Disagree,Disagree,Agree,Yes,Yes,Yes,No,No,No,Worse

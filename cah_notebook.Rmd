@@ -1,0 +1,618 @@
+---
+title: "Cards against humanity paper notebook"
+output: html_notebook
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(stargazer)
+library(mice)
+library(brms)
+library(gridExtra)
+```
+
+### Read the data
+
+```{r}
+df_raw = read_csv('/Users/georgeberry/Desktop/CAH/cah_data_files/201710-CAH_PulseOfTheNation_Raw.csv')
+```
+
+### Clean the data
+
+```{r}
+dep_var = 'civil_war'
+indep_var = 'lost_friends'
+control_vars = c(
+  'income',
+  'gender',
+  'age',
+  'age_range',
+  'pol_affil',
+  'race',
+  'educ',
+  'kale',
+  'hunting',
+  'nationalist',
+  'love_amer'
+)
+all_vars = c(dep_var, indep_var, control_vars)
+```
+
+```{r}
+colnames(df_raw) = c(
+  'income',
+  'gender',
+  'age',
+  'age_range',
+  'pol_affil',
+  'approve',
+  'educ',
+  'blank1',
+  'race',
+  'blank2',
+  'nationalist',
+  'rep_nationalist',
+  'blank3',
+  'love_amer',
+  'dem_love_amer',
+  'blank4',
+  'help_poor',
+  'rep_help_poor',
+  'white_racist',
+  'dem_white_racist',
+  'lost_friends',
+  'civil_war',
+  'hunting',
+  'kale',
+  'the_rock',
+  'vader_or_trump'
+)
+
+df = df_raw %>%
+  select(all_of(all_vars)) %>%
+  mutate(across(everything(), ~ifelse(. == 'DK/REF', NA, .))) %>%
+  mutate(
+    civil_war = ifelse(civil_war == 'Likely', 1, 0),
+    log_income = log1p(income),
+    #income=income/1000,
+  ) %>%
+  mutate_if(is.character, as.factor) %>%
+  mutate(
+    gender=relevel(gender, 'Female'),
+    age_range=relevel(age_range, '35-44'),
+    pol_affil=relevel(pol_affil, 'Independent'),
+    race=relevel(race, 'White'),
+    educ=relevel(educ, 'High school'),
+    kale=relevel(kale, 'No'),
+    hunting=relevel(hunting, 'No'),
+    nationalist=relevel(nationalist, 'Disagree'),
+    love_amer=relevel(love_amer, 'No'),
+    lost_friends=relevel(lost_friends, 'No')
+  )
+```
+
+
+### Missingness structure
+
+```{r}
+colSums(is.na(df))
+```
+
+```{r}
+colSums(
+  is.na(
+    df %>%
+      select(-log_income)
+  )
+) -> missing_table
+missing_table = as_tibble(as.data.frame(missing_table), rownames = 'Demographic') %>%
+  rename(`Missing rows`=missing_table)
+stargazer(missing_table, summary=F, rownames=F)
+```
+
+### Examining lost friends
+
+Overall
+
+```{r}
+mean(df$lost_friends == 'Yes', na.rm=T)
+```
+
+Break down by demo
+
+```{r}
+df %>%
+  select(-income, -log_income, -age) %>%
+  filter(!is.na(lost_friends)) %>%
+  mutate(
+    civil_war = ifelse(civil_war == 1, 'Yes', 'No')
+  ) %>%
+  pivot_longer(c(civil_war, gender:love_amer)) %>%
+  mutate(
+    lost_friends = ifelse(lost_friends == 'Yes', 1, 0),
+  ) %>%
+  filter(!is.na(value), value != 'Other') %>%
+  group_by(name, value) %>%
+  summarize(
+    se = sd(lost_friends, na.rm=T) / sqrt(n()),
+    lost_friends = mean(lost_friends),
+    N=n()
+  ) %>%
+  mutate(
+    demo = paste0(name, '—', value)
+  ) %>%
+  arrange(demo) -> lost_friends_demos
+lost_friends_demos
+```
+
+```{r}
+plot_lost_friends = ggplot(lost_friends_demos) +
+  geom_point() +
+  aes(x=reorder(demo, lost_friends), y=lost_friends) +
+  geom_hline(yintercept=0, linetype='dotdash') +
+  geom_hline(yintercept=1, linetype='dotdash') +
+  ylim(c(0, 1)) +
+  labs(
+    title='Fraction who lost a friend in\nresponse to 2016 election',
+    y='Lost friends',
+    x='Demographic'
+  ) +
+  coord_flip() +
+  theme_minimal()
+plot_lost_friends
+```
+
+
+Friendship loss is high for the 25-34 age group and for non-Republicans
+
+### Examining perceptions of civil war
+
+Overall
+
+```{r}
+mean(df$civil_war, na.rm=T)
+```
+
+Wow! 1/3 of Americans think a civil war is "Likely". That's a pretty high level of fear.
+
+Break down by demo
+
+```{r}
+df %>%
+  select(-income, -log_income, -age) %>%
+  filter(!is.na(civil_war)) %>%
+  pivot_longer(lost_friends:love_amer) %>%
+  filter(!is.na(value), value != 'Other') %>%
+  group_by(name, value) %>%
+  summarize(
+    se = sd(civil_war, na.rm=T) / sqrt(n()),
+    civil_war = mean(civil_war),
+    N=n()
+  ) %>%
+  mutate(
+    demo = paste0(name, '—', value)
+  ) %>%
+  arrange(demo) -> civil_war_demos
+civil_war_demos
+```
+
+Super interesting: the people who lost friends are different than the people who think a civil war is likely in the oneway! For instance the education pattern is reversed.
+
+
+```{r}
+plot_civil_war = ggplot(civil_war_demos) +
+  geom_point() +
+  aes(x=reorder(demo, civil_war), y=civil_war) +
+  geom_hline(yintercept=0, linetype='dotdash') +
+  geom_hline(yintercept=1, linetype='dotdash') +
+  ylim(c(0, 1)) +
+  labs(
+    title='Fraction who said a civil war\nwas "Likely" in the next decade',
+    y='Said civil war "Likely"',
+    x='Demographic'
+  ) +
+  coord_flip() +
+  theme_minimal()
+plot_civil_war
+```
+
+
+### Impute and regress
+
+Note the following
+
+- We do not use the DV `civil_war` as part of imputation
+- We drop rows in the regression where the main independent variable `lost_friends` is missing
+
+drop cases where DV is null, impute, and regress
+
+```{r}
+df_no_dv = df %>% select(-civil_war)
+
+imp_no_dv = mice(df_no_dv, m=5, maxit=50, meth='pmm', seed=500, printFlag=FALSE)
+df_imp_no_dv = complete(imp_no_dv, 1)
+
+df2 = df_imp_no_dv
+df2$civil_war = df$civil_war
+df2 = df2[!is.na(df$lost_friends),]
+```
+
+After accounting for both demos and some lifestyle questions, people who lost friends as a result of the 2016 election are 12 percentage points more likely to view a civil war as "Likely". That's large!
+
+```{r}
+mod2 = lm(
+  civil_war ~ lost_friends + log1p(income) + gender + age_range + pol_affil + race + educ + kale + hunting + nationalist + love_amer,
+  data=df2
+)
+summary(mod2)
+```
+
+We are imputing 70% of income so let's check a model without income to make sure we get similar results
+
+```{r}
+df_no_inc = df %>% select(-civil_war, -income, -log_income)
+
+imp_no_inc = mice(df_no_inc, m=5, maxit=50, meth='pmm', seed=500, printFlag=FALSE)
+df_imp_no_inc = complete(imp_no_inc, 1)
+
+df3 = df_imp_no_inc
+df3$civil_war = df$civil_war
+df3 = df3[!is.na(df$lost_friends),]
+```
+
+Interesting, the lifestyle variables matter here!
+
+```{r}
+mod3 = lm(
+  civil_war ~ lost_friends + gender + age_range + pol_affil + race + educ + kale + hunting + nationalist + love_amer,
+  data=df3
+)
+summary(mod3)
+```
+
+And just out of curiosity, what's the raw regression say?
+
+```{r}
+mod2_raw = lm(
+  civil_war ~ lost_friends,
+  data=df2
+)
+summary(mod2_raw)
+```
+
+And finally, let's do imputation excluding the indep var (`lost_frends`) from imputation. This is a check that matters if we interpret losing friends causally.
+
+```{r}
+df_no_dviv = df %>% select(-civil_war, -lost_friends)
+
+imp_no_dviv = mice(df_no_dviv, m=5, maxit=50, meth='pmm', seed=500, printFlag=FALSE)
+df_imp_no_dviv = complete(imp_no_dviv, 1)
+
+df4 = df_imp_no_dviv
+df4$civil_war = df$civil_war
+df4$lost_friends = df$lost_friends
+df4 = df4[!is.na(df$lost_friends),]
+```
+
+```{r}
+mod4 = lm(
+  civil_war ~ lost_friends + log1p(income) + gender + age_range + pol_affil + race + educ + kale + hunting + nationalist + love_amer,
+  data=df4
+)
+summary(mod4)
+```
+
+Just curious: what if we drop the lifestyle questions or do only lifestyle
+
+```{r}
+summary(
+  lm(
+    civil_war ~ lost_friends + kale + hunting + nationalist + love_amer,
+    data=df2
+  )
+)
+```
+
+```{r}
+summary(
+  lm(
+    civil_war ~ lost_friends + log1p(income) + gender + age_range + pol_affil + race + educ,
+    data=df2
+  )
+)
+```
+
+### Now do logits or else people will (wrongly) complain
+
+```{r}
+mod2_logit = glm(
+  civil_war ~ lost_friends + log1p(income) + gender + age_range + pol_affil + race + educ + kale + hunting + nationalist + love_amer,
+  data=df2,
+  family=binomial
+)
+summary(mod2_logit)
+```
+```{r}
+mod3_logit = glm(
+  civil_war ~ lost_friends + gender + age_range + pol_affil + race + educ + kale + hunting + nationalist + love_amer,
+  data=df3, 
+  family=binomial
+)
+summary(mod3_logit)
+```
+
+```{r}
+mod4_logit = glm(
+  civil_war ~ lost_friends + log1p(income) + gender + age_range + pol_affil + race + educ + kale + hunting + nationalist + love_amer,
+  data=df4,
+  family=binomial
+)
+summary(mod4_logit)
+```
+```{r}
+mod2_raw_logit = glm(civil_war ~ lost_friends, family=binomial, data=df2)
+summary(mod2_raw_logit)
+```
+
+Logistic regression gut check, we should get a similar probability to OLS
+
+```{r}
+df_yes = df2 %>%
+  mutate(
+    lost_friends='Yes'
+  )
+df_no = df2 %>%
+  mutate(
+    lost_friends='No'
+  )
+
+mean(predict(mod2_logit, newdata=df_yes, type='response') - predict(mod2_logit, newdata=df_no, type='response'))
+```
+
+Bam, it works!
+
+### A simple Bayesian regression for the skeptical
+
+```{r}
+mod_brms = brm(
+  civil_war ~ lost_friends + log1p(income) + gender + age_range + pol_affil + race + educ + kale + hunting + nationalist + love_amer,
+  data=df2,
+  family=bernoulli,
+  refresh=0
+)
+summary(mod_brms)
+```
+
+
+### Make tables
+
+Have to convert odds ratios se's like so: https://www.andrewheiss.com/blog/2016/04/25/convert-logistic-regression-standard-errors-to-odds-ratios-with-r/
+
+```{r}
+coef.mod2_raw_logit <- exp(mod2_raw_logit$coef)
+ses.mod2_raw_logit <- sqrt(coef.mod2_raw_logit^2 * diag(vcov(mod2_raw_logit)))
+pval.mod2_raw_logit <- summary(mod2_raw_logit)$coef[, 4]
+
+coef.mod2_logit <- exp(mod2_logit$coef)
+ses.mod2_logit <- sqrt(coef.mod2_logit^2 * diag(vcov(mod2_logit)))
+pval.mod2_logit <- summary(mod2_logit)$coef[, 4]
+
+coef.mod3_logit <- exp(mod3_logit$coef)
+ses.mod3_logit <- sqrt(coef.mod3_logit^2 * diag(vcov(mod3_logit)))
+pval.mod3_logit <- summary(mod3_logit)$coef[, 4]
+
+
+library(stargazer)
+#stargazer(model.count,coef=list(coef.vector))
+
+stargazer(
+  mod2_logit,
+  mod3_logit, 
+  mod2_raw_logit,
+  coef=list(
+    coef.mod2_logit,
+    coef.mod3_logit,
+    coef.mod2_raw_logit
+  ),
+  se=list(
+    ses.mod2_logit,
+    ses.mod3_logit,
+    ses.mod2_raw_logit
+  ),
+  p=list(
+    pval.mod2_logit,
+    pval.mod3_logit,
+    pval.mod2_raw_logit
+  ),
+  #type='html',
+  column.labels=c(
+    "Primary Model",
+    "No Income Model",
+    "Bivariate Model"
+  ),
+  no.space=TRUE,
+  star.cutoffs = c(0.05, 0.01, 0.001)
+  # report=('vc*p')
+)
+```
+
+### Make plots
+
+White, income
+
+```{r}
+# white, income
+
+new_cah.df.a <- data.frame(
+  income=seq(0, 250000, 10000),
+  lost_friends='No',
+  age_range = '35-44',
+  gender = "Male",
+  pol_affil = "Independent",
+  educ = "College degree",
+  race = "White",
+  kale = 'Yes',
+  hunting = 'No',
+  nationalist = 'Disagree',
+  love_amer = 'Yes'
+)
+new_cah.df.b <- data.frame(
+  income=seq(0, 250000, 10000),
+  lost_friends='Yes',
+  age_range = '35-44',
+  gender = "Male",
+  pol_affil = "Independent",
+  educ = "College degree",
+  race = "White",
+  kale = 'Yes',
+  hunting = 'No',
+  nationalist = 'Disagree',
+  love_amer = 'Yes'
+)
+new_cah.df.c <- data.frame(
+  income=seq(0, 250000, 10000),
+  lost_friends='No',
+  age_range = '35-44',
+  gender = "Female",
+  pol_affil = "Independent",
+  educ = "College degree",
+  race = "White",
+  kale = 'Yes',
+  hunting = 'No',
+  nationalist = 'Disagree',
+  love_amer = 'Yes'
+)
+new_cah.df.d <- data.frame(
+  income=seq(0, 250000, 10000),
+  lost_friends='Yes',
+  age_range = '35-44',
+  gender = "Female",
+  pol_affil = "Independent",
+  educ = "College degree",
+  race = "White",
+  kale = 'Yes',
+  hunting = 'No',
+  nationalist = 'Disagree',
+  love_amer = 'Yes'
+)
+new_cah.df <- rbind(new_cah.df.a, new_cah.df.b, new_cah.df.c, new_cah.df.d)
+
+new_cah.df$prediction <- predict(mod2_logit, new_cah.df, type='response')
+
+plot_white_income <- ggplot(new_cah.df) +
+  aes(
+    x = income,
+    y = prediction,
+    linetype = as.factor(lost_friends),
+    color = as.factor(gender)
+  ) + 
+  geom_smooth(se=FALSE) +
+  ggtitle('Prediction for Likely/Unlikely Civil War \nGiven Lost Friend (White, College Degree)') + 
+  xlab('Income') +
+  ylab('Predicted Probability') +
+  labs(linetype='Lost Friends?', color='Gender') +
+  ylim(0,1) +
+  theme_minimal() +  theme(axis.text.x = element_text(angle = 45, vjust = 0.8, hjust=0.5))
+
+
+plot_white_income
+```
+
+```{r}
+# black, income
+
+new_cah.df.a <- data.frame(
+  income=seq(0, 250000, 10000),
+  lost_friends='No',
+  age_range = '35-44',
+  gender = "Male",
+  pol_affil = "Independent",
+  educ = "High school",
+  race = "Black",
+  kale = 'Yes',
+  hunting = 'No',
+  nationalist = 'Disagree',
+  love_amer = 'Yes'
+)
+new_cah.df.b <- data.frame(
+  income=seq(0, 250000, 10000),
+  lost_friends='Yes',
+  age_range = '35-44',
+  gender = "Male",
+  pol_affil = "Independent",
+  educ = "High school",
+  race = "Black",
+  kale = 'Yes',
+  hunting = 'No',
+  nationalist = 'Disagree',
+  love_amer = 'Yes'
+)
+new_cah.df.c <- data.frame(
+  income=seq(0, 250000, 10000),
+  lost_friends='No',
+  age_range = '35-44',
+  gender = "Female",
+  pol_affil = "Independent",
+  educ = "High school",
+  race = "Black",
+  kale = 'Yes',
+  hunting = 'No',
+  nationalist = 'Disagree',
+  love_amer = 'Yes'
+)
+new_cah.df.d <- data.frame(
+  income=seq(0, 250000, 10000),
+  lost_friends='Yes',
+  age_range = '35-44',
+  gender = "Female",
+  pol_affil = "Independent",
+  educ = "High school",
+  race = "Black",
+  kale = 'Yes',
+  hunting = 'No',
+  nationalist = 'Disagree',
+  love_amer = 'Yes'
+)
+new_cah.df <- rbind(new_cah.df.a, new_cah.df.b, new_cah.df.c, new_cah.df.d)
+
+new_cah.df$prediction <- predict(mod2_logit, new_cah.df, type='response')
+
+plot_black_income <- ggplot(new_cah.df) +
+  aes(
+    x = income,
+    y = prediction,
+    linetype = as.factor(lost_friends),
+    color = as.factor(gender)
+  ) + 
+  geom_smooth(se=FALSE) +
+  ggtitle(
+    'Prediction for Likely/Unlikely Civil War \nGiven Lost Friend (Black, High School)'
+  ) + 
+  xlab('Income') +
+  ylab('Predicted Probability') +
+  labs(linetype='Lost Friends?', color='Gender') +
+  ylim(0,1) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, vjust = 0.8, hjust=0.5))
+
+plot_black_income
+```
+
+### Combine plots
+
+```{r}
+grid.arrange(plot_white_income, plot_black_income, nrow=1)
+```
+
+```{r}
+grid.arrange(plot_lost_friends, plot_civil_war, nrow=1)
+```
+
+
+
+
+
+### left to do
+
+4. revise

@@ -1,0 +1,801 @@
+What gender do you identify with?,What is your age?,Age range,What is your race?,Q3OTH1,About how much money do you make per year?,q4xR1,What is your highest level of education?,Q5OTH1,"In politics today, do you consider yourself a Democrat, a Republican, or Independent?","Would you say you are liberal, conservative, or moderate?","Do you approve, disapprove, or neither approve nor disapprove of how Donald Trump is handling his job as president?","The typical Hollywood movie star is paid about 10 or 20 million dollars for every movie that they star in. Do you think it is fair that they are paid that much money, or unfair?","If you had to guess, in dollars per hour, what do you think the federal minimum wage is?","And in your opinion, in dollars per hour, what do you believe the federal minimum wage should be?","And in your opinion, in dollars per hour, what do you believe the federal minimum wage should be?",q11xR1,"If you had to guess, in percentage, what do you believe the federal tax rate is for individuals making more than 500 thousand dollars per year?",q12xR1,"And in your opinion, in percentage, what do you believe the federal tax rate should be for these individuals?",q13xR1,"In general, do you believe that the government should redistribute wealth from the rich to the poor?","If the government were to redistribute wealth, do you think it would personally benefit you?","And if the government were to redistribute wealth, do you think it would benefit most of the people you know?","Would you support a universal basic income, in which every American would receive an annual sum of money from the government to pay for basic needs, like food and housing?",Do you feel that you are being fairly compensated by your employer for the work that you do?,"The average CEO is paid about 16 million dollars per year. Do you think it is fair that they are paid that much money, or unfair?","This next question is about your physical appearance, and you may choose not to respond if it makes you uncomfortable. On a scale of 1-10, how physically attractive are you?"
+Female,70,65+,Black,,20000,,High school or less,,Independent,Liberal,Strongly Disapprove,DK/REF,15,,15,,,DK/REF,,DK/REF,No,No,No,Yes,No,Unfair,Very attractive
+Male,72,65+,White,,56000,,College degree,,Independent,Moderate,Strongly Approve,Fair,12,,50,,3,,10,,No,Yes,Yes,Yes,DK/REF,Unfair,8
+Female,82,65+,Black,,,DK/REF,College degree,,Democrat,Liberal,Strongly Disapprove,Fair,8.5,,15,,28,,35,,Yes,No,Yes,No,Yes,Unfair,6
+Male,70,65+,Asian,,,DK/REF,College degree,,Independent,Moderate,DK/REF,DK/REF,,DK/REF,,DK/REF,,DK/REF,,DK/REF,Yes,Yes,DK/REF,Yes,No,DK/REF,DK/REF
+Male,65,65+,Black,,60000,,College degree,,Independent,Conservative,Somewhat Disapprove,Fair,14,,14,,33,,15,,No,Yes,Yes,No,No,Unfair,7
+Female,53,45-54,White,,,DK/REF,Graduate degree,,Independent,Liberal,DK/REF,DK/REF,8,,20,,,DK/REF,,DK/REF,Yes,No,Yes,Yes,Yes,Unfair,8
+Female,63,55-64,White,,10000,,High school or less,,DK/REF,Moderate,Neither approve nor disapprove,Fair,8,,10,,,DK/REF,20,,No,Yes,No,Yes,No,Unfair,4
+Female,64,55-64,White,,68000,,Some college,,Independent,Moderate,Somewhat Disapprove,Fair,15,,14,,21,,3,,No,No,No,DK/REF,No,Unfair,7
+Male,64,55-64,Black,,50000,,High school or less,,Independent,Conservative,Strongly Disapprove,Unfair,7.5,,10,,15,,30,,Yes,No,Yes,Yes,No,Unfair,9
+Female,60,55-64,Black,,,DK/REF,Some college,,Democrat,Moderate,Strongly Disapprove,Fair,15,,20,,,DK/REF,15,,Yes,No,No,Yes,DK/REF,Unfair,Very attractive
+Male,66,65+,White,,24000,,High school or less,,Democrat,Liberal,Strongly Disapprove,Fair,10,,15,,33,,33,,Yes,Yes,No,Yes,Yes,Unfair,5
+Female,55,55-64,White,,,DK/REF,High school or less,,Republican,DK/REF,Somewhat Approve,Unfair,8,,8,,,DK/REF,,DK/REF,Yes,No,Yes,No,DK/REF,Unfair,5
+Female,89,65+,White,,,DK/REF,High school or less,,Republican,Liberal,Strongly Disapprove,DK/REF,,DK/REF,,DK/REF,,DK/REF,,DK/REF,No,No,No,No,DK/REF,Unfair,5
+Male,60,55-64,White,,16000,,College degree,,Republican,DK/REF,Somewhat Approve,Unfair,9,,8.5,,,DK/REF,20,,No,No,No,No,DK/REF,Unfair,7
+Male,58,55-64,White,,,DK/REF,College degree,,Republican,Conservative,Strongly Approve,Fair,8,,8,,35,,28,,No,No,No,No,Yes,Fair,Very attractive
+Male,85,65+,White,,20000,,Graduate degree,,Independent,Moderate,Neither approve nor disapprove,Fair,6,,5,,30,,30,,No,Yes,No,No,Yes,Unfair,6
+Female,84,65+,White,,,DK/REF,College degree,,Democrat,Moderate,Strongly Disapprove,Fair,,DK/REF,,DK/REF,,DK/REF,,DK/REF,Yes,Yes,DK/REF,Yes,DK/REF,Unfair,DK/REF
+Male,80,65+,White,,30000,,Graduate degree,,Republican,Conservative,Strongly Approve,Unfair,8,,8.5,,25,,20,,No,No,No,No,DK/REF,Unfair,5
+Male,62,55-64,White,,150000,,Graduate degree,,Independent,Conservative,Somewhat Approve,Unfair,10,,7.5,,38,,20,,No,No,No,No,Yes,Unfair,8
+Female,70,65+,Black,,2500,,High school or less,,Independent,Liberal,Strongly Disapprove,Unfair,7,,7.5,,35,,,DK/REF,Yes,Yes,Yes,Yes,DK/REF,Unfair,Very attractive
+Female,76,65+,White,,,DK/REF,High school or less,,Republican,Liberal,DK/REF,Fair,10,,,DK/REF,,DK/REF,,DK/REF,Yes,No,Yes,No,No,DK/REF,5
+Female,85,65+,White,,12000,,Some college,,Republican,Conservative,Strongly Approve,Unfair,15,,12,,,DK/REF,20,,Yes,No,Yes,Yes,No,Unfair,8
+Female,70,65+,White,,60000,,Some college,,Democrat,Liberal,Strongly Disapprove,DK/REF,,DK/REF,15,,10,,4,,DK/REF,DK/REF,DK/REF,No,Yes,Unfair,DK/REF
+Female,75,65+,White,,14000,,Some college,,Independent,Moderate,Strongly Approve,Unfair,12,,15,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,DK/REF,Unfair,8
+Male,78,65+,White,,30000,,College degree,,Republican,Conservative,Somewhat Approve,Unfair,8,,10,,26,,25,,No,No,No,No,DK/REF,Fair,5
+Female,74,65+,White,,36000,,High school or less,,Republican,Liberal,Neither approve nor disapprove,DK/REF,15,,,DK/REF,,DK/REF,10,,No,Yes,Yes,No,Yes,DK/REF,8
+Female,52,45-54,White,,,DK/REF,Some college,,Democrat,DK/REF,Strongly Disapprove,Unfair,8,,12,,10,,30,,Yes,Yes,Yes,Yes,No,Unfair,6
+Female,68,65+,White,,,DK/REF,Some college,,Independent,Conservative,Strongly Approve,DK/REF,15,,15,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,DK/REF,DK/REF,DK/REF
+Female,73,65+,White,,,DK/REF,Some college,,Republican,Moderate,Neither approve nor disapprove,Unfair,7,,10,,10,,15,,No,No,No,No,No,Unfair,DK/REF
+Female,56,55-64,White,,1000,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Unfair,12,,15,,5,,,DK/REF,Yes,Yes,Yes,Yes,Yes,Unfair,5
+Male,87,65+,White,,30000,,Some college,,Republican,Conservative,Strongly Approve,Fair,7.5,,,DK/REF,25,,25,,No,No,No,No,Yes,Fair,7
+Female,92,65+,White,,,DK/REF,High school or less,,Democrat,DK/REF,Somewhat Disapprove,Unfair,,DK/REF,,DK/REF,,DK/REF,,DK/REF,Yes,DK/REF,Yes,DK/REF,Yes,Unfair,8
+Male,54,45-54,White,,,DK/REF,College degree,,Independent,Liberal,Strongly Disapprove,Unfair,12,,18,,30,,,DK/REF,No,No,No,No,Yes,Unfair,8
+Male,70,65+,White,,80000,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Fair,6.75,,15,,28,,,DK/REF,Yes,No,No,Yes,Yes,Unfair,7
+Female,64,55-64,Black,,20000,,Some college,,Independent,Conservative,Somewhat Disapprove,Fair,7,,12,,20,,35,,No,No,No,Yes,DK/REF,Fair,8
+Female,73,65+,White,,,DK/REF,High school or less,,DK/REF,DK/REF,DK/REF,Unfair,,DK/REF,,DK/REF,75,,,DK/REF,No,No,No,Yes,No,Unfair,3
+Male,80,65+,White,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,Fair,,DK/REF,,DK/REF,50,,15,,No,No,No,No,Yes,Fair,DK/REF
+Female,51,45-54,White,,20000,,College degree,,Independent,Moderate,Strongly Disapprove,Fair,8,,12,,,DK/REF,15,,No,No,No,No,Yes,Unfair,7
+Female,37,35-44,White,,,DK/REF,College degree,,DK/REF,Moderate,Somewhat Approve,Unfair,8,,10,,,DK/REF,,DK/REF,No,Yes,No,No,No,Unfair,8
+Male,48,45-54,Latino,,300000,,High school or less,,Republican,Conservative,Strongly Approve,Fair,11.5,,11.5,,18,,18,,No,No,No,No,Yes,Fair,6
+Female,30,25-34,White,,53000,,Graduate degree,,Republican,Conservative,Somewhat Approve,Unfair,10.5,,12.5,,,DK/REF,10,,No,No,No,No,No,Unfair,7
+Female,69,65+,White,,70000,,Graduate degree,,Republican,Conservative,Strongly Approve,Unfair,30,,30,,25,,20,,No,No,No,No,Yes,Unfair,DK/REF
+Female,42,35-44,Asian,,,DK/REF,Graduate degree,,Democrat,Moderate,Neither approve nor disapprove,Unfair,12,,12,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,Yes,Unfair,5
+Male,20,18-24,White,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,Fair,7.25,,10,,40,,30,,Yes,Yes,Yes,Yes,Yes,Fair,Very attractive
+Female,78,65+,White,,20000,,College degree,,Republican,Conservative,Strongly Approve,DK/REF,2,,5,,15,,10,,No,No,No,No,Yes,DK/REF,8
+Female,64,55-64,White,,,DK/REF,High school or less,,DK/REF,Moderate,Neither approve nor disapprove,DK/REF,7,,,DK/REF,30,,25,,No,No,Yes,No,No,Unfair,6
+Female,55,55-64,Black,,85000,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Unfair,7,,15,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,Yes,Unfair,8
+Female,45,45-54,White,,45000,,College degree,,Democrat,Liberal,Strongly Disapprove,Fair,7,,10,,10,,42,,No,Yes,Yes,No,No,Unfair,7
+Female,30,25-34,Black,,8000,,College degree,,Independent,Moderate,Strongly Disapprove,Unfair,12,,18,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,DK/REF,Unfair,Very attractive
+Male,75,65+,White,,,DK/REF,Graduate degree,,Republican,Conservative,Strongly Approve,Fair,12.5,,,DK/REF,28,,28,,Yes,No,No,No,Yes,DK/REF,5
+Female,70,65+,White,,,DK/REF,College degree,,Independent,Moderate,Strongly Approve,Fair,,DK/REF,,DK/REF,,DK/REF,,DK/REF,No,No,No,Yes,Yes,Unfair,5
+Male,55,55-64,White,,,DK/REF,College degree,,Democrat,Liberal,Strongly Disapprove,Fair,8.4,,,DK/REF,30,,,DK/REF,No,Yes,Yes,No,Yes,Unfair,8
+Male,56,55-64,White,,,DK/REF,Graduate degree,,Republican,Conservative,Strongly Approve,DK/REF,10,,15,,,DK/REF,,DK/REF,DK/REF,Yes,DK/REF,DK/REF,Yes,DK/REF,Very attractive
+Female,24,18-24,Other,"Asian, White",75000,,College degree,,Democrat,Liberal,Strongly Disapprove,Unfair,5,,15,,20,,35,,Yes,Yes,Yes,Yes,Yes,Unfair,6
+Female,73,65+,White,,,DK/REF,Some college,,Republican,Conservative,Somewhat Approve,Unfair,11,,,DK/REF,26,,,DK/REF,Yes,No,Yes,No,No,Unfair,DK/REF
+Male,51,45-54,White,,85000,,Graduate degree,,Republican,Moderate,Somewhat Disapprove,Fair,10,,,DK/REF,40,,50,,No,No,No,Yes,No,Fair,DK/REF
+Male,44,35-44,Black,,,DK/REF,High school or less,,Republican,Conservative,Strongly Approve,Unfair,10,,11,,,DK/REF,,DK/REF,No,No,No,No,Yes,Fair,7
+Female,47,45-54,White,,,DK/REF,Graduate degree,,Independent,Moderate,Strongly Disapprove,Fair,8,,11,,36,,33,,No,No,No,No,Yes,Unfair,5
+Male,46,45-54,White,,200000,,College degree,,Republican,Conservative,Strongly Approve,Unfair,10,,11,,35,,35,,No,No,No,No,No,Unfair,Very attractive
+Female,44,35-44,Black,,45000,,Some college,,Democrat,Conservative,Strongly Disapprove,Fair,15,,20,,50,,70,,Yes,Yes,Yes,Yes,No,Unfair,9
+Male,40,35-44,Asian,,112000,,Graduate degree,,Independent,Moderate,Strongly Disapprove,DK/REF,12,,,DK/REF,,DK/REF,26,,Yes,No,Yes,Yes,Yes,Unfair,4
+Female,69,65+,White,,20000,,Other,Technical school,Independent,Conservative,Somewhat Approve,Unfair,8,,12,,30,,30,,No,No,No,No,DK/REF,Unfair,5
+Female,23,18-24,Other,Hispanic,40000,,Some college,,Independent,Liberal,Strongly Disapprove,Fair,8,,15,,20,,25,,Yes,Yes,Yes,Yes,Yes,Unfair,8
+Female,49,45-54,White,,,DK/REF,College degree,,Democrat,Moderate,Strongly Disapprove,DK/REF,7,,12,,15,,25,,DK/REF,No,No,No,No,Unfair,7
+Male,23,18-24,Black,,,DK/REF,College degree,,Independent,Liberal,Strongly Disapprove,Fair,10,,10,,,DK/REF,,DK/REF,Yes,No,Yes,Yes,Yes,Unfair,DK/REF
+Female,33,25-34,White,,,DK/REF,Some college,,Independent,Moderate,Strongly Disapprove,Fair,8,,15,,35,,40,,No,No,No,No,Yes,Unfair,7
+Male,42,35-44,White,,,DK/REF,College degree,,Independent,Moderate,Neither approve nor disapprove,Fair,7,,7,,40,,25,,No,Yes,Yes,No,Yes,Fair,5
+Male,54,45-54,Black,,40000,,Some college,,Democrat,Liberal,Strongly Disapprove,Fair,11,,11,,25,,25,,Yes,Yes,Yes,Yes,Yes,Fair,8
+Male,65,65+,White,,,DK/REF,College degree,,Independent,Moderate,Strongly Disapprove,DK/REF,7,,,DK/REF,40,,,DK/REF,No,No,No,No,No,Fair,DK/REF
+Female,69,65+,White,,5000,,College degree,,Independent,Moderate,Strongly Disapprove,Unfair,15,,15,,,DK/REF,,DK/REF,No,No,No,No,Yes,Unfair,7
+Male,45,45-54,White,,,DK/REF,College degree,,Republican,Conservative,Strongly Approve,Fair,7.25,,7.25,,39,,20,,No,DK/REF,DK/REF,No,Yes,Fair,5
+Male,26,25-34,White,,36000,,High school or less,,Democrat,Moderate,Somewhat Disapprove,Unfair,10,,15,,5,,20,,Yes,Yes,Yes,Yes,No,Unfair,7
+Male,64,55-64,White,,30000,,High school or less,,Republican,Conservative,Strongly Approve,Fair,10.5,,10,,40,,40,,No,Yes,Yes,No,Yes,Fair,8
+Male,68,65+,White,,,DK/REF,Some college,,Democrat,Liberal,Strongly Disapprove,Fair,8,,15,,28,,35,,Yes,No,Yes,Yes,No,Unfair,5
+Female,25,25-34,Black,,,DK/REF,Graduate degree,,Democrat,Conservative,Strongly Disapprove,Unfair,9,,13,,20,,20,,Yes,Yes,Yes,Yes,No,Unfair,7
+Male,21,18-24,White,,40000,,Some college,,Democrat,Moderate,Strongly Disapprove,Fair,7.25,,9,,15,,20,,Yes,No,No,No,Yes,Fair,DK/REF
+Female,57,55-64,Black,,,DK/REF,High school or less,,Democrat,Conservative,Strongly Disapprove,Unfair,20,,20,,10,,1,,Yes,No,No,Yes,No,Unfair,Very attractive
+Female,71,65+,White,,70000,,Graduate degree,,Independent,Moderate,Strongly Approve,Fair,17,,20,,50,,50,,No,No,No,No,Yes,Fair,6
+Male,75,65+,DK/REF,,,DK/REF,Graduate degree,,Republican,Conservative,Strongly Approve,Fair,15,,13,,23,,,DK/REF,No,No,No,No,Yes,Fair,7
+Female,48,45-54,Black,,30000,,College degree,,Democrat,Conservative,Somewhat Disapprove,Fair,15,,15,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,No,Unfair,9
+Female,70,65+,Black,,,DK/REF,High school or less,,Democrat,Liberal,Somewhat Approve,Fair,,DK/REF,7.25,,,DK/REF,,DK/REF,Yes,No,Yes,Yes,Yes,Unfair,5
+Male,51,45-54,White,,,DK/REF,High school or less,,Republican,Conservative,Strongly Approve,Fair,7.85,,7.85,,33,,33,,No,No,No,No,Yes,Fair,8
+Male,71,65+,White,,,DK/REF,College degree,,Democrat,Moderate,Strongly Disapprove,DK/REF,7.3,,12.5,,33,,35,,DK/REF,DK/REF,Yes,No,Yes,Unfair,5
+Male,30,25-34,Black,,150000,,College degree,,Democrat,Liberal,Strongly Disapprove,Unfair,8.15,,13,,4,,,DK/REF,No,No,No,No,DK/REF,Unfair,8
+Male,30,25-34,White,,40000,,Some college,,Republican,Moderate,Neither approve nor disapprove,Fair,13,,15,,5,,25,,No,Yes,Yes,No,No,Unfair,8
+Male,40,35-44,Black,,35000,,High school or less,,Independent,Moderate,Somewhat Disapprove,Unfair,15,,15,,15,,15,,No,No,No,Yes,No,Unfair,7
+Female,60,55-64,White,,75000,,Some college,,Democrat,Conservative,Strongly Disapprove,Unfair,7.25,,10,,40,,40,,Yes,No,No,No,No,Unfair,DK/REF
+Male,61,55-64,White,,,DK/REF,Graduate degree,,Independent,Moderate,Strongly Disapprove,Fair,12,,,DK/REF,33,,25,,DK/REF,No,No,No,Yes,Fair,7
+Female,70,65+,White,,,DK/REF,Some college,,Independent,Liberal,Strongly Disapprove,Fair,15,,15,,93,,35,,No,No,Yes,No,DK/REF,Unfair,DK/REF
+Male,85,65+,Other,Hispanic,,DK/REF,College degree,,Independent,Conservative,Strongly Disapprove,DK/REF,8,,16,,50,,30,,DK/REF,No,No,No,DK/REF,Fair,DK/REF
+Male,49,45-54,White,,92000,,Graduate degree,,Independent,Conservative,Neither approve nor disapprove,Unfair,9,,10.5,,33,,33,,No,No,No,No,Yes,Unfair,5
+Female,58,55-64,White,,100000,,College degree,,Independent,Conservative,Strongly Approve,Unfair,11,,15,,27,,25,,No,No,No,No,Yes,Fair,6
+Male,20,18-24,DK/REF,,20000,,Some college,,Independent,DK/REF,Neither approve nor disapprove,Unfair,7.25,,9,,,DK/REF,10,,Yes,Yes,Yes,Yes,Yes,Unfair,8
+Female,61,55-64,White,,100000,,High school or less,,Independent,Conservative,Strongly Approve,Unfair,2,,1.5,,10,,,DK/REF,No,No,Yes,No,DK/REF,Fair,Very attractive
+Female,40,35-44,White,,,DK/REF,High school or less,,Independent,Moderate,Strongly Approve,Unfair,,DK/REF,12,,20,,,DK/REF,No,Yes,Yes,Yes,Yes,Unfair,DK/REF
+Female,18,18-24,Black,,,DK/REF,High school or less,,Democrat,Moderate,Somewhat Approve,Fair,12,,9,,9,,9,,Yes,Yes,Yes,Yes,Yes,Unfair,8
+DK/REF,77,65+,White,,7536,,High school or less,,Democrat,Moderate,Strongly Disapprove,Fair,8,,10,,,DK/REF,,DK/REF,Yes,DK/REF,DK/REF,Yes,DK/REF,Unfair,2
+Male,22,18-24,White,,,DK/REF,Some college,,Democrat,Liberal,Strongly Disapprove,DK/REF,8.25,,12,,35,,45,,Yes,Yes,No,Yes,Yes,Unfair,5
+Female,21,18-24,Latino,,60000,,College degree,,Republican,Moderate,Somewhat Disapprove,Unfair,,DK/REF,14,,25,,10,,No,Yes,Yes,Yes,No,Unfair,9
+Male,47,45-54,White,,23400,,High school or less,,Democrat,Liberal,Strongly Approve,Unfair,10,,30,,30,,28,,No,No,No,No,Yes,Unfair,Very attractive
+Male,70,65+,White,,30000,,High school or less,,Independent,Moderate,Strongly Approve,Unfair,7,,8.5,,25,,25,,Yes,No,No,No,Yes,Fair,6
+Male,67,65+,White,,,DK/REF,Graduate degree,,Independent,Moderate,Neither approve nor disapprove,Unfair,8,,,DK/REF,25,,25,,No,No,No,No,DK/REF,Unfair,DK/REF
+Male,74,65+,White,,30000,,Some college,,Independent,Conservative,Neither approve nor disapprove,Unfair,8.5,,15,,15,,30,,No,No,No,Yes,No,Unfair,5
+Female,69,65+,White,,,DK/REF,Some college,,Independent,Conservative,Strongly Disapprove,Unfair,15,,13,,30,,,DK/REF,No,No,No,Yes,No,Unfair,6
+Male,71,65+,White,,,DK/REF,Graduate degree,,Independent,Conservative,Strongly Approve,Unfair,10,,10,,20,,25,,No,No,No,No,Yes,Unfair,6
+Male,65,65+,White,,,DK/REF,Graduate degree,,Republican,Conservative,Strongly Approve,DK/REF,8,,10,,40,,33,,No,DK/REF,DK/REF,No,Yes,Fair,8
+Female,70,65+,Black,,14000,,High school or less,,Democrat,DK/REF,Strongly Disapprove,Unfair,8.5,,15,,,DK/REF,,DK/REF,No,No,Yes,Yes,No,Unfair,Very attractive
+Female,47,45-54,White,,60000,,High school or less,,Republican,Conservative,Strongly Approve,Unfair,7,,12,,20,,20,,No,No,No,No,Yes,Unfair,9
+Male,48,45-54,Black,,150000,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Fair,15,,15,,40,,,DK/REF,No,No,No,Yes,Yes,Fair,Very attractive
+Female,66,65+,White,,,DK/REF,Some college,,Republican,DK/REF,Strongly Approve,Unfair,,DK/REF,15,,,DK/REF,,DK/REF,No,Yes,Yes,Yes,No,Unfair,7
+Female,31,25-34,White,,21000,,College degree,,Independent,Conservative,Somewhat Approve,DK/REF,10,,,DK/REF,,DK/REF,,DK/REF,No,Yes,Yes,No,Yes,DK/REF,4
+Female,70,65+,White,,,DK/REF,Some college,,Democrat,Liberal,Strongly Disapprove,Unfair,11.75,,9,,25,,40,,No,No,No,No,DK/REF,Unfair,DK/REF
+Female,60,55-64,White,,,DK/REF,High school or less,,Republican,Conservative,Strongly Approve,Unfair,11,,12,,,DK/REF,,DK/REF,Yes,No,Yes,Yes,No,Unfair,5
+Female,80,65+,White,,55000,,College degree,,Democrat,Moderate,Strongly Disapprove,DK/REF,,DK/REF,,DK/REF,,DK/REF,,DK/REF,No,No,No,Yes,Yes,Unfair,DK/REF
+Male,56,55-64,White,,,DK/REF,College degree,,Republican,Moderate,Strongly Disapprove,Fair,11,,15,,35,,,DK/REF,Yes,No,No,DK/REF,Yes,Fair,8
+Male,70,65+,White,,120000,,Graduate degree,,Independent,Moderate,Strongly Approve,Unfair,75,,35,,37,,20,,No,No,No,No,Yes,Unfair,8
+Female,77,65+,White,,150000,,Other,Advanced degree,Democrat,Liberal,Strongly Disapprove,Unfair,15,,20,,33,,33,,Yes,No,No,Yes,No,Unfair,8
+Male,78,65+,White,,,DK/REF,College degree,,Republican,Conservative,DK/REF,Unfair,8,,10,,50,,,DK/REF,No,Yes,No,No,Yes,Unfair,Very attractive
+Female,40,35-44,White,,20000,,Some college,,Independent,Moderate,Strongly Disapprove,Unfair,10,,15,,3,,25,,Yes,Yes,Yes,Yes,No,Unfair,Not attractive at all
+Female,60,55-64,White,,30000,,Some college,,DK/REF,DK/REF,DK/REF,DK/REF,10,,10,,,DK/REF,,DK/REF,Yes,Yes,Yes,DK/REF,Yes,DK/REF,DK/REF
+Female,76,65+,White,,50000,,High school or less,,Independent,Moderate,Strongly Approve,Unfair,,DK/REF,,DK/REF,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,No,Unfair,5
+Male,85,65+,White,,130000,,Graduate degree,,Republican,Conservative,Somewhat Approve,Unfair,10,,10,,50,,15,,No,Yes,Yes,Yes,No,Unfair,5
+Male,66,65+,Other,American Indian,25000,,Some college,,Democrat,Conservative,Somewhat Approve,Unfair,15,,15,,10,,25,,Yes,Yes,Yes,Yes,No,Unfair,6
+Female,64,55-64,Other,African American and Hispanic,60000,,College degree,,Democrat,Moderate,Strongly Disapprove,DK/REF,11,,11,,15,,4,,Yes,Yes,Yes,Yes,DK/REF,Unfair,8
+Male,68,65+,White,,,DK/REF,College degree,,Independent,Conservative,Strongly Approve,Unfair,8,,8,,10,,10,,DK/REF,No,No,No,Yes,Unfair,5
+Female,82,65+,White,,,DK/REF,Some college,,Independent,Moderate,Somewhat Disapprove,DK/REF,7,,10,,,DK/REF,50,,Yes,Yes,No,No,No,Unfair,2
+Male,51,45-54,White,,,DK/REF,High school or less,,Democrat,Liberal,Strongly Disapprove,Fair,8,,10,,38,,38,,Yes,Yes,Yes,No,Yes,Unfair,7
+Male,70,65+,White,,45000,,Some college,,Republican,Conservative,Somewhat Approve,Unfair,18,,25,,,DK/REF,,DK/REF,No,No,Yes,No,Yes,Unfair,8
+Male,50,45-54,DK/REF,,,DK/REF,High school or less,,Democrat,Moderate,Strongly Approve,DK/REF,,DK/REF,,DK/REF,,DK/REF,,DK/REF,No,DK/REF,DK/REF,No,DK/REF,DK/REF,Very attractive
+Female,65,65+,White,,60000,,College degree,,Republican,Moderate,Strongly Approve,Unfair,15,,15,,38,,30,,No,DK/REF,No,No,Yes,Unfair,5
+Female,88,65+,White,,100000,,College degree,,Democrat,Liberal,Strongly Disapprove,Fair,12,,12,,,DK/REF,,DK/REF,Yes,No,No,Yes,DK/REF,Unfair,4
+Female,85,65+,White,,,DK/REF,College degree,,Republican,Conservative,Strongly Approve,Fair,10,,,DK/REF,30,,10,,No,No,No,No,DK/REF,Fair,5
+Male,70,65+,Asian,,6000,,College degree,,Independent,Moderate,Somewhat Approve,DK/REF,11,,15,,5,,6,,Yes,No,Yes,Yes,Yes,Fair,DK/REF
+Female,67,65+,White,,,DK/REF,Graduate degree,,Independent,Liberal,Strongly Disapprove,DK/REF,9,,15,,20,,40,,Yes,Yes,Yes,Yes,No,Unfair,7
+Female,22,18-24,Latino,,30000,,Other,Master's degree,Democrat,Liberal,Strongly Disapprove,Fair,12,,13,,50,,13,,No,No,No,No,Yes,Fair,8
+Female,89,65+,White,,,DK/REF,Graduate degree,,Democrat,Liberal,Strongly Disapprove,DK/REF,15,,20,,,DK/REF,20,,Yes,DK/REF,Yes,No,DK/REF,Unfair,6
+Male,79,65+,White,,30000,,High school or less,,Republican,Conservative,Strongly Approve,Fair,10,,10,,,DK/REF,,DK/REF,DK/REF,No,No,No,No,Unfair,8
+Female,19,18-24,Asian,,,DK/REF,Some college,,Democrat,Liberal,Strongly Disapprove,Fair,7.25,,8.5,,25,,20,,Yes,No,Yes,Yes,Yes,Unfair,7
+Female,69,65+,White,,50000,,College degree,,Democrat,Liberal,Strongly Disapprove,Fair,10,,15,,30,,30,,Yes,No,Yes,Yes,DK/REF,Fair,8
+Female,70,65+,Black,,,DK/REF,High school or less,,DK/REF,DK/REF,Strongly Disapprove,Fair,8,,20,,25,,,DK/REF,DK/REF,No,No,Yes,No,Unfair,DK/REF
+Male,24,18-24,Latino,,25000,,Some college,,Republican,Moderate,Strongly Disapprove,Fair,10,,,DK/REF,10,,,DK/REF,Yes,Yes,Yes,Yes,Yes,Unfair,6
+Male,76,65+,White,,40000,,Some college,,Republican,Conservative,Strongly Approve,DK/REF,10,,10,,25,,25,,No,No,No,No,Yes,Unfair,5
+Female,74,65+,White,,,DK/REF,Some college,,Independent,DK/REF,Strongly Disapprove,Fair,7.75,,12,,,DK/REF,20,,No,No,No,No,DK/REF,DK/REF,5
+Male,79,65+,White,,,DK/REF,High school or less,,Democrat,Moderate,DK/REF,Fair,,DK/REF,,DK/REF,,DK/REF,,DK/REF,No,No,Yes,No,Yes,Unfair,6
+Male,70,65+,White,,70000,,High school or less,,Independent,Moderate,Somewhat Disapprove,DK/REF,7,,7,,,DK/REF,7,,No,No,Yes,No,No,DK/REF,5
+Female,64,55-64,White,,,DK/REF,High school or less,,Democrat,Moderate,Strongly Disapprove,Unfair,12.5,,14,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,Yes,Unfair,8
+Female,58,55-64,White,,,DK/REF,High school or less,,Independent,Conservative,Somewhat Disapprove,Unfair,7.25,,10,,,DK/REF,,DK/REF,Yes,No,No,Yes,Yes,Unfair,5
+Male,56,55-64,White,,13000,,Some college,,Republican,Conservative,Somewhat Approve,DK/REF,8.5,,12,,,DK/REF,25,,DK/REF,Yes,Yes,Yes,DK/REF,Unfair,5
+Female,70,65+,White,,,DK/REF,College degree,,Independent,Moderate,Strongly Disapprove,DK/REF,7,,15,,45,,45,,Yes,No,Yes,Yes,No,Unfair,9
+Female,91,65+,White,,,DK/REF,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Fair,15,,18,,,DK/REF,,DK/REF,No,Yes,DK/REF,DK/REF,Yes,DK/REF,9
+Female,92,65+,White,,,DK/REF,Some college,,Independent,Conservative,Strongly Disapprove,DK/REF,,DK/REF,,DK/REF,,DK/REF,15,,No,DK/REF,No,No,DK/REF,Unfair,5
+Female,84,65+,White,,12000,,College degree,,Democrat,Conservative,Strongly Disapprove,Unfair,8,,12,,,DK/REF,,DK/REF,No,Yes,No,No,No,Unfair,5
+Female,38,35-44,White,,160000,,Graduate degree,,Independent,Moderate,Strongly Disapprove,Unfair,15,,15,,30,,30,,No,No,No,No,Yes,Unfair,7
+Female,69,65+,White,,12000,,Some college,,Republican,Conservative,Strongly Approve,DK/REF,7,,6.5,,50,,30,,No,No,No,No,Yes,Unfair,7
+Female,58,55-64,Black,,,DK/REF,Some college,,Democrat,Conservative,Strongly Disapprove,Fair,15,,35,,15,,,DK/REF,Yes,No,No,Yes,No,Unfair,9
+Female,58,55-64,DK/REF,,,DK/REF,High school or less,,Democrat,Moderate,Strongly Disapprove,Fair,10,,15,,45,,,DK/REF,Yes,Yes,Yes,Yes,Yes,Unfair,8
+Female,50,45-54,Other,Mixed race,62000,,College degree,,DK/REF,DK/REF,DK/REF,Fair,,DK/REF,15,,7,,25,,Yes,Yes,No,No,No,Unfair,9
+Female,70,65+,Black,,30000,,High school or less,,Democrat,Liberal,Strongly Disapprove,Fair,15,,15,,10,,,DK/REF,Yes,Yes,Yes,Yes,No,Unfair,Very attractive
+Male,69,65+,Latino,,5400,,Some college,,Independent,Moderate,Strongly Disapprove,Unfair,,DK/REF,15,,,DK/REF,10,,Yes,Yes,Yes,Yes,DK/REF,Unfair,8
+Male,86,65+,White,,20000,,Graduate degree,,Democrat,Liberal,Somewhat Disapprove,Fair,15,,15,,30,,30,,Yes,Yes,Yes,Yes,DK/REF,Unfair,5
+Female,86,65+,Black,,,DK/REF,High school or less,,Democrat,Liberal,Strongly Disapprove,Fair,,DK/REF,10,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,DK/REF,Fair,DK/REF
+Male,67,65+,White,,150000,,College degree,,Independent,Liberal,Strongly Disapprove,Fair,8.25,,15,,37,,40,,No,No,No,Yes,Yes,Unfair,DK/REF
+Female,58,55-64,White,,,DK/REF,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Unfair,12,,16,,35,,40,,Yes,No,No,No,No,Unfair,7
+Female,64,55-64,White,,30000,,Graduate degree,,Independent,Moderate,Strongly Disapprove,Fair,15,,17,,30,,40,,DK/REF,No,No,DK/REF,Yes,Unfair,DK/REF
+Female,47,45-54,White,,50000,,High school or less,,Independent,Moderate,Strongly Approve,Unfair,7,,13,,,DK/REF,,DK/REF,No,No,No,Yes,Yes,Unfair,DK/REF
+Male,60,55-64,Latino,,,DK/REF,College degree,,Republican,Moderate,Strongly Approve,DK/REF,13,,,DK/REF,,DK/REF,20,,No,No,No,No,Yes,DK/REF,DK/REF
+Female,65,65+,White,,200000,,High school or less,,Independent,Conservative,Somewhat Approve,Fair,7.5,,10,,,DK/REF,,DK/REF,No,No,Yes,Yes,No,Unfair,6
+Male,83,65+,White,,50000,,High school or less,,Independent,Conservative,Strongly Approve,Unfair,10,,15,,10,,10,,No,No,No,No,Yes,Unfair,5
+Male,69,65+,White,,,DK/REF,Graduate degree,,Independent,Liberal,Strongly Disapprove,DK/REF,12,,12,,35,,25,,No,No,No,No,Yes,Unfair,DK/REF
+Female,61,55-64,White,,,DK/REF,Some college,,Independent,Liberal,Strongly Disapprove,Unfair,11,,13,,43,,32,,Yes,Yes,No,Yes,No,Unfair,6
+Female,67,65+,White,,37000,,Some college,,Democrat,Moderate,Strongly Disapprove,Unfair,13,,16,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,Yes,Unfair,6
+Female,66,65+,White,,40000,,High school or less,,Democrat,Moderate,Strongly Disapprove,DK/REF,10,,12,,22,,30,,Yes,No,Yes,Yes,Yes,Unfair,4
+Female,69,65+,White,,,DK/REF,College degree,,Independent,Moderate,Strongly Disapprove,Fair,10,,12,,15,,25,,DK/REF,Yes,Yes,No,No,Unfair,Not attractive at all
+Male,65,65+,DK/REF,,14000,,Some college,,Independent,Moderate,Strongly Disapprove,Fair,12,,15,,35,,18,,Yes,Yes,Yes,Yes,Yes,Unfair,Very attractive
+Male,54,45-54,Asian,,100000,,Graduate degree,,Democrat,Conservative,Somewhat Approve,Unfair,11,,15,,10,,10,,Yes,No,No,No,Yes,Unfair,6
+Female,39,35-44,White,,50000,,Some college,,DK/REF,DK/REF,Strongly Disapprove,Fair,9,,13,,40,,40,,No,No,No,No,Yes,Fair,DK/REF
+Male,90,65+,White,,,DK/REF,High school or less,,Democrat,Moderate,Strongly Disapprove,Unfair,,DK/REF,,DK/REF,,DK/REF,,DK/REF,Yes,No,DK/REF,No,No,Unfair,DK/REF
+Female,64,55-64,White,,,DK/REF,High school or less,,DK/REF,Conservative,Strongly Disapprove,Fair,9,,10,,,DK/REF,,DK/REF,Yes,No,No,Yes,No,Unfair,DK/REF
+Female,60,55-64,White,,,DK/REF,High school or less,,Independent,Conservative,Strongly Approve,Fair,8.75,,10,,,DK/REF,,DK/REF,No,No,Yes,No,DK/REF,Unfair,DK/REF
+Female,64,55-64,White,,50000,,Graduate degree,,Democrat,Moderate,Somewhat Disapprove,Unfair,12,,13,,,DK/REF,,DK/REF,No,No,No,No,No,Unfair,6
+Male,92,65+,White,,50000,,College degree,,Republican,Conservative,Somewhat Approve,Fair,20,,15,,,DK/REF,,DK/REF,Yes,No,No,Yes,DK/REF,Unfair,8
+Male,34,25-34,White,,21000,,College degree,,Democrat,Moderate,Strongly Approve,Unfair,8.5,,10,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,Yes,DK/REF,8
+Female,57,55-64,White,,25000,,High school or less,,DK/REF,DK/REF,Strongly Approve,Unfair,20,,15,,50,,,DK/REF,Yes,DK/REF,DK/REF,No,Yes,Unfair,5
+Male,68,65+,White,,15000,,High school or less,,Republican,Liberal,Strongly Approve,Unfair,8,,8,,,DK/REF,,DK/REF,No,No,Yes,No,No,Unfair,8
+Male,66,65+,DK/REF,,,DK/REF,College degree,,Independent,Liberal,Strongly Disapprove,Unfair,9,,10,,38,,65,,No,No,No,No,DK/REF,Unfair,5
+Male,50,45-54,White,,100000,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,DK/REF,7,,15,,25,,50,,Yes,No,No,Yes,Yes,Unfair,6
+Female,46,45-54,White,,,DK/REF,Some college,,Democrat,Moderate,Strongly Disapprove,Fair,10.35,,15,,37,,40,,Yes,Yes,Yes,Yes,No,Unfair,7
+Male,34,25-34,White,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,Fair,10,,5,,50,,1,,No,No,No,No,Yes,Fair,8
+Female,32,25-34,White,,18000,,High school or less,,Democrat,Liberal,Strongly Disapprove,Unfair,12,,12,,,DK/REF,,DK/REF,Yes,No,No,Yes,No,Unfair,6
+Male,24,18-24,Other,mixed with latino and white,40000,,High school or less,,Independent,Liberal,Strongly Disapprove,Fair,7.5,,10,,15,,25,,Yes,Yes,Yes,DK/REF,No,Unfair,7
+Male,59,55-64,White,,70000,,Some college,,Democrat,Moderate,Strongly Disapprove,Unfair,10,,12,,35,,35,,No,No,No,No,Yes,Unfair,5
+Female,30,25-34,White,,,DK/REF,College degree,,Democrat,Liberal,Strongly Disapprove,Fair,9.5,,15,,25,,,DK/REF,Yes,Yes,Yes,Yes,DK/REF,DK/REF,7
+Male,51,45-54,White,,55000,,College degree,,Democrat,Liberal,Strongly Disapprove,Unfair,10.75,,15,,24,,35,,Yes,No,No,Yes,Yes,Unfair,7
+Female,23,18-24,White,,,DK/REF,Graduate degree,,Independent,Liberal,Strongly Disapprove,Fair,10.5,,12,,2,,4,,Yes,No,No,No,Yes,Fair,5
+Male,70,65+,White,,,DK/REF,College degree,,Independent,Moderate,Strongly Approve,Unfair,13,,13,,18,,18,,No,No,No,No,Yes,Fair,7
+Female,77,65+,White,,,DK/REF,High school or less,,Republican,DK/REF,DK/REF,DK/REF,7.5,,10,,50,,25,,Yes,No,No,No,DK/REF,Unfair,3
+Male,56,55-64,White,,42000,,High school or less,,Independent,DK/REF,Strongly Disapprove,Fair,10,,14,,34,,25,,Yes,No,Yes,No,DK/REF,Fair,7
+Male,67,65+,White,,83000,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Fair,11,,15,,,DK/REF,,DK/REF,Yes,Yes,Yes,No,No,Unfair,8
+Female,47,45-54,Other,mixed race,125000,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Unfair,9,,20,,25,,35,,Yes,No,No,Yes,Yes,Unfair,5
+Female,33,25-34,Asian,,,DK/REF,College degree,,Republican,DK/REF,Somewhat Approve,Fair,,DK/REF,,DK/REF,,DK/REF,,DK/REF,No,Yes,Yes,No,No,Unfair,DK/REF
+Male,19,18-24,White,,13000,,Some college,,Democrat,Liberal,Strongly Disapprove,Fair,8,,13,,1,,40,,Yes,No,Yes,No,No,Unfair,7
+Male,62,55-64,White,,25000,,Some college,,DK/REF,DK/REF,Strongly Approve,Fair,15,,5,,55,,55,,No,No,No,No,Yes,Fair,3
+Female,66,65+,White,,60000,,Graduate degree,,Independent,Conservative,Somewhat Disapprove,Unfair,10,,15,,38,,40,,No,No,No,No,Yes,Unfair,7
+Male,73,65+,Black,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,DK/REF,9,,9,,26,,20,,No,No,No,No,Yes,DK/REF,DK/REF
+Male,59,55-64,White,,,DK/REF,Graduate degree,,Independent,Conservative,Strongly Approve,Unfair,10,,15,,21,,18,,No,No,No,No,Yes,Fair,DK/REF
+Female,63,55-64,White,,,DK/REF,High school or less,,Democrat,Moderate,Strongly Disapprove,DK/REF,,DK/REF,20,,,DK/REF,15,,Yes,No,Yes,Yes,No,Unfair,5
+Male,45,45-54,White,,50000,,Graduate degree,,Republican,Conservative,Strongly Approve,Fair,9.5,,10,,25,,25,,No,No,No,No,Yes,Fair,6
+Female,59,55-64,White,,,DK/REF,Some college,,Republican,Moderate,Somewhat Approve,Unfair,11,,13.5,,,DK/REF,,DK/REF,No,No,No,No,Yes,Unfair,4
+Female,80,65+,White,,,DK/REF,High school or less,,Republican,Conservative,DK/REF,Unfair,8,,12,,,DK/REF,,DK/REF,Yes,Yes,DK/REF,Yes,DK/REF,Unfair,DK/REF
+Female,20,18-24,White,,5148,,High school or less,,Independent,Moderate,Strongly Disapprove,Unfair,11,,15,,3,,85,,No,No,Yes,Yes,Yes,Unfair,6
+Female,50,45-54,Latino,,,DK/REF,High school or less,,Democrat,Conservative,Somewhat Approve,Unfair,15,,15,,10,,15,,Yes,Yes,Yes,Yes,No,Unfair,5
+Female,63,55-64,White,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,Unfair,8,,10,,30,,25,,No,No,No,No,Yes,Fair,Very attractive
+Male,79,65+,White,,40000,,Graduate degree,,Republican,Conservative,Strongly Approve,Fair,9,,,DK/REF,25,,,DK/REF,No,No,No,No,Yes,Fair,7
+Male,35,35-44,Asian,,45000,,College degree,,Independent,Conservative,Strongly Disapprove,Fair,,DK/REF,11,,,DK/REF,,DK/REF,Yes,No,No,Yes,Yes,Unfair,5
+Male,61,55-64,White,,,DK/REF,Some college,,Independent,Conservative,Strongly Approve,DK/REF,10,,,DK/REF,31,,31,,No,No,No,No,Yes,Fair,8
+Female,41,35-44,Latino,,25000,,High school or less,,Independent,Moderate,Neither approve nor disapprove,Fair,11,,11,,,DK/REF,,DK/REF,No,Yes,No,Yes,Yes,Fair,8
+Male,53,45-54,DK/REF,,,DK/REF,High school or less,,Republican,Moderate,Strongly Approve,Fair,10,,10.5,,,DK/REF,22,,No,No,No,No,No,Unfair,8
+Female,45,45-54,White,,70000,,Some college,,Democrat,Conservative,Strongly Approve,Unfair,100,,12.5,,3,,40,,Yes,No,Yes,No,Yes,Unfair,4
+Female,71,65+,White,,35000,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Fair,15,,10,,18,,35,,Yes,Yes,Yes,Yes,Yes,Unfair,7
+Male,77,65+,White,,,DK/REF,College degree,,Republican,Conservative,Somewhat Approve,DK/REF,8.5,,8.5,,33,,25,,No,No,No,No,Yes,Fair,8
+Male,70,65+,DK/REF,,74000,,Some college,,Republican,Conservative,Strongly Approve,Fair,8.35,,8.35,,37,,,DK/REF,No,No,No,No,Yes,DK/REF,7
+Male,57,55-64,White,,10000,,College degree,,Republican,Moderate,Strongly Approve,Fair,8.5,,11,,20,,10,,Yes,Yes,Yes,Yes,No,Unfair,7
+Female,79,65+,White,,,DK/REF,Graduate degree,,Republican,Moderate,Strongly Approve,Fair,10,,10,,,DK/REF,,DK/REF,No,No,No,No,Yes,Fair,DK/REF
+Female,66,65+,White,,,DK/REF,Some college,,Independent,Liberal,Strongly Disapprove,Fair,10,,12,,8,,,DK/REF,No,No,Yes,No,Yes,Unfair,8
+Female,69,65+,White,,10000,,Some college,,Republican,Conservative,Strongly Approve,Unfair,10,,10,,25,,30,,No,No,No,No,Yes,Unfair,7
+Male,89,65+,White,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,DK/REF,15,,15,,30,,,DK/REF,No,No,DK/REF,No,No,Unfair,2
+Male,80,65+,White,,,DK/REF,High school or less,,Democrat,Conservative,DK/REF,Fair,10,,15,,25,,15,,No,No,No,No,Yes,Unfair,7
+Female,55,55-64,Latino,,,DK/REF,Other,Trade school,Democrat,Moderate,DK/REF,Unfair,12,,12,,15,,15,,Yes,No,Yes,Yes,No,Unfair,7
+Male,72,65+,White,,,DK/REF,High school or less,,Republican,Conservative,Neither approve nor disapprove,DK/REF,15,,,DK/REF,,DK/REF,,DK/REF,Yes,No,No,No,DK/REF,DK/REF,8
+Female,57,55-64,White,,100000,,College degree,,Democrat,Liberal,Strongly Disapprove,Unfair,10,,15,,15,,25,,Yes,No,Yes,Yes,Yes,Unfair,5
+Male,57,55-64,White,,25000,,College degree,,Republican,Conservative,Strongly Approve,Unfair,15,,15,,30,,30,,No,No,No,No,Yes,Unfair,5
+Female,71,65+,White,,,DK/REF,DK/REF,,Democrat,Moderate,Strongly Approve,Unfair,15,,,DK/REF,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,No,Unfair,5
+Female,84,65+,White,,,DK/REF,High school or less,,Independent,Conservative,Somewhat Approve,Unfair,8,,11,,,DK/REF,5,,Yes,No,No,No,Yes,Unfair,6
+Male,62,55-64,Black,,80000,,College degree,,Independent,Moderate,Strongly Disapprove,Fair,14,,14,,35,,35,,No,No,Yes,Yes,Yes,Fair,8
+Male,57,55-64,White,,30000,,High school or less,,Democrat,Liberal,Strongly Disapprove,Fair,7.25,,15,,20,,25,,Yes,No,No,No,Yes,Unfair,Not attractive at all
+Female,68,65+,White,,12000,,Some college,,Republican,Conservative,Strongly Approve,Fair,9,,12,,,DK/REF,10,,No,No,DK/REF,No,DK/REF,Fair,Very attractive
+Female,91,65+,White,,,DK/REF,Graduate degree,,Republican,Moderate,Strongly Approve,Unfair,6,,,DK/REF,,DK/REF,10,,Yes,No,No,No,Yes,Unfair,8
+Male,73,65+,White,,56000,,Some college,,Independent,Conservative,Strongly Approve,Fair,11,,11,,40,,40,,No,No,No,No,Yes,Fair,5
+Female,76,65+,White,,2000,,High school or less,,Republican,Moderate,Neither approve nor disapprove,DK/REF,7.5,,15,,50,,50,,DK/REF,DK/REF,No,Yes,No,Unfair,4
+Female,99,65+,White,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,DK/REF,,DK/REF,,DK/REF,,DK/REF,,DK/REF,No,No,No,No,Yes,Fair,9
+Male,72,65+,Black,,,DK/REF,High school or less,,Democrat,Liberal,Strongly Disapprove,DK/REF,10,,15,,,DK/REF,,DK/REF,Yes,No,No,Yes,Yes,Unfair,6
+Female,81,65+,DK/REF,,,DK/REF,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Unfair,17,,25,,75,,70,,Yes,Yes,Yes,Yes,DK/REF,Unfair,5
+Female,79,65+,White,,24000,,Graduate degree,,Independent,Conservative,Somewhat Approve,Unfair,10,,10,,37,,37,,No,No,No,No,No,Fair,6
+Male,67,65+,White,,,DK/REF,High school or less,,DK/REF,Conservative,DK/REF,Unfair,7.25,,9,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,No,Unfair,6
+Male,71,65+,Black,,,DK/REF,High school or less,,DK/REF,Liberal,DK/REF,Fair,,DK/REF,,DK/REF,,DK/REF,,DK/REF,Yes,DK/REF,Yes,Yes,No,Fair,6
+Female,54,45-54,White,,,DK/REF,College degree,,Independent,Moderate,Neither approve nor disapprove,DK/REF,10,,15,,10,,,DK/REF,Yes,No,No,DK/REF,Yes,Unfair,5
+Male,55,55-64,White,,,DK/REF,High school or less,,Republican,Conservative,Strongly Approve,Fair,9.75,,9,,,DK/REF,20,,No,No,DK/REF,No,Yes,Fair,DK/REF
+Male,70,65+,White,,,DK/REF,Graduate degree,,Democrat,Conservative,Somewhat Approve,Fair,8,,15,,,DK/REF,50,,No,No,Yes,No,DK/REF,Unfair,DK/REF
+Female,77,65+,White,,23000,,Some college,,Republican,Conservative,Strongly Approve,Unfair,15,,15,,10,,10,,No,Yes,No,No,DK/REF,Unfair,5
+Female,52,45-54,White,,100000,,High school or less,,Republican,Conservative,Strongly Approve,Fair,7,,,DK/REF,,DK/REF,,DK/REF,No,No,No,No,Yes,Fair,6
+Female,29,25-34,White,,24000,,College degree,,Independent,Liberal,Strongly Disapprove,Fair,8.75,,18,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,No,Unfair,DK/REF
+Female,68,65+,White,,12000,,Other,Associate degree,DK/REF,Conservative,DK/REF,DK/REF,10,,12.5,,30,,,DK/REF,No,Yes,No,No,DK/REF,Fair,6
+Female,34,25-34,White,,,DK/REF,College degree,,Republican,Conservative,Strongly Approve,DK/REF,7,,,DK/REF,22,,10,,No,No,No,No,Yes,Fair,7
+Female,32,25-34,White,,6000,,Some college,,Republican,Conservative,Neither approve nor disapprove,Fair,30,,30,,20,,,DK/REF,No,No,Yes,Yes,Yes,Unfair,6
+Male,70,65+,White,,,DK/REF,College degree,,Democrat,Moderate,Strongly Disapprove,DK/REF,12,,13,,30,,40,,No,No,No,No,Yes,Unfair,DK/REF
+Male,87,65+,White,,,DK/REF,High school or less,,Republican,Conservative,Strongly Approve,Fair,10,,10,,,DK/REF,,DK/REF,Yes,No,Yes,Yes,No,Unfair,DK/REF
+Female,41,35-44,White,,25000,,College degree,,Republican,Conservative,Strongly Approve,Fair,10,,,DK/REF,30,,30,,No,No,No,No,Yes,Unfair,7
+Female,79,65+,White,,,DK/REF,Graduate degree,,Democrat,Liberal,Strongly Disapprove,DK/REF,7.25,,15,,30,,40,,Yes,No,No,Yes,DK/REF,Unfair,Very attractive
+Male,37,35-44,Black,,50000,,Some college,,Independent,Moderate,Neither approve nor disapprove,Unfair,7,,15,,15,,15,,No,No,Yes,No,No,Fair,8
+Male,42,35-44,Asian,,100000,,Graduate degree,,Democrat,Moderate,Neither approve nor disapprove,DK/REF,10,,15,,,DK/REF,,DK/REF,No,Yes,Yes,No,Yes,Fair,DK/REF
+Female,53,45-54,White,,,DK/REF,College degree,,Republican,Liberal,Strongly Approve,Fair,8.25,,9,,25,,20,,No,No,Yes,No,Yes,Fair,7
+Female,32,25-34,Latino,,50000,,College degree,,Independent,Moderate,DK/REF,Fair,15,,20,,2,,20,,Yes,No,No,No,Yes,Fair,8
+Male,65,65+,White,,24000,,College degree,,Republican,Conservative,Strongly Approve,Fair,10,,12,,15,,15,,No,No,No,No,Yes,Fair,7
+Male,25,25-34,Latino,,30000,,High school or less,,Independent,Conservative,Strongly Approve,Fair,20,,,DK/REF,10,,20,,Yes,No,Yes,Yes,No,Unfair,Very attractive
+Male,75,65+,White,,,DK/REF,High school or less,,DK/REF,DK/REF,DK/REF,DK/REF,,DK/REF,,DK/REF,,DK/REF,,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF
+Female,76,65+,White,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,Unfair,15,,17,,75,,35,,No,No,No,No,Yes,Unfair,8
+Male,59,55-64,White,,,DK/REF,Other,Vocational degree,Independent,Moderate,Strongly Disapprove,Unfair,12,,15,,28,,38,,Yes,No,Yes,No,No,Unfair,7
+Male,70,65+,White,,,DK/REF,Graduate degree,,Republican,Conservative,Somewhat Approve,Unfair,15,,15,,,DK/REF,,DK/REF,No,No,No,No,DK/REF,Unfair,DK/REF
+Male,50,45-54,Black,,24000,,High school or less,,DK/REF,Liberal,Strongly Disapprove,Fair,12,,12,,,DK/REF,,DK/REF,No,Yes,No,Yes,No,Fair,8
+Female,60,55-64,White,,,DK/REF,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Unfair,7,,15,,35,,50,,Yes,No,Yes,Yes,Yes,Unfair,DK/REF
+Male,68,65+,White,,150000,,College degree,,Democrat,Liberal,Strongly Disapprove,Fair,7,,15,,75,,75,,Yes,Yes,Yes,No,DK/REF,Unfair,8
+Female,23,18-24,White,,30000,,College degree,,Independent,Conservative,Strongly Disapprove,Unfair,10,,12,,30,,20,,Yes,Yes,Yes,Yes,Yes,Unfair,6
+Male,50,45-54,White,,275000,,College degree,,Democrat,Liberal,Strongly Disapprove,Fair,8,,15,,33,,40,,Yes,No,Yes,No,Yes,Unfair,6
+Male,25,25-34,Latino,,50000,,Graduate degree,,Republican,Moderate,Strongly Disapprove,Unfair,8.75,,10,,40,,40,,Yes,Yes,No,Yes,Yes,Unfair,8
+Female,73,65+,White,,46000,,Graduate degree,,Independent,Liberal,Strongly Disapprove,Fair,12,,15,,28,,36,,Yes,No,No,Yes,Yes,Unfair,8
+Male,73,65+,White,,50000,,Some college,,Republican,Conservative,Strongly Approve,Fair,10,,12,,30,,25,,No,No,No,No,Yes,Fair,6
+Female,55,55-64,White,,7000,,College degree,,Independent,DK/REF,Strongly Disapprove,DK/REF,,DK/REF,12,,,DK/REF,,DK/REF,DK/REF,Yes,Yes,Yes,DK/REF,DK/REF,8
+Male,50,45-54,White,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,Fair,7.75,,,DK/REF,32,,32,,No,No,No,No,No,DK/REF,DK/REF
+Male,84,65+,White,,,DK/REF,High school or less,,Republican,Liberal,Strongly Approve,Unfair,5,,15,,25,,25,,No,No,No,No,No,Unfair,7
+Female,61,55-64,Other,Indian,7000,,Some college,,Democrat,Liberal,Strongly Disapprove,Fair,9,,14.5,,,DK/REF,25,,Yes,Yes,Yes,Yes,DK/REF,Fair,7
+Male,48,45-54,White,,,DK/REF,Graduate degree,,Republican,Moderate,Somewhat Approve,DK/REF,10.5,,15,,35,,30,,No,No,No,No,Yes,Fair,DK/REF
+Female,65,65+,White,,20000,,Some college,,Democrat,Conservative,DK/REF,Fair,7,,10,,14,,14,,Yes,Yes,Yes,Yes,DK/REF,Unfair,4
+Male,68,65+,White,,200000,,College degree,,Independent,Conservative,Strongly Disapprove,Fair,7.5,,9,,35,,35,,No,No,No,No,Yes,Fair,7
+Male,29,25-34,White,,,DK/REF,Some college,,Independent,Liberal,Somewhat Disapprove,Fair,7,,,DK/REF,30,,40,,No,Yes,No,Yes,No,Fair,7
+Male,33,25-34,White,,250000,,College degree,,Independent,Conservative,Neither approve nor disapprove,Unfair,7,,,DK/REF,35,,35,,No,No,No,DK/REF,Yes,Fair,8
+Male,50,45-54,White,,,DK/REF,College degree,,Independent,Moderate,DK/REF,Fair,10,,10,,39,,,DK/REF,Yes,No,No,No,Yes,Fair,DK/REF
+Female,52,45-54,White,,30000,,Graduate degree,,Independent,Liberal,Strongly Disapprove,Fair,7.75,,15,,35,,35,,DK/REF,No,Yes,Yes,Yes,Unfair,8
+Female,24,18-24,DK/REF,,,DK/REF,College degree,,Independent,Conservative,Strongly Disapprove,Unfair,7,,15,,15,,25,,Yes,No,Yes,Yes,Yes,Unfair,7
+Female,47,45-54,White,,85000,,College degree,,DK/REF,Liberal,Somewhat Disapprove,Unfair,12,,15,,40,,50,,Yes,Yes,Yes,No,No,Unfair,8
+Female,53,45-54,White,,,DK/REF,Graduate degree,,Independent,Moderate,Strongly Disapprove,Fair,8.25,,12.15,,35,,,DK/REF,DK/REF,No,DK/REF,No,Yes,DK/REF,8
+Female,50,45-54,White,,10000,,Graduate degree,,Democrat,Conservative,DK/REF,Unfair,9,,10,,,DK/REF,3,,No,No,No,Yes,No,Unfair,8
+Male,60,55-64,DK/REF,,,DK/REF,College degree,,DK/REF,Liberal,Strongly Approve,Unfair,20,,20,,5,,5,,Yes,No,No,No,No,Unfair,6
+Male,65,65+,White,,,DK/REF,College degree,,Independent,Moderate,Strongly Disapprove,DK/REF,12,,15,,22,,30,,No,No,No,Yes,Yes,Fair,DK/REF
+Female,60,55-64,Latino,,,DK/REF,College degree,,Democrat,Moderate,Strongly Disapprove,Unfair,8.25,,10.25,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,Yes,Unfair,6
+Male,71,65+,White,,70000,,College degree,,Independent,Moderate,Strongly Disapprove,Fair,15,,15,,20,,25,,Yes,No,No,No,Yes,Unfair,8
+Male,37,35-44,White,,,DK/REF,Graduate degree,,Independent,Liberal,Strongly Disapprove,Unfair,7.25,,10,,20,,35,,No,Yes,Yes,Yes,No,Unfair,6
+Female,55,55-64,White,,,DK/REF,High school or less,,Republican,Moderate,Strongly Approve,DK/REF,,DK/REF,12,,40,,30,,No,No,Yes,No,Yes,DK/REF,5
+Female,88,65+,White,,,DK/REF,DK/REF,,Democrat,Moderate,Somewhat Disapprove,Unfair,,DK/REF,15,,,DK/REF,,DK/REF,Yes,Yes,No,DK/REF,DK/REF,Unfair,7
+Female,80,65+,White,,,DK/REF,College degree,,Independent,Moderate,Strongly Disapprove,Unfair,12,,20,,25,,25,,Yes,No,No,No,Yes,Unfair,DK/REF
+Female,53,45-54,White,,50000,,College degree,,Republican,Moderate,Neither approve nor disapprove,Unfair,7.25,,12,,20,,20,,No,Yes,Yes,Yes,No,Unfair,8
+Female,71,65+,White,,,DK/REF,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Fair,7.25,,10,,35,,90,,Yes,No,No,Yes,DK/REF,Unfair,8
+Female,65,65+,DK/REF,,,DK/REF,Graduate degree,,Independent,Moderate,Somewhat Approve,Fair,15,,10,,50,,20,,No,No,No,No,No,Unfair,5
+Female,85,65+,White,,,DK/REF,College degree,,Independent,Moderate,Somewhat Disapprove,DK/REF,15,,,DK/REF,28,,15,,No,No,No,No,Yes,Fair,8
+Female,52,45-54,White,,19000,,College degree,,Republican,Conservative,Strongly Approve,Unfair,15,,15,,30,,,DK/REF,No,No,No,No,Yes,Unfair,2
+Male,67,65+,White,,,DK/REF,Graduate degree,,Independent,Conservative,Strongly Approve,Fair,9,,10,,20,,25,,No,No,No,No,No,Fair,5
+Female,82,65+,DK/REF,,,DK/REF,High school or less,,Independent,DK/REF,DK/REF,DK/REF,10,,,DK/REF,,DK/REF,,DK/REF,Yes,Yes,Yes,DK/REF,Yes,Fair,DK/REF
+Male,59,55-64,White,,18000,,Some college,,Democrat,Conservative,Strongly Disapprove,Unfair,13,,16,,24,,,DK/REF,Yes,No,Yes,Yes,DK/REF,Unfair,4
+Male,68,65+,White,,,DK/REF,College degree,,Independent,Conservative,Strongly Approve,Fair,9,,9,,35,,40,,No,No,No,No,Yes,Fair,7
+Male,66,65+,White,,,DK/REF,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Unfair,7.25,,14,,28,,35,,DK/REF,No,No,No,Yes,Unfair,DK/REF
+Female,60,55-64,White,,70000,,Some college,,Democrat,Liberal,Strongly Disapprove,Unfair,8,,12,,10,,25,,No,DK/REF,No,No,DK/REF,Unfair,DK/REF
+Female,84,65+,White,,,DK/REF,High school or less,,Republican,Conservative,Strongly Approve,Fair,15,,,DK/REF,32,,15,,DK/REF,DK/REF,DK/REF,No,DK/REF,Unfair,DK/REF
+Male,58,55-64,White,,38000,,High school or less,,Republican,Conservative,Somewhat Approve,DK/REF,,DK/REF,,DK/REF,,DK/REF,,DK/REF,No,No,No,No,Yes,Fair,DK/REF
+Male,56,55-64,White,,,DK/REF,High school or less,,Independent,Liberal,Somewhat Disapprove,Fair,11,,15,,10,,25,,No,Yes,Yes,Yes,No,Unfair,Very attractive
+Female,73,65+,Black,,,DK/REF,High school or less,,Democrat,Conservative,Somewhat Disapprove,DK/REF,10,,10,,,DK/REF,,DK/REF,DK/REF,DK/REF,DK/REF,Yes,Yes,Unfair,8
+Female,75,65+,White,,38000,,Some college,,Democrat,Conservative,Somewhat Disapprove,Fair,8.5,,10,,5,,40,,Yes,Yes,Yes,No,DK/REF,Unfair,8
+Female,70,65+,White,,100000,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Unfair,7.25,,15,,32,,40,,No,No,No,Yes,DK/REF,Unfair,6
+Female,97,65+,White,,,DK/REF,High school or less,,Independent,DK/REF,DK/REF,Unfair,,DK/REF,10,,,DK/REF,,DK/REF,Yes,No,Yes,Yes,Yes,Unfair,5
+Female,81,65+,White,,75000,,Graduate degree,,Republican,Moderate,Strongly Approve,Unfair,10,,15,,33,,33,,No,Yes,No,No,Yes,Unfair,8
+Female,50,45-54,Black,,,DK/REF,College degree,,Independent,Conservative,Somewhat Disapprove,Fair,8,,12,,2,,25,,DK/REF,No,No,No,No,DK/REF,Very attractive
+Male,76,65+,White,,26000,,Some college,,Republican,Moderate,Strongly Approve,Unfair,15,,15,,30,,40,,No,No,No,No,Yes,Unfair,7
+Female,72,65+,White,,,DK/REF,Graduate degree,,Independent,Moderate,Strongly Disapprove,Unfair,8,,15,,,DK/REF,25,,Yes,No,No,Yes,Yes,Unfair,8
+Female,56,55-64,White,,25000,,College degree,,Republican,Moderate,Strongly Approve,Unfair,8,,10,,15,,28,,No,No,No,No,DK/REF,Unfair,5
+Female,59,55-64,White,,8000,,Some college,,Democrat,Moderate,DK/REF,Unfair,10,,12,,,DK/REF,,DK/REF,Yes,No,Yes,Yes,DK/REF,Unfair,DK/REF
+Male,63,55-64,White,,23000,,College degree,,Democrat,Conservative,Strongly Disapprove,Fair,1000,,12,,10,,33,,Yes,Yes,Yes,Yes,No,Unfair,9
+Male,89,65+,White,,15000,,Some college,,Independent,Moderate,Strongly Disapprove,Unfair,7.5,,10,,50,,50,,No,Yes,Yes,No,DK/REF,Unfair,8
+Female,80,65+,White,,,DK/REF,Graduate degree,,Democrat,Moderate,Strongly Disapprove,DK/REF,,DK/REF,,DK/REF,,DK/REF,,DK/REF,No,No,DK/REF,No,No,DK/REF,DK/REF
+Male,61,55-64,White,,,DK/REF,College degree,,Independent,Conservative,Somewhat Disapprove,Unfair,9,,15,,20,,28,,No,No,No,No,Yes,Unfair,4
+Male,68,65+,White,,,DK/REF,Some college,,Democrat,Moderate,Strongly Disapprove,Fair,7.5,,10,,22,,25,,Yes,No,No,Yes,No,Unfair,5
+Female,59,55-64,White,,,DK/REF,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Unfair,10,,15,,21,,,DK/REF,Yes,No,No,Yes,Yes,Unfair,7
+Female,89,65+,White,,,DK/REF,High school or less,,Independent,Moderate,DK/REF,Fair,6,,12,,,DK/REF,,DK/REF,Yes,No,Yes,Yes,DK/REF,Unfair,8
+Female,54,45-54,Black,,,DK/REF,Some college,,Democrat,DK/REF,Strongly Disapprove,DK/REF,8.62,,15,,2,,,DK/REF,Yes,Yes,Yes,Yes,Yes,Unfair,DK/REF
+Female,54,45-54,White,,28000,,High school or less,,Independent,Conservative,Neither approve nor disapprove,Unfair,8,,10.5,,8,,8,,Yes,No,No,Yes,No,Unfair,8
+Male,49,45-54,White,,250000,,Graduate degree,,Independent,Moderate,Somewhat Disapprove,Unfair,9,,15,,40,,50,,No,No,No,No,Yes,Unfair,6
+Female,36,35-44,White,,,DK/REF,Graduate degree,,Independent,Liberal,Strongly Disapprove,Unfair,11,,16,,,DK/REF,,DK/REF,No,No,No,Yes,No,Unfair,DK/REF
+Female,60,55-64,White,,110000,,High school or less,,Independent,Moderate,Strongly Approve,Fair,13,,13,,35,,,DK/REF,No,No,No,No,Yes,Fair,DK/REF
+Male,30,25-34,White,,100000,,College degree,,Republican,Conservative,Neither approve nor disapprove,Fair,8,,,DK/REF,25,,,DK/REF,No,No,No,No,Yes,Fair,7
+Male,34,25-34,White,,70000,,Some college,,Democrat,Liberal,Strongly Disapprove,DK/REF,8.25,,10,,25,,30,,No,No,Yes,No,Yes,Unfair,5
+Female,44,35-44,Asian,,80000,,College degree,,Republican,Conservative,Strongly Approve,Fair,9,,9,,25,,25,,No,No,Yes,No,No,Unfair,7
+Male,69,65+,White,,,DK/REF,High school or less,,Republican,Conservative,Strongly Approve,Fair,8,,10,,25,,25,,DK/REF,No,Yes,No,DK/REF,Fair,7
+Female,57,55-64,White,,,DK/REF,College degree,,Democrat,Moderate,Strongly Disapprove,Fair,8.95,,9.95,,36,,33,,No,No,No,No,Yes,Fair,7
+Male,80,65+,White,,70000,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,DK/REF,15,,15,,40,,40,,No,No,No,No,Yes,DK/REF,5
+Male,80,65+,White,,90000,,College degree,,Democrat,Moderate,Strongly Disapprove,Fair,10,,9,,40,,40,,Yes,No,Yes,No,DK/REF,Unfair,Very attractive
+Male,65,65+,White,,,DK/REF,College degree,,Democrat,Moderate,Strongly Disapprove,Fair,8,,15,,20,,50,,Yes,No,No,Yes,Yes,Unfair,5
+Female,83,65+,White,,,DK/REF,High school or less,,Republican,Moderate,Strongly Approve,Unfair,11,,15,,,DK/REF,,DK/REF,No,No,No,No,No,Unfair,5
+Female,26,25-34,White,,,DK/REF,Some college,,DK/REF,Moderate,Strongly Disapprove,Fair,8,,11,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,No,Unfair,8
+Female,58,55-64,White,,36000,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,DK/REF,,DK/REF,15,,,DK/REF,,DK/REF,Yes,DK/REF,Yes,Yes,DK/REF,Unfair,DK/REF
+Female,69,65+,White,,36000,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Unfair,7.25,,17,,8,,8,,Yes,No,Yes,No,No,Unfair,5
+Male,19,18-24,White,,20000,,Some college,,Independent,Moderate,Somewhat Approve,Unfair,15,,12,,15,,10,,Yes,Yes,Yes,Yes,Yes,Unfair,8
+Female,50,45-54,Asian,,,DK/REF,Graduate degree,,Republican,Liberal,Somewhat Disapprove,Fair,8,,10,,40,,40,,No,No,No,No,Yes,Unfair,7
+Female,65,65+,White,,50000,,High school or less,,Republican,Conservative,Strongly Approve,Fair,8.75,,10,,,DK/REF,25,,No,No,No,No,Yes,Unfair,7
+Male,64,55-64,White,,80000,,College degree,,Republican,Moderate,Strongly Disapprove,Fair,7,,18,,38,,38,,No,No,No,No,Yes,Fair,6
+Female,20,18-24,Latino,,70000,,Graduate degree,,Democrat,Conservative,Strongly Disapprove,Fair,8.5,,13,,,DK/REF,5,,No,No,Yes,No,Yes,Fair,8
+Female,50,45-54,White,,,DK/REF,Graduate degree,,Independent,Moderate,DK/REF,Fair,11,,11,,,DK/REF,,DK/REF,No,Yes,Yes,Yes,Yes,Fair,DK/REF
+Female,64,55-64,White,,,DK/REF,High school or less,,Independent,Conservative,Somewhat Approve,DK/REF,,DK/REF,8,,,DK/REF,,DK/REF,Yes,DK/REF,Yes,Yes,DK/REF,DK/REF,5
+Female,76,65+,White,,,DK/REF,High school or less,,Independent,Moderate,DK/REF,Unfair,7.5,,,DK/REF,,DK/REF,,DK/REF,No,Yes,No,No,DK/REF,Fair,Very attractive
+Female,37,35-44,White,,34000,,College degree,,Independent,Conservative,DK/REF,DK/REF,,DK/REF,15,,35,,35,,Yes,Yes,Yes,Yes,Yes,Unfair,7
+Female,20,18-24,White,,20000,,Some college,,Democrat,Liberal,Strongly Disapprove,Fair,9.5,,12,,40,,25,,No,Yes,Yes,Yes,Yes,Unfair,7
+Male,19,18-24,White,,,DK/REF,Some college,,Republican,Conservative,Somewhat Approve,Fair,12,,12,,15,,15,,No,No,No,No,Yes,Fair,7
+Female,73,65+,White,,,DK/REF,College degree,,Independent,DK/REF,Strongly Disapprove,Unfair,7.35,,12,,2,,10,,No,Yes,Yes,No,DK/REF,Unfair,5
+Female,62,55-64,White,,,DK/REF,College degree,,Republican,Conservative,Strongly Approve,DK/REF,10,,8,,,DK/REF,,DK/REF,No,No,No,No,DK/REF,Unfair,8
+Male,57,55-64,White,,200000,,College degree,,Republican,Moderate,Strongly Approve,Fair,8,,10,,30,,35,,No,No,No,Yes,Yes,Fair,6
+Female,63,55-64,White,,,DK/REF,High school or less,,Republican,Conservative,Strongly Approve,Unfair,8,,,DK/REF,35,,35,,No,No,No,No,DK/REF,Fair,Not attractive at all
+Male,47,45-54,Black,,750000,,High school or less,,Democrat,Moderate,Strongly Disapprove,Fair,,DK/REF,,DK/REF,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,Yes,Unfair,Very attractive
+Female,42,35-44,White,,,DK/REF,College degree,,Republican,Moderate,DK/REF,DK/REF,15,,,DK/REF,60,,,DK/REF,No,No,No,No,Yes,Unfair,DK/REF
+Male,60,55-64,White,,24000,,Other,Technical School Graduate,Republican,Conservative,Strongly Approve,Unfair,7,,11,,15,,8,,No,Yes,Yes,No,No,Unfair,6
+Male,66,65+,White,,57000,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Fair,15.55,,18.5,,40,,40,,No,No,Yes,No,Yes,Fair,7
+Male,21,18-24,Other,Mixed Race,150000,,High school or less,,Republican,Conservative,Strongly Approve,Fair,9,,9,,35,,25,,No,No,No,No,Yes,Fair,Very attractive
+Female,26,25-34,White,,33000,,College degree,,Independent,Moderate,Neither approve nor disapprove,Unfair,8,,12,,1,,10,,Yes,Yes,Yes,No,No,Fair,7
+Male,81,65+,White,,55000,,Graduate degree,,Republican,Conservative,Strongly Approve,Fair,12,,12,,39,,20,,No,No,No,No,Yes,Fair,8
+Other,21,18-24,DK/REF,,850000,,High school or less,,Democrat,Liberal,Strongly Approve,Unfair,7.5,,7.5,,25,,14,,No,No,No,No,DK/REF,Unfair,Very attractive
+Female,65,65+,White,,20000,,College degree,,Independent,Moderate,Somewhat Approve,Unfair,7.75,,10,,25,,30,,No,No,No,No,Yes,Unfair,DK/REF
+Male,70,65+,White,,,DK/REF,Some college,,DK/REF,Moderate,Somewhat Disapprove,Fair,15,,,DK/REF,,DK/REF,,DK/REF,Yes,No,Yes,DK/REF,No,Unfair,DK/REF
+Male,22,18-24,White,,,DK/REF,Graduate degree,,Independent,Moderate,Neither approve nor disapprove,DK/REF,7.25,,,DK/REF,25,,25,,No,Yes,No,No,Yes,Fair,DK/REF
+Female,30,25-34,White,,37000,,College degree,,Republican,Conservative,Somewhat Approve,Unfair,7.5,,10,,,DK/REF,,DK/REF,Yes,No,No,No,No,Fair,6
+Male,60,55-64,White,,14000,,College degree,,Independent,Conservative,Somewhat Approve,Unfair,9,,15,,40,,15,,No,Yes,Yes,Yes,DK/REF,Unfair,4
+Male,81,65+,White,,,DK/REF,Some college,,Independent,Conservative,Strongly Approve,Fair,12,,,DK/REF,24,,24,,No,DK/REF,DK/REF,No,DK/REF,DK/REF,8
+Male,45,45-54,White,,,DK/REF,College degree,,Democrat,Liberal,Somewhat Disapprove,DK/REF,8,,17,,25,,35,,No,No,No,No,No,Unfair,8
+Male,54,45-54,White,,,DK/REF,College degree,,Independent,Conservative,Strongly Approve,Unfair,10,,15,,35,,35,,No,No,Yes,No,Yes,Unfair,5
+Female,66,65+,White,,,DK/REF,Some college,,Republican,Moderate,Somewhat Approve,Unfair,,DK/REF,10,,30,,30,,Yes,Yes,Yes,Yes,DK/REF,Unfair,2
+Male,91,65+,White,,100000,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Unfair,15,,,DK/REF,20,,25,,Yes,No,DK/REF,Yes,DK/REF,Unfair,7
+Male,68,65+,White,,64000,,Some college,,Independent,Conservative,Somewhat Disapprove,Fair,7.5,,8.5,,5,,15,,No,No,No,No,DK/REF,Unfair,5
+Female,76,65+,White,,,DK/REF,High school or less,,DK/REF,DK/REF,Strongly Approve,Unfair,10,,15,,,DK/REF,,DK/REF,No,No,Yes,No,Yes,Unfair,Not attractive at all
+Male,70,65+,White,,,DK/REF,Some college,,Independent,Conservative,Strongly Disapprove,Unfair,15,,15,,25,,40,,Yes,Yes,Yes,Yes,Yes,Unfair,7
+Male,63,55-64,White,,65000,,College degree,,Republican,Moderate,Strongly Approve,Unfair,8.3,,12,,10,,,DK/REF,No,No,No,DK/REF,Yes,Unfair,DK/REF
+Female,65,65+,White,,250000,,College degree,,Independent,Liberal,Strongly Disapprove,Unfair,12,,15,,15,,40,,No,No,No,No,Yes,Unfair,DK/REF
+Female,78,65+,White,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,Unfair,15,,,DK/REF,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,No,Unfair,9
+Male,80,65+,White,,,DK/REF,High school or less,,Democrat,Conservative,Strongly Disapprove,DK/REF,10,,,DK/REF,18,,,DK/REF,No,Yes,Yes,Yes,DK/REF,Unfair,5
+Male,91,65+,White,,,DK/REF,College degree,,Independent,Moderate,Neither approve nor disapprove,Unfair,12,,15,,25,,20,,Yes,No,Yes,No,Yes,Unfair,8
+Female,60,55-64,White,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,Unfair,10,,12,,20,,25,,No,No,No,No,DK/REF,Unfair,7
+Female,79,65+,White,,,DK/REF,Some college,,Republican,Conservative,Somewhat Approve,Unfair,10,,,DK/REF,,DK/REF,,DK/REF,No,Yes,Yes,No,Yes,Unfair,5
+Male,62,55-64,White,,95000,,Graduate degree,,Independent,Moderate,Strongly Disapprove,Fair,9.25,,15,,18,,35,,No,No,Yes,Yes,Yes,Unfair,5
+Female,80,65+,White,,,DK/REF,Graduate degree,,Republican,Conservative,Strongly Approve,Unfair,8,,15,,,DK/REF,,DK/REF,No,Yes,No,No,DK/REF,DK/REF,5
+Female,85,65+,White,,,DK/REF,Some college,,Republican,Conservative,Somewhat Approve,Unfair,,DK/REF,,DK/REF,,DK/REF,,DK/REF,No,No,Yes,Yes,Yes,Fair,4
+Female,75,65+,White,,30000,,Some college,,Republican,Conservative,Strongly Approve,Fair,7,,7,,60,,40,,No,No,No,No,DK/REF,Unfair,8
+Female,69,65+,White,,10000,,Some college,,Republican,Moderate,DK/REF,Fair,10.75,,15,,5,,3,,Yes,Yes,Yes,Yes,No,Unfair,8
+Male,78,65+,White,,15000,,Some college,,Republican,Conservative,Strongly Approve,DK/REF,9.5,,10,,,DK/REF,10,,No,No,No,No,DK/REF,Fair,5
+Male,67,65+,White,,160000,,Other,Masters Degree,Independent,Moderate,Strongly Disapprove,Unfair,15,,25,,39,,20,,No,No,No,Yes,Yes,Unfair,8
+Female,88,65+,White,,,DK/REF,Some college,,DK/REF,Moderate,Somewhat Approve,Unfair,,DK/REF,,DK/REF,,DK/REF,,DK/REF,No,No,No,No,DK/REF,DK/REF,7
+Female,71,65+,White,,20000,,Some college,,DK/REF,Conservative,Strongly Approve,Unfair,15,,15,,30,,40,,No,Yes,Yes,Yes,Yes,Unfair,5
+Female,27,25-34,White,,,DK/REF,Other,Associate degree,Independent,Moderate,Somewhat Approve,Unfair,7.25,,10,,7,,3,,Yes,Yes,Yes,No,Yes,Unfair,6
+Female,77,65+,White,,,DK/REF,High school or less,,Democrat,Conservative,Strongly Disapprove,DK/REF,8,,,DK/REF,,DK/REF,,DK/REF,No,No,No,No,DK/REF,DK/REF,Very attractive
+Male,73,65+,White,,95000,,Graduate degree,,Republican,Conservative,Somewhat Approve,Unfair,14,,15,,28,,33,,No,No,No,Yes,No,Unfair,5
+Female,75,65+,White,,,DK/REF,High school or less,,Republican,Conservative,Somewhat Approve,Unfair,12,,12,,,DK/REF,,DK/REF,No,No,No,No,Yes,Fair,5
+Female,81,65+,White,,,DK/REF,Other,Masters Degree,Democrat,Liberal,Strongly Disapprove,Unfair,15,,15,,30,,50,,Yes,DK/REF,DK/REF,Yes,DK/REF,Unfair,7
+Female,73,65+,White,,24000,,College degree,,Democrat,Moderate,Strongly Disapprove,DK/REF,14,,,DK/REF,35,,25,,Yes,Yes,Yes,Yes,DK/REF,Unfair,DK/REF
+Female,75,65+,White,,,DK/REF,High school or less,,Independent,Moderate,Somewhat Approve,Unfair,9.5,,15,,10,,2,,No,No,No,No,No,Unfair,8
+Male,37,35-44,White,,27000,,High school or less,,Independent,Moderate,Strongly Approve,Fair,8,,10,,,DK/REF,,DK/REF,No,No,DK/REF,No,Yes,Unfair,5
+Male,75,65+,White,,40000,,Some college,,Independent,Conservative,Somewhat Disapprove,Unfair,12,,15.5,,30,,32,,Yes,No,No,No,DK/REF,Unfair,DK/REF
+Female,76,65+,Latino,,46000,,Some college,,Independent,Conservative,Somewhat Approve,Unfair,15,,18,,1,,,DK/REF,Yes,Yes,Yes,No,Yes,Unfair,5
+Female,70,65+,White,,,DK/REF,Graduate degree,,Independent,Moderate,Strongly Approve,Unfair,15,,15,,,DK/REF,,DK/REF,Yes,No,No,Yes,Yes,Unfair,8
+Female,92,65+,White,,,DK/REF,College degree,,Republican,Conservative,Strongly Approve,DK/REF,15,,20,,,DK/REF,,DK/REF,No,No,No,No,No,DK/REF,7
+Female,91,65+,White,,,DK/REF,College degree,,Democrat,Conservative,Somewhat Approve,DK/REF,,DK/REF,,DK/REF,,DK/REF,,DK/REF,No,No,No,No,Yes,Unfair,5
+Female,71,65+,White,,,DK/REF,College degree,,Independent,Moderate,Strongly Approve,Unfair,8,,10,,,DK/REF,25,,Yes,Yes,Yes,No,DK/REF,Unfair,DK/REF
+Male,68,65+,White,,75000,,Graduate degree,,Republican,Moderate,Strongly Approve,Fair,15,,,DK/REF,,DK/REF,,DK/REF,No,No,No,No,Yes,Fair,7
+Female,81,65+,White,,30000,,High school or less,,Independent,Moderate,Strongly Disapprove,DK/REF,9,,12,,,DK/REF,,DK/REF,No,DK/REF,No,Yes,DK/REF,DK/REF,3
+Female,86,65+,White,,20000,,Some college,,Democrat,DK/REF,Strongly Disapprove,Unfair,15,,15,,30,,,DK/REF,DK/REF,Yes,Yes,Yes,Yes,Unfair,4
+Male,45,45-54,White,,,DK/REF,High school or less,,Republican,Conservative,Strongly Approve,Fair,9.75,,,DK/REF,,DK/REF,,DK/REF,No,No,No,No,Yes,Fair,5
+Female,76,65+,White,,,DK/REF,High school or less,,Republican,Moderate,Somewhat Approve,Unfair,,DK/REF,,DK/REF,,DK/REF,,DK/REF,No,Yes,Yes,Yes,No,Unfair,DK/REF
+Female,82,65+,White,,,DK/REF,High school or less,,DK/REF,Moderate,Neither approve nor disapprove,DK/REF,,DK/REF,,DK/REF,,DK/REF,,DK/REF,No,No,No,No,DK/REF,DK/REF,9
+Female,19,18-24,White,,20000,,College degree,,Republican,Moderate,Strongly Approve,Fair,8,,11,,47,,13,,Yes,No,Yes,Yes,Yes,Fair,7
+Male,64,55-64,White,,,DK/REF,High school or less,,Independent,Conservative,Strongly Approve,Unfair,7.5,,9,,20,,15,,No,No,No,No,DK/REF,Unfair,9
+Female,80,65+,White,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,DK/REF,15,,,DK/REF,,DK/REF,,DK/REF,No,No,No,No,DK/REF,DK/REF,4
+Female,44,35-44,White,,17000,,High school or less,,Democrat,Moderate,Somewhat Approve,Unfair,7.2,,10,,7,,9,,No,Yes,Yes,Yes,Yes,Unfair,5
+Female,70,65+,White,,,DK/REF,College degree,,DK/REF,DK/REF,Strongly Disapprove,Fair,10,,,DK/REF,,DK/REF,,DK/REF,No,No,No,DK/REF,Yes,DK/REF,6
+Male,68,65+,White,,28000,,High school or less,,Republican,Moderate,Somewhat Approve,Unfair,12,,12,,25,,25,,Yes,No,No,Yes,Yes,Unfair,7
+Male,60,55-64,White,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,Fair,12,,15,,,DK/REF,,DK/REF,No,No,No,No,No,Unfair,6
+Male,71,65+,Black,,35000,,High school or less,,Democrat,Moderate,Somewhat Approve,Unfair,,DK/REF,10.5,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,DK/REF,Unfair,Very attractive
+Male,20,18-24,White,,70000,,Graduate degree,,Independent,Moderate,Neither approve nor disapprove,Fair,8,,15,,35,,35,,No,No,Yes,Yes,Yes,Unfair,6
+Male,79,65+,White,,,DK/REF,High school or less,,Democrat,Conservative,Strongly Disapprove,DK/REF,7.5,,10,,,DK/REF,,DK/REF,Yes,No,No,Yes,Yes,Unfair,7
+Female,73,65+,White,,,DK/REF,Some college,,Independent,Moderate,Strongly Disapprove,Unfair,11,,15,,37,,37,,Yes,No,No,Yes,Yes,Unfair,DK/REF
+Female,52,45-54,White,,25000,,High school or less,,Republican,Moderate,Strongly Approve,Fair,7.75,,9.5,,7,,7,,No,Yes,No,No,Yes,Fair,DK/REF
+Female,83,65+,Black,,,DK/REF,DK/REF,,Democrat,DK/REF,DK/REF,DK/REF,,DK/REF,,DK/REF,,DK/REF,,DK/REF,DK/REF,DK/REF,DK/REF,No,No,DK/REF,DK/REF
+Female,71,65+,Black,,,DK/REF,Some college,,Democrat,Liberal,Strongly Disapprove,DK/REF,15,,14,,,DK/REF,,DK/REF,Yes,No,Yes,DK/REF,DK/REF,Unfair,5
+DK/REF,94,65+,DK/REF,,1000,,High school or less,,Independent,DK/REF,DK/REF,Unfair,10,,10,,20,,20,,No,No,No,No,Yes,Fair,DK/REF
+Female,55,55-64,White,,50000,,High school or less,,Republican,Liberal,Strongly Approve,Unfair,15,,15,,25,,10,,No,No,Yes,Yes,No,Unfair,5
+Male,56,55-64,White,,50000,,College degree,,DK/REF,DK/REF,DK/REF,Fair,12.5,,12.5,,40,,50,,No,No,No,No,Yes,Unfair,7
+DK/REF,74,65+,Black,,,DK/REF,Graduate degree,,DK/REF,DK/REF,Strongly Approve,Fair,15,,6,,35,,,DK/REF,No,No,No,No,Yes,Fair,Very attractive
+Female,59,55-64,White,,48000,,College degree,,Democrat,Liberal,Strongly Disapprove,Fair,8.5,,10,,,DK/REF,1,,Yes,Yes,Yes,Yes,No,Unfair,5
+Female,64,55-64,White,,,DK/REF,College degree,,Independent,Moderate,Somewhat Disapprove,Unfair,7.25,,9,,33,,,DK/REF,No,Yes,No,No,Yes,Unfair,4
+Male,60,55-64,White,,50000,,Graduate degree,,Republican,Conservative,Strongly Approve,Unfair,9.75,,9.75,,32,,32,,No,No,No,No,Yes,Unfair,2
+Female,55,55-64,White,,,DK/REF,Graduate degree,,Republican,Conservative,DK/REF,Unfair,9.35,,9.35,,30,,30,,No,No,No,No,Yes,Unfair,DK/REF
+Other,35,35-44,Asian,,70000,,High school or less,,Independent,Moderate,Strongly Approve,Fair,8,,8,,40,,50,,Yes,Yes,Yes,Yes,No,Fair,9
+Male,52,45-54,Asian,,450000,,Graduate degree,,Independent,Moderate,Somewhat Disapprove,Fair,14,,25,,40,,35,,Yes,Yes,No,No,Yes,Unfair,DK/REF
+Female,66,65+,White,,25000,,Some college,,Independent,Liberal,Strongly Disapprove,Unfair,7.5,,15,,20,,30,,Yes,No,No,Yes,DK/REF,Unfair,5
+Female,28,25-34,White,,36000,,College degree,,Independent,Liberal,Somewhat Disapprove,Unfair,10,,15,,,DK/REF,,DK/REF,Yes,No,No,No,No,Fair,8
+Female,47,45-54,White,,48000,,Some college,,Democrat,Moderate,Strongly Disapprove,Fair,8.5,,9,,,DK/REF,20,,Yes,No,No,Yes,Yes,Unfair,8
+Male,67,65+,White,,65000,,Some college,,Republican,Conservative,Strongly Approve,Unfair,40,,25,,25,,20,,No,No,No,No,Yes,DK/REF,8
+Male,48,45-54,White,,,DK/REF,Graduate degree,,Independent,Moderate,Strongly Disapprove,Fair,9.25,,15,,33,,50,,Yes,No,Yes,DK/REF,Yes,Unfair,8
+Male,57,55-64,White,,80000,,College degree,,Republican,Conservative,Strongly Approve,DK/REF,8,,9,,,DK/REF,10,,No,No,No,No,No,Unfair,8
+Female,60,55-64,White,,,DK/REF,College degree,,Independent,Conservative,Somewhat Approve,Unfair,25,,7.75,,30,,25,,No,No,No,No,Yes,Unfair,DK/REF
+Female,51,45-54,White,,25000,,College degree,,Republican,Conservative,Somewhat Approve,Unfair,9,,9,,28,,28,,No,No,No,No,Yes,Unfair,7
+Male,71,65+,White,,,DK/REF,Some college,,Independent,DK/REF,Strongly Disapprove,Fair,12,,12,,,DK/REF,,DK/REF,No,No,No,No,Yes,Fair,5
+Male,50,45-54,White,,24000,,Some college,,Republican,Moderate,Strongly Approve,Unfair,5.75,,5,,10,,10,,No,Yes,No,No,Yes,Unfair,8
+Male,54,45-54,Asian,,90000,,College degree,,Republican,Conservative,Neither approve nor disapprove,Fair,8,,10,,20,,40,,No,Yes,Yes,No,Yes,Unfair,6
+Male,45,45-54,White,,100000,,Some college,,Independent,Moderate,Somewhat Approve,Fair,8.5,,9,,35,,33,,No,No,No,No,Yes,Fair,6
+Male,56,55-64,Black,,,DK/REF,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Fair,7.5,,10,,18,,18,,No,Yes,Yes,Yes,No,DK/REF,Very attractive
+Female,30,25-34,White,,30000,,Other,Vocational degree,DK/REF,Liberal,Strongly Disapprove,Unfair,10.75,,20,,,DK/REF,25,,Yes,Yes,Yes,Yes,No,Unfair,7
+Female,64,55-64,White,,50000,,College degree,,Republican,Moderate,Neither approve nor disapprove,Fair,11,,11,,30,,35,,No,No,No,No,Yes,Unfair,6
+Male,62,55-64,White,,80000,,College degree,,Independent,Moderate,Somewhat Disapprove,Fair,7.25,,7.25,,39,,39,,No,No,No,No,Yes,Fair,DK/REF
+Female,46,45-54,White,,140000,,Graduate degree,,Independent,Moderate,Strongly Disapprove,Fair,10,,,DK/REF,27,,,DK/REF,No,No,No,No,Yes,Fair,7
+Female,48,45-54,Asian,,,DK/REF,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Unfair,12,,12,,22,,22,,Yes,No,No,Yes,No,Unfair,Very attractive
+Female,51,45-54,White,,42000,,Other,Associate degree,Republican,Conservative,Somewhat Approve,Unfair,10,,15,,4,,60,,No,No,No,No,No,Fair,6
+Female,90,65+,White,,,DK/REF,Some college,,Democrat,Conservative,Strongly Disapprove,DK/REF,,DK/REF,,DK/REF,,DK/REF,,DK/REF,DK/REF,No,No,No,DK/REF,DK/REF,3
+Female,26,25-34,White,,,DK/REF,College degree,,DK/REF,DK/REF,Neither approve nor disapprove,DK/REF,7.25,,,DK/REF,,DK/REF,,DK/REF,No,No,No,No,DK/REF,Fair,DK/REF
+Male,43,35-44,Black,,68000,,Some college,,Independent,Moderate,Somewhat Disapprove,Unfair,10,,11,,15,,25,,No,No,No,No,Yes,Unfair,7
+Male,19,18-24,White,,,DK/REF,Other,Currently in college,Republican,Conservative,Neither approve nor disapprove,Fair,7.25,,10,,10,,20,,No,No,Yes,No,Yes,Fair,5
+Female,24,18-24,White,,,DK/REF,Some college,,DK/REF,Moderate,Strongly Disapprove,Fair,9.25,,,DK/REF,15,,20,,No,Yes,Yes,No,No,Unfair,DK/REF
+Female,53,45-54,White,,140000,,High school or less,,Independent,Conservative,Somewhat Approve,Fair,8,,8,,30,,15,,No,No,No,No,Yes,Fair,7
+Male,79,65+,White,,,DK/REF,High school or less,,Independent,Conservative,Strongly Approve,DK/REF,,DK/REF,,DK/REF,,DK/REF,15,,No,DK/REF,DK/REF,No,Yes,Unfair,DK/REF
+Female,56,55-64,White,,100000,,High school or less,,Democrat,Moderate,Strongly Disapprove,Fair,8.5,,12,,,DK/REF,,DK/REF,Yes,Yes,No,Yes,Yes,Unfair,7
+Female,67,65+,White,,,DK/REF,College degree,,Republican,Moderate,Strongly Approve,Unfair,8.5,,10,,34,,35,,No,No,No,Yes,No,Unfair,8
+Male,77,65+,White,,,DK/REF,College degree,,Independent,Conservative,DK/REF,DK/REF,9,,12,,,DK/REF,10,,DK/REF,DK/REF,No,No,Yes,Unfair,Not attractive at all
+Male,52,45-54,White,,200000,,High school or less,,Independent,Moderate,Neither approve nor disapprove,Fair,7.35,,10,,28,,24,,No,No,No,No,Yes,Fair,5
+Other,21,18-24,Asian,,186000,,College degree,,Republican,Conservative,Strongly Approve,Fair,8,,,DK/REF,,DK/REF,,DK/REF,No,No,No,No,Yes,Fair,Very attractive
+Male,55,55-64,White,,50000,,Graduate degree,,Republican,Conservative,Strongly Approve,Fair,12,,16,,22,,22,,No,No,No,Yes,Yes,Unfair,8
+Male,80,65+,White,,82000,,College degree,,Democrat,Conservative,Somewhat Approve,Fair,7.25,,9.5,,39,,39,,No,No,No,No,Yes,Fair,5
+Female,64,55-64,White,,70000,,College degree,,Independent,Moderate,Somewhat Approve,Fair,7.25,,7.25,,28,,28,,Yes,No,No,No,Yes,Fair,5
+Female,27,25-34,White,,,DK/REF,College degree,,Democrat,Moderate,Strongly Disapprove,Fair,7.25,,15,,15,,15,,Yes,No,No,Yes,No,Unfair,8
+Male,31,25-34,Latino,,25000,,College degree,,Democrat,Liberal,Neither approve nor disapprove,Unfair,30,,30,,3,,10,,Yes,Yes,Yes,No,Yes,Fair,7
+Male,64,55-64,Black,,,DK/REF,Graduate degree,,Independent,Moderate,DK/REF,Unfair,7.5,,7.5,,20,,40,,No,No,No,No,No,Unfair,8
+Male,53,45-54,White,,,DK/REF,Some college,,Democrat,Conservative,DK/REF,Unfair,8,,8,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,Yes,Unfair,8
+Male,82,65+,White,,,DK/REF,Some college,,Independent,Conservative,Neither approve nor disapprove,Fair,10,,,DK/REF,,DK/REF,,DK/REF,No,DK/REF,DK/REF,No,DK/REF,Fair,7
+Female,40,35-44,Black,,,DK/REF,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Unfair,10,,12,,5,,,DK/REF,Yes,Yes,Yes,DK/REF,Yes,Unfair,DK/REF
+Female,35,35-44,White,,20000,,College degree,,Democrat,Liberal,Strongly Disapprove,Fair,9.75,,11,,,DK/REF,,DK/REF,Yes,Yes,Yes,No,Yes,Unfair,Very attractive
+Female,60,55-64,Latino,,,DK/REF,High school or less,,DK/REF,Conservative,Somewhat Disapprove,Fair,13,,13,,,DK/REF,,DK/REF,No,No,No,Yes,DK/REF,DK/REF,5
+Female,70,65+,White,,,DK/REF,High school or less,,Independent,Moderate,Strongly Disapprove,Fair,12,,,DK/REF,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,No,Unfair,8
+Male,73,65+,Black,,100000,,College degree,,Democrat,Moderate,Strongly Disapprove,Fair,8,,15,,10,,20,,Yes,No,Yes,No,Yes,Fair,8
+Male,85,65+,White,,30000,,Graduate degree,,Independent,Conservative,Strongly Approve,Unfair,10,,10,,,DK/REF,,DK/REF,No,Yes,No,No,No,Unfair,Very attractive
+Female,79,65+,White,,,DK/REF,High school or less,,Republican,Moderate,Strongly Approve,Unfair,10,,8,,8,,60,,No,No,No,No,No,Unfair,7
+Male,68,65+,Black,,,DK/REF,High school or less,,Independent,DK/REF,Strongly Disapprove,Unfair,,DK/REF,,DK/REF,,DK/REF,,DK/REF,Yes,No,No,Yes,Yes,Unfair,8
+Other,32,25-34,Asian,,20000,,High school or less,,Independent,DK/REF,Strongly Approve,DK/REF,,DK/REF,,DK/REF,,DK/REF,,DK/REF,Yes,DK/REF,DK/REF,No,Yes,DK/REF,3
+Female,75,65+,Black,,16000,,High school or less,,Democrat,DK/REF,Strongly Disapprove,Fair,15,,18,,,DK/REF,,DK/REF,Yes,Yes,No,Yes,DK/REF,Unfair,9
+Female,61,55-64,White,,,DK/REF,High school or less,,Republican,Conservative,Strongly Approve,Unfair,7.5,,8,,,DK/REF,,DK/REF,No,DK/REF,Yes,No,Yes,Unfair,DK/REF
+Male,75,65+,White,,22000,,High school or less,,DK/REF,Conservative,Strongly Approve,DK/REF,15,,10,,25,,25,,No,Yes,No,No,Yes,Fair,6
+Female,75,65+,Black,,,DK/REF,College degree,,Independent,Liberal,Strongly Disapprove,Fair,7,,15,,,DK/REF,,DK/REF,Yes,Yes,Yes,No,No,Unfair,Very attractive
+Female,49,45-54,Black,,,DK/REF,High school or less,,Republican,DK/REF,Strongly Disapprove,DK/REF,,DK/REF,,DK/REF,,DK/REF,,DK/REF,DK/REF,DK/REF,DK/REF,Yes,DK/REF,DK/REF,3
+Male,71,65+,White,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,Unfair,20,,15,,25,,25,,No,No,No,No,Yes,Unfair,7
+Male,89,65+,White,,,DK/REF,College degree,,Democrat,Moderate,Strongly Disapprove,Fair,8,,15,,12,,20,,No,No,DK/REF,No,DK/REF,Unfair,5
+Female,76,65+,White,,,DK/REF,College degree,,Republican,Conservative,Strongly Approve,DK/REF,,DK/REF,10,,,DK/REF,,DK/REF,DK/REF,Yes,No,No,DK/REF,DK/REF,7
+Female,76,65+,White,,,DK/REF,Graduate degree,,Republican,Moderate,Somewhat Disapprove,DK/REF,8,,10,,,DK/REF,,DK/REF,Yes,No,No,DK/REF,DK/REF,DK/REF,7
+Female,84,65+,White,,,DK/REF,High school or less,,Independent,Conservative,Neither approve nor disapprove,Fair,,DK/REF,,DK/REF,,DK/REF,,DK/REF,Yes,No,No,No,No,Unfair,8
+Male,65,65+,Black,,50000,,DK/REF,,Democrat,Moderate,Strongly Disapprove,Fair,10,,15,,,DK/REF,,DK/REF,Yes,Yes,Yes,DK/REF,No,Unfair,DK/REF
+Male,70,65+,Asian,,,DK/REF,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Unfair,10,,10,,30,,30,,Yes,No,Yes,No,Yes,Unfair,7
+Male,69,65+,White,,100000,,College degree,,Democrat,Moderate,Strongly Disapprove,DK/REF,7.25,,10,,28,,44,,Yes,No,Yes,Yes,DK/REF,Unfair,5
+Female,70,65+,White,,,DK/REF,College degree,,Republican,Moderate,Strongly Approve,Fair,12,,20,,25,,25,,Yes,Yes,Yes,No,No,Unfair,2
+Female,74,65+,White,,,DK/REF,High school or less,,Democrat,Liberal,Strongly Disapprove,Unfair,,DK/REF,15,,,DK/REF,,DK/REF,No,No,Yes,Yes,DK/REF,Unfair,8
+Female,65,65+,White,,50000,,High school or less,,Republican,Conservative,Strongly Approve,Unfair,10,,,DK/REF,,DK/REF,25,,No,Yes,Yes,No,Yes,Unfair,6
+Female,80,65+,White,,,DK/REF,Some college,,Independent,Moderate,Strongly Approve,Fair,,DK/REF,12,,,DK/REF,,DK/REF,No,Yes,Yes,No,DK/REF,DK/REF,6
+Female,53,45-54,Black,,,DK/REF,Graduate degree,,Democrat,Liberal,DK/REF,Fair,7.5,,10,,50,,,DK/REF,Yes,No,No,No,Yes,Fair,DK/REF
+Female,55,55-64,White,,30000,,Some college,,Republican,Liberal,Strongly Approve,Fair,11.25,,15,,10,,20,,Yes,No,Yes,Yes,Yes,Unfair,7
+Male,71,65+,White,,50000,,Some college,,Republican,Conservative,Strongly Approve,Fair,,DK/REF,8.5,,58,,50,,No,No,No,No,Yes,DK/REF,7
+Male,58,55-64,White,,,DK/REF,High school or less,,Democrat,Liberal,Strongly Approve,Unfair,7.75,,,DK/REF,,DK/REF,,DK/REF,No,DK/REF,No,Yes,No,Unfair,6
+Male,63,55-64,Asian,,,DK/REF,High school or less,,Republican,Conservative,Strongly Approve,Unfair,10,,16,,,DK/REF,,DK/REF,DK/REF,No,No,No,DK/REF,Unfair,8
+Female,51,45-54,White,,50000,,Some college,,Republican,Conservative,Somewhat Approve,Fair,8.5,,9.5,,20,,25,,No,No,No,No,Yes,Unfair,8
+Male,27,25-34,White,,50000,,High school or less,,Independent,Moderate,Somewhat Approve,Unfair,40,,25,,,DK/REF,4,,Yes,Yes,Yes,Yes,No,Unfair,7
+Female,25,25-34,White,,,DK/REF,High school or less,,DK/REF,DK/REF,Somewhat Approve,Unfair,8,,13,,,DK/REF,,DK/REF,No,Yes,Yes,Yes,DK/REF,Unfair,6
+Male,20,18-24,White,,15000,,Some college,,Republican,Moderate,Strongly Approve,Unfair,9.25,,10,,30,,20,,Yes,No,No,Yes,No,Fair,8
+Female,82,65+,White,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,Fair,8,,10,,,DK/REF,,DK/REF,No,Yes,Yes,No,No,DK/REF,9
+Female,37,35-44,Black,,40000,,College degree,,Democrat,Conservative,Strongly Disapprove,Unfair,8,,15,,,DK/REF,,DK/REF,Yes,No,No,Yes,Yes,Unfair,Very attractive
+Male,68,65+,White,,,DK/REF,College degree,,Republican,Conservative,Somewhat Approve,Unfair,8,,10,,,DK/REF,,DK/REF,Yes,Yes,Yes,No,No,Unfair,6
+Male,76,65+,White,,40000,,Some college,,Independent,Conservative,Strongly Approve,Fair,25,,25,,20,,20,,No,No,No,No,Yes,Unfair,Very attractive
+Male,61,55-64,White,,,DK/REF,Graduate degree,,Independent,Conservative,Somewhat Approve,Fair,8,,,DK/REF,35,,30,,No,No,Yes,Yes,Yes,Fair,7
+Male,68,65+,White,,60000,,Some college,,Democrat,Moderate,Strongly Disapprove,Fair,15,,15,,25,,25,,No,No,No,No,DK/REF,Unfair,6
+Male,65,65+,White,,42000,,High school or less,,Independent,Moderate,Somewhat Approve,DK/REF,8,,18,,47,,47,,Yes,No,Yes,No,No,Unfair,7
+Female,86,65+,White,,,DK/REF,High school or less,,Independent,Liberal,Strongly Disapprove,Unfair,10,,15,,,DK/REF,,DK/REF,No,No,Yes,DK/REF,No,Unfair,9
+Male,21,18-24,White,,,DK/REF,High school or less,,DK/REF,DK/REF,Neither approve nor disapprove,Fair,10,,7.25,,8,,10,,No,No,No,No,No,Fair,7
+Female,55,55-64,Asian,,60000,,College degree,,Independent,Moderate,Strongly Approve,Unfair,10,,10,,30,,30,,No,No,No,Yes,Yes,Unfair,DK/REF
+Male,65,65+,White,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,Fair,7,,,DK/REF,,DK/REF,,DK/REF,No,No,No,No,Yes,Fair,8
+Male,80,65+,Black,,125000,,Graduate degree,,DK/REF,DK/REF,Neither approve nor disapprove,Fair,7.25,,10,,,DK/REF,,DK/REF,Yes,No,Yes,Yes,DK/REF,Unfair,Very attractive
+Male,67,65+,White,,80000,,College degree,,Independent,Conservative,Strongly Approve,Unfair,8,,,DK/REF,36,,45,,Yes,No,No,No,Yes,Fair,6
+Male,30,25-34,White,,50000,,Graduate degree,,Independent,Conservative,Strongly Approve,Fair,,DK/REF,,DK/REF,30,,,DK/REF,No,Yes,No,No,Yes,Fair,5
+Male,37,35-44,White,,60000,,High school or less,,Republican,Conservative,Strongly Approve,Unfair,20,,10,,40,,10,,Yes,Yes,Yes,No,Yes,Unfair,5
+Male,79,65+,White,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,Unfair,8,,10,,30,,,DK/REF,No,No,No,No,DK/REF,Unfair,5
+Female,58,55-64,White,,20000,,Graduate degree,,Democrat,Moderate,Somewhat Disapprove,Unfair,9.5,,15,,15,,15,,No,Yes,Yes,No,Yes,Unfair,7
+Female,62,55-64,White,,45000,,Some college,,Independent,Moderate,Strongly Disapprove,DK/REF,7.5,,15,,5,,10,,No,Yes,Yes,No,Yes,DK/REF,6
+Male,56,55-64,White,,45000,,High school or less,,Republican,Conservative,Strongly Approve,Unfair,8.15,,10,,7,,5,,No,No,No,No,Yes,Unfair,DK/REF
+Male,77,65+,White,,50000,,Some college,,Democrat,Moderate,Strongly Disapprove,Unfair,7.5,,10.35,,3,,25,,No,No,Yes,Yes,Yes,Unfair,5
+Female,53,45-54,White,,165000,,Graduate degree,,Republican,Moderate,Somewhat Disapprove,DK/REF,12,,,DK/REF,,DK/REF,15,,No,No,No,No,Yes,Unfair,8
+Male,65,65+,White,,,DK/REF,Other,master's degree,Democrat,DK/REF,Strongly Disapprove,Unfair,,DK/REF,,DK/REF,70,,70,,Yes,No,Yes,DK/REF,Yes,Unfair,7
+Female,68,65+,White,,24000,,High school or less,,Republican,Conservative,Somewhat Approve,Fair,13,,,DK/REF,,DK/REF,,DK/REF,No,No,No,No,Yes,DK/REF,7
+Male,59,55-64,White,,40000,,College degree,,Independent,Conservative,Somewhat Approve,Unfair,10,,10,,40,,11,,Yes,Yes,Yes,No,Yes,Unfair,6
+Female,54,45-54,White,,,DK/REF,Graduate degree,,Republican,Moderate,Neither approve nor disapprove,Unfair,8.25,,8.25,,41,,41,,Yes,No,No,No,No,Unfair,6
+Female,73,65+,White,,55000,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Unfair,8,,15,,10,,45,,Yes,Yes,Yes,Yes,Yes,Unfair,DK/REF
+Male,75,65+,White,,10000,,Some college,,Democrat,Liberal,Somewhat Approve,Fair,10,,25,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,Yes,Fair,Very attractive
+Male,64,55-64,White,,60000,,High school or less,,Republican,Liberal,Strongly Approve,Fair,15,,15,,,DK/REF,,DK/REF,Yes,No,No,Yes,Yes,Fair,4
+Female,59,55-64,White,,6000,,High school or less,,Democrat,Conservative,Somewhat Approve,Unfair,10.5,,15,,45,,50,,No,Yes,Yes,Yes,DK/REF,Fair,8
+Male,62,55-64,White,,120000,,Some college,,Republican,Moderate,Strongly Disapprove,Fair,10,,12,,21,,30,,No,No,No,No,Yes,Unfair,5
+Male,50,45-54,White,,,DK/REF,Some college,,Independent,Moderate,Strongly Approve,Unfair,8,,9,,45,,45,,No,Yes,No,No,Yes,Unfair,5
+Female,85,65+,White,,,DK/REF,High school or less,,Republican,DK/REF,DK/REF,Fair,,DK/REF,,DK/REF,,DK/REF,,DK/REF,No,DK/REF,DK/REF,No,DK/REF,DK/REF,6
+Male,55,55-64,White,,90000,,Graduate degree,,Independent,Liberal,Neither approve nor disapprove,Unfair,12.45,,16,,3,,10,,No,No,No,Yes,Yes,Fair,5
+Male,42,35-44,White,,,DK/REF,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Fair,8.5,,15,,35,,45,,No,Yes,Yes,Yes,Yes,Fair,6
+Female,75,65+,White,,40000,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Unfair,7.5,,10,,,DK/REF,,DK/REF,Yes,No,No,No,DK/REF,Unfair,7
+Female,67,65+,Black,,50000,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Fair,15,,20,,20,,35,,No,No,No,Yes,Yes,Unfair,6
+Male,76,65+,White,,,DK/REF,High school or less,,Republican,Liberal,Somewhat Approve,Fair,8.5,,8,,,DK/REF,,DK/REF,Yes,No,Yes,Yes,Yes,Unfair,5
+Female,84,65+,White,,,DK/REF,College degree,,Independent,Conservative,DK/REF,Unfair,7.5,,8.5,,30,,15,,DK/REF,Yes,Yes,No,Yes,DK/REF,4
+Female,50,45-54,White,,100000,,College degree,,Republican,Moderate,Neither approve nor disapprove,Fair,10.5,,12,,,DK/REF,,DK/REF,Yes,No,No,No,No,Fair,4
+Male,78,65+,DK/REF,,60000,,High school or less,,Republican,Moderate,Strongly Approve,Unfair,10,,15,,10,,18,,No,No,No,No,Yes,Unfair,DK/REF
+Female,67,65+,White,,90000,,College degree,,Democrat,Liberal,Strongly Disapprove,Unfair,9,,14,,30,,55,,DK/REF,No,No,Yes,Yes,Unfair,5
+Female,78,65+,White,,72000,,Graduate degree,,Democrat,Moderate,Somewhat Disapprove,Unfair,5,,,DK/REF,10,,,DK/REF,Yes,No,No,No,Yes,Unfair,7
+Female,61,55-64,Other,Caribbean American,75000,,Graduate degree,,Independent,Liberal,Strongly Disapprove,Fair,9,,17,,10,,30,,No,No,No,Yes,No,Unfair,8
+Male,63,55-64,White,,70000,,Some college,,Independent,Conservative,Strongly Approve,Unfair,10,,10,,30,,30,,No,No,No,No,Yes,Unfair,7
+Male,70,65+,White,,,DK/REF,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Fair,10,,12.5,,,DK/REF,,DK/REF,Yes,No,No,No,DK/REF,Unfair,DK/REF
+Female,40,35-44,White,,,DK/REF,Some college,,Independent,Moderate,Strongly Approve,Unfair,9,,9,,23,,23,,No,No,No,No,Yes,Unfair,8
+Female,86,65+,White,,,DK/REF,High school or less,,Republican,Conservative,Strongly Approve,Fair,15,,15,,,DK/REF,,DK/REF,Yes,Yes,Yes,No,DK/REF,Unfair,7
+Female,70,65+,White,,70000,,High school or less,,Republican,Conservative,Strongly Approve,Unfair,35,,15,,15,,12,,No,Yes,Yes,No,Yes,Fair,DK/REF
+Male,86,65+,White,,,DK/REF,Some college,,Democrat,Liberal,Somewhat Approve,Fair,6,,8,,20,,20,,No,No,No,No,DK/REF,Fair,DK/REF
+Female,84,65+,White,,,DK/REF,High school or less,,DK/REF,DK/REF,Strongly Approve,DK/REF,,DK/REF,10,,10,,10,,No,No,No,No,Yes,Fair,9
+Male,56,55-64,White,,,DK/REF,Some college,,Republican,Moderate,Strongly Approve,DK/REF,7,,,DK/REF,,DK/REF,10,,No,No,No,No,Yes,DK/REF,DK/REF
+Male,65,65+,White,,,DK/REF,High school or less,,Republican,Conservative,Strongly Approve,Unfair,12,,15,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,Yes,Fair,8
+Male,76,65+,White,,,DK/REF,High school or less,,Republican,Conservative,Strongly Approve,Fair,10,,10,,39,,39,,No,No,No,Yes,Yes,Unfair,9
+Male,70,65+,White,,,DK/REF,Graduate degree,,Democrat,Conservative,Strongly Approve,Fair,,DK/REF,,DK/REF,25,,25,,No,No,No,No,Yes,Fair,5
+Female,60,55-64,White,,20000,,High school or less,,Republican,Conservative,Strongly Approve,DK/REF,8,,,DK/REF,,DK/REF,,DK/REF,No,No,No,No,DK/REF,Fair,DK/REF
+Female,70,65+,White,,,DK/REF,High school or less,,DK/REF,Moderate,Somewhat Approve,Unfair,15,,15,,,DK/REF,,DK/REF,No,No,No,No,Yes,DK/REF,6
+Female,63,55-64,White,,,DK/REF,High school or less,,Democrat,Liberal,Strongly Disapprove,Unfair,7.5,,12,,,DK/REF,,DK/REF,Yes,No,Yes,Yes,Yes,Unfair,7
+Male,72,65+,White,,30000,,High school or less,,DK/REF,Conservative,Strongly Approve,Unfair,10.2,,10,,4,,20,,No,No,No,No,Yes,Unfair,6
+Female,80,65+,White,,,DK/REF,Graduate degree,,Republican,Conservative,Somewhat Approve,Unfair,9,,8,,,DK/REF,,DK/REF,No,Yes,Yes,No,DK/REF,DK/REF,8
+Female,60,55-64,White,,,DK/REF,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Fair,7.25,,20,,,DK/REF,,DK/REF,Yes,Yes,Yes,DK/REF,No,Unfair,2
+Female,51,45-54,Black,,,DK/REF,College degree,,Democrat,DK/REF,Strongly Disapprove,Unfair,8,,15,,8,,7,,Yes,No,Yes,Yes,DK/REF,Unfair,8
+Female,75,65+,White,,,DK/REF,Some college,,Independent,Moderate,Strongly Disapprove,Unfair,20,,10,,25,,,DK/REF,No,No,No,No,No,Fair,9
+Male,70,65+,White,,,DK/REF,College degree,,Independent,Moderate,Strongly Disapprove,Unfair,,DK/REF,7,,,DK/REF,30,,Yes,DK/REF,Yes,Yes,No,Unfair,6
+Male,67,65+,White,,24000,,Graduate degree,,Independent,Moderate,Neither approve nor disapprove,Fair,8.25,,10,,19,,,DK/REF,No,No,Yes,No,DK/REF,Fair,DK/REF
+Female,70,65+,Black,,,DK/REF,High school or less,,DK/REF,Moderate,DK/REF,Fair,1,,,DK/REF,,DK/REF,,DK/REF,Yes,Yes,No,Yes,Yes,Fair,5
+Female,80,65+,White,,90000,,Some college,,Independent,Liberal,Somewhat Disapprove,Fair,25,,25,,10,,8,,No,No,No,Yes,Yes,DK/REF,9
+Female,65,65+,White,,80000,,Graduate degree,,Democrat,Moderate,Neither approve nor disapprove,Fair,7,,10,,27,,30,,No,No,No,No,Yes,Fair,5
+Female,76,65+,White,,,DK/REF,High school or less,,Democrat,Moderate,Somewhat Approve,Fair,15,,17,,20,,30,,Yes,No,Yes,Yes,Yes,Fair,Very attractive
+Male,68,65+,White,,75000,,College degree,,Republican,Conservative,Strongly Approve,DK/REF,10,,15,,,DK/REF,,DK/REF,No,No,No,No,Yes,Unfair,DK/REF
+Female,97,65+,DK/REF,,200000,,Graduate degree,,Republican,Conservative,Strongly Approve,Unfair,15,,12,,40,,40,,No,No,No,No,Yes,Fair,Very attractive
+Female,70,65+,White,,,DK/REF,High school or less,,Republican,Conservative,Strongly Approve,Unfair,7.5,,7.5,,20,,20,,No,No,No,No,Yes,Unfair,6
+Female,78,65+,White,,,DK/REF,High school or less,,Democrat,DK/REF,DK/REF,Fair,,DK/REF,,DK/REF,,DK/REF,,DK/REF,Yes,No,DK/REF,DK/REF,Yes,Fair,5
+Female,96,65+,White,,8000,,Graduate degree,,Independent,Moderate,Neither approve nor disapprove,DK/REF,12,,20,,50,,,DK/REF,No,No,Yes,No,DK/REF,Unfair,7
+Male,75,65+,White,,20000,,High school or less,,Republican,DK/REF,Strongly Approve,Unfair,9,,11,,,DK/REF,,DK/REF,No,Yes,No,No,Yes,Unfair,8
+Female,46,45-54,White,,9500,,College degree,,Republican,Moderate,Strongly Approve,DK/REF,10,,12,,,DK/REF,,DK/REF,No,DK/REF,Yes,No,DK/REF,Unfair,7
+Female,72,65+,White,,30000,,Some college,,Independent,Conservative,Neither approve nor disapprove,DK/REF,9,,,DK/REF,,DK/REF,50,,Yes,No,No,No,No,Unfair,5
+Female,90,65+,White,,,DK/REF,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Unfair,,DK/REF,,DK/REF,,DK/REF,,DK/REF,No,No,Yes,No,Yes,Unfair,9
+Female,75,65+,White,,,DK/REF,High school or less,,Democrat,Liberal,Somewhat Disapprove,Fair,,DK/REF,15,,25,,30,,Yes,Yes,Yes,Yes,Yes,Unfair,DK/REF
+Female,92,65+,White,,,DK/REF,Some college,,Independent,Moderate,DK/REF,Unfair,,DK/REF,6.5,,50,,20,,No,DK/REF,No,No,DK/REF,Unfair,7
+Female,55,55-64,Other,American Indian,24000,,Some college,,Independent,Moderate,Somewhat Approve,Unfair,7.5,,15,,10,,6,,Yes,DK/REF,No,Yes,Yes,Unfair,5
+Female,19,18-24,White,,3000,,Some college,,Democrat,Moderate,Strongly Disapprove,Fair,12,,20,,,DK/REF,15,,Yes,No,No,Yes,No,Fair,DK/REF
+Male,59,55-64,White,,120000,,College degree,,Republican,Conservative,Strongly Approve,Fair,7.5,,10,,30,,35,,No,No,No,No,Yes,Fair,8
+Female,53,45-54,White,,90000,,College degree,,Republican,Moderate,Neither approve nor disapprove,Unfair,10,,13,,32,,40,,No,No,No,No,Yes,Unfair,6
+Female,33,25-34,Latino,,,DK/REF,Graduate degree,,Independent,Liberal,Strongly Disapprove,Fair,10,,9,,,DK/REF,,DK/REF,Yes,No,No,Yes,Yes,Unfair,DK/REF
+Female,64,55-64,White,,,DK/REF,High school or less,,Democrat,Conservative,Strongly Disapprove,Unfair,11,,,DK/REF,,DK/REF,5,,Yes,No,No,Yes,Yes,Unfair,3
+Female,25,25-34,White,,50000,,Graduate degree,,Independent,Moderate,Strongly Disapprove,DK/REF,10,,12,,,DK/REF,,DK/REF,DK/REF,Yes,Yes,DK/REF,Yes,Unfair,8
+Female,72,65+,White,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,Fair,8,,12,,,DK/REF,,DK/REF,No,Yes,Yes,No,Yes,Fair,DK/REF
+Male,82,65+,White,,,DK/REF,Some college,,Republican,Moderate,Strongly Approve,Fair,8,,12,,,DK/REF,,DK/REF,No,DK/REF,DK/REF,Yes,DK/REF,Unfair,Very attractive
+Male,65,65+,White,,,DK/REF,Some college,,Independent,Conservative,Strongly Approve,Fair,,DK/REF,,DK/REF,,DK/REF,3,,Yes,No,Yes,No,No,Unfair,3
+Female,75,65+,White,,25000,,Some college,,Democrat,Moderate,Strongly Disapprove,DK/REF,9,,15,,35,,35,,Yes,No,Yes,Yes,Yes,DK/REF,4
+Male,74,65+,White,,30000,,High school or less,,Independent,Liberal,Strongly Disapprove,Unfair,9,,14,,30,,40,,No,No,Yes,Yes,DK/REF,Unfair,4
+Male,60,55-64,White,,,DK/REF,Graduate degree,,Democrat,Moderate,Neither approve nor disapprove,DK/REF,10,,,DK/REF,,DK/REF,,DK/REF,No,No,Yes,No,Yes,Unfair,DK/REF
+Male,55,55-64,White,,,DK/REF,High school or less,,Republican,Conservative,Strongly Approve,Fair,10.5,,,DK/REF,35,,10,,No,No,No,No,Yes,Fair,4
+Male,38,35-44,Asian,,150000,,College degree,,Independent,Liberal,Strongly Disapprove,Fair,10,,14,,35,,50,,DK/REF,No,No,Yes,Yes,DK/REF,5
+Female,77,65+,White,,40000,,College degree,,Democrat,Liberal,Strongly Disapprove,DK/REF,7.45,,14,,40,,35,,No,Yes,Yes,Yes,DK/REF,Unfair,7
+Male,19,18-24,White,,20000,,Some college,,Republican,Conservative,Neither approve nor disapprove,Fair,9,,9,,,DK/REF,,DK/REF,No,No,No,No,Yes,Fair,4
+Female,68,65+,White,,,DK/REF,High school or less,,Republican,Moderate,Strongly Approve,Fair,7.35,,10,,27,,27,,Yes,Yes,Yes,No,No,Unfair,7
+Male,75,65+,White,,45000,,College degree,,Republican,Conservative,Strongly Approve,Unfair,14,,16,,40,,15,,DK/REF,No,No,No,Yes,Unfair,7
+Male,41,35-44,White,,100000,,Graduate degree,,Independent,Moderate,Strongly Approve,Fair,7.25,,7.25,,35,,20,,No,No,No,No,Yes,Fair,6
+Female,37,35-44,White,,50000,,Some college,,Republican,Conservative,Strongly Approve,Fair,8,,10,,,DK/REF,,DK/REF,No,DK/REF,Yes,Yes,DK/REF,Unfair,Very attractive
+Female,74,65+,White,,,DK/REF,College degree,,Republican,Conservative,Strongly Approve,DK/REF,10,,,DK/REF,35,,5,,Yes,No,No,No,Yes,Fair,DK/REF
+Female,53,45-54,White,,30000,,High school or less,,Democrat,Moderate,Strongly Disapprove,Unfair,9,,9,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,Yes,Unfair,8
+Female,43,35-44,White,,95000,,College degree,,Democrat,Moderate,Strongly Disapprove,Unfair,12,,18,,25,,40,,No,No,Yes,Yes,Yes,Unfair,7
+Female,49,45-54,White,,,DK/REF,College degree,,Republican,Conservative,Somewhat Approve,Fair,15,,15,,32,,,DK/REF,No,No,No,No,Yes,Unfair,8
+Male,53,45-54,Black,,250000,,Graduate degree,,Democrat,Conservative,Strongly Disapprove,Fair,8,,10,,30,,30,,Yes,No,Yes,No,Yes,Unfair,9
+Male,50,45-54,Black,,100000,,College degree,,Democrat,Liberal,Strongly Disapprove,Fair,12,,15,,25,,40,,No,No,No,No,No,Unfair,DK/REF
+Female,38,35-44,Black,,70000,,College degree,,Democrat,Moderate,Somewhat Disapprove,Fair,14,,18.5,,20,,35,,Yes,No,Yes,Yes,No,Fair,9
+Male,46,45-54,Asian,,90000,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Fair,8,,15,,20,,38,,No,No,Yes,No,Yes,Unfair,DK/REF
+Male,60,55-64,White,,,DK/REF,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Fair,10,,15,,,DK/REF,,DK/REF,Yes,No,No,No,No,Unfair,6
+Male,58,55-64,White,,,DK/REF,Some college,,Democrat,Liberal,DK/REF,Fair,10,,12,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,No,Unfair,3
+Male,62,55-64,White,,,DK/REF,Some college,,Republican,Conservative,Somewhat Approve,Fair,7.5,,,DK/REF,30,,,DK/REF,No,No,DK/REF,No,Yes,Fair,5
+Male,87,65+,White,,,DK/REF,High school or less,,Republican,Conservative,Strongly Approve,Unfair,12,,15,,,DK/REF,,DK/REF,No,Yes,DK/REF,DK/REF,DK/REF,Unfair,8
+Male,33,25-34,White,,24000,,High school or less,,Democrat,Moderate,Strongly Disapprove,Unfair,7.25,,10.5,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,No,Unfair,5
+Female,75,65+,White,,,DK/REF,High school or less,,Republican,DK/REF,DK/REF,Unfair,12,,12,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,No,DK/REF,DK/REF
+Female,71,65+,White,,,DK/REF,Graduate degree,,Democrat,DK/REF,Strongly Disapprove,Unfair,11,,12,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,DK/REF,Unfair,6
+Female,75,65+,White,,90000,,Graduate degree,,Independent,Liberal,Strongly Disapprove,Unfair,10,,15,,30,,35,,DK/REF,Yes,Yes,Yes,Yes,Unfair,5
+Female,62,55-64,White,,,DK/REF,College degree,,Republican,Moderate,Strongly Approve,Unfair,8,,15,,20,,25,,Yes,No,Yes,No,No,Unfair,4
+Female,18,18-24,White,,,DK/REF,High school or less,,Democrat,DK/REF,Neither approve nor disapprove,Fair,15,,8.95,,,DK/REF,,DK/REF,No,Yes,No,No,Yes,Unfair,Very attractive
+Male,63,55-64,White,,,DK/REF,Graduate degree,,Republican,Conservative,Strongly Approve,Unfair,12,,12,,35,,35,,No,No,No,No,Yes,Unfair,7
+Male,66,65+,White,,,DK/REF,College degree,,Republican,Moderate,Somewhat Approve,Unfair,9.75,,9.75,,23,,23,,No,No,Yes,No,Yes,Fair,8
+Other,37,35-44,Other,American Indian,,DK/REF,Graduate degree,,Independent,Moderate,DK/REF,DK/REF,7,,,DK/REF,30,,15,,No,DK/REF,DK/REF,No,Yes,DK/REF,DK/REF
+Female,70,65+,White,,,DK/REF,High school or less,,Republican,Moderate,Strongly Approve,Unfair,,DK/REF,,DK/REF,,DK/REF,,DK/REF,Yes,No,Yes,Yes,DK/REF,Unfair,4
+Female,88,65+,White,,,DK/REF,High school or less,,Independent,Liberal,DK/REF,DK/REF,10,,12,,,DK/REF,8,,No,DK/REF,DK/REF,No,DK/REF,DK/REF,DK/REF
+Male,66,65+,Black,,45000,,Some college,,Democrat,Moderate,Strongly Disapprove,Fair,8,,14,,6,,12,,No,No,No,Yes,Yes,Unfair,5
+Female,26,25-34,White,,,DK/REF,College degree,,DK/REF,Moderate,Somewhat Disapprove,Unfair,7.5,,7.5,,,DK/REF,,DK/REF,No,No,No,No,No,Unfair,7
+Male,71,65+,White,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,DK/REF,9,,9,,35,,35,,No,No,No,No,Yes,Fair,8
+Male,31,25-34,White,,80000,,High school or less,,DK/REF,Moderate,Somewhat Approve,Fair,7.25,,9,,3,,10,,Yes,Yes,Yes,Yes,Yes,Fair,7
+Male,88,65+,White,,100000,,High school or less,,Democrat,Conservative,Strongly Disapprove,Unfair,20,,20,,20,,20,,Yes,No,Yes,Yes,Yes,Unfair,9
+Female,61,55-64,White,,150000,,Graduate degree,,Republican,Conservative,Strongly Approve,Fair,7.25,,10,,20,,10,,No,No,No,No,Yes,Fair,DK/REF
+Female,30,25-34,White,,,DK/REF,Some college,,Democrat,DK/REF,Somewhat Disapprove,DK/REF,,DK/REF,15,,,DK/REF,,DK/REF,DK/REF,DK/REF,DK/REF,Yes,Yes,DK/REF,DK/REF
+Male,85,65+,White,,,DK/REF,Graduate degree,,Democrat,Moderate,Strongly Disapprove,DK/REF,7.41,,,DK/REF,15,,29,,Yes,No,No,DK/REF,Yes,Unfair,DK/REF
+Female,59,55-64,White,,,DK/REF,College degree,,Republican,Moderate,Strongly Disapprove,Fair,25,,30,,18,,10,,Yes,No,Yes,No,Yes,Unfair,DK/REF
+Female,60,55-64,White,,,DK/REF,High school or less,,Republican,Moderate,Strongly Approve,DK/REF,9,,9,,37,,50,,Yes,No,Yes,Yes,Yes,Unfair,9
+Female,35,35-44,Black,,15000,,College degree,,Democrat,Liberal,Somewhat Approve,Fair,10,,15,,,DK/REF,10,,No,Yes,Yes,Yes,Yes,Fair,8
+Male,65,65+,Asian,,150000,,Graduate degree,,Independent,Moderate,Strongly Disapprove,Fair,8,,15,,24,,10,,No,No,No,Yes,No,Fair,8
+Female,70,65+,Latino,,60000,,College degree,,DK/REF,Conservative,Strongly Disapprove,Fair,,DK/REF,5,,,DK/REF,,DK/REF,No,No,No,No,Yes,Fair,Very attractive
+Female,60,55-64,White,,50000,,College degree,,Democrat,Liberal,Strongly Disapprove,Fair,10,,15,,,DK/REF,,DK/REF,No,No,No,No,Yes,Unfair,5
+Female,26,25-34,Latino,,20000,,High school or less,,Republican,Moderate,Strongly Approve,Unfair,8.25,,13,,,DK/REF,,DK/REF,No,No,No,No,No,Fair,6
+Female,88,65+,White,,,DK/REF,High school or less,,Democrat,Conservative,Somewhat Approve,Unfair,,DK/REF,,DK/REF,,DK/REF,,DK/REF,Yes,DK/REF,DK/REF,No,Yes,Unfair,7
+Female,60,55-64,White,,,DK/REF,Graduate degree,,Republican,Conservative,Strongly Approve,Unfair,15,,,DK/REF,,DK/REF,,DK/REF,Yes,No,Yes,No,Yes,DK/REF,7
+Female,54,45-54,White,,50000,,College degree,,Republican,Conservative,Strongly Approve,Unfair,8,,11,,,DK/REF,,DK/REF,Yes,No,Yes,DK/REF,Yes,Unfair,5
+Male,65,65+,White,,,DK/REF,High school or less,,Republican,DK/REF,Strongly Approve,DK/REF,,DK/REF,18,,,DK/REF,,DK/REF,No,No,No,Yes,Yes,DK/REF,8
+Female,87,65+,White,,,DK/REF,Graduate degree,,Republican,Conservative,Somewhat Approve,Unfair,,DK/REF,,DK/REF,,DK/REF,,DK/REF,No,No,No,No,DK/REF,DK/REF,5
+Male,70,65+,White,,18000,,Graduate degree,,Democrat,Moderate,Somewhat Disapprove,Unfair,8,,10,,30,,,DK/REF,Yes,Yes,Yes,Yes,No,Unfair,8
+Female,61,55-64,White,,,DK/REF,Some college,,Republican,Conservative,Somewhat Approve,Fair,7.45,,,DK/REF,32,,32,,No,No,No,No,No,Fair,DK/REF
+Female,84,65+,White,,60000,,Some college,,Democrat,Liberal,Strongly Disapprove,Unfair,8.25,,15,,20,,50,,No,No,No,No,DK/REF,Unfair,DK/REF
+Female,70,65+,White,,,DK/REF,College degree,,Democrat,Moderate,Strongly Disapprove,Unfair,,DK/REF,20,,10,,15,,Yes,No,Yes,No,DK/REF,Unfair,8
+Female,80,65+,Black,,80000,,Graduate degree,,Democrat,Conservative,Strongly Disapprove,Unfair,8,,13,,,DK/REF,1,,Yes,Yes,Yes,Yes,Yes,Unfair,Very attractive
+Female,67,65+,White,,21000,,Some college,,Democrat,Conservative,Strongly Disapprove,Unfair,8,,10,,21,,15,,Yes,No,Yes,Yes,No,Unfair,4
+Female,87,65+,White,,,DK/REF,High school or less,,Democrat,Moderate,Strongly Disapprove,Fair,15,,,DK/REF,,DK/REF,,DK/REF,Yes,No,DK/REF,No,Yes,Unfair,DK/REF
+Male,36,35-44,Black,,10000,,High school or less,,Democrat,Liberal,Strongly Disapprove,Fair,10,,9,,,DK/REF,30,,Yes,Yes,Yes,Yes,No,Unfair,7
+Female,63,55-64,White,,,DK/REF,High school or less,,Independent,Moderate,Strongly Approve,Unfair,7,,12,,,DK/REF,1,,Yes,No,Yes,Yes,DK/REF,Unfair,8
+Male,70,65+,Black,,40000,,High school or less,,Independent,Moderate,Strongly Disapprove,Fair,10,,15,,30,,15,,Yes,No,No,Yes,DK/REF,Fair,7
+Male,71,65+,White,,,DK/REF,High school or less,,Independent,DK/REF,Strongly Disapprove,Fair,10,,15,,,DK/REF,,DK/REF,Yes,Yes,Yes,No,Yes,Unfair,5
+Male,56,55-64,White,,80000,,Some college,,Republican,Conservative,Strongly Approve,Unfair,9.5,,,DK/REF,39,,30,,No,No,No,No,Yes,DK/REF,7
+Female,83,65+,White,,,DK/REF,High school or less,,Democrat,Moderate,Strongly Disapprove,DK/REF,,DK/REF,,DK/REF,,DK/REF,,DK/REF,Yes,DK/REF,Yes,Yes,DK/REF,Unfair,5
+Female,62,55-64,Asian,,20000,,College degree,,Republican,Liberal,Strongly Approve,Unfair,15,,15,,20,,25,,Yes,Yes,Yes,Yes,DK/REF,Unfair,8
+Male,74,65+,White,,,DK/REF,College degree,,DK/REF,Conservative,Neither approve nor disapprove,Unfair,10,,,DK/REF,20,,,DK/REF,No,Yes,DK/REF,No,DK/REF,Unfair,DK/REF
+Male,75,65+,DK/REF,,,DK/REF,Some college,,Independent,Moderate,Neither approve nor disapprove,DK/REF,8,,,DK/REF,15,,,DK/REF,DK/REF,Yes,DK/REF,Yes,DK/REF,DK/REF,DK/REF
+Male,27,25-34,Black,,12000,,High school or less,,Independent,Moderate,Strongly Disapprove,DK/REF,8,,9,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,Yes,Unfair,7
+Male,39,35-44,White,,,DK/REF,College degree,,Republican,Conservative,DK/REF,Unfair,,DK/REF,,DK/REF,20,,,DK/REF,No,No,No,No,Yes,Fair,DK/REF
+Male,90,65+,White,,,DK/REF,College degree,,DK/REF,DK/REF,DK/REF,DK/REF,,DK/REF,,DK/REF,,DK/REF,,DK/REF,No,No,DK/REF,No,DK/REF,DK/REF,Very attractive
+Female,76,65+,White,,34000,,College degree,,Republican,Moderate,Strongly Approve,Unfair,7,,10,,37,,47,,No,Yes,No,No,Yes,Unfair,6
+Female,55,55-64,White,,12000,,High school or less,,Republican,Conservative,Strongly Approve,Unfair,15,,10,,,DK/REF,,DK/REF,No,No,No,No,DK/REF,Fair,9
+Female,55,55-64,Black,,70000,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Fair,9.75,,13,,15,,20,,Yes,Yes,Yes,Yes,Yes,Unfair,8
+Male,18,18-24,White,,10000,,Some college,,Democrat,Liberal,Neither approve nor disapprove,Fair,9,,8,,12,,10,,Yes,Yes,Yes,No,Yes,Fair,8
+Male,60,55-64,White,,300000,,Graduate degree,,Independent,Moderate,Strongly Disapprove,Fair,8,,15,,30,,30,,No,No,No,Yes,Yes,Unfair,8
+Female,37,35-44,White,,120000,,College degree,,Republican,Conservative,Strongly Approve,Fair,7,,5,,20,,15,,No,No,No,No,Yes,Fair,6
+Male,25,25-34,White,,,DK/REF,Graduate degree,,Republican,Moderate,DK/REF,Fair,9,,12,,10,,20,,Yes,No,No,Yes,Yes,Fair,5
+Male,48,45-54,DK/REF,,,DK/REF,Graduate degree,,Independent,Liberal,Strongly Disapprove,Fair,10,,15,,30,,30,,Yes,Yes,Yes,No,No,Unfair,7
+Male,33,25-34,Latino,,,DK/REF,Graduate degree,,Democrat,Moderate,Somewhat Disapprove,Fair,12,,12,,25,,25,,Yes,Yes,Yes,No,Yes,Fair,7
+Male,36,35-44,White,,60000,,High school or less,,Republican,Moderate,Strongly Approve,Unfair,10,,10,,10,,25,,Yes,No,No,No,Yes,Fair,DK/REF
+Female,31,25-34,White,,,DK/REF,College degree,,Republican,Conservative,Strongly Approve,Fair,12,,12,,25,,25,,No,No,No,Yes,Yes,Fair,8
+Male,23,18-24,White,,,DK/REF,Some college,,Independent,Moderate,Somewhat Disapprove,Fair,11,,13,,30,,40,,Yes,Yes,No,Yes,Yes,Unfair,8
+Male,60,55-64,White,,,DK/REF,College degree,,Independent,Conservative,Strongly Approve,Unfair,7.5,,10,,,DK/REF,20,,No,No,No,No,No,Fair,7
+Male,47,45-54,White,,100000,,High school or less,,Republican,Conservative,Strongly Approve,Unfair,8,,,DK/REF,,DK/REF,,DK/REF,No,No,No,No,No,Unfair,DK/REF
+Female,32,25-34,Latino,,,,High school or less,,DK/REF,DK/REF,DK/REF,DK/REF,7,,15,,,DK/REF,,DK/REF,No,No,Yes,No,Yes,DK/REF,Very attractive
+Female,49,45-54,Black,,,DK/REF,Some college,,Democrat,Moderate,Strongly Disapprove,Unfair,7.85,,13,,22,,40,,Yes,No,No,Yes,Yes,Fair,8
+Female,64,55-64,White,,150000,,College degree,,Independent,Moderate,Strongly Disapprove,Unfair,7.81,,,DK/REF,8,,10,,No,No,No,No,No,Unfair,8
+Female,59,55-64,White,,50000,,College degree,,Democrat,Moderate,Neither approve nor disapprove,Unfair,7.25,,10,,30,,37,,No,Yes,Yes,Yes,Yes,Unfair,7
+Female,51,45-54,White,,,DK/REF,High school or less,,Republican,Moderate,Somewhat Approve,Unfair,10,,17,,30,,45,,Yes,No,No,No,Yes,Unfair,8
+Female,80,65+,White,,,DK/REF,Graduate degree,,Independent,Moderate,DK/REF,DK/REF,,DK/REF,,DK/REF,10,,20,,No,No,No,No,DK/REF,Fair,5
+Male,61,55-64,White,,88000,,Some college,,Democrat,Moderate,Strongly Disapprove,Fair,9,,15,,30,,33,,No,No,Yes,No,Yes,Unfair,8
+Female,20,18-24,Black,,,DK/REF,High school or less,,Democrat,Conservative,Strongly Disapprove,Fair,,DK/REF,25,,25,,15,,Yes,No,No,Yes,Yes,Fair,8
+Female,50,45-54,White,,25000,,High school or less,,Republican,Conservative,DK/REF,Fair,8.5,,20,,20,,,DK/REF,Yes,No,No,Yes,Yes,Fair,9
+Female,65,65+,White,,12000,,Some college,,Independent,Moderate,Strongly Disapprove,Fair,,DK/REF,15,,,DK/REF,,DK/REF,No,No,No,No,Yes,Fair,5
+Female,55,55-64,White,,,DK/REF,Some college,,Independent,Moderate,Strongly Disapprove,Fair,11,,12,,36,,20,,No,No,No,No,Yes,Fair,8
+Male,81,65+,White,,,DK/REF,High school or less,,Republican,Conservative,Somewhat Approve,Unfair,9,,,DK/REF,,DK/REF,,DK/REF,Yes,No,No,Yes,Yes,Unfair,DK/REF
+Female,62,55-64,White,,,DK/REF,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Fair,12,,18,,28,,40,,Yes,No,No,Yes,Yes,Fair,7
+Female,56,55-64,White,,75000,,Graduate degree,,Independent,Moderate,Somewhat Disapprove,Fair,14,,10,,33,,50,,No,No,No,No,Yes,Fair,8
+Male,68,65+,White,,,DK/REF,Some college,,Independent,Moderate,Somewhat Disapprove,Fair,7.75,,,DK/REF,22,,30,,No,No,No,No,Yes,Unfair,4
+Female,46,45-54,White,,,DK/REF,DK/REF,,Republican,Conservative,Strongly Approve,DK/REF,7.25,,9.25,,,DK/REF,,DK/REF,No,No,No,No,Yes,Fair,DK/REF
+Female,50,45-54,DK/REF,,100000,,College degree,,Independent,DK/REF,Strongly Disapprove,Fair,10,,100,,100000,,100000,,No,No,No,No,No,DK/REF,Very attractive
+Male,69,65+,White,,,DK/REF,Graduate degree,,Republican,Conservative,Somewhat Approve,Fair,15,,15,,33,,33,,No,No,No,No,Yes,Fair,7
+Female,37,35-44,White,,,DK/REF,College degree,,Independent,Moderate,Neither approve nor disapprove,Unfair,7.5,,10,,33,,30,,No,No,No,Yes,No,Unfair,DK/REF
+Female,60,55-64,White,,,DK/REF,Graduate degree,,Independent,Conservative,DK/REF,Unfair,15,,15,,,DK/REF,45,,Yes,Yes,Yes,Yes,No,Unfair,DK/REF
+Male,58,55-64,White,,150000,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,DK/REF,10,,12,,,DK/REF,35,,No,No,Yes,No,Yes,Unfair,6
+Male,76,65+,White,,45000,,High school or less,,Republican,Moderate,Strongly Approve,DK/REF,11,,,DK/REF,,DK/REF,40,,No,No,No,No,Yes,Unfair,DK/REF
+Female,36,35-44,White,,,DK/REF,College degree,,Independent,Moderate,Strongly Disapprove,DK/REF,15,,10,,,DK/REF,20,,No,No,No,No,Yes,DK/REF,8
+Female,67,65+,White,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,Fair,10,,,DK/REF,,DK/REF,,DK/REF,No,No,DK/REF,No,Yes,Fair,9
+Female,20,18-24,White,,10000,,High school or less,,Independent,Moderate,DK/REF,Unfair,10,,13,,,DK/REF,10,,Yes,No,Yes,Yes,Yes,Fair,DK/REF
+Male,55,55-64,White,,50000,,High school or less,,Independent,Moderate,Somewhat Disapprove,Fair,8.75,,8.75,,30,,30,,No,No,DK/REF,No,Yes,Fair,5
+Male,42,35-44,Asian,,,DK/REF,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Fair,7.25,,7.25,,38,,25,,No,No,No,No,No,Unfair,8
+Male,46,45-54,Other,"Native American, Irish",50000,,Some college,,Republican,Conservative,Strongly Approve,Unfair,6,,7.5,,15,,15,,No,Yes,Yes,No,Yes,Fair,8
+Female,32,25-34,Other,Pacific Islander,,DK/REF,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Fair,7,,12,,10,,20,,Yes,No,No,No,Yes,Unfair,DK/REF
+Female,40,35-44,DK/REF,,,DK/REF,College degree,,DK/REF,Liberal,Strongly Disapprove,Unfair,10,,15,,,DK/REF,40,,Yes,No,No,DK/REF,No,Unfair,DK/REF
+Female,75,65+,Other,American Indian,,DK/REF,Graduate degree,,Independent,Conservative,Somewhat Disapprove,Unfair,10.75,,15,,50,,50,,Yes,Yes,Yes,No,Yes,Fair,DK/REF
+Male,58,55-64,Black,,175000,,Some college,,Democrat,Liberal,Neither approve nor disapprove,Fair,11,,15,,,DK/REF,,DK/REF,No,No,Yes,No,Yes,Fair,Very attractive
+Other,19,18-24,DK/REF,,50000,,High school or less,,Independent,DK/REF,Strongly Approve,Unfair,9.75,,12,,20,,30,,No,No,No,Yes,No,Unfair,9
+Female,68,65+,White,,,DK/REF,Some college,,Republican,Conservative,DK/REF,Fair,10,,15,,30,,30,,No,Yes,No,No,DK/REF,Unfair,4
+Female,40,35-44,White,,,DK/REF,Some college,,Republican,Conservative,Neither approve nor disapprove,Fair,8.75,,9.5,,36,,36,,No,Yes,Yes,No,DK/REF,Fair,4
+Female,85,65+,White,,,DK/REF,Some college,,Independent,Moderate,Neither approve nor disapprove,Unfair,15,,,DK/REF,25,,30,,No,No,DK/REF,No,No,Unfair,DK/REF
+Male,61,55-64,DK/REF,,90000,,High school or less,,Republican,Moderate,Strongly Approve,DK/REF,11,,10,,,DK/REF,,DK/REF,DK/REF,Yes,Yes,Yes,No,Unfair,5
+Female,50,45-54,Black,,55000,,Some college,,DK/REF,Moderate,Strongly Approve,Fair,13,,13,,,DK/REF,,DK/REF,Yes,No,Yes,Yes,Yes,Fair,7
+Female,59,55-64,White,,,DK/REF,High school or less,,Independent,Moderate,DK/REF,Unfair,10,,15,,,DK/REF,,DK/REF,No,No,No,No,No,Unfair,DK/REF
+Male,58,55-64,Black,,,DK/REF,College degree,,Democrat,Liberal,Strongly Disapprove,Fair,8,,15,,35,,35,,No,Yes,Yes,Yes,No,Unfair,8
+Male,54,45-54,White,,45000,,College degree,,Republican,Conservative,Strongly Approve,Unfair,7.25,,8,,,DK/REF,20,,No,No,No,No,Yes,Fair,Very attractive
+Female,33,25-34,White,,100000,,Graduate degree,,Republican,Conservative,Strongly Approve,Fair,8.5,,16,,30,,30,,No,No,No,No,Yes,Fair,8
+Female,47,45-54,White,,,DK/REF,College degree,,Independent,Conservative,Somewhat Approve,Fair,14,,14,,15,,40,,Yes,Yes,Yes,Yes,Yes,Unfair,7
+Female,70,65+,White,,20000,,Some college,,Democrat,Moderate,Strongly Disapprove,Fair,7.5,,12,,30,,35,,No,No,No,No,Yes,Unfair,5
+Male,38,35-44,Black,,40000,,Some college,,DK/REF,DK/REF,Neither approve nor disapprove,DK/REF,8,,10,,,DK/REF,,DK/REF,No,No,No,No,Yes,DK/REF,9
+Male,55,55-64,Other,Native American,30000,,Some college,,Republican,Conservative,Strongly Approve,Unfair,7.25,,8,,20,,20,,No,No,No,No,Yes,Unfair,8
+Female,65,65+,White,,,DK/REF,Some college,,Republican,Conservative,Strongly Approve,Unfair,10,,10,,30,,30,,No,No,No,No,Yes,Unfair,6
+Female,25,25-34,White,,,DK/REF,College degree,,Democrat,Moderate,Strongly Disapprove,Unfair,7,,12,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,No,Unfair,DK/REF
+Female,66,65+,White,,,DK/REF,High school or less,,Independent,Conservative,Somewhat Approve,Fair,10,,10,,25,,7,,Yes,Yes,Yes,Yes,Yes,Unfair,8
+Male,74,65+,White,,,DK/REF,High school or less,,Republican,DK/REF,Neither approve nor disapprove,Unfair,7,,,DK/REF,25,,,DK/REF,Yes,No,Yes,DK/REF,DK/REF,Unfair,DK/REF
+Male,61,55-64,White,,20000,,College degree,,Republican,Conservative,Strongly Approve,Fair,7.25,,10,,33,,16,,No,Yes,No,No,Yes,Fair,7
+Female,38,35-44,White,,50000,,College degree,,DK/REF,Moderate,DK/REF,DK/REF,7.25,,10,,,DK/REF,25,,Yes,Yes,Yes,DK/REF,No,Unfair,DK/REF
+Male,30,25-34,White,,65000,,Graduate degree,,Independent,Conservative,Somewhat Approve,Fair,10,,,DK/REF,45,,,DK/REF,DK/REF,DK/REF,No,No,Yes,Fair,7
+Male,65,65+,White,,,DK/REF,Graduate degree,,Independent,Conservative,Somewhat Disapprove,Fair,12,,14,,28,,18,,No,No,No,No,Yes,Unfair,8
+Male,55,55-64,Latino,,,DK/REF,Graduate degree,,Republican,DK/REF,Strongly Approve,DK/REF,10,,10,,25,,25,,No,DK/REF,DK/REF,No,DK/REF,DK/REF,DK/REF
+Male,47,45-54,DK/REF,,17000,,High school or less,,DK/REF,Liberal,Neither approve nor disapprove,Fair,7.85,,10,,7,,9,,Yes,Yes,Yes,Yes,No,Unfair,Very attractive
+Male,80,65+,White,,150000,,College degree,,Independent,Liberal,Strongly Disapprove,Fair,11,,15,,26,,15,,Yes,No,Yes,No,Yes,Unfair,9
+Female,46,45-54,White,,12000,,College degree,,Republican,Moderate,Strongly Approve,Unfair,7.5,,10,,,DK/REF,7,,Yes,No,No,Yes,Yes,Unfair,5
+Male,55,55-64,Latino,,100000,,DK/REF,,Democrat,Conservative,DK/REF,Unfair,15,,15,,30,,,DK/REF,Yes,No,No,No,Yes,Unfair,8
+Male,58,55-64,White,,40000,,Graduate degree,,Republican,Moderate,Strongly Approve,Fair,7,,10,,35,,35,,No,No,No,No,No,Fair,8
+Female,61,55-64,Latino,,,DK/REF,Other,Associate Degree,Democrat,Moderate,Strongly Disapprove,Unfair,25,,25,,,DK/REF,,DK/REF,Yes,No,No,No,Yes,Unfair,7
+Female,60,55-64,White,,30000,,College degree,,Independent,Liberal,Strongly Disapprove,Unfair,10,,20,,20,,25,,Yes,No,No,Yes,Yes,Unfair,DK/REF
+Female,78,65+,White,,40000,,Some college,,Republican,Conservative,Strongly Approve,DK/REF,12,,12,,,DK/REF,,DK/REF,No,No,No,No,Yes,DK/REF,DK/REF
+Female,71,65+,White,,,DK/REF,High school or less,,Republican,Conservative,Somewhat Disapprove,Unfair,15,,18,,,DK/REF,10,,No,No,No,No,DK/REF,Unfair,8
+Female,62,55-64,White,,,DK/REF,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Unfair,7.25,,17,,40,,30,,Yes,No,No,Yes,No,Unfair,8
+Male,72,65+,White,,,DK/REF,Some college,,Independent,Moderate,Strongly Disapprove,Unfair,8,,12,,20,,20,,No,No,No,No,Yes,Fair,5
+Female,60,55-64,White,,50000,,Some college,,DK/REF,DK/REF,DK/REF,Unfair,10,,,DK/REF,,DK/REF,,DK/REF,Yes,No,No,Yes,No,Unfair,9
+Female,51,45-54,Black,,45000,,College degree,,Independent,Moderate,Strongly Disapprove,Fair,8.5,,15,,25,,,DK/REF,Yes,No,Yes,No,Yes,Unfair,5
+Female,31,25-34,White,,20000,,Some college,,Independent,Liberal,Strongly Disapprove,Fair,7,,15,,4,,10,,Yes,Yes,No,No,No,Unfair,8
+Female,68,65+,White,,,DK/REF,College degree,,Republican,Conservative,Somewhat Approve,Unfair,8,,8,,12,,,DK/REF,No,No,No,Yes,No,Unfair,7
+Male,55,55-64,Asian,,25000,,High school or less,,Democrat,Moderate,Somewhat Disapprove,Unfair,18,,18,,50,,50,,Yes,Yes,Yes,Yes,Yes,Unfair,5
+Male,71,65+,White,,,DK/REF,College degree,,Democrat,Liberal,Strongly Disapprove,Unfair,7,,15,,22,,40,,Yes,No,DK/REF,Yes,Yes,Unfair,DK/REF
+Male,59,55-64,White,,,DK/REF,College degree,,Republican,Moderate,Strongly Disapprove,Fair,15,,15,,37,,50,,No,No,Yes,No,Yes,Fair,8
+Male,70,65+,White,,80000,,Graduate degree,,Democrat,Moderate,Somewhat Approve,Fair,10,,15,,35,,90,,Yes,No,No,Yes,DK/REF,Unfair,4
+Male,46,45-54,White,,40000,,College degree,,Republican,Moderate,Somewhat Approve,Fair,7.5,,7,,30,,30,,No,No,No,No,Yes,Unfair,4
+Female,52,45-54,White,,,DK/REF,High school or less,,DK/REF,DK/REF,DK/REF,Unfair,10.75,,,DK/REF,,DK/REF,,DK/REF,DK/REF,Yes,Yes,Yes,Yes,DK/REF,DK/REF
+Female,55,55-64,White,,,DK/REF,Some college,,Independent,Conservative,Strongly Approve,DK/REF,8,,8,,,DK/REF,,DK/REF,No,No,No,No,Yes,DK/REF,DK/REF
+Female,37,35-44,White,,,DK/REF,High school or less,,Republican,DK/REF,Strongly Disapprove,Unfair,50,,,DK/REF,3,,25,,Yes,Yes,Yes,Yes,No,Unfair,7
+Female,68,65+,White,,60000,,College degree,,Independent,Conservative,DK/REF,Fair,15,,7,,35,,20,,No,No,No,No,Yes,DK/REF,6
+Female,52,45-54,DK/REF,,500000,,Graduate degree,,Democrat,Liberal,Somewhat Disapprove,Unfair,12,,15,,30,,30,,No,No,No,No,Yes,Unfair,6
+Male,25,25-34,Black,,,DK/REF,College degree,,Democrat,Conservative,Somewhat Approve,Fair,11,,11,,,DK/REF,,DK/REF,Yes,Yes,Yes,No,DK/REF,Fair,Very attractive
+Male,23,18-24,White,,,DK/REF,Some college,,Independent,Moderate,Neither approve nor disapprove,Fair,7.5,,8,,,DK/REF,10,,No,Yes,No,Yes,Yes,Fair,7
+Male,53,45-54,Latino,,55000,,College degree,,Republican,Moderate,Somewhat Approve,Unfair,10,,12,,12,,10,,Yes,No,Yes,No,No,Unfair,Very attractive
+Female,46,45-54,White,,,DK/REF,High school or less,,Republican,Conservative,Strongly Approve,DK/REF,15,,,DK/REF,,DK/REF,,DK/REF,DK/REF,No,No,No,DK/REF,DK/REF,DK/REF
+Male,30,25-34,Asian,,,DK/REF,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Fair,9,,15,,50,,50,,Yes,No,No,Yes,Yes,Fair,DK/REF
+Male,23,18-24,White,,20000,,Some college,,DK/REF,Moderate,Neither approve nor disapprove,Fair,7.5,,8,,40,,38,,No,Yes,No,No,Yes,DK/REF,7
+Male,80,65+,White,,40000,,Some college,,Independent,Moderate,Strongly Disapprove,DK/REF,12,,,DK/REF,20,,,DK/REF,Yes,Yes,Yes,No,Yes,Unfair,5
+Male,79,65+,White,,,DK/REF,Graduate degree,,Republican,Conservative,Strongly Approve,Fair,7.5,,11,,,DK/REF,,DK/REF,No,No,No,No,DK/REF,Fair,7
+Male,54,45-54,Latino,,75000,,High school or less,,Independent,DK/REF,Somewhat Approve,Fair,10,,10,,20,,15,,Yes,No,No,No,Yes,Unfair,4
+Female,53,45-54,Latino,,,DK/REF,High school or less,,Independent,Moderate,Somewhat Approve,Unfair,,DK/REF,13,,,DK/REF,,DK/REF,Yes,Yes,No,No,Yes,Unfair,DK/REF
+Female,50,45-54,White,,,DK/REF,Graduate degree,,Independent,Liberal,Strongly Disapprove,Fair,7.25,,15,,15,,1,,DK/REF,No,Yes,Yes,Yes,Unfair,DK/REF
+Male,83,65+,White,,11000,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Unfair,12,,15,,25,,25,,Yes,No,Yes,Yes,Yes,Unfair,5
+Female,75,65+,White,,70000,,College degree,,Independent,Liberal,Strongly Disapprove,Unfair,8,,12,,25,,10,,No,No,Yes,Yes,Yes,Unfair,3
+Female,21,18-24,White,,,DK/REF,Graduate degree,,Republican,Conservative,Strongly Approve,Unfair,10,,,DK/REF,,DK/REF,20,,No,No,No,No,Yes,DK/REF,8
+Female,62,55-64,White,,70000,,Graduate degree,,Independent,Conservative,Neither approve nor disapprove,Fair,9,,8,,38,,17,,No,No,No,No,Yes,Fair,3
+Female,45,45-54,Other,Alaska Native,,DK/REF,Some college,,Independent,Conservative,Strongly Approve,Unfair,12,,15,,35,,20,,No,No,No,No,Yes,Unfair,5
+Male,83,65+,White,,,DK/REF,Some college,,Independent,Conservative,Somewhat Approve,Unfair,7.25,,10,,29,,29,,No,No,No,No,DK/REF,Unfair,5
+Male,70,65+,White,,90000,,Graduate degree,,Republican,Conservative,Strongly Approve,Fair,12,,15,,20,,,DK/REF,No,No,DK/REF,No,Yes,Fair,5
+Male,45,45-54,White,,70000,,Some college,,Republican,Conservative,Strongly Approve,Fair,7.25,,15,,32,,15,,No,No,Yes,Yes,Yes,Fair,6
+Female,71,65+,White,,40000,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,DK/REF,11.5,,,DK/REF,50,,50,,No,DK/REF,DK/REF,Yes,DK/REF,Unfair,DK/REF
+Male,50,45-54,Latino,,,DK/REF,College degree,,Democrat,Liberal,Strongly Disapprove,Fair,8,,15,,,DK/REF,30,,No,No,Yes,Yes,Yes,Unfair,8
+Male,62,55-64,White,,75000,,College degree,,Republican,Conservative,Strongly Approve,Fair,13,,13,,40,,20,,No,No,No,No,Yes,Fair,7
+DK/REF,62,55-64,DK/REF,,,DK/REF,High school or less,,DK/REF,Moderate,Somewhat Approve,DK/REF,10,,,DK/REF,,DK/REF,,DK/REF,Yes,Yes,Yes,DK/REF,No,Unfair,8
+Male,80,65+,White,,,DK/REF,High school or less,,Democrat,DK/REF,Strongly Approve,Unfair,,DK/REF,10,,,DK/REF,,DK/REF,No,No,Yes,No,Yes,DK/REF,8
+Male,24,18-24,Latino,,,DK/REF,College degree,,DK/REF,Conservative,Strongly Disapprove,Fair,11,,15,,,DK/REF,,DK/REF,Yes,Yes,Yes,Yes,DK/REF,Fair,8
+Male,56,55-64,White,,,DK/REF,Some college,,DK/REF,Conservative,Strongly Approve,DK/REF,,DK/REF,10,,,DK/REF,10,,DK/REF,No,No,No,DK/REF,Unfair,DK/REF
+Female,53,45-54,White,,,DK/REF,College degree,,Independent,Moderate,Somewhat Approve,DK/REF,13,,13,,,DK/REF,35,,Yes,Yes,Yes,Yes,Yes,Unfair,7

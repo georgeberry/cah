@@ -1,0 +1,801 @@
+Q1: What gender do you identify with?,Q2: What is your age?,Q2: Age range,"Q3: What is your race? (white, black, latino, asian, other)",Q3OTH1,"Q4: What is your highest level of education? (High school or less, Some college, College degree, Graduate degree)",Q4OTH,"Q5: In politics today, do you consider yourself a Democrat, a Republican, or Independent?","Q6: Would you say you are liberal, conservative, or moderate?","Q7: Do you approve, disapprove, or neither approve nor disapprove of how Donald Trump is handling his job as president? (for ""approve"" or ""disapprove,"" probe: strongly or somewhat?)","Q8: How often do you worry about your financial situation? (very often, somewhat often, or not very often)","Q9: I'd like you to think about vote counting throughout the country. Going into the 2018 midterm elections, are you confident that votes nationwide will be counted fairly? (if [yes] probe: and would you say you are very confident or somewhat confident?)","Q10: Would you support a voting system in which people could choose their first choice candidate, their second choice candidate, their third choice candidate, and so on?","Q11: If you had to guess, do you think America will elect a woman president in the next 25 years?","Q12: Do you think Americans will have universal, guaranteed healthcare in the next 25 years?","Q13: If you had to guess, do you think humanity will survive the next hundred years?",Q14: If Q13 = Yes... And do you think humanity will survive the next thousand years?,Q15: What about America? Do you think America will survive the next hundred years?,Q16: If Q15 = Yes... And do you think America will survive the next thousand years?,"Q17: How likely is it that Donald Trump will be re-elected in 2020? (Very likely, somewhat likely, not at all likely)","Q18: How likely is it that Donald Trump will use a nuclear weapon during his time in office? (very likely, somewhat likely, not at all likely)","Q19: If you had to guess, do you think America will go to war with Russia in the next 50 years?","Q20: And if you had to guess, do you think America will go to war with China in the next 50 years?","Q21: Do you think your generation will leave behind a better world for the next generation, or a worse world?"
+Female,81,65+,White,,Some college,,Democrat,Liberal,Strongly Disapprove,Not Very Often,No,No,Yes,Yes,DK/REF,,DK/REF,,Not at all likely,Not at all likely,Yes,Yes,Worse World
+Male,80,65+,Asian,,Some college,,Democrat,Moderate,Somewhat Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,No,Yes,No,Yes,Yes,Not at all likely,Somewhat Likely,No,No,Better World
+Female,65,65+,Black,,High school or less,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,No,No,,Yes,No,Not at all likely,Very Likely,Yes,No,Better World
+Male,24,18-24,Asian,,College degree,,Independent,Moderate,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,No,Somewhat Likely,Not at all likely,No,No,Better World
+Male,74,65+,White,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Not Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,DK/REF,Yes,DK/REF,Not at all likely,Somewhat Likely,Yes,No,DK/REF
+Female,69,65+,Black,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Very Often,No,Yes,Yes,No,No,,No,,Not at all likely,Very Likely,Yes,Yes,Worse World
+Female,41,35-44,Asian,,College degree,,Democrat,Moderate,Neither approve nor disapprove,Very Often,"Yes, somewhat confident",No,No,No,No,,Yes,Yes,Somewhat Likely,Very Likely,No,No,Better World
+Female,46,45-54,Black,,Some college,,Independent,Conservative,Neither approve nor disapprove,Somewhat Often,No,Yes,Yes,No,No,,Yes,No,Not at all likely,Somewhat Likely,Yes,No,Better World
+Female,63,55-64,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",No,Yes,Yes,Yes,No,Yes,No,Not at all likely,Somewhat Likely,No,No,Better World
+Female,60,55-64,White,,Some college,,Democrat,Liberal,Strongly Disapprove,Very Often,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,Yes,Yes,Better World
+Male,63,55-64,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",No,Yes,No,No,,Yes,No,Somewhat Likely,Somewhat Likely,No,No,Worse World
+Female,54,45-54,White,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Somewhat Likely,Somewhat Likely,Yes,Yes,Better World
+Female,59,55-64,White,,College degree,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,No,No,,Yes,No,Not at all likely,Somewhat Likely,Yes,No,Worse World
+Male,65,65+,White,,College degree,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Female,67,65+,White,,High school or less,,Independent,Conservative,Strongly Approve,Very Often,"Yes, very confident",No,No,No,No,,No,,Very Likely,Not at all likely,No,Yes,Worse World
+Female,82,65+,White,,High school or less,,Independent,Conservative,Strongly Disapprove,Somewhat Often,No,DK/REF,No,No,No,,No,,Very Likely,Very Likely,No,No,Worse World
+Male,55,55-64,White,,High school or less,,Democrat,Liberal,Strongly Disapprove,Very Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,54,45-54,White,,High school or less,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,56,55-64,Latino,,College degree,,Independent,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Worse World
+Male,62,55-64,White,,Graduate degree,,Republican,Conservative,Strongly Approve,Very Often,"Yes, very confident",No,DK/REF,DK/REF,Yes,Yes,Yes,DK/REF,DK/REF,Not at all likely,No,No,DK/REF
+Female,55,55-64,White,,College degree,,Independent,Moderate,Somewhat Approve,Not Very Often,"Yes, very confident",Yes,No,No,Yes,Yes,Yes,Yes,Somewhat Likely,Somewhat Likely,Yes,No,Better World
+Female,73,65+,White,,Some college,,Democrat,Liberal,Strongly Disapprove,Not Very Often,No,No,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Somewhat Likely,Yes,Yes,Worse World
+Male,67,65+,White,,High school or less,,DK/REF,Liberal,Somewhat Disapprove,Somewhat Often,No,Yes,Yes,No,Yes,DK/REF,Yes,DK/REF,Not at all likely,DK/REF,DK/REF,No,Worse World
+Male,64,55-64,White,,College degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",DK/REF,DK/REF,DK/REF,DK/REF,,DK/REF,,Somewhat Likely,DK/REF,DK/REF,DK/REF,Worse World
+Male,70,65+,White,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,DK/REF,Not at all likely,Somewhat Likely,No,No,Better World
+Male,73,65+,Black,,Graduate degree,,Democrat,Conservative,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,No,,No,,Not at all likely,Very Likely,Yes,Yes,Worse World
+Female,62,55-64,DK/REF,,College degree,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,No,Yes,No,Yes,No,Somewhat Likely,Not at all likely,No,No,Worse World
+Male,86,65+,White,,Some college,,Democrat,Moderate,Somewhat Disapprove,Not Very Often,"Yes, somewhat confident",No,Yes,Yes,DK/REF,,Yes,DK/REF,Not at all likely,Somewhat Likely,No,DK/REF,Worse World
+Female,53,45-54,Latino,,College degree,,Independent,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,No,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Female,71,65+,Latino,,Some college,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,Yes,No,Better World
+Female,72,65+,White,,Some college,,Independent,Moderate,Strongly Approve,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,No,Yes,No,Very Likely,Not at all likely,No,No,Better World
+Male,65,65+,Other,Hawaiian,Some college,,Democrat,Conservative,Strongly Disapprove,Somewhat Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,No,Yes,Better World
+Female,65,65+,White,,College degree,,Democrat,DK/REF,DK/REF,Not Very Often,No,Yes,Yes,Yes,Yes,No,Yes,No,Not at all likely,Not at all likely,No,No,Worse World
+Female,61,55-64,White,,Some college,,Democrat,Moderate,Strongly Approve,Somewhat Often,"Yes, very confident",No,No,Yes,No,,No,,Somewhat Likely,Not at all likely,Yes,Yes,Worse World
+Female,54,45-54,White,,College degree,,DK/REF,Moderate,Somewhat Disapprove,Somewhat Often,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,No,No,Worse World
+Female,78,65+,White,,Graduate degree,,Independent,Conservative,Strongly Approve,Not Very Often,No,No,No,No,Yes,No,Yes,No,Not at all likely,Not at all likely,No,No,Worse World
+Female,29,25-34,White,,College degree,,Independent,Liberal,Strongly Disapprove,Somewhat Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,Yes,No,Better World
+Male,55,55-64,White,,Graduate degree,,Independent,Moderate,DK/REF,Somewhat Often,"Yes, very confident",No,Yes,No,Yes,DK/REF,Yes,DK/REF,Not at all likely,Somewhat Likely,No,Yes,Better World
+Male,78,65+,White,,Graduate degree,,Republican,Conservative,Somewhat Approve,Not Very Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Worse World
+Male,27,25-34,Other,Middle Eastern,Some college,,Republican,Moderate,Somewhat Approve,Not Very Often,"Yes, very confident",Yes,Yes,DK/REF,Yes,Yes,Yes,DK/REF,Not at all likely,Not at all likely,No,No,Worse World
+Male,55,55-64,White,,College degree,,Independent,Conservative,Somewhat Disapprove,Very Often,"Yes, very confident",No,Yes,DK/REF,Yes,Yes,Yes,No,Not at all likely,Somewhat Likely,No,No,DK/REF
+Male,27,25-34,White,,College degree,,Independent,Moderate,Neither approve nor disapprove,Not Very Often,"Yes, very confident",No,DK/REF,DK/REF,Yes,DK/REF,Yes,DK/REF,DK/REF,Not at all likely,DK/REF,No,DK/REF
+Male,20,18-24,White,,Some college,,DK/REF,Moderate,Strongly Approve,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,DK/REF,Yes,No,Very Likely,Not at all likely,No,No,Worse World
+Male,35,35-44,Black,,Graduate degree,,Independent,Liberal,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,Yes,Yes,Worse World
+Male,22,18-24,Asian,,College degree,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Male,31,25-34,White,,High school or less,,Independent,Liberal,Strongly Disapprove,Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,No,Somewhat Likely,Somewhat Likely,No,No,Worse World
+Male,59,55-64,White,,Graduate degree,,Independent,Moderate,Strongly Disapprove,Very Often,"Yes, very confident",No,Yes,No,Yes,DK/REF,Yes,No,Not at all likely,Not at all likely,DK/REF,DK/REF,Worse World
+Male,69,65+,White,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,No,No,No,,Yes,No,Very Likely,Not at all likely,No,No,Better World
+Female,54,45-54,White,,Some college,,Republican,DK/REF,DK/REF,Somewhat Often,No,Yes,Yes,Yes,Yes,No,Yes,No,Somewhat Likely,Not at all likely,No,No,DK/REF
+Male,62,55-64,White,,Some college,,Republican,Conservative,Strongly Approve,Somewhat Often,"Yes, somewhat confident",No,Yes,No,Yes,Yes,Yes,No,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,28,25-34,White,,Some college,,Republican,DK/REF,Strongly Approve,Very Often,"Yes, very confident",Yes,Yes,No,No,,No,,Very Likely,Not at all likely,No,No,Worse World
+Female,44,35-44,White,,College degree,,Republican,Conservative,Somewhat Approve,Very Often,"Yes, very confident",Yes,Yes,No,Yes,No,Yes,No,Somewhat Likely,Somewhat Likely,No,No,Better World
+Male,60,55-64,White,,Some college,,Republican,Moderate,Strongly Approve,Not Very Often,"Yes, very confident",DK/REF,Yes,Yes,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,53,45-54,Latino,,College degree,,Independent,Conservative,Strongly Approve,Very Often,No,No,DK/REF,No,Yes,Yes,Yes,DK/REF,Very Likely,Very Likely,No,No,Better World
+Male,24,18-24,Latino,,College degree,,DK/REF,Moderate,Strongly Disapprove,Not Very Often,No,Yes,Yes,Yes,No,,No,,Not at all likely,Not at all likely,No,No,Better World
+Female,25,25-34,Other,Native American,Some college,,Independent,Moderate,Strongly Disapprove,Somewhat Often,No,Yes,No,No,No,,No,,Very Likely,Very Likely,Yes,Yes,Worse World
+Female,72,65+,White,,Some college,,Democrat,Conservative,Strongly Disapprove,Very Often,"Yes, somewhat confident",No,Yes,Yes,No,,Yes,No,Not at all likely,Somewhat Likely,No,No,Better World
+Female,65,65+,White,,College degree,,Democrat,Liberal,Strongly Disapprove,Very Often,No,Yes,Yes,No,No,,Yes,No,Not at all likely,Not at all likely,No,No,Better World
+Female,64,55-64,White,,Some college,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",DK/REF,Yes,No,Yes,Yes,Yes,No,Very Likely,Not at all likely,DK/REF,No,Worse World
+Male,48,45-54,White,,Some college,,Independent,Conservative,Strongly Approve,Very Often,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Female,30,25-34,DK/REF,,Graduate degree,,Independent,DK/REF,DK/REF,Not Very Often,"Yes, somewhat confident",Yes,No,Yes,Yes,No,Yes,No,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,41,35-44,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Worse World
+Female,66,65+,White,,Some college,,Independent,Conservative,Somewhat Disapprove,Not Very Often,"Yes, very confident",DK/REF,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Worse World
+Female,21,18-24,Latino,,College degree,,Democrat,Moderate,Somewhat Disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,No,,No,,Somewhat Likely,Somewhat Likely,Yes,Yes,Better World
+Female,62,55-64,Asian,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Female,19,18-24,Latino,,Some college,,Independent,Moderate,Neither approve nor disapprove,Not Very Often,No,Yes,No,No,Yes,Yes,No,,Somewhat Likely,Not at all likely,Yes,No,Worse World
+Female,62,55-64,White,,Some college,,Republican,Moderate,Strongly Approve,Very Often,"Yes, very confident",Yes,No,No,Yes,Yes,Yes,Yes,Very Likely,Somewhat Likely,No,No,Better World
+Female,44,35-44,White,,College degree,,Independent,Moderate,Strongly Disapprove,Not Very Often,No,Yes,Yes,Yes,Yes,Yes,No,,Not at all likely,Not at all likely,Yes,No,Worse World
+Male,23,18-24,Asian,,Some college,,Democrat,DK/REF,Neither approve nor disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,No,Yes,No,Yes,No,Not at all likely,Not at all likely,No,No,Better World
+Female,77,65+,White,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,No,No,,Not at all likely,Not at all likely,No,No,Worse World
+Male,25,25-34,White,,High school or less,,Independent,Liberal,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Not at all likely,Somewhat Likely,Yes,No,Worse World
+Male,62,55-64,Asian,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",No,Yes,Yes,No,,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Female,27,25-34,White,,Graduate degree,,Democrat,Moderate,Neither approve nor disapprove,Very Often,No,Yes,Yes,Yes,Yes,No,No,,Somewhat Likely,Somewhat Likely,Yes,Yes,Better World
+Female,69,65+,Latino,,College degree,,Democrat,Liberal,Strongly Disapprove,Not Very Often,No,Yes,Yes,Yes,No,,No,,Not at all likely,Not at all likely,No,No,Worse World
+Male,28,25-34,Latino,,Some college,,Independent,DK/REF,Neither approve nor disapprove,Not Very Often,No,Yes,Yes,No,No,,No,,Very Likely,Somewhat Likely,DK/REF,DK/REF,Better World
+Male,75,65+,White,,High school or less,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",No,Yes,No,No,,Yes,No,Very Likely,Not at all likely,No,No,Better World
+Female,66,65+,White,,College degree,,Republican,Moderate,Strongly Approve,Not Very Often,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Worse World
+Female,30,25-34,Latino,,Some college,,Independent,DK/REF,Neither approve nor disapprove,Somewhat Often,"Yes, somewhat confident",No,No,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Somewhat Likely,No,No,Better World
+Male,51,45-54,White,,College degree,,Republican,Moderate,Strongly Approve,Not Very Often,"Yes, very confident",No,No,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Female,40,35-44,White,,College degree,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,No,,No,,Not at all likely,Somewhat Likely,No,No,Worse World
+Female,44,35-44,White,,Some college,,Independent,Conservative,Strongly Disapprove,Very Often,"Yes, somewhat confident",Yes,Yes,DK/REF,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,Yes,Yes,Worse World
+Male,20,18-24,Latino,,Some college,,Democrat,Moderate,Neither approve nor disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,No,Somewhat Likely,Somewhat Likely,No,No,Better World
+Female,34,25-34,Latino,,Some college,,Independent,Conservative,Strongly Disapprove,Not Very Often,No,Yes,Yes,No,No,,No,,Somewhat Likely,Very Likely,No,Yes,Worse World
+Male,44,35-44,White,,Some college,,Independent,Moderate,Strongly Disapprove,Not Very Often,No,Yes,Yes,No,Yes,Yes,No,,Not at all likely,Not at all likely,Yes,Yes,Worse World
+Female,47,45-54,Black,,Some college,,Democrat,Moderate,Strongly Disapprove,Not Very Often,"Yes, very confident",Yes,Yes,Yes,No,,Yes,No,Not at all likely,Not at all likely,Yes,Yes,Worse World
+Male,52,45-54,White,,Some college,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,No,Yes,No,Very Likely,Not at all likely,No,No,Better World
+Female,68,65+,White,,College degree,,Republican,Conservative,Strongly Approve,Somewhat Often,No,No,No,No,No,,No,,Very Likely,Not at all likely,No,No,Better World
+Male,47,45-54,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Very Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Male,30,25-34,White,,High school or less,,Republican,Conservative,Strongly Approve,Somewhat Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,No,Somewhat Likely,Not at all likely,No,Yes,Worse World
+Female,72,65+,White,,High school or less,,Republican,Moderate,Strongly Approve,Not Very Often,"Yes, somewhat confident",No,Yes,No,DK/REF,,Yes,No,Very Likely,Not at all likely,Yes,No,Worse World
+Female,53,45-54,Black,,Some college,,Democrat,Moderate,Neither approve nor disapprove,Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,DK/REF,Yes,DK/REF,Not at all likely,DK/REF,DK/REF,DK/REF,DK/REF
+Female,55,55-64,Black,,Some college,,Democrat,Conservative,Neither approve nor disapprove,Very Often,"Yes, somewhat confident",No,No,Yes,No,,Yes,No,Not at all likely,Somewhat Likely,Yes,Yes,Better World
+Male,56,55-64,White,,High school or less,,Independent,Moderate,DK/REF,Not Very Often,"Yes, somewhat confident",No,Yes,Yes,Yes,Yes,Yes,DK/REF,Somewhat Likely,Not at all likely,No,No,Better World
+Male,59,55-64,Black,,High school or less,,Independent,Moderate,Somewhat Approve,Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,60,55-64,Black,,High school or less,,Independent,Moderate,DK/REF,Very Often,DK/REF,Yes,Yes,Yes,No,,Yes,No,Somewhat Likely,Somewhat Likely,Yes,Yes,Worse World
+Male,74,65+,White,,High school or less,,Democrat,Moderate,DK/REF,Very Often,"Yes, somewhat confident",DK/REF,No,DK/REF,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,Yes,Yes,DK/REF
+Female,70,65+,White,,High school or less,,Republican,Conservative,Strongly Approve,Somewhat Often,DK/REF,Yes,Yes,Yes,No,,No,,Very Likely,Somewhat Likely,Yes,Yes,Better World
+Female,80,65+,White,,Some college,,Independent,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",Yes,No,Yes,Yes,No,Yes,Yes,Very Likely,Somewhat Likely,No,No,Better World
+Female,80,65+,Black,,High school or less,,Democrat,Conservative,DK/REF,Somewhat Often,No,No,No,Yes,Yes,Yes,Yes,No,Not at all likely,Not at all likely,Yes,No,Worse World
+Male,53,45-54,White,,College degree,,Independent,Conservative,Strongly Disapprove,Very Often,"Yes, somewhat confident",DK/REF,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,Yes,Yes,Better World
+Male,38,35-44,White,,Some college,,Republican,Conservative,Strongly Approve,Very Often,"Yes, very confident",No,Yes,Yes,Yes,DK/REF,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Worse World
+Male,55,55-64,White,,College degree,,Independent,Moderate,Neither approve nor disapprove,Somewhat Often,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Female,62,55-64,White,,Graduate degree,,DK/REF,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Female,63,55-64,White,,High school or less,,DK/REF,DK/REF,Neither approve nor disapprove,Somewhat Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Female,64,55-64,White,,College degree,,Republican,Conservative,Strongly Approve,Very Often,No,Yes,Yes,No,Yes,Yes,No,,Very Likely,Somewhat Likely,Yes,Yes,Worse World
+Female,60,55-64,White,,High school or less,,Democrat,DK/REF,Strongly Disapprove,Very Often,"Yes, somewhat confident",Yes,Yes,DK/REF,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,Yes,No,Worse World
+Female,65,65+,Latino,,High school or less,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,No,,No,,Not at all likely,Somewhat Likely,Yes,DK/REF,Better World
+Male,62,55-64,White,,Some college,,Democrat,Moderate,Strongly Disapprove,Not Very Often,No,No,Yes,Yes,No,,No,,Not at all likely,Very Likely,Yes,Yes,Worse World
+Female,70,65+,Black,,High school or less,,Democrat,Liberal,DK/REF,Not Very Often,No,DK/REF,DK/REF,DK/REF,DK/REF,,DK/REF,,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF
+Female,65,65+,White,,Other,CDA,Republican,Conservative,Strongly Approve,Very Often,DK/REF,DK/REF,Yes,DK/REF,Yes,Yes,Yes,Yes,DK/REF,Not at all likely,No,No,DK/REF
+Female,84,65+,White,,Some college,,Democrat,Conservative,Strongly Disapprove,Very Often,No,No,DK/REF,DK/REF,DK/REF,,No,,Not at all likely,DK/REF,DK/REF,DK/REF,Worse World
+Male,50,45-54,White,,Graduate degree,,Republican,Conservative,Neither approve nor disapprove,Not Very Often,"Yes, very confident",DK/REF,DK/REF,DK/REF,Yes,No,DK/REF,,Somewhat Likely,Not at all likely,No,No,DK/REF
+Female,36,35-44,White,,Some college,,Republican,Moderate,Somewhat Approve,Not Very Often,"Yes, somewhat confident",Yes,No,No,DK/REF,,Yes,DK/REF,Somewhat Likely,Somewhat Likely,Yes,No,Better World
+DK/REF,89,65+,White,,Some college,,DK/REF,DK/REF,DK/REF,Not Very Often,DK/REF,No,Yes,DK/REF,DK/REF,,Yes,Yes,Not at all likely,DK/REF,DK/REF,DK/REF,DK/REF
+Male,57,55-64,White,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Not Very Often,"Yes, very confident",Yes,Yes,No,Yes,No,Yes,No,Somewhat Likely,Somewhat Likely,Yes,No,Worse World
+Female,70,65+,White,,Some college,,Democrat,Moderate,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,No,,No,,Somewhat Likely,Somewhat Likely,No,No,Worse World
+Female,55,55-64,White,,High school or less,,Democrat,Liberal,Strongly Disapprove,Very Often,"Yes, somewhat confident",No,Yes,Yes,Yes,No,Yes,No,Not at all likely,Somewhat Likely,Yes,Yes,Worse World
+Male,57,55-64,White,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,No,No,Yes,No,Yes,No,Yes,No,Very Likely,Not at all likely,No,No,Better World
+Male,45,45-54,Black,,High school or less,,Democrat,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,No,No,No,,No,,Very Likely,Not at all likely,Yes,No,Worse World
+Male,56,55-64,White,,Other,Associate degree,Independent,Moderate,Somewhat Disapprove,Somewhat Often,No,No,Yes,No,No,,Yes,No,Somewhat Likely,Somewhat Likely,Yes,Yes,Better World
+Female,56,55-64,White,,High school or less,,Independent,Moderate,DK/REF,Very Often,DK/REF,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Very Likely,DK/REF,Yes,Worse World
+Female,51,45-54,DK/REF,,High school or less,,DK/REF,DK/REF,DK/REF,Very Often,No,DK/REF,Yes,No,No,,No,,Not at all likely,Very Likely,Yes,DK/REF,Worse World
+Female,65,65+,Black,,College degree,,Independent,Moderate,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,No,,No,,Not at all likely,Very Likely,Yes,No,Worse World
+Male,56,55-64,White,,College degree,,Republican,Moderate,Somewhat Approve,Not Very Often,"Yes, somewhat confident",No,No,Yes,No,,No,,DK/REF,DK/REF,Yes,No,DK/REF
+Male,58,55-64,White,,High school or less,,Republican,Moderate,Strongly Approve,Somewhat Often,"Yes, very confident",Yes,DK/REF,Yes,Yes,Yes,Yes,Yes,DK/REF,DK/REF,No,No,Better World
+Male,87,65+,White,,Some college,,DK/REF,DK/REF,Strongly Disapprove,DK/REF,DK/REF,No,Yes,Yes,Yes,DK/REF,No,,Not at all likely,Very Likely,No,No,Worse World
+Female,62,55-64,White,,Some college,,Republican,Conservative,Strongly Approve,Somewhat Often,"Yes, somewhat confident",No,Yes,No,DK/REF,,Yes,Yes,Very Likely,Not at all likely,DK/REF,Yes,Worse World
+Female,89,65+,Other,Mixed,College degree,,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,Yes,Yes,Yes,Yes,Yes,Yes,DK/REF,DK/REF,No,No,Worse World
+Female,70,65+,White,,College degree,,Democrat,Moderate,Strongly Disapprove,DK/REF,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Male,49,45-54,White,,College degree,,Democrat,Moderate,Somewhat Approve,Not Very Often,"Yes, very confident",Yes,Yes,No,Yes,No,Yes,No,Not at all likely,Not at all likely,No,No,Worse World
+Female,52,45-54,White,,Some college,,Republican,Conservative,Strongly Approve,Not Very Often,No,No,No,No,No,,No,,Very Likely,Somewhat Likely,No,No,Worse World
+Female,55,55-64,White,,High school or less,,Democrat,Moderate,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Not at all likely,Somewhat Likely,No,Yes,Worse World
+Female,58,55-64,White,,High school or less,,Democrat,DK/REF,Neither approve nor disapprove,Very Often,"Yes, very confident",Yes,Yes,Yes,No,,No,,Very Likely,Somewhat Likely,Yes,Yes,Better World
+Male,76,65+,White,,High school or less,,Democrat,Moderate,Somewhat Disapprove,Not Very Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,Yes,No,Worse World
+Male,25,25-34,Black,,Some college,,Democrat,Liberal,Strongly Disapprove,Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Female,65,65+,White,,Graduate degree,,Independent,Moderate,Somewhat Approve,Very Often,No,Yes,Yes,No,Yes,No,Yes,No,Somewhat Likely,Somewhat Likely,No,Yes,Worse World
+Female,48,45-54,White,,College degree,,Republican,Moderate,Somewhat Approve,Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,No,Yes,No,Very Likely,Not at all likely,No,No,Better World
+Male,64,55-64,White,,Some college,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,No,Yes,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,57,55-64,Black,,Graduate degree,,Independent,Moderate,Strongly Disapprove,Very Often,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Male,18,18-24,White,,High school or less,,Democrat,Liberal,DK/REF,Somewhat Often,No,Yes,Yes,Yes,Yes,No,Yes,No,Not at all likely,Somewhat Likely,No,No,Better World
+Female,68,65+,White,,High school or less,,DK/REF,DK/REF,Strongly Approve,Not Very Often,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,DK/REF
+Female,48,45-54,Asian,,College degree,,Democrat,Liberal,Strongly Disapprove,Very Often,"Yes, very confident",No,No,No,Yes,No,Yes,Yes,Somewhat Likely,Somewhat Likely,No,No,Worse World
+Male,75,65+,White,,College degree,,Independent,Moderate,Strongly Approve,Not Very Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,Yes,DK/REF,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,58,55-64,White,,College degree,,Democrat,Conservative,Neither approve nor disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,No,Yes,No,Not at all likely,Somewhat Likely,No,No,Worse World
+Male,50,45-54,White,,Graduate degree,,Republican,Moderate,Strongly Approve,Not Very Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,Yes,No,Very Likely,Not at all likely,No,No,Better World
+Male,63,55-64,White,,College degree,,Independent,Moderate,Strongly Disapprove,DK/REF,"Yes, very confident",No,Yes,No,Yes,DK/REF,DK/REF,,Very Likely,Somewhat Likely,No,No,Worse World
+Female,39,35-44,White,,Some college,,Democrat,Liberal,Neither approve nor disapprove,Very Often,"Yes, somewhat confident",Yes,Yes,Yes,No,,Yes,No,Somewhat Likely,Not at all likely,Yes,Yes,Worse World
+Female,62,55-64,Black,,High school or less,,Democrat,Moderate,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,No,,No,,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,39,35-44,Latino,,High school or less,,Democrat,Liberal,DK/REF,Not Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Very Likely,DK/REF,Yes,Worse World
+Male,41,35-44,White,,High school or less,,Independent,Moderate,Neither approve nor disapprove,Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Male,69,65+,Latino,,College degree,,Independent,DK/REF,Somewhat Disapprove,Somewhat Often,No,Yes,Yes,Yes,Yes,No,Yes,No,Not at all likely,Not at all likely,No,No,Better World
+Female,77,65+,White,,High school or less,,Republican,Moderate,Strongly Approve,Not Very Often,"Yes, very confident",Yes,No,Yes,Yes,DK/REF,Yes,DK/REF,Very Likely,Very Likely,No,No,Better World
+Male,53,45-54,Other,Pacific Islander,College degree,,Republican,Conservative,Somewhat Approve,Not Very Often,No,No,Yes,No,Yes,No,No,,Very Likely,Somewhat Likely,No,Yes,Worse World
+Female,87,65+,Black,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",DK/REF,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,Yes,No,Better World
+Male,37,35-44,Black,,College degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,"Yes, very confident",Yes,Yes,Yes,No,,Yes,Yes,Not at all likely,Not at all likely,No,No,Worse World
+Female,72,65+,Black,,High school or less,,DK/REF,Conservative,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Worse World
+DK/REF,20,18-24,DK/REF,,High school or less,,Republican,Conservative,Strongly Approve,DK/REF,"Yes, very confident",No,No,No,Yes,Yes,Yes,Yes,Very Likely,Very Likely,No,No,Worse World
+Female,34,25-34,White,,Some college,,Independent,Liberal,Strongly Disapprove,Very Often,No,Yes,Yes,No,Yes,No,Yes,No,Not at all likely,Somewhat Likely,Yes,Yes,Better World
+Male,82,65+,White,,Graduate degree,,Independent,Moderate,Somewhat Disapprove,Not Very Often,"Yes, very confident",Yes,Yes,No,Yes,No,Yes,No,Not at all likely,Not at all likely,No,No,Better World
+Male,42,35-44,White,,College degree,,Independent,Conservative,Strongly Approve,Somewhat Often,"Yes, somewhat confident",No,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Female,65,65+,Black,,College degree,,DK/REF,Moderate,Somewhat Disapprove,Not Very Often,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,No,No,Worse World
+Male,66,65+,White,,High school or less,,DK/REF,Moderate,Somewhat Approve,Somewhat Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Female,81,65+,White,,College degree,,Democrat,Liberal,Strongly Disapprove,Not Very Often,"Yes, very confident",No,No,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Male,87,65+,White,,Some college,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",No,Yes,Yes,No,,DK/REF,,Somewhat Likely,Somewhat Likely,No,No,Worse World
+Male,49,45-54,White,,High school or less,,Republican,Liberal,Neither approve nor disapprove,Very Often,No,Yes,Yes,Yes,No,,Yes,No,Not at all likely,Very Likely,Yes,Yes,Worse World
+Female,72,65+,Black,,High school or less,,Independent,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,No,DK/REF,DK/REF,,DK/REF,,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF
+Male,70,65+,Black,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,No,Yes,No,Not at all likely,Not at all likely,No,Yes,Worse World
+Male,46,45-54,White,,College degree,,Independent,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Female,61,55-64,Black,,College degree,,Democrat,Liberal,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,Yes,No,No,,Not at all likely,Very Likely,Yes,No,Worse World
+Male,50,45-54,White,,College degree,,Democrat,Conservative,Strongly Disapprove,Not Very Often,"Yes, very confident",No,Yes,No,No,,No,,Not at all likely,Not at all likely,No,No,Worse World
+Female,82,65+,Black,,High school or less,,Democrat,Liberal,Strongly Disapprove,Not Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Male,45,45-54,White,,Some college,,Republican,Moderate,Strongly Approve,Very Often,No,Yes,Yes,No,No,,No,,Somewhat Likely,Not at all likely,Yes,Yes,Worse World
+Male,84,65+,White,,Graduate degree,,Independent,Moderate,Somewhat Disapprove,Not Very Often,"Yes, somewhat confident",No,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Worse World
+Male,40,35-44,White,,High school or less,,Independent,Conservative,Somewhat Approve,DK/REF,"Yes, very confident",Yes,Yes,DK/REF,DK/REF,,DK/REF,,Very Likely,Somewhat Likely,Yes,No,Worse World
+Female,61,55-64,White,,College degree,,Republican,Conservative,Somewhat Approve,Not Very Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,DK/REF,No,No,Better World
+Male,78,65+,White,,College degree,,Independent,Liberal,Strongly Disapprove,Very Often,"Yes, somewhat confident",Yes,Yes,Yes,No,,No,,Not at all likely,Very Likely,Yes,Yes,Worse World
+Female,63,55-64,Black,,DK/REF,,Democrat,Moderate,Strongly Approve,DK/REF,"Yes, somewhat confident",Yes,Yes,No,No,,No,,Very Likely,Somewhat Likely,Yes,No,Better World
+Male,59,55-64,Latino,,High school or less,,Democrat,Moderate,Strongly Disapprove,Very Often,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,Yes,No,Better World
+Female,42,35-44,White,,Graduate degree,,Independent,Moderate,Neither approve nor disapprove,Somewhat Often,No,Yes,Yes,No,No,,No,,Somewhat Likely,Somewhat Likely,DK/REF,Yes,Worse World
+Female,36,35-44,Latino,,Some college,,Republican,Conservative,DK/REF,Very Often,"Yes, very confident",Yes,Yes,No,Yes,No,Yes,No,Very Likely,Somewhat Likely,No,No,Worse World
+Female,62,55-64,White,,Graduate degree,,Independent,Moderate,Strongly Disapprove,Not Very Often,No,No,Yes,Yes,Yes,DK/REF,Yes,DK/REF,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,73,65+,White,,Some college,,Republican,Conservative,Somewhat Approve,Not Very Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,52,45-54,Black,,Graduate degree,,Republican,Moderate,Strongly Approve,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,DK/REF,Yes,DK/REF,Somewhat Likely,Not at all likely,No,No,Better World
+Male,19,18-24,White,,Some college,,Independent,Conservative,Somewhat Approve,Very Often,"Yes, very confident",No,No,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Female,20,18-24,White,,Some college,,Democrat,Conservative,Strongly Approve,Somewhat Often,"Yes, very confident",Yes,No,Yes,Yes,No,Yes,No,Very Likely,Not at all likely,No,No,Worse World
+Male,46,45-54,White,,High school or less,,Independent,Moderate,Neither approve nor disapprove,Very Often,No,Yes,Yes,No,Yes,No,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Female,57,55-64,White,,High school or less,,Independent,Moderate,Strongly Disapprove,Somewhat Often,DK/REF,DK/REF,Yes,DK/REF,No,,DK/REF,,Not at all likely,DK/REF,DK/REF,DK/REF,Worse World
+Male,72,65+,White,,Some college,,Democrat,Moderate,Somewhat Approve,Somewhat Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Very Likely,Yes,Yes,Worse World
+Male,36,35-44,White,,Some college,,Democrat,Moderate,Strongly Approve,Not Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,Yes,Better World
+Female,60,55-64,White,,College degree,,DK/REF,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",Yes,DK/REF,No,No,,DK/REF,,Very Likely,Not at all likely,No,No,Worse World
+Female,56,55-64,White,,College degree,,Independent,Moderate,Strongly Disapprove,Somewhat Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,Yes,No,Worse World
+Male,20,18-24,Asian,,High school or less,,Independent,Moderate,Neither approve nor disapprove,Not Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Male,62,55-64,White,,Graduate degree,,Republican,Conservative,Strongly Approve,Somewhat Often,"Yes, somewhat confident",No,Yes,No,Yes,Yes,Yes,No,Somewhat Likely,Not at all likely,No,No,Better World
+Male,65,65+,White,,DK/REF,,Republican,Conservative,Strongly Approve,Not Very Often,No,No,DK/REF,DK/REF,No,,No,,Very Likely,Not at all likely,DK/REF,No,DK/REF
+Male,58,55-64,White,,Some college,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,49,45-54,White,,College degree,,Independent,Moderate,Strongly Approve,Somewhat Often,No,No,Yes,No,Yes,Yes,Yes,DK/REF,Somewhat Likely,Not at all likely,No,No,Better World
+Male,89,65+,White,,High school or less,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,DK/REF,,Yes,DK/REF,Somewhat Likely,Somewhat Likely,Yes,No,DK/REF
+Male,33,25-34,White,,Other,Technical School,Republican,Conservative,Somewhat Disapprove,Very Often,No,Yes,Yes,Yes,No,,No,,Not at all likely,Not at all likely,Yes,Yes,Worse World
+Male,63,55-64,White,,College degree,,Independent,Conservative,Strongly Disapprove,Somewhat Often,No,DK/REF,Yes,No,DK/REF,,DK/REF,,Not at all likely,Not at all likely,DK/REF,No,Worse World
+Female,64,55-64,White,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,DK/REF,Yes,No,Yes,No,Not at all likely,Somewhat Likely,No,No,Worse World
+Male,55,55-64,White,,High school or less,,Independent,Moderate,Strongly Approve,Very Often,No,Yes,Yes,No,No,,No,,Very Likely,Not at all likely,No,Yes,Worse World
+Male,84,65+,Black,,Other,Master's Degree,Democrat,Liberal,Strongly Disapprove,Very Often,No,No,Yes,Yes,No,,Yes,No,Not at all likely,Very Likely,Yes,Yes,Worse World
+Female,74,65+,White,,High school or less,,Independent,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,DK/REF,Yes,DK/REF,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Female,61,55-64,White,,College degree,,Independent,Moderate,Strongly Disapprove,Somewhat Often,"Yes, very confident",DK/REF,Yes,Yes,No,,No,,DK/REF,Very Likely,No,No,DK/REF
+Male,62,55-64,White,,Some college,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Female,78,65+,DK/REF,,College degree,,Republican,Conservative,Somewhat Approve,Not Very Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,DK/REF,,Very Likely,Not at all likely,No,No,Better World
+Female,60,55-64,White,,Graduate degree,,Democrat,Liberal,DK/REF,Not Very Often,DK/REF,DK/REF,Yes,Yes,No,,Yes,DK/REF,Not at all likely,DK/REF,Yes,Yes,Better World
+Male,70,65+,Black,,Some college,,Independent,DK/REF,DK/REF,Not Very Often,DK/REF,Yes,DK/REF,DK/REF,Yes,DK/REF,Yes,DK/REF,Not at all likely,Not at all likely,No,No,DK/REF
+Female,73,65+,White,,Some college,,Democrat,Moderate,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",No,Yes,No,No,,No,,Somewhat Likely,Somewhat Likely,No,No,Worse World
+Female,67,65+,White,,College degree,,DK/REF,DK/REF,DK/REF,Not Very Often,"Yes, somewhat confident",No,No,No,DK/REF,,DK/REF,,DK/REF,DK/REF,DK/REF,DK/REF,Worse World
+Female,71,65+,White,,Some college,,DK/REF,Liberal,Strongly Disapprove,Very Often,No,No,Yes,No,No,,No,,Not at all likely,Somewhat Likely,Yes,No,Worse World
+Male,75,65+,White,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Not Very Often,No,DK/REF,Yes,Yes,Yes,Yes,Yes,No,Somewhat Likely,Somewhat Likely,No,No,Worse World
+Female,58,55-64,White,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,"Yes, very confident",Yes,Yes,Yes,Yes,Yes,Yes,No,Not at all likely,Not at all likely,Yes,No,Better World
+Female,76,65+,White,,Some college,,Democrat,Liberal,Strongly Disapprove,Not Very Often,"Yes, very confident",DK/REF,Yes,No,Yes,DK/REF,Yes,No,Not at all likely,Somewhat Likely,Yes,Yes,Worse World
+Female,75,65+,White,,College degree,,Independent,Moderate,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,No,Yes,No,Yes,No,Very Likely,Not at all likely,No,No,Better World
+Male,85,65+,White,,College degree,,Independent,Moderate,Somewhat Disapprove,Very Often,"Yes, very confident",No,Yes,No,Yes,No,Yes,No,Not at all likely,Not at all likely,No,No,Worse World
+Female,68,65+,White,,Some college,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Worse World
+Female,76,65+,White,,Graduate degree,,Republican,Conservative,Strongly Approve,Not Very Often,DK/REF,No,Yes,No,Yes,No,No,,Very Likely,Not at all likely,DK/REF,No,Better World
+Male,50,45-54,DK/REF,,Some college,,DK/REF,DK/REF,Strongly Disapprove,Somewhat Often,DK/REF,Yes,DK/REF,Yes,Yes,DK/REF,DK/REF,,Somewhat Likely,Not at all likely,DK/REF,DK/REF,DK/REF
+Male,21,18-24,White,,College degree,,Independent,Moderate,Strongly Disapprove,Very Often,No,No,Yes,Yes,Yes,Yes,Yes,No,Not at all likely,Somewhat Likely,No,No,Better World
+Female,25,25-34,Latino,,High school or less,,Independent,Moderate,Strongly Disapprove,Not Very Often,No,Yes,Yes,Yes,No,,No,,Not at all likely,Somewhat Likely,Yes,No,Worse World
+Female,57,55-64,White,,College degree,,Democrat,Liberal,Strongly Disapprove,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Male,85,65+,White,,Some college,,Independent,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,No,Yes,DK/REF,Yes,DK/REF,Somewhat Likely,Not at all likely,No,No,Better World
+Male,55,55-64,White,,Some college,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,22,18-24,Asian,,College degree,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,No,No,Yes,No,Yes,No,Not at all likely,Somewhat Likely,No,No,Worse World
+Female,19,18-24,Latino,,College degree,,Republican,Conservative,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,DK/REF,Somewhat Likely,Not at all likely,No,No,Better World
+Female,63,55-64,Black,,Some college,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,"Yes, very confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Worse World
+Male,48,45-54,White,,College degree,,Republican,Liberal,Strongly Approve,Not Very Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Worse World
+Other,28,25-34,White,,Some college,,Democrat,Liberal,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,Yes,No,Yes,No,Somewhat Likely,Somewhat Likely,Yes,Yes,Better World
+Female,52,45-54,Black,,High school or less,,Independent,Moderate,DK/REF,Somewhat Often,No,Yes,Yes,DK/REF,No,,No,,Not at all likely,Somewhat Likely,Yes,No,Worse World
+Female,36,35-44,White,,Graduate degree,,Republican,Moderate,Neither approve nor disapprove,Not Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,DK/REF,No,Yes,Worse World
+Female,35,35-44,White,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Not Very Often,No,Yes,No,Yes,Yes,Yes,Yes,No,Somewhat Likely,Somewhat Likely,No,No,Worse World
+Female,67,65+,Latino,,High school or less,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,No,No,Yes,Yes,No,,No,,Not at all likely,Very Likely,Yes,No,Worse World
+Male,74,65+,White,,High school or less,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,No,No,Yes,Yes,Yes,No,Very Likely,Not at all likely,No,No,Better World
+Female,22,18-24,Latino,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Somewhat Likely,Yes,Yes,Worse World
+Male,65,65+,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Male,69,65+,White,,Some college,,Independent,Moderate,Strongly Disapprove,Not Very Often,DK/REF,Yes,Yes,Yes,Yes,Yes,No,,Not at all likely,Not at all likely,Yes,No,Worse World
+Female,72,65+,White,,High school or less,,DK/REF,DK/REF,Somewhat Approve,Very Often,"Yes, very confident",No,DK/REF,Yes,Yes,Yes,Yes,Yes,Very Likely,DK/REF,No,No,Better World
+Female,69,65+,White,,Some college,,Republican,Conservative,Strongly Approve,Very Often,No,DK/REF,No,No,Yes,Yes,Yes,Yes,Very Likely,Somewhat Likely,No,No,DK/REF
+Male,85,65+,White,,High school or less,,Independent,Moderate,Strongly Disapprove,Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,Yes,No,Better World
+Male,54,45-54,Black,,Graduate degree,,Independent,Moderate,Strongly Disapprove,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,No,Not at all likely,Not at all likely,No,No,Better World
+Female,53,45-54,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,No,No,Yes,Yes,Yes,No,Yes,No,Somewhat Likely,Somewhat Likely,No,No,Worse World
+Male,34,25-34,White,,Some college,,Independent,DK/REF,Somewhat Approve,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,No,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Male,56,55-64,White,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,Yes,Yes,Better World
+Female,87,65+,White,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,DK/REF,DK/REF,Yes,DK/REF,No,,DK/REF,,Very Likely,Not at all likely,DK/REF,No,Worse World
+Male,55,55-64,White,,High school or less,,Independent,Moderate,Neither approve nor disapprove,Very Often,"Yes, very confident",Yes,Yes,No,No,,Yes,No,Not at all likely,Not at all likely,No,No,Worse World
+Male,69,65+,White,,Graduate degree,,Republican,Moderate,Strongly Approve,Very Often,"Yes, somewhat confident",DK/REF,Yes,No,Yes,No,No,,Very Likely,Somewhat Likely,No,No,Worse World
+Male,38,35-44,White,,Graduate degree,,Independent,Liberal,Somewhat Approve,Very Often,No,No,Yes,DK/REF,Yes,No,Yes,No,Not at all likely,Not at all likely,No,No,Worse World
+Female,88,65+,White,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,No,No,Worse World
+Female,93,65+,White,,College degree,,Republican,Conservative,Somewhat Approve,Somewhat Often,"Yes, very confident",No,No,No,No,,No,,Somewhat Likely,Not at all likely,No,No,Worse World
+Male,65,65+,White,,Some college,,Independent,Liberal,Strongly Disapprove,Not Very Often,"Yes, very confident",Yes,Yes,Yes,No,,Yes,Yes,Not at all likely,Not at all likely,Yes,No,Worse World
+Female,62,55-64,White,,High school or less,,Democrat,Liberal,Strongly Disapprove,Very Often,No,DK/REF,Yes,Yes,Yes,No,Yes,No,Not at all likely,Somewhat Likely,No,No,Worse World
+Female,89,65+,White,,High school or less,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",Yes,No,Yes,DK/REF,,Yes,DK/REF,Very Likely,Not at all likely,No,No,Better World
+Male,64,55-64,White,,High school or less,,Independent,Conservative,DK/REF,Not Very Often,DK/REF,No,Yes,Yes,Yes,DK/REF,Yes,DK/REF,Very Likely,Very Likely,Yes,Yes,Better World
+Female,82,65+,White,,High school or less,,Independent,Moderate,DK/REF,Somewhat Often,"Yes, somewhat confident",No,Yes,No,Yes,No,Yes,Yes,Not at all likely,Somewhat Likely,Yes,Yes,Worse World
+Female,69,65+,White,,High school or less,,Democrat,DK/REF,Strongly Disapprove,Very Often,DK/REF,Yes,Yes,Yes,DK/REF,,DK/REF,,Somewhat Likely,Very Likely,Yes,Yes,Worse World
+Female,72,65+,White,,College degree,,Republican,Conservative,Neither approve nor disapprove,Not Very Often,"Yes, very confident",DK/REF,No,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Female,52,45-54,Black,,College degree,,Democrat,Liberal,Strongly Disapprove,DK/REF,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,DK/REF,No,No,Better World
+Male,61,55-64,White,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,No,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Female,60,55-64,Black,,College degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,DK/REF,Yes,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,DK/REF,No,No,Better World
+Female,61,55-64,White,,Some college,,Independent,Moderate,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Very Likely,DK/REF,No,No,Better World
+Other,88,65+,Asian,,Graduate degree,,Independent,Moderate,Strongly Approve,Very Often,No,No,No,No,No,,No,,Very Likely,Very Likely,Yes,Yes,Worse World
+Male,63,55-64,Black,,Some college,,DK/REF,Moderate,DK/REF,Somewhat Often,No,Yes,No,No,No,,No,,Not at all likely,Not at all likely,No,No,Worse World
+Male,60,55-64,White,,High school or less,,Democrat,Conservative,Strongly Disapprove,Very Often,No,Yes,No,No,No,,No,,Not at all likely,Very Likely,Yes,Yes,Better World
+Male,60,55-64,White,,Some college,,Democrat,Liberal,Strongly Disapprove,Not Very Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,Yes,Yes,Worse World
+Female,92,65+,White,,High school or less,,Independent,Moderate,Strongly Disapprove,Somewhat Often,"Yes, very confident",Yes,Yes,Yes,No,,Yes,Yes,Not at all likely,Not at all likely,No,No,Worse World
+Female,70,65+,White,,College degree,,Republican,Moderate,DK/REF,Not Very Often,No,No,Yes,Yes,Yes,Yes,No,,Somewhat Likely,Somewhat Likely,No,No,Better World
+Female,80,65+,White,,College degree,,Republican,Conservative,Somewhat Approve,Not Very Often,"Yes, very confident",No,No,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,78,65+,White,,High school or less,,Republican,Moderate,Somewhat Approve,Not Very Often,"Yes, very confident",No,DK/REF,DK/REF,Yes,No,Yes,DK/REF,Somewhat Likely,Not at all likely,No,No,DK/REF
+Male,78,65+,White,,High school or less,,Independent,DK/REF,Neither approve nor disapprove,Not Very Often,"Yes, somewhat confident",No,Yes,Yes,Yes,No,Yes,No,Somewhat Likely,Not at all likely,No,No,Better World
+Male,81,65+,White,,High school or less,,Independent,Moderate,Strongly Approve,Not Very Often,DK/REF,DK/REF,DK/REF,No,Yes,DK/REF,Yes,DK/REF,DK/REF,Not at all likely,DK/REF,DK/REF,DK/REF
+Female,68,65+,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,No,No,No,No,No,,No,,Very Likely,Not at all likely,No,No,Worse World
+Male,85,65+,White,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Very Likely,Somewhat Likely,No,No,Better World
+Female,91,65+,White,,High school or less,,DK/REF,DK/REF,DK/REF,Not Very Often,DK/REF,Yes,DK/REF,Yes,DK/REF,,DK/REF,,Not at all likely,DK/REF,Yes,No,Worse World
+Female,70,65+,White,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,DK/REF,No,No,No,Yes,DK/REF,Yes,No,Very Likely,Somewhat Likely,No,No,Better World
+Male,74,65+,White,,High school or less,,Democrat,DK/REF,Neither approve nor disapprove,Very Often,"Yes, very confident",Yes,No,Yes,Yes,No,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Male,49,45-54,White,,Graduate degree,,Independent,Conservative,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",No,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Worse World
+Male,80,65+,Black,,College degree,,Democrat,Liberal,Strongly Disapprove,Not Very Often,No,No,No,No,No,,No,,Not at all likely,DK/REF,No,DK/REF,Worse World
+Male,84,65+,White,,High school or less,,Democrat,Moderate,Strongly Disapprove,Very Often,"Yes, very confident",No,Yes,Yes,Yes,DK/REF,Yes,DK/REF,Not at all likely,Not at all likely,No,No,Better World
+Male,74,65+,White,,College degree,,Republican,Conservative,Somewhat Approve,Not Very Often,DK/REF,Yes,DK/REF,No,Yes,No,Yes,No,Somewhat Likely,Somewhat Likely,No,No,Worse World
+Male,76,65+,White,,College degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,DK/REF,No,DK/REF,DK/REF,Yes,DK/REF,Yes,DK/REF,Not at all likely,Somewhat Likely,DK/REF,No,Worse World
+Female,65,65+,White,,High school or less,,Independent,DK/REF,Neither approve nor disapprove,DK/REF,No,Yes,Yes,No,No,,No,,Somewhat Likely,Somewhat Likely,Yes,Yes,Better World
+Female,21,18-24,White,,Some college,,Independent,Liberal,Neither approve nor disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,No,Yes,No,Somewhat Likely,Not at all likely,Yes,Yes,Better World
+Female,40,35-44,White,,Some college,,Republican,Conservative,Neither approve nor disapprove,Not Very Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,Yes,Worse World
+Male,18,18-24,White,,High school or less,,Republican,Conservative,Neither approve nor disapprove,Not Very Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,Yes,No,Somewhat Likely,Somewhat Likely,No,No,Worse World
+Male,56,55-64,White,,Some college,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",Yes,Yes,Yes,No,,No,,Very Likely,Not at all likely,No,No,Worse World
+Female,80,65+,White,,Some college,,Independent,Liberal,Strongly Disapprove,Not Very Often,"Yes, very confident",No,Yes,DK/REF,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Male,77,65+,DK/REF,,Some college,,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,Yes,No,No,,DK/REF,,Not at all likely,DK/REF,Yes,DK/REF,Worse World
+Female,57,55-64,White,,College degree,,DK/REF,Moderate,Strongly Disapprove,Somewhat Often,DK/REF,Yes,Yes,No,No,,No,,Not at all likely,Very Likely,Yes,Yes,DK/REF
+Other,44,35-44,White,,Graduate degree,,Independent,Conservative,Strongly Approve,Not Very Often,No,No,No,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Female,24,18-24,White,,College degree,,Independent,Moderate,Neither approve nor disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Somewhat Likely,No,No,Worse World
+Female,60,55-64,White,,Graduate degree,,Independent,Moderate,Somewhat Approve,Somewhat Often,No,No,Yes,No,Yes,No,No,,Not at all likely,Not at all likely,No,No,Worse World
+Female,37,35-44,White,,High school or less,,Republican,DK/REF,Strongly Disapprove,Very Often,No,Yes,Yes,No,No,,Yes,Yes,Very Likely,Very Likely,Yes,Yes,Worse World
+Other,88,65+,Other,Mexican,High school or less,,Independent,Conservative,DK/REF,Very Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very Likely,Very Likely,No,Yes,Worse World
+Male,39,35-44,White,,College degree,,Independent,Moderate,Somewhat Approve,Not Very Often,"Yes, somewhat confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Male,56,55-64,White,,College degree,,Independent,Moderate,Neither approve nor disapprove,Somewhat Often,No,No,Yes,No,Yes,Yes,No,,Somewhat Likely,Not at all likely,No,No,Better World
+Male,25,25-34,White,,College degree,,Independent,Moderate,Somewhat Approve,Not Very Often,"Yes, somewhat confident",Yes,Yes,DK/REF,Yes,Yes,Yes,Yes,Very Likely,DK/REF,DK/REF,DK/REF,Better World
+Female,51,45-54,White,,College degree,,Republican,Conservative,Strongly Approve,Somewhat Often,"Yes, somewhat confident",Yes,No,No,Yes,Yes,Yes,Yes,Very Likely,Somewhat Likely,DK/REF,No,Worse World
+Female,58,55-64,Black,,Some college,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Very Likely,Very Likely,Yes,No,Worse World
+Female,19,18-24,White,,Some college,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",No,No,No,Yes,No,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,43,35-44,White,,Some college,,DK/REF,Moderate,Strongly Disapprove,Very Often,"Yes, very confident",DK/REF,Yes,No,No,,Yes,Yes,Not at all likely,Not at all likely,No,No,Worse World
+Female,21,18-24,White,,College degree,,Independent,Liberal,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,Yes,No,Yes,No,Somewhat Likely,Somewhat Likely,No,No,Better World
+Male,25,25-34,White,,High school or less,,Democrat,Moderate,Strongly Approve,Not Very Often,"Yes, very confident",No,No,No,Yes,No,Yes,No,Very Likely,Not at all likely,No,No,Worse World
+Male,57,55-64,Latino,,Graduate degree,,Democrat,Conservative,Strongly Disapprove,Not Very Often,No,No,Yes,Yes,Yes,No,Yes,No,Not at all likely,Not at all likely,Yes,No,Better World
+Female,79,65+,White,,Graduate degree,,Independent,Moderate,Strongly Disapprove,Not Very Often,"Yes, very confident",No,Yes,DK/REF,Yes,Yes,Yes,Yes,Not at all likely,DK/REF,No,No,Better World
+Male,76,65+,White,,High school or less,,Republican,Conservative,Strongly Approve,Not Very Often,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Very Likely,Very Likely,No,No,Better World
+Female,74,65+,White,,Graduate degree,,DK/REF,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",No,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,57,55-64,White,,College degree,,Democrat,Liberal,Strongly Disapprove,Very Often,"Yes, somewhat confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,Yes,No,Worse World
+Other,21,18-24,Asian,,High school or less,,DK/REF,DK/REF,Strongly Approve,DK/REF,No,No,No,No,Yes,Yes,Yes,Yes,DK/REF,Not at all likely,No,No,Worse World
+Male,86,65+,White,,High school or less,,Independent,Moderate,Strongly Disapprove,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,No,,Not at all likely,Somewhat Likely,Yes,Yes,Worse World
+Female,28,25-34,White,,High school or less,,Democrat,Moderate,Somewhat Disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Worse World
+Female,55,55-64,White,,High school or less,,DK/REF,DK/REF,Strongly Approve,Very Often,"Yes, very confident",No,Yes,No,No,,No,,Somewhat Likely,Somewhat Likely,Yes,Yes,Worse World
+Male,47,45-54,White,,Some college,,Republican,Moderate,Strongly Approve,Somewhat Often,"Yes, very confident",No,Yes,No,Yes,No,Yes,No,Very Likely,Not at all likely,No,Yes,Better World
+Male,69,65+,White,,College degree,,Independent,Moderate,Somewhat Disapprove,Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Worse World
+Male,20,18-24,White,,Some college,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,No,Yes,No,No,,Somewhat Likely,Somewhat Likely,Yes,Yes,Worse World
+Female,22,18-24,White,,College degree,,Independent,Liberal,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,No,Somewhat Likely,Somewhat Likely,Yes,Yes,Better World
+Male,65,65+,White,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",No,No,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,65,65+,White,,College degree,,Republican,Conservative,Neither approve nor disapprove,Somewhat Often,"Yes, somewhat confident",Yes,DK/REF,No,Yes,Yes,Yes,DK/REF,Not at all likely,Not at all likely,No,No,Better World
+Female,58,55-64,White,,Some college,,Independent,Conservative,Strongly Disapprove,Not Very Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,Yes,Yes,Worse World
+Female,48,45-54,White,,Graduate degree,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,62,55-64,White,,College degree,,DK/REF,Moderate,DK/REF,Not Very Often,No,Yes,Yes,DK/REF,Yes,No,Yes,No,Somewhat Likely,Not at all likely,No,No,Better World
+Male,47,45-54,Other,American Indian,Some college,,Republican,Conservative,Somewhat Approve,Somewhat Often,No,No,Yes,No,Yes,No,No,,Somewhat Likely,Not at all likely,No,No,Better World
+Female,55,55-64,White,,Graduate degree,,Republican,Moderate,Neither approve nor disapprove,Not Very Often,"Yes, very confident",No,No,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,60,55-64,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,No,No,Yes,Yes,Yes,Yes,Yes,No,Somewhat Likely,Somewhat Likely,No,No,Worse World
+Female,78,65+,White,,College degree,,Independent,Moderate,Strongly Disapprove,Somewhat Often,No,Yes,Yes,No,No,,No,,Somewhat Likely,Very Likely,No,No,Worse World
+Male,80,65+,White,,College degree,,Republican,Conservative,Somewhat Approve,Not Very Often,"Yes, very confident",No,No,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Female,54,45-54,White,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Very Often,No,No,Yes,Yes,Yes,No,No,,Not at all likely,Somewhat Likely,No,No,Worse World
+Female,77,65+,White,,High school or less,,Democrat,Conservative,Strongly Disapprove,Not Very Often,DK/REF,DK/REF,No,Yes,DK/REF,,Yes,No,Somewhat Likely,Not at all likely,No,Yes,Worse World
+Female,62,55-64,White,,College degree,,DK/REF,Conservative,Strongly Approve,Not Very Often,DK/REF,Yes,No,Yes,Yes,No,Yes,No,Very Likely,Not at all likely,DK/REF,DK/REF,Better World
+Female,38,35-44,DK/REF,,Graduate degree,,Independent,DK/REF,Neither approve nor disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,Yes,Yes,Better World
+Male,52,45-54,White,,Some college,,Republican,Conservative,Somewhat Approve,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,No,Yes,No,Somewhat Likely,Somewhat Likely,Yes,Yes,Worse World
+Female,75,65+,White,,High school or less,,DK/REF,Conservative,Strongly Disapprove,Very Often,No,Yes,Yes,No,No,,No,,Not at all likely,Very Likely,Yes,DK/REF,Worse World
+Female,27,25-34,White,,College degree,,Democrat,Liberal,Strongly Disapprove,Very Often,No,No,Yes,No,Yes,Yes,No,,Somewhat Likely,Not at all likely,Yes,Yes,Better World
+Female,28,25-34,Black,,High school or less,,Democrat,Moderate,Somewhat Approve,Very Often,"Yes, very confident",Yes,Yes,Yes,DK/REF,,DK/REF,,Not at all likely,Somewhat Likely,No,No,Better World
+Female,50,45-54,White,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,No,Somewhat Likely,Somewhat Likely,Yes,No,Worse World
+Female,32,25-34,Other,White and Hispanic,College degree,,Independent,Liberal,Strongly Disapprove,Very Often,"Yes, somewhat confident",Yes,No,No,Yes,Yes,Yes,No,Not at all likely,Not at all likely,No,No,Worse World
+Male,58,55-64,White,,High school or less,,Republican,Conservative,Strongly Approve,Not Very Often,DK/REF,No,No,No,Yes,Yes,Yes,No,Very Likely,Somewhat Likely,No,Yes,Worse World
+Female,78,65+,White,,High school or less,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",Yes,No,DK/REF,Yes,No,Yes,No,Very Likely,Somewhat Likely,DK/REF,DK/REF,Better World
+Male,50,45-54,White,,College degree,,Independent,Conservative,Strongly Disapprove,Very Often,"Yes, somewhat confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Worse World
+Female,85,65+,White,,High school or less,,Republican,Conservative,Strongly Approve,Not Very Often,DK/REF,No,No,No,DK/REF,,DK/REF,,Very Likely,Not at all likely,No,No,Better World
+Male,69,65+,White,,College degree,,Republican,Moderate,Strongly Approve,Not Very Often,No,Yes,Yes,No,No,,No,,Very Likely,Somewhat Likely,No,Yes,Worse World
+Female,61,55-64,White,,High school or less,,Democrat,DK/REF,DK/REF,DK/REF,"Yes, very confident",Yes,DK/REF,DK/REF,DK/REF,,DK/REF,,DK/REF,Not at all likely,DK/REF,DK/REF,DK/REF
+Female,84,65+,White,,Some college,,Republican,Liberal,Neither approve nor disapprove,Very Often,No,No,No,No,No,,Yes,No,Not at all likely,Not at all likely,No,No,Worse World
+Female,70,65+,White,,High school or less,,Independent,Moderate,Strongly Disapprove,Not Very Often,No,Yes,No,No,No,,No,,Very Likely,Somewhat Likely,No,No,Worse World
+Male,57,55-64,White,,College degree,,Republican,Moderate,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,No,Yes,No,Very Likely,Not at all likely,No,No,Worse World
+Male,72,65+,White,,High school or less,,Republican,Conservative,Strongly Approve,DK/REF,"Yes, very confident",Yes,Yes,No,DK/REF,,DK/REF,,Very Likely,Very Likely,DK/REF,DK/REF,DK/REF
+Female,84,65+,White,,Some college,,Republican,Conservative,Somewhat Approve,Not Very Often,"Yes, very confident",No,Yes,DK/REF,Yes,Yes,Yes,DK/REF,Very Likely,Not at all likely,No,No,Worse World
+Male,82,65+,White,,Some college,,Republican,Conservative,Strongly Approve,Very Often,"Yes, very confident",No,DK/REF,No,Yes,No,No,,Very Likely,Not at all likely,No,No,Better World
+Male,62,55-64,White,,College degree,,Independent,Moderate,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Worse World
+Female,89,65+,White,,Graduate degree,,DK/REF,DK/REF,DK/REF,Not Very Often,DK/REF,No,Yes,Yes,Yes,DK/REF,Yes,DK/REF,DK/REF,DK/REF,DK/REF,No,Better World
+Female,84,65+,White,,Some college,,Democrat,Liberal,Strongly Disapprove,Very Often,DK/REF,No,Yes,No,Yes,DK/REF,Yes,No,Not at all likely,Somewhat Likely,No,Yes,Worse World
+Male,82,65+,Black,,High school or less,,Independent,Conservative,Somewhat Approve,Not Very Often,No,Yes,No,No,Yes,DK/REF,Yes,DK/REF,Very Likely,Not at all likely,No,No,Worse World
+Male,80,65+,White,,College degree,,Independent,Conservative,Strongly Approve,Not Very Often,No,No,Yes,No,Yes,No,Yes,No,Very Likely,Not at all likely,No,No,Worse World
+Female,67,65+,White,,College degree,,Democrat,Liberal,Strongly Disapprove,Very Often,No,No,No,Yes,Yes,No,Yes,No,Not at all likely,Somewhat Likely,No,No,DK/REF
+Male,59,55-64,White,,Some college,,Democrat,Moderate,Strongly Disapprove,Not Very Often,No,No,Yes,Yes,No,,Yes,Yes,Not at all likely,Not at all likely,No,Yes,Worse World
+Female,64,55-64,White,,College degree,,Democrat,Liberal,Strongly Disapprove,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,No,Not at all likely,Not at all likely,No,No,Better World
+Female,69,65+,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,DK/REF,Not at all likely,Not at all likely,No,No,Worse World
+Male,80,65+,White,,Some college,,Democrat,Moderate,Strongly Disapprove,Very Often,"Yes, very confident",No,Yes,Yes,DK/REF,,Yes,DK/REF,Not at all likely,DK/REF,No,No,DK/REF
+Male,80,65+,White,,High school or less,,Independent,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,No,No,,No,,Very Likely,Not at all likely,Yes,Yes,Worse World
+Female,88,65+,White,,High school or less,,Independent,Moderate,Strongly Disapprove,Very Often,"Yes, very confident",Yes,Yes,Yes,No,,Yes,No,Somewhat Likely,Somewhat Likely,No,No,Worse World
+Female,87,65+,White,,DK/REF,,Democrat,Moderate,DK/REF,Not Very Often,DK/REF,No,No,Yes,DK/REF,,Yes,No,DK/REF,DK/REF,DK/REF,No,Better World
+Male,85,65+,White,,High school or less,,DK/REF,Conservative,DK/REF,Not Very Often,No,No,Yes,Yes,No,,No,,DK/REF,DK/REF,No,No,DK/REF
+Female,85,65+,White,,High school or less,,Independent,Conservative,DK/REF,Not Very Often,"Yes, somewhat confident",Yes,No,DK/REF,No,,Yes,DK/REF,Not at all likely,DK/REF,No,DK/REF,Better World
+Female,68,65+,White,,High school or less,,Republican,Moderate,Strongly Approve,Somewhat Often,"Yes, very confident",No,Yes,Yes,No,,No,,Not at all likely,Not at all likely,No,No,Worse World
+Male,74,65+,White,,High school or less,,DK/REF,DK/REF,DK/REF,Not Very Often,DK/REF,No,Yes,DK/REF,No,,No,,DK/REF,Not at all likely,No,No,DK/REF
+Male,50,45-54,White,,High school or less,,DK/REF,DK/REF,DK/REF,Very Often,No,No,Yes,No,No,,No,,Not at all likely,Very Likely,Yes,No,Worse World
+Female,73,65+,White,,Graduate degree,,Republican,Moderate,Strongly Approve,Somewhat Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Very Likely,Somewhat Likely,No,No,Better World
+Female,60,55-64,Black,,Some college,,Independent,Conservative,Strongly Disapprove,Very Often,No,Yes,Yes,No,No,,No,,Not at all likely,Very Likely,Yes,Yes,Worse World
+Female,66,65+,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,No,No,Better World
+Female,88,65+,White,,Graduate degree,,Independent,Moderate,Somewhat Disapprove,Somewhat Often,DK/REF,No,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Male,75,65+,White,,High school or less,,Republican,Conservative,Strongly Approve,Not Very Often,DK/REF,No,DK/REF,No,DK/REF,,No,,Very Likely,Not at all likely,No,DK/REF,Worse World
+Male,85,65+,Asian,,Graduate degree,,Democrat,Moderate,DK/REF,Somewhat Often,DK/REF,No,Yes,Yes,Yes,DK/REF,Yes,Yes,Somewhat Likely,Not at all likely,No,No,DK/REF
+Female,71,65+,White,,High school or less,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,No,Yes,Yes,Yes,No,,No,,DK/REF,Not at all likely,Yes,Yes,Worse World
+Female,69,65+,Black,,Graduate degree,,Democrat,Conservative,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",No,Yes,DK/REF,Yes,DK/REF,Yes,DK/REF,Not at all likely,Not at all likely,No,No,Better World
+Male,63,55-64,White,,College degree,,Independent,Liberal,Strongly Disapprove,Not Very Often,"Yes, very confident",No,Yes,Yes,No,,No,,Not at all likely,Somewhat Likely,No,No,Worse World
+Male,68,65+,White,,High school or less,,Republican,Conservative,Somewhat Approve,Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,No,Yes,No,Somewhat Likely,Not at all likely,No,No,Better World
+Female,63,55-64,White,,Some college,,DK/REF,Conservative,Strongly Disapprove,Very Often,DK/REF,Yes,Yes,Yes,No,,Yes,No,Not at all likely,Very Likely,Yes,Yes,Worse World
+Female,58,55-64,White,,High school or less,,Independent,Moderate,Strongly Disapprove,Very Often,No,Yes,Yes,No,No,,No,,Not at all likely,Somewhat Likely,No,No,Worse World
+DK/REF,21,18-24,White,,High school or less,,Independent,Moderate,Strongly Approve,Very Often,No,No,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,DK/REF
+Female,70,65+,White,,High school or less,,DK/REF,DK/REF,Neither approve nor disapprove,Very Often,DK/REF,No,Yes,Yes,DK/REF,,No,,Not at all likely,Very Likely,DK/REF,DK/REF,DK/REF
+Female,75,65+,White,,Some college,,Independent,Moderate,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,No,No,,No,,Very Likely,Somewhat Likely,No,No,Worse World
+Male,69,65+,DK/REF,,Some college,,Independent,Conservative,Somewhat Approve,Not Very Often,"Yes, somewhat confident",No,Yes,No,Yes,Yes,DK/REF,,Somewhat Likely,Not at all likely,No,Yes,Better World
+Female,76,65+,White,,Some college,,Republican,Conservative,Strongly Approve,Somewhat Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,65,65+,Black,,High school or less,,Democrat,Conservative,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,DK/REF,Yes,DK/REF,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Female,59,55-64,White,,College degree,,Democrat,Liberal,Neither approve nor disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,No,Yes,No,Yes,No,Not at all likely,Somewhat Likely,No,No,Better World
+Female,84,65+,White,,College degree,,DK/REF,Conservative,DK/REF,Not Very Often,"Yes, somewhat confident",Yes,Yes,DK/REF,Yes,DK/REF,Yes,DK/REF,Somewhat Likely,Not at all likely,No,No,Better World
+Male,68,65+,White,,Graduate degree,,Democrat,Conservative,Somewhat Disapprove,Not Very Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,Yes,No,Better World
+Female,79,65+,White,,Graduate degree,,Independent,Moderate,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,No,No,Worse World
+Female,55,55-64,White,,Some college,,Republican,Conservative,Somewhat Approve,Somewhat Often,"Yes, somewhat confident",Yes,No,No,Yes,Yes,Yes,Yes,Very Likely,Somewhat Likely,No,Yes,Better World
+Female,63,55-64,White,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,Yes,No,Yes,No,Not at all likely,Very Likely,Yes,Yes,Worse World
+Female,65,65+,White,,High school or less,,DK/REF,DK/REF,DK/REF,Not Very Often,DK/REF,DK/REF,DK/REF,DK/REF,Yes,Yes,No,,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF
+Female,63,55-64,White,,College degree,,Independent,Liberal,Strongly Disapprove,Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,No,Not at all likely,Not at all likely,No,No,Worse World
+Male,79,65+,White,,High school or less,,Republican,Moderate,Somewhat Approve,Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Male,92,65+,White,,High school or less,,Democrat,Liberal,Strongly Disapprove,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,Yes,DK/REF,Not at all likely,No,No,Worse World
+Male,68,65+,White,,College degree,,Democrat,Moderate,Strongly Disapprove,Very Often,"Yes, somewhat confident",No,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Worse World
+Male,26,25-34,White,,Some college,,Democrat,Liberal,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,Yes,No,No,,Somewhat Likely,Somewhat Likely,Yes,Yes,Worse World
+Female,62,55-64,White,,High school or less,,DK/REF,Conservative,DK/REF,Not Very Often,DK/REF,DK/REF,No,Yes,Yes,Yes,DK/REF,,DK/REF,DK/REF,DK/REF,DK/REF,Better World
+Female,56,55-64,White,,College degree,,DK/REF,Moderate,DK/REF,Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,No,Yes,No,Not at all likely,Somewhat Likely,Yes,No,Better World
+Male,53,45-54,White,,College degree,,Republican,Conservative,Strongly Approve,Somewhat Often,No,No,Yes,DK/REF,No,,No,,Very Likely,Not at all likely,No,No,Worse World
+Female,61,55-64,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",DK/REF,Yes,Yes,DK/REF,,DK/REF,,Somewhat Likely,Somewhat Likely,No,No,Worse World
+Female,60,55-64,White,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",No,Yes,Yes,Yes,No,Yes,No,Somewhat Likely,Somewhat Likely,Yes,Yes,Worse World
+Male,56,55-64,White,,Graduate degree,,Independent,Moderate,Strongly Approve,Somewhat Often,No,No,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,63,55-64,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,No,Not at all likely,Not at all likely,No,No,Better World
+Male,80,65+,White,,High school or less,,Independent,Conservative,Somewhat Approve,Not Very Often,"Yes, very confident",No,Yes,No,No,,Yes,Yes,Very Likely,Somewhat Likely,No,No,Better World
+Female,37,35-44,Latino,,High school or less,,Independent,Liberal,Strongly Disapprove,Somewhat Often,"Yes, very confident",No,No,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Worse World
+Male,65,65+,White,,High school or less,,Independent,Liberal,Strongly Disapprove,Very Often,No,No,Yes,Yes,No,,Yes,No,Not at all likely,Somewhat Likely,Yes,No,Worse World
+Female,66,65+,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,No,No,Yes,Yes,Yes,No,Yes,No,Not at all likely,Somewhat Likely,Yes,No,Worse World
+Male,60,55-64,White,,College degree,,Independent,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,DK/REF,Yes,DK/REF,Very Likely,Not at all likely,No,No,Better World
+Female,37,35-44,White,,Some college,,Republican,Conservative,Strongly Approve,Not Very Often,No,No,Yes,Yes,No,,No,,Very Likely,Very Likely,Yes,Yes,Worse World
+Female,48,45-54,White,,Graduate degree,,Democrat,Moderate,Somewhat Approve,Somewhat Often,"Yes, very confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Female,68,65+,Asian,,High school or less,,Independent,Liberal,Strongly Disapprove,Very Often,"Yes, very confident",Yes,No,Yes,No,,No,,Somewhat Likely,Not at all likely,No,No,Worse World
+Male,30,25-34,Asian,,Some college,,Independent,Conservative,Strongly Approve,Very Often,"Yes, very confident",DK/REF,Yes,DK/REF,Yes,DK/REF,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,60,55-64,White,,College degree,,Republican,Conservative,Strongly Approve,Very Often,"Yes, somewhat confident",No,Yes,No,Yes,No,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Female,60,55-64,White,,College degree,,Independent,DK/REF,DK/REF,Somewhat Often,No,No,Yes,No,Yes,DK/REF,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,42,35-44,White,,College degree,,Republican,Conservative,Somewhat Approve,Somewhat Often,"Yes, very confident",Yes,Yes,Yes,Yes,No,Yes,No,Very Likely,Not at all likely,No,No,Better World
+Female,39,35-44,White,,Graduate degree,,Republican,Moderate,Somewhat Disapprove,Somewhat Often,"Yes, somewhat confident",No,Yes,Yes,Yes,No,Yes,No,Not at all likely,Not at all likely,No,No,Better World
+Female,78,65+,White,,Some college,,Republican,Conservative,DK/REF,Somewhat Often,"Yes, very confident",No,DK/REF,No,Yes,Yes,Yes,DK/REF,Very Likely,Somewhat Likely,No,No,DK/REF
+Female,57,55-64,White,,High school or less,,Independent,Moderate,Neither approve nor disapprove,Very Often,No,Yes,Yes,No,No,,Yes,No,Not at all likely,Not at all likely,Yes,No,Better World
+Male,68,65+,White,,College degree,,Republican,Conservative,Strongly Approve,Very Often,"Yes, very confident",No,No,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Worse World
+Female,66,65+,Black,,High school or less,,Democrat,Moderate,DK/REF,Somewhat Often,No,Yes,Yes,Yes,No,,No,,Not at all likely,Somewhat Likely,Yes,Yes,Worse World
+Male,70,65+,DK/REF,,College degree,,Independent,Liberal,Strongly Disapprove,Very Often,No,No,Yes,DK/REF,DK/REF,,DK/REF,,Somewhat Likely,Not at all likely,DK/REF,DK/REF,Better World
+Male,85,65+,White,,College degree,,Republican,Conservative,Strongly Approve,DK/REF,No,No,Yes,No,Yes,DK/REF,Yes,DK/REF,Somewhat Likely,Not at all likely,No,No,Better World
+Female,70,65+,White,,Some college,,Republican,Conservative,Strongly Approve,Somewhat Often,"Yes, very confident",No,Yes,No,DK/REF,,DK/REF,,DK/REF,Not at all likely,Yes,Yes,DK/REF
+Female,65,65+,Black,,Graduate degree,,DK/REF,Moderate,DK/REF,Very Often,No,Yes,Yes,Yes,Yes,Yes,DK/REF,,Very Likely,Very Likely,No,No,Worse World
+Female,58,55-64,White,,Graduate degree,,DK/REF,Moderate,DK/REF,Not Very Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,Yes,DK/REF,Not at all likely,No,No,Better World
+Male,34,25-34,White,,College degree,,Independent,DK/REF,Somewhat Disapprove,Somewhat Often,"Yes, somewhat confident",No,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Female,84,65+,White,,High school or less,,Democrat,DK/REF,DK/REF,Somewhat Often,"Yes, very confident",Yes,Yes,Yes,DK/REF,,Yes,No,Not at all likely,Somewhat Likely,No,Yes,Worse World
+Male,40,35-44,White,,High school or less,,DK/REF,Moderate,Strongly Approve,Very Often,"Yes, somewhat confident",DK/REF,Yes,No,Yes,No,Yes,No,Very Likely,Not at all likely,Yes,Yes,Worse World
+Female,80,65+,White,,College degree,,Democrat,Moderate,DK/REF,Somewhat Often,No,No,Yes,DK/REF,No,,No,,Somewhat Likely,Very Likely,No,Yes,Better World
+Female,76,65+,White,,Some college,,Independent,Moderate,Strongly Disapprove,Not Very Often,DK/REF,Yes,Yes,DK/REF,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,No,No,Better World
+Female,68,65+,White,,Graduate degree,,Independent,Moderate,Somewhat Approve,Somewhat Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,No,Somewhat Likely,Not at all likely,No,No,Better World
+Female,89,65+,White,,High school or less,,Republican,Conservative,Somewhat Approve,Very Often,"Yes, somewhat confident",Yes,No,No,Yes,No,Yes,No,Somewhat Likely,Not at all likely,Yes,Yes,Better World
+Female,73,65+,Black,,High school or less,,Democrat,Liberal,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,No,,No,,Not at all likely,Not at all likely,No,No,Worse World
+Male,76,65+,White,,Some college,,Republican,Liberal,Strongly Approve,Not Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,82,65+,White,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,DK/REF,Yes,No,DK/REF,No,,No,,Very Likely,DK/REF,DK/REF,Yes,DK/REF
+Female,88,65+,White,,College degree,,Independent,Moderate,Strongly Disapprove,Not Very Often,"Yes, very confident",Yes,Yes,DK/REF,Yes,DK/REF,Yes,No,Not at all likely,Somewhat Likely,DK/REF,No,Worse World
+Female,94,65+,Black,,High school or less,,Democrat,DK/REF,Strongly Disapprove,Very Often,No,Yes,No,DK/REF,DK/REF,,No,,Not at all likely,Somewhat Likely,Yes,Yes,Worse World
+Male,84,65+,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,No,Yes,No,No,No,,Yes,No,Not at all likely,DK/REF,No,No,Better World
+Female,48,45-54,White,,College degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,No,Yes,Yes,Yes,No,,Yes,Yes,Somewhat Likely,Somewhat Likely,Yes,No,Worse World
+Female,61,55-64,White,,Graduate degree,,Independent,DK/REF,Neither approve nor disapprove,Very Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Male,88,65+,White,,Graduate degree,,Democrat,Moderate,Somewhat Disapprove,Not Very Often,"Yes, somewhat confident",No,Yes,DK/REF,Yes,Yes,Yes,Yes,Not at all likely,DK/REF,No,No,Better World
+Male,29,25-34,White,,Some college,,Independent,Moderate,DK/REF,Somewhat Often,"Yes, somewhat confident",Yes,DK/REF,DK/REF,Yes,Yes,Yes,Yes,DK/REF,DK/REF,DK/REF,No,Better World
+Male,55,55-64,White,,College degree,,Republican,Conservative,Strongly Approve,Somewhat Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Female,89,65+,White,,High school or less,,Democrat,Liberal,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Very Likely,No,No,Worse World
+Female,87,65+,White,,Some college,,Democrat,Conservative,Somewhat Disapprove,Very Often,No,Yes,Yes,DK/REF,Yes,DK/REF,Yes,Yes,Not at all likely,Somewhat Likely,No,No,Better World
+Female,67,65+,White,,Some college,,Independent,Conservative,Strongly Approve,Not Very Often,No,No,No,Yes,No,,No,,Very Likely,Somewhat Likely,Yes,Yes,Worse World
+Male,70,65+,White,,College degree,,Independent,DK/REF,Strongly Disapprove,Somewhat Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,No,No,Worse World
+Female,50,45-54,White,,High school or less,,Republican,Conservative,Strongly Approve,Somewhat Often,No,Yes,Yes,No,Yes,No,Yes,No,Very Likely,Somewhat Likely,No,No,Worse World
+Other,50,45-54,DK/REF,,Some college,,DK/REF,Moderate,Strongly Disapprove,Not Very Often,No,No,Yes,Yes,No,,No,,Somewhat Likely,Somewhat Likely,Yes,Yes,Worse World
+Male,51,45-54,White,,Some college,,Republican,Conservative,Strongly Approve,Somewhat Often,"Yes, very confident",Yes,Yes,DK/REF,Yes,DK/REF,DK/REF,,Very Likely,Very Likely,DK/REF,DK/REF,Worse World
+Female,70,65+,White,,Graduate degree,,Independent,Moderate,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,DK/REF,Yes,DK/REF,DK/REF,,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,67,65+,White,,High school or less,,Republican,DK/REF,DK/REF,Not Very Often,No,No,Yes,Yes,Yes,No,No,,Not at all likely,Not at all likely,Yes,No,Better World
+Female,67,65+,White,,College degree,,Democrat,Liberal,Strongly Disapprove,Very Often,No,DK/REF,Yes,No,No,,No,,Somewhat Likely,Not at all likely,No,No,DK/REF
+Male,63,55-64,White,,Some college,,Democrat,Conservative,Strongly Disapprove,Somewhat Often,"Yes, very confident",Yes,Yes,Yes,Yes,No,Yes,Yes,Not at all likely,Somewhat Likely,Yes,No,Better World
+Male,73,65+,DK/REF,,College degree,,Independent,DK/REF,DK/REF,Very Often,DK/REF,No,DK/REF,Yes,No,,No,,DK/REF,DK/REF,DK/REF,DK/REF,Worse World
+Female,85,65+,Black,,High school or less,,Independent,Moderate,DK/REF,Very Often,DK/REF,DK/REF,Yes,DK/REF,No,,No,,DK/REF,DK/REF,Yes,Yes,DK/REF
+Female,64,55-64,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Very Often,No,No,Yes,No,Yes,No,Yes,Yes,Not at all likely,Somewhat Likely,Yes,No,Worse World
+Male,72,65+,White,,College degree,,Republican,Conservative,DK/REF,DK/REF,"Yes, very confident",DK/REF,DK/REF,No,DK/REF,,DK/REF,,Somewhat Likely,Not at all likely,No,No,DK/REF
+Male,27,25-34,White,,College degree,,Independent,Moderate,Neither approve nor disapprove,Somewhat Often,"Yes, very confident",No,No,Yes,Yes,Yes,Yes,No,Somewhat Likely,Not at all likely,No,Yes,Better World
+Female,20,18-24,Asian,,Some college,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,No,Yes,Yes,Yes,Yes,No,Yes,No,Not at all likely,Somewhat Likely,No,No,Better World
+Female,57,55-64,White,,College degree,,Independent,Liberal,Strongly Disapprove,Somewhat Often,No,DK/REF,Yes,DK/REF,DK/REF,,DK/REF,,Somewhat Likely,Somewhat Likely,No,No,Worse World
+Male,73,65+,White,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",No,Yes,Yes,Yes,DK/REF,DK/REF,,Not at all likely,Not at all likely,No,No,Better World
+Male,65,65+,Other,"Native American, Hispanic",High school or less,,Independent,DK/REF,Strongly Approve,DK/REF,"Yes, somewhat confident",No,Yes,DK/REF,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Female,76,65+,White,,Graduate degree,,Republican,Conservative,Strongly Approve,Not Very Often,No,No,Yes,No,No,,No,,Very Likely,Not at all likely,No,Yes,Worse World
+Male,29,25-34,White,,College degree,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,63,55-64,White,,Some college,,Republican,Conservative,Somewhat Approve,Somewhat Often,"Yes, somewhat confident",No,Yes,Yes,Yes,Yes,No,,Somewhat Likely,Not at all likely,No,No,Better World
+Male,68,65+,White,,College degree,,Republican,Conservative,Neither approve nor disapprove,Not Very Often,"Yes, very confident",No,Yes,No,No,,No,,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,45,45-54,Latino,,High school or less,,Independent,Conservative,Neither approve nor disapprove,Not Very Often,No,Yes,No,Yes,No,,No,,Not at all likely,Not at all likely,Yes,DK/REF,Better World
+Male,50,45-54,White,,High school or less,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,No,,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,43,35-44,White,,Graduate degree,,Republican,Moderate,Strongly Approve,Not Very Often,"Yes, somewhat confident",No,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,50,45-54,Black,,High school or less,,Democrat,DK/REF,Somewhat Disapprove,Very Often,"Yes, very confident",Yes,Yes,Yes,DK/REF,,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Female,63,55-64,White,,Some college,,DK/REF,Moderate,Strongly Approve,Somewhat Often,No,Yes,No,Yes,No,,No,,Very Likely,Not at all likely,No,No,Better World
+Male,74,65+,White,,DK/REF,,DK/REF,Moderate,DK/REF,Not Very Often,DK/REF,DK/REF,DK/REF,DK/REF,Yes,Yes,No,,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF
+Female,64,55-64,White,,College degree,,Independent,Liberal,Strongly Disapprove,Somewhat Often,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,35,35-44,White,,College degree,,Independent,Moderate,Strongly Disapprove,Very Often,No,Yes,Yes,No,No,,No,,Somewhat Likely,Somewhat Likely,Yes,Yes,Worse World
+Female,30,25-34,Latino,,College degree,,Independent,Moderate,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,Yes,No,Yes,No,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,63,55-64,White,,Some college,,Republican,Conservative,Strongly Approve,Very Often,"Yes, very confident",No,Yes,No,Yes,No,No,,Very Likely,Not at all likely,No,No,Better World
+Male,45,45-54,White,,Some college,,Republican,Moderate,Strongly Approve,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,No,,No,,Very Likely,Not at all likely,No,No,Worse World
+Male,43,35-44,White,,College degree,,Independent,Moderate,Somewhat Approve,Not Very Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Female,69,65+,White,,Some college,,Republican,Conservative,Strongly Approve,Not Very Often,No,No,Yes,Yes,No,,Yes,Yes,Very Likely,Not at all likely,No,No,Worse World
+Female,76,65+,White,,College degree,,Republican,Liberal,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,No,Yes,No,Not at all likely,Not at all likely,No,Yes,DK/REF
+Female,56,55-64,Latino,,College degree,,Republican,Conservative,Somewhat Approve,Somewhat Often,"Yes, very confident",Yes,Yes,DK/REF,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Female,28,25-34,White,,College degree,,Independent,Moderate,Somewhat Approve,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,No,,No,,Somewhat Likely,Somewhat Likely,Yes,Yes,Worse World
+Female,48,45-54,White,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,No,Yes,Yes,Yes,Yes,No,Yes,No,Somewhat Likely,Very Likely,Yes,Yes,Worse World
+Male,54,45-54,Latino,,High school or less,,Democrat,Liberal,Strongly Disapprove,Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Somewhat Likely,Yes,Yes,Worse World
+Male,40,35-44,Black,,Some college,,Independent,Liberal,Somewhat Disapprove,Not Very Often,No,Yes,No,No,Yes,No,Yes,No,Somewhat Likely,Very Likely,Yes,Yes,Better World
+Female,50,45-54,White,,Graduate degree,,Independent,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",DK/REF,Yes,No,Yes,No,Yes,No,Somewhat Likely,Somewhat Likely,No,No,Worse World
+Male,24,18-24,Black,,College degree,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,Yes,Yes,Better World
+Female,70,65+,White,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,Yes,Yes,DK/REF,Very Likely,Not at all likely,No,DK/REF,Worse World
+Female,67,65+,White,,College degree,,Independent,Liberal,Strongly Approve,Not Very Often,"Yes, somewhat confident",No,Yes,Yes,Yes,No,Yes,No,Not at all likely,Somewhat Likely,No,No,Worse World
+Male,66,65+,White,,High school or less,,Independent,Conservative,Neither approve nor disapprove,Very Often,"Yes, very confident",Yes,Yes,No,No,,Yes,No,Not at all likely,Not at all likely,Yes,Yes,Worse World
+Male,38,35-44,White,,College degree,,Republican,Moderate,Neither approve nor disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Female,69,65+,Black,,High school or less,,Democrat,Moderate,Strongly Disapprove,Very Often,No,Yes,Yes,No,No,,No,,Not at all likely,Not at all likely,No,No,Worse World
+Male,42,35-44,White,,Graduate degree,,Republican,Moderate,Somewhat Approve,Somewhat Often,DK/REF,Yes,DK/REF,Yes,Yes,Yes,Yes,DK/REF,DK/REF,Somewhat Likely,No,DK/REF,Better World
+Male,68,65+,White,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Female,37,35-44,Asian,,College degree,,Republican,Conservative,Neither approve nor disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Somewhat Likely,Yes,No,Better World
+Female,78,65+,White,,High school or less,,Independent,Moderate,Strongly Disapprove,Somewhat Often,No,Yes,Yes,No,Yes,No,Yes,No,Somewhat Likely,Somewhat Likely,Yes,Yes,Worse World
+Male,85,65+,White,,Some college,,Republican,Conservative,Strongly Approve,Not Very Often,DK/REF,Yes,Yes,DK/REF,Yes,Yes,Yes,DK/REF,Very Likely,Not at all likely,No,No,Better World
+Female,47,45-54,White,,College degree,,Democrat,Moderate,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,Yes,No,Yes,No,Not at all likely,Somewhat Likely,No,No,Worse World
+Male,60,55-64,White,,College degree,,Republican,Conservative,Strongly Approve,Very Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,Yes,Better World
+Male,62,55-64,White,,High school or less,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",Yes,No,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Female,71,65+,Black,,Some college,,Democrat,Moderate,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,No,,No,,Somewhat Likely,Somewhat Likely,Yes,No,Better World
+Male,65,65+,White,,Graduate degree,,Independent,Conservative,Strongly Approve,Not Very Often,No,No,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,Yes,Better World
+Female,52,45-54,White,,High school or less,,Independent,Moderate,Somewhat Disapprove,Somewhat Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,No,No,Better World
+Male,34,25-34,DK/REF,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,No,Yes,No,Very Likely,Somewhat Likely,Yes,Yes,Worse World
+Male,66,65+,White,,Some college,,Independent,DK/REF,Strongly Disapprove,Somewhat Often,No,DK/REF,Yes,Yes,DK/REF,,No,,Not at all likely,Very Likely,DK/REF,DK/REF,Better World
+Other,82,65+,DK/REF,,High school or less,,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF,,DK/REF,,DK/REF,DK/REF,DK/REF,DK/REF,DK/REF
+DK/REF,23,18-24,Black,,High school or less,,Independent,DK/REF,Strongly Approve,Very Often,"Yes, somewhat confident",No,No,No,No,,No,,Very Likely,Very Likely,Yes,No,Worse World
+Male,77,65+,Other,American Indian,Some college,,Independent,Moderate,Neither approve nor disapprove,Very Often,"Yes, somewhat confident",Yes,Yes,No,No,,No,,Not at all likely,Somewhat Likely,No,No,Worse World
+Female,42,35-44,Black,,College degree,,Democrat,Liberal,Strongly Disapprove,Not Very Often,No,Yes,Yes,No,No,,No,,Not at all likely,Somewhat Likely,Yes,No,Worse World
+Male,31,25-34,Black,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",DK/REF,No,Yes,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,52,45-54,Latino,,High school or less,,Democrat,Conservative,Strongly Disapprove,Somewhat Often,No,Yes,Yes,No,Yes,No,Yes,No,Not at all likely,Somewhat Likely,Yes,Yes,Worse World
+Female,57,55-64,Black,,Graduate degree,,Independent,Moderate,Neither approve nor disapprove,Not Very Often,No,No,Yes,Yes,Yes,DK/REF,DK/REF,,Not at all likely,Not at all likely,No,No,Worse World
+Female,70,65+,White,,High school or less,,Independent,Liberal,Somewhat Disapprove,Not Very Often,"Yes, somewhat confident",No,Yes,No,Yes,No,Yes,No,Not at all likely,DK/REF,No,No,DK/REF
+Female,46,45-54,White,,College degree,,Independent,Liberal,Neither approve nor disapprove,Not Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,No,Yes,No,Somewhat Likely,Not at all likely,No,No,Worse World
+Male,65,65+,White,,College degree,,Independent,Moderate,DK/REF,Somewhat Often,"Yes, very confident",No,Yes,No,Yes,DK/REF,Yes,DK/REF,Very Likely,Not at all likely,No,No,Worse World
+Female,25,25-34,Asian,,College degree,,Democrat,Liberal,DK/REF,Somewhat Often,No,Yes,No,No,Yes,No,Yes,No,Not at all likely,Not at all likely,No,No,Better World
+Female,64,55-64,White,,Some college,,Independent,Moderate,Strongly Disapprove,Somewhat Often,No,DK/REF,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,No,No,Worse World
+Male,48,45-54,White,,Graduate degree,,Independent,Moderate,Strongly Disapprove,Somewhat Often,"Yes, very confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Female,73,65+,White,,High school or less,,Democrat,Liberal,Somewhat Disapprove,Very Often,No,No,No,No,No,,No,,Somewhat Likely,Very Likely,No,Yes,Better World
+Female,66,65+,Black,,Graduate degree,,Independent,Liberal,Strongly Disapprove,Not Very Often,"Yes, very confident",Yes,Yes,No,No,,No,,Somewhat Likely,Somewhat Likely,DK/REF,Yes,Worse World
+Male,34,25-34,White,,Graduate degree,,Republican,Moderate,Neither approve nor disapprove,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Worse World
+Female,73,65+,White,,College degree,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Very Likely,No,Yes,Better World
+Female,75,65+,White,,College degree,,Independent,Conservative,Strongly Approve,Somewhat Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,64,55-64,White,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,No,No,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Worse World
+Female,55,55-64,Black,,Some college,,Democrat,Conservative,Strongly Disapprove,Not Very Often,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Worse World
+Female,41,35-44,White,,College degree,,Independent,Liberal,Strongly Disapprove,Somewhat Often,No,Yes,Yes,Yes,Yes,No,Yes,No,Somewhat Likely,Somewhat Likely,Yes,Yes,Better World
+Female,67,65+,White,,College degree,,Republican,Moderate,Somewhat Approve,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,No,,No,,Not at all likely,Somewhat Likely,No,Yes,Worse World
+Male,64,55-64,White,,Other,Masters degree,Republican,Conservative,Somewhat Approve,Not Very Often,"Yes, very confident",Yes,Yes,No,No,,No,,Somewhat Likely,Not at all likely,No,No,Better World
+Female,72,65+,White,,Graduate degree,,Republican,Conservative,Strongly Approve,Very Often,"Yes, somewhat confident",No,No,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Female,19,18-24,Black,,High school or less,,DK/REF,Moderate,Strongly Disapprove,Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,No,No,,Not at all likely,Very Likely,No,No,Worse World
+Male,50,45-54,Black,,College degree,,DK/REF,Moderate,Strongly Disapprove,Not Very Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Male,64,55-64,White,,College degree,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,No,Not at all likely,Very Likely,No,Yes,Worse World
+Male,69,65+,Other,American Indian,Graduate degree,,Independent,Moderate,Somewhat Approve,Not Very Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,No,Very Likely,Not at all likely,No,No,DK/REF
+Female,55,55-64,White,,College degree,,Republican,Moderate,Somewhat Disapprove,Somewhat Often,"Yes, very confident",No,Yes,No,No,,Yes,No,Not at all likely,Not at all likely,Yes,Yes,Worse World
+Female,29,25-34,Black,,Some college,,Democrat,Conservative,Strongly Disapprove,Somewhat Often,No,Yes,Yes,No,No,,No,,Not at all likely,Somewhat Likely,Yes,Yes,Better World
+Male,49,45-54,Latino,,College degree,,DK/REF,Conservative,Strongly Disapprove,Not Very Often,No,Yes,Yes,DK/REF,Yes,Yes,Yes,Yes,DK/REF,Not at all likely,No,No,Worse World
+Female,72,65+,White,,Some college,,Republican,Conservative,Somewhat Approve,Not Very Often,"Yes, somewhat confident",No,Yes,Yes,Yes,Yes,Yes,No,Somewhat Likely,Somewhat Likely,No,No,Better World
+Female,23,18-24,White,,Some college,,Democrat,Moderate,Strongly Disapprove,Not Very Often,No,Yes,Yes,No,Yes,Yes,Yes,No,Not at all likely,Somewhat Likely,No,No,Worse World
+Female,61,55-64,White,,College degree,,Independent,Liberal,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",No,Yes,Yes,Yes,No,Yes,No,Not at all likely,Not at all likely,Yes,Yes,Worse World
+Male,51,45-54,White,,College degree,,Democrat,Moderate,Somewhat Disapprove,Somewhat Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Female,50,45-54,White,,Some college,,Republican,Conservative,DK/REF,Somewhat Often,"Yes, very confident",DK/REF,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,Yes,Yes,Worse World
+Male,58,55-64,White,,High school or less,,Democrat,Moderate,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,No,Very Likely,Not at all likely,No,Yes,Better World
+Male,70,65+,White,,High school or less,,Republican,Conservative,Strongly Approve,Not Very Often,No,No,Yes,No,Yes,Yes,Yes,No,Very Likely,Not at all likely,No,No,Worse World
+Female,38,35-44,White,,College degree,,Independent,Conservative,Somewhat Approve,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Very Likely,Yes,Yes,Worse World
+Female,48,45-54,White,,Graduate degree,,Independent,Moderate,Somewhat Disapprove,Very Often,No,Yes,Yes,No,Yes,Yes,No,,Not at all likely,Not at all likely,No,No,Worse World
+Female,72,65+,White,,High school or less,,Independent,Moderate,DK/REF,Somewhat Often,No,No,No,No,No,,Yes,No,Not at all likely,Somewhat Likely,Yes,No,Worse World
+Female,75,65+,White,,Some college,,Independent,Moderate,Somewhat Disapprove,Somewhat Often,"Yes, somewhat confident",No,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Somewhat Likely,Yes,Yes,Better World
+Female,70,65+,White,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Not Very Often,No,No,Yes,Yes,Yes,Yes,Yes,No,Not at all likely,Not at all likely,No,No,Better World
+Female,40,35-44,White,,Graduate degree,,Independent,Liberal,Strongly Disapprove,Not Very Often,No,Yes,Yes,Yes,Yes,No,Yes,No,DK/REF,Somewhat Likely,No,No,Worse World
+Female,85,65+,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",No,No,No,No,,No,,Not at all likely,Not at all likely,No,No,Worse World
+Female,65,65+,White,,Some college,,Independent,Moderate,Somewhat Disapprove,Not Very Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,DK/REF
+Female,22,18-24,White,,High school or less,,Republican,Conservative,Somewhat Approve,Somewhat Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Somewhat Likely,Yes,No,Better World
+Female,59,55-64,White,,College degree,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very Likely,Somewhat Likely,No,No,Better World
+Male,28,25-34,Other,Native American,Some college,,Independent,DK/REF,DK/REF,Very Often,DK/REF,DK/REF,Yes,Yes,Yes,Yes,Yes,Yes,DK/REF,Not at all likely,No,No,Worse World
+Female,65,65+,Other,American Indian,High school or less,,Democrat,Moderate,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,No,,No,,Not at all likely,Somewhat Likely,Yes,Yes,Worse World
+Male,94,65+,DK/REF,,College degree,,Independent,Moderate,Somewhat Disapprove,Not Very Often,No,Yes,Yes,Yes,No,,Yes,Yes,DK/REF,Somewhat Likely,Yes,Yes,Better World
+Female,77,65+,White,,High school or less,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",No,Yes,Yes,No,,DK/REF,,Not at all likely,Somewhat Likely,No,No,Worse World
+Female,68,65+,White,,High school or less,,Republican,Conservative,Somewhat Approve,DK/REF,"Yes, very confident",No,Yes,DK/REF,Yes,Yes,Yes,Yes,Somewhat Likely,DK/REF,No,No,Better World
+Female,75,65+,White,,High school or less,,Republican,Moderate,Strongly Approve,Very Often,No,Yes,Yes,Yes,DK/REF,,Yes,No,Somewhat Likely,Very Likely,Yes,Yes,Better World
+Male,91,65+,White,,Some college,,Democrat,Liberal,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,No,Yes,No,Not at all likely,Very Likely,No,Yes,Better World
+Male,82,65+,DK/REF,,Graduate degree,,Independent,Conservative,Somewhat Approve,Not Very Often,"Yes, somewhat confident",DK/REF,Yes,DK/REF,DK/REF,,No,,Somewhat Likely,Not at all likely,No,No,Better World
+Female,66,65+,White,,High school or less,,Independent,Moderate,Somewhat Approve,Somewhat Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Female,76,65+,Black,,College degree,,Democrat,Liberal,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Very Likely,Yes,Yes,Worse World
+Female,83,65+,Black,,Graduate degree,,Democrat,Moderate,DK/REF,Not Very Often,"Yes, somewhat confident",No,DK/REF,No,No,,No,,Not at all likely,Not at all likely,Yes,No,Worse World
+Female,89,65+,White,,College degree,,Independent,Moderate,Neither approve nor disapprove,Not Very Often,"Yes, very confident",DK/REF,Yes,Yes,Yes,DK/REF,Yes,DK/REF,Not at all likely,Not at all likely,DK/REF,Yes,DK/REF
+Female,70,65+,White,,Some college,,Republican,DK/REF,Strongly Approve,Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Female,53,45-54,Latino,,Some college,,Democrat,DK/REF,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Other,50,45-54,Asian,,College degree,,Independent,Moderate,Neither approve nor disapprove,Very Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,DK/REF,Very Likely,Not at all likely,No,No,Better World
+Female,58,55-64,Latino,,Other,vocational,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Somewhat Likely,No,No,Better World
+Male,51,45-54,White,,College degree,,Independent,Moderate,Strongly Disapprove,Very Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,DK/REF,Not at all likely,Not at all likely,No,No,Worse World
+Male,50,45-54,Black,,High school or less,,Democrat,Moderate,DK/REF,Very Often,No,Yes,Yes,Yes,No,,No,,Not at all likely,Somewhat Likely,Yes,Yes,Worse World
+Female,68,65+,Black,,High school or less,,Democrat,Moderate,Strongly Disapprove,Very Often,"Yes, somewhat confident",Yes,Yes,Yes,No,,Yes,Yes,Somewhat Likely,Somewhat Likely,Yes,Yes,Worse World
+Female,73,65+,White,,Graduate degree,,Independent,Liberal,Strongly Disapprove,Not Very Often,No,Yes,No,No,No,,No,,Not at all likely,Very Likely,No,Yes,Worse World
+Male,48,45-54,White,,High school or less,,Independent,Moderate,Somewhat Approve,Not Very Often,No,No,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Somewhat Likely,No,Yes,Worse World
+Male,65,65+,White,,Graduate degree,,Independent,Moderate,Strongly Disapprove,Somewhat Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Male,56,55-64,White,,College degree,,Independent,Moderate,Strongly Disapprove,Somewhat Often,"Yes, very confident",No,Yes,DK/REF,Yes,DK/REF,Yes,DK/REF,DK/REF,Not at all likely,No,No,DK/REF
+Male,50,45-54,White,,Graduate degree,,Independent,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Female,80,65+,White,,High school or less,,Republican,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",No,Yes,Yes,No,,Yes,No,Somewhat Likely,Somewhat Likely,No,Yes,Worse World
+Female,52,45-54,White,,Some college,,Independent,Moderate,Neither approve nor disapprove,Somewhat Often,No,Yes,Yes,No,Yes,No,DK/REF,,Somewhat Likely,Not at all likely,Yes,Yes,Worse World
+Female,62,55-64,White,,High school or less,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,No,,No,,Not at all likely,Somewhat Likely,Yes,Yes,Better World
+Female,68,65+,White,,Some college,,Independent,Moderate,Somewhat Approve,Somewhat Often,"Yes, somewhat confident",No,Yes,Yes,Yes,No,Yes,No,Somewhat Likely,Not at all likely,No,No,Better World
+Female,60,55-64,White,,Some college,,Democrat,Moderate,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,DK/REF,,Somewhat Likely,Somewhat Likely,DK/REF,DK/REF,Worse World
+Female,60,55-64,White,,Some college,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Not at all likely,Not at all likely,No,No,Better World
+Female,88,65+,White,,Some college,,Democrat,Conservative,Somewhat Disapprove,Not Very Often,No,No,Yes,Yes,No,,Yes,DK/REF,Not at all likely,Somewhat Likely,No,No,Better World
+Male,50,45-54,White,,Some college,,Democrat,Moderate,Strongly Disapprove,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Female,80,65+,White,,High school or less,,Democrat,Liberal,Strongly Disapprove,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,DK/REF,Yes,Yes,Not at all likely,DK/REF,Yes,Yes,Better World
+Male,70,65+,White,,Graduate degree,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,65,65+,White,,Some college,,Democrat,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,No,No,No,,No,,Very Likely,Not at all likely,No,No,Better World
+Male,78,65+,White,,Some college,,Republican,Conservative,DK/REF,Not Very Often,"Yes, very confident",No,Yes,No,No,,Yes,No,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,87,65+,White,,High school or less,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Female,61,55-64,White,,Some college,,Independent,Moderate,Somewhat Disapprove,Somewhat Often,"Yes, somewhat confident",No,Yes,No,Yes,DK/REF,Yes,DK/REF,Not at all likely,Not at all likely,No,No,Better World
+Female,65,65+,White,,Some college,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,DK/REF,DK/REF,No,,Yes,No,Not at all likely,Not at all likely,No,No,Better World
+Female,66,65+,White,,College degree,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,No,Yes,Yes,Not at all likely,Not at all likely,Yes,No,Worse World
+Male,70,65+,White,,College degree,,Republican,Conservative,Somewhat Approve,Somewhat Often,"Yes, somewhat confident",No,Yes,Yes,No,,No,,Somewhat Likely,Not at all likely,Yes,No,Better World
+Female,81,65+,White,,High school or less,,Independent,Moderate,Neither approve nor disapprove,Not Very Often,No,Yes,Yes,Yes,Yes,No,No,,Not at all likely,Somewhat Likely,Yes,Yes,Worse World
+Male,58,55-64,Asian,,College degree,,Independent,Moderate,Neither approve nor disapprove,Very Often,"Yes, very confident",Yes,Yes,No,DK/REF,,DK/REF,,Not at all likely,Very Likely,Yes,Yes,Better World
+Female,75,65+,White,,High school or less,,Republican,DK/REF,Strongly Approve,Not Very Often,"Yes, somewhat confident",No,No,No,Yes,DK/REF,DK/REF,,Very Likely,Not at all likely,No,No,Better World
+Female,73,65+,White,,Some college,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,No,No,Worse World
+Male,59,55-64,White,,College degree,,Republican,Moderate,Strongly Disapprove,DK/REF,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Female,86,65+,White,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Female,50,45-54,DK/REF,,Some college,,Independent,DK/REF,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,DK/REF,,DK/REF,,Not at all likely,Very Likely,Yes,No,Worse World
+Male,70,65+,White,,High school or less,,Democrat,Conservative,Strongly Approve,Very Often,"Yes, very confident",DK/REF,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Worse World
+Female,70,65+,White,,High school or less,,Democrat,Liberal,Strongly Disapprove,Very Often,"Yes, somewhat confident",Yes,No,No,Yes,No,No,,Somewhat Likely,Not at all likely,DK/REF,DK/REF,Worse World
+Female,85,65+,White,,High school or less,,Independent,Moderate,Somewhat Disapprove,Very Often,"Yes, very confident",DK/REF,No,DK/REF,No,,DK/REF,,Not at all likely,Very Likely,Yes,No,DK/REF
+Female,71,65+,White,,High school or less,,Democrat,Liberal,Strongly Disapprove,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,No,Yes,No,Not at all likely,Not at all likely,No,No,Better World
+Male,84,65+,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,No,Yes,No,Not at all likely,Somewhat Likely,No,No,Worse World
+Male,65,65+,White,,High school or less,,Independent,Moderate,Strongly Disapprove,Not Very Often,"Yes, very confident",No,Yes,No,DK/REF,,No,,Somewhat Likely,Somewhat Likely,DK/REF,No,Worse World
+Male,24,18-24,White,,College degree,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,"Yes, very confident",DK/REF,Yes,Yes,Yes,Yes,Yes,No,Somewhat Likely,Somewhat Likely,No,No,Better World
+Male,19,18-24,White,,High school or less,,Republican,Liberal,Somewhat Approve,Somewhat Often,"Yes, somewhat confident",No,No,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,Yes,Yes,Better World
+Male,40,35-44,White,,Graduate degree,,Independent,Moderate,Strongly Approve,Not Very Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,Yes,Better World
+Male,60,55-64,White,,High school or less,,Republican,Conservative,Strongly Approve,Somewhat Often,"Yes, very confident",Yes,Yes,DK/REF,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,Yes,Better World
+Other,29,25-34,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,Yes,Yes,No,Somewhat Likely,Not at all likely,No,No,Better World
+Female,64,55-64,White,,College degree,,Independent,Liberal,Strongly Disapprove,Not Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Female,83,65+,White,,College degree,,Republican,Moderate,Strongly Approve,Not Very Often,"Yes, somewhat confident",No,Yes,No,Yes,DK/REF,Yes,DK/REF,Very Likely,Not at all likely,No,No,Better World
+Male,26,25-34,DK/REF,,DK/REF,,DK/REF,DK/REF,Strongly Disapprove,DK/REF,No,Yes,Yes,No,No,,No,,Somewhat Likely,Not at all likely,Yes,Yes,Worse World
+Male,59,55-64,White,,Graduate degree,,Democrat,Moderate,DK/REF,Somewhat Often,"Yes, very confident",DK/REF,Yes,Yes,Yes,No,Yes,No,Somewhat Likely,Somewhat Likely,Yes,No,Worse World
+Male,23,18-24,White,,College degree,,Republican,Conservative,Somewhat Approve,Somewhat Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,Yes,DK/REF
+Female,39,35-44,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,"Yes, very confident",Yes,Yes,No,Yes,DK/REF,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Worse World
+Male,36,35-44,Other,Native American,Graduate degree,,Independent,Moderate,Strongly Approve,Not Very Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,No,,Very Likely,Somewhat Likely,No,Yes,Better World
+Male,50,45-54,Black,,High school or less,,Democrat,Liberal,Somewhat Disapprove,Somewhat Often,No,Yes,No,No,No,,No,,Not at all likely,Somewhat Likely,No,No,Worse World
+Male,46,45-54,Black,,College degree,,Independent,Conservative,Strongly Disapprove,Not Very Often,No,No,Yes,Yes,Yes,Yes,Yes,No,Not at all likely,Not at all likely,No,No,Worse World
+Male,20,18-24,Latino,,High school or less,,Independent,Moderate,Somewhat Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Very Likely,Yes,No,Better World
+Female,71,65+,White,,Graduate degree,,Republican,Conservative,Somewhat Approve,Not Very Often,DK/REF,DK/REF,Yes,No,Yes,Yes,Yes,No,DK/REF,Not at all likely,No,No,Worse World
+Female,46,45-54,White,,College degree,,Republican,Moderate,Somewhat Approve,Somewhat Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,66,65+,White,,High school or less,,Democrat,Conservative,Strongly Disapprove,Not Very Often,No,No,Yes,No,No,,Yes,Yes,Not at all likely,Not at all likely,No,No,Worse World
+Female,76,65+,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Very Often,No,DK/REF,Yes,Yes,DK/REF,,DK/REF,,Not at all likely,Somewhat Likely,No,DK/REF,Worse World
+Female,52,45-54,White,,Some college,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,No,DK/REF,Yes,Yes,Yes,No,No,,Somewhat Likely,Somewhat Likely,No,No,Better World
+Male,33,25-34,White,,Graduate degree,,Democrat,Moderate,Neither approve nor disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,55,55-64,White,,Graduate degree,,Republican,Moderate,Neither approve nor disapprove,Somewhat Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,No,No,Better World
+Male,58,55-64,White,,Some college,,Republican,Conservative,Strongly Approve,Not Very Often,DK/REF,No,No,No,No,,Yes,DK/REF,Very Likely,Not at all likely,No,No,Better World
+Male,45,45-54,DK/REF,,College degree,,Independent,Moderate,DK/REF,Somewhat Often,"Yes, very confident",Yes,Yes,No,No,,Yes,DK/REF,Somewhat Likely,Not at all likely,No,No,Better World
+Male,19,18-24,White,,Some college,,Independent,Liberal,Strongly Disapprove,Somewhat Often,No,Yes,Yes,No,Yes,Yes,Yes,DK/REF,Not at all likely,Somewhat Likely,No,No,Better World
+Female,24,18-24,White,,College degree,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",No,Yes,No,Yes,No,Yes,No,Somewhat Likely,Somewhat Likely,Yes,Yes,Better World
+Female,76,65+,White,,College degree,,Democrat,Liberal,Strongly Disapprove,Not Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,DK/REF,Yes,DK/REF,Somewhat Likely,DK/REF,No,No,DK/REF
+Female,56,55-64,Black,,Other,associate degree,Democrat,Liberal,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",No,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,DK/REF,No,Better World
+Male,75,65+,White,,Some college,,Independent,Moderate,Somewhat Disapprove,Not Very Often,DK/REF,No,Yes,DK/REF,DK/REF,,DK/REF,,Somewhat Likely,Not at all likely,DK/REF,DK/REF,DK/REF
+Male,36,35-44,White,,Some college,,Democrat,Moderate,Neither approve nor disapprove,Somewhat Often,"Yes, somewhat confident",No,Yes,No,No,,Yes,No,Somewhat Likely,Not at all likely,DK/REF,No,Worse World
+Male,45,45-54,White,,College degree,,Independent,Moderate,Strongly Approve,Not Very Often,"Yes, somewhat confident",No,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,Yes,Better World
+Female,59,55-64,White,,College degree,,Independent,Moderate,Strongly Disapprove,Somewhat Often,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Not at all likely,Not at all likely,No,No,Worse World
+Female,63,55-64,White,,High school or less,,Independent,DK/REF,DK/REF,Somewhat Often,DK/REF,Yes,Yes,Yes,No,,No,,DK/REF,DK/REF,DK/REF,No,Better World
+Female,71,65+,White,,Graduate degree,,Independent,Moderate,Strongly Disapprove,Somewhat Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Somewhat Likely,No,No,Better World
+Male,72,65+,White,,Some college,,Independent,DK/REF,DK/REF,Not Very Often,DK/REF,DK/REF,DK/REF,DK/REF,No,,Yes,No,DK/REF,DK/REF,No,DK/REF,DK/REF
+Female,69,65+,White,,Graduate degree,,Independent,Moderate,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Male,60,55-64,White,,College degree,,Democrat,Moderate,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,81,65+,White,,High school or less,,Republican,Conservative,DK/REF,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,No,Yes,Yes,Somewhat Likely,Not at all likely,DK/REF,No,Better World
+Female,32,25-34,White,,College degree,,Republican,Moderate,Somewhat Disapprove,Somewhat Often,"Yes, somewhat confident",DK/REF,Yes,No,Yes,Yes,Yes,No,Not at all likely,Not at all likely,No,No,Better World
+Male,79,65+,White,,Graduate degree,,Republican,Conservative,Strongly Approve,Not Very Often,No,No,Yes,No,Yes,No,No,,Very Likely,Not at all likely,No,No,Worse World
+Female,40,35-44,White,,College degree,,Democrat,Conservative,DK/REF,Somewhat Often,"Yes, somewhat confident",No,Yes,DK/REF,Yes,DK/REF,DK/REF,,DK/REF,DK/REF,No,No,Better World
+Female,88,65+,Black,,College degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,No,No,Yes,No,No,,No,,Very Likely,Very Likely,Yes,Yes,Worse World
+Female,77,65+,White,,High school or less,,DK/REF,DK/REF,Strongly Approve,Very Often,"Yes, very confident",Yes,No,Yes,Yes,DK/REF,DK/REF,,Very Likely,Very Likely,No,No,Worse World
+Female,79,65+,Black,,High school or less,,Democrat,Moderate,Somewhat Disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,No,,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Female,73,65+,White,,High school or less,,Independent,Moderate,DK/REF,Not Very Often,No,No,No,No,No,,No,,Very Likely,Not at all likely,No,No,Worse World
+Male,99,65+,White,,College degree,,Republican,Moderate,Strongly Approve,Not Very Often,"Yes, very confident",Yes,DK/REF,DK/REF,Yes,No,Yes,No,Very Likely,Very Likely,DK/REF,Yes,Better World
+Male,68,65+,White,,Graduate degree,,Republican,Liberal,Strongly Disapprove,Very Often,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Female,77,65+,White,,Graduate degree,,Independent,Liberal,Strongly Disapprove,Not Very Often,No,No,Yes,Yes,Yes,DK/REF,Yes,DK/REF,Not at all likely,Somewhat Likely,DK/REF,No,Worse World
+Female,72,65+,DK/REF,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,No,Yes,No,Not at all likely,Somewhat Likely,Yes,Yes,Better World
+Male,64,55-64,White,,Graduate degree,,Republican,Moderate,Somewhat Approve,Very Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,Yes,Better World
+Female,50,45-54,DK/REF,,DK/REF,,Republican,Conservative,Somewhat Approve,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,No,Yes,No,Somewhat Likely,Not at all likely,No,No,Worse World
+Male,35,35-44,White,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,Yes,No,Better World
+Male,75,65+,White,,High school or less,,Democrat,Moderate,Somewhat Approve,Not Very Often,"Yes, very confident",Yes,Yes,Yes,No,,No,,Not at all likely,Very Likely,No,No,Better World
+Female,69,65+,White,,College degree,,Democrat,Liberal,Strongly Disapprove,Not Very Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Worse World
+Male,70,65+,DK/REF,,High school or less,,Independent,Moderate,Strongly Approve,DK/REF,"Yes, very confident",Yes,No,Yes,Yes,No,Yes,DK/REF,Very Likely,Not at all likely,No,No,Better World
+Male,53,45-54,White,,High school or less,,Republican,Moderate,Strongly Approve,Somewhat Often,No,No,Yes,Yes,Yes,No,Yes,No,Very Likely,Not at all likely,No,Yes,Better World
+Female,51,45-54,White,,College degree,,Independent,Conservative,Neither approve nor disapprove,Very Often,"Yes, very confident",Yes,Yes,DK/REF,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Female,70,65+,White,,College degree,,Republican,Moderate,Strongly Approve,Somewhat Often,DK/REF,DK/REF,Yes,DK/REF,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,DK/REF,Better World
+Female,88,65+,White,,High school or less,,DK/REF,Moderate,Somewhat Approve,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,Yes,Yes,Better World
+Female,76,65+,White,,High school or less,,Independent,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",DK/REF,DK/REF,DK/REF,Yes,DK/REF,DK/REF,,DK/REF,DK/REF,No,DK/REF,Worse World
+Female,62,55-64,White,,DK/REF,,Republican,Conservative,Strongly Approve,Very Often,"Yes, very confident",No,Yes,Yes,No,,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,69,65+,White,,Graduate degree,,Independent,Moderate,DK/REF,Not Very Often,No,No,Yes,No,Yes,No,Yes,No,Not at all likely,Not at all likely,Yes,Yes,Worse World
+Female,73,65+,White,,High school or less,,Democrat,Moderate,Somewhat Disapprove,Somewhat Often,"Yes, somewhat confident",No,Yes,Yes,Yes,Yes,Yes,No,Not at all likely,Not at all likely,No,No,Worse World
+Male,66,65+,White,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,DK/REF,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,62,55-64,Black,,Graduate degree,,Republican,Moderate,DK/REF,Very Often,"Yes, somewhat confident",No,Yes,Yes,Yes,No,Yes,No,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,55,55-64,White,,High school or less,,Independent,Moderate,Strongly Approve,Very Often,"Yes, very confident",No,Yes,Yes,Yes,No,Yes,No,Very Likely,Not at all likely,No,Yes,Worse World
+Female,77,65+,Asian,,Graduate degree,,Democrat,DK/REF,Strongly Disapprove,Not Very Often,No,No,Yes,DK/REF,Yes,DK/REF,DK/REF,,Not at all likely,DK/REF,DK/REF,DK/REF,Better World
+Female,75,65+,White,,Some college,,Democrat,Moderate,Strongly Disapprove,Very Often,"Yes, very confident",No,Yes,Yes,DK/REF,,Yes,No,Somewhat Likely,Not at all likely,No,No,Better World
+Male,81,65+,White,,Some college,,Democrat,Conservative,DK/REF,Not Very Often,No,Yes,No,No,Yes,Yes,Yes,Yes,Somewhat Likely,DK/REF,DK/REF,DK/REF,Better World
+Female,64,55-64,White,,High school or less,,Republican,Conservative,Strongly Approve,Somewhat Often,"Yes, somewhat confident",No,DK/REF,Yes,Yes,DK/REF,Yes,DK/REF,Very Likely,DK/REF,No,DK/REF,Better World
+Male,79,65+,White,,High school or less,,DK/REF,DK/REF,Somewhat Disapprove,Not Very Often,"Yes, very confident",No,Yes,DK/REF,Yes,Yes,Yes,Yes,Somewhat Likely,Somewhat Likely,No,No,Better World
+Female,70,65+,Black,,High school or less,,Republican,Moderate,Somewhat Disapprove,Not Very Often,"Yes, somewhat confident",No,Yes,Yes,DK/REF,,No,,Not at all likely,Not at all likely,No,Yes,Better World
+Male,62,55-64,White,,Some college,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,DK/REF,Yes,Yes,Yes,Yes,Yes,DK/REF,,Not at all likely,Somewhat Likely,No,No,Better World
+Female,97,65+,White,,Graduate degree,,Democrat,Liberal,DK/REF,Not Very Often,No,Yes,Yes,Yes,DK/REF,,Yes,Yes,Not at all likely,DK/REF,No,DK/REF,DK/REF
+Male,29,25-34,White,,Some college,,Independent,Moderate,Neither approve nor disapprove,Somewhat Often,No,No,Yes,Yes,Yes,No,Yes,No,Not at all likely,Not at all likely,No,Yes,Better World
+Female,64,55-64,White,,Graduate degree,,Independent,Moderate,Strongly Disapprove,Not Very Often,"Yes, very confident",Yes,Yes,DK/REF,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,Yes,No,Better World
+Male,43,35-44,White,,Graduate degree,,Republican,Moderate,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Female,67,65+,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,Yes,No,Better World
+Female,69,65+,DK/REF,,High school or less,,Independent,Moderate,Strongly Approve,Not Very Often,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Male,40,35-44,White,,High school or less,,Republican,Conservative,Strongly Approve,Not Very Often,No,No,Yes,No,No,,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,60,55-64,White,,Graduate degree,,Independent,Liberal,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,No,Yes,Yes,Yes,Yes,No,Not at all likely,Not at all likely,No,No,Better World
+Female,71,65+,White,,College degree,,Republican,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,DK/REF,Yes,Yes,Somewhat Likely,Somewhat Likely,No,Yes,Better World
+Male,73,65+,White,,College degree,,Independent,Conservative,Somewhat Approve,Not Very Often,"Yes, very confident",No,Yes,No,Yes,No,Yes,No,Somewhat Likely,Not at all likely,No,No,Better World
+Female,70,65+,White,,College degree,,Independent,Liberal,Strongly Disapprove,Not Very Often,No,No,Yes,No,Yes,No,No,,Somewhat Likely,Somewhat Likely,No,No,Worse World
+Male,50,45-54,White,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Not Very Often,No,DK/REF,Yes,Yes,Yes,No,Yes,No,Not at all likely,Not at all likely,No,No,Worse World
+Female,55,55-64,Black,,College degree,,Democrat,Conservative,Strongly Disapprove,Somewhat Often,No,Yes,Yes,Yes,Yes,DK/REF,Yes,DK/REF,Not at all likely,DK/REF,DK/REF,DK/REF,Better World
+Male,72,65+,White,,High school or less,,Independent,Moderate,DK/REF,Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,No,Yes,No,Somewhat Likely,Not at all likely,No,No,Better World
+Other,50,45-54,White,,Some college,,Independent,DK/REF,DK/REF,Very Often,No,DK/REF,Yes,No,No,,No,,Not at all likely,Somewhat Likely,Yes,Yes,Worse World
+Female,21,18-24,White,,Some college,,Independent,Moderate,Strongly Approve,Somewhat Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Female,60,55-64,White,,Some college,,Independent,Conservative,Strongly Approve,Somewhat Often,No,Yes,Yes,No,No,,No,,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,74,65+,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Somewhat Likely,No,No,Better World
+Male,52,45-54,Black,,High school or less,,Democrat,Moderate,Neither approve nor disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Female,18,18-24,White,,Some college,,Democrat,Moderate,Strongly Disapprove,Not Very Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,No,,Somewhat Likely,Somewhat Likely,No,No,Better World
+Male,48,45-54,Latino,,Graduate degree,,Republican,Moderate,Somewhat Approve,Somewhat Often,No,No,Yes,No,Yes,No,Yes,No,Very Likely,Not at all likely,No,No,Worse World
+Male,31,25-34,White,,College degree,,Independent,Conservative,Somewhat Approve,Not Very Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,No,Very Likely,Somewhat Likely,No,No,Better World
+Female,24,18-24,White,,Graduate degree,,Independent,Moderate,Neither approve nor disapprove,Not Very Often,"Yes, very confident",No,Yes,No,Yes,No,Yes,No,Not at all likely,Not at all likely,No,No,Worse World
+Male,49,45-54,Latino,,College degree,,Democrat,Moderate,Somewhat Disapprove,Not Very Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,No,Somewhat Likely,Not at all likely,Yes,Yes,Better World
+Female,66,65+,White,,Some college,,Republican,Conservative,Strongly Approve,Not Very Often,No,DK/REF,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,48,45-54,Black,,College degree,,Democrat,Liberal,Neither approve nor disapprove,Very Often,No,Yes,Yes,Yes,Yes,Yes,No,,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,55,55-64,White,,Graduate degree,,DK/REF,Moderate,Neither approve nor disapprove,Very Often,"Yes, very confident",No,Yes,No,Yes,No,DK/REF,,Not at all likely,Somewhat Likely,Yes,No,Worse World
+Male,57,55-64,White,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,No,Yes,No,Yes,DK/REF,Very Likely,Not at all likely,No,No,Better World
+Female,35,35-44,Black,,Some college,,Independent,Liberal,DK/REF,Not Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,DK/REF,Not at all likely,No,No,Better World
+Male,25,25-34,Latino,,Some college,,Republican,Conservative,Strongly Approve,Not Very Often,DK/REF,Yes,No,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Female,68,65+,White,,Graduate degree,,Democrat,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",DK/REF,Yes,DK/REF,Yes,DK/REF,Yes,DK/REF,Very Likely,DK/REF,No,No,Better World
+Male,34,25-34,Black,,High school or less,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,No,Yes,Yes,No,No,,No,,Not at all likely,Very Likely,Yes,Yes,Worse World
+Male,29,25-34,DK/REF,,Some college,,Independent,Moderate,Strongly Approve,Somewhat Often,"Yes, very confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Worse World
+Female,33,25-34,White,,Some college,,Democrat,Moderate,Strongly Approve,Not Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Worse World
+Female,29,25-34,White,,Some college,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",DK/REF,Yes,No,Yes,No,Yes,No,Very Likely,Somewhat Likely,Yes,No,Better World
+Female,27,25-34,White,,College degree,,Independent,Liberal,Strongly Disapprove,Somewhat Often,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Somewhat Likely,Somewhat Likely,Yes,No,Better World
+Other,99,65+,Black,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Very Often,No,Yes,Yes,No,DK/REF,,Yes,No,Not at all likely,Not at all likely,Yes,No,Worse World
+Female,67,65+,Black,,Some college,,DK/REF,Conservative,DK/REF,Somewhat Often,No,Yes,Yes,No,No,,No,,Very Likely,DK/REF,No,No,Worse World
+Female,74,65+,White,,High school or less,,Democrat,Moderate,Somewhat Disapprove,Somewhat Often,No,No,Yes,Yes,No,,No,,Not at all likely,Not at all likely,Yes,Yes,DK/REF
+Male,71,65+,Black,,Some college,,Democrat,Moderate,Strongly Disapprove,Very Often,"Yes, very confident",No,Yes,Yes,DK/REF,,No,,Not at all likely,Very Likely,No,No,Worse World
+Male,75,65+,White,,High school or less,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",No,No,Yes,Yes,No,Yes,No,Not at all likely,Not at all likely,No,Yes,Worse World
+Female,76,65+,White,,High school or less,,Independent,Moderate,Strongly Approve,Not Very Often,DK/REF,No,No,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Female,52,45-54,Black,,Some college,,Democrat,Moderate,Strongly Disapprove,Very Often,No,Yes,Yes,DK/REF,Yes,No,Yes,No,Not at all likely,Very Likely,Yes,No,DK/REF
+Male,70,65+,Black,,High school or less,,DK/REF,DK/REF,Neither approve nor disapprove,Not Very Often,No,No,Yes,No,No,,No,,Not at all likely,Not at all likely,Yes,Yes,Worse World
+Male,57,55-64,White,,High school or less,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,36,35-44,White,,High school or less,,Independent,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Worse World
+Male,39,35-44,Black,,College degree,,Republican,Conservative,Strongly Approve,Very Often,"Yes, very confident",Yes,DK/REF,DK/REF,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,DK/REF,No,Better World
+Female,48,45-54,Black,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Very Often,No,Yes,Yes,Yes,No,,No,,Not at all likely,Very Likely,Yes,Yes,Worse World
+Male,64,55-64,White,,High school or less,,Independent,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",No,Yes,No,No,,No,,Very Likely,Not at all likely,No,No,Worse World
+Female,69,65+,Black,,High school or less,,Democrat,Conservative,DK/REF,Very Often,DK/REF,Yes,Yes,Yes,No,,Yes,DK/REF,Somewhat Likely,DK/REF,No,No,DK/REF
+Female,36,35-44,Other,Native American,College degree,,Independent,Moderate,Strongly Approve,Not Very Often,"Yes, very confident",No,No,Yes,Yes,No,DK/REF,,Very Likely,Not at all likely,No,No,Better World
+Female,71,65+,White,,High school or less,,Republican,DK/REF,Strongly Approve,Very Often,"Yes, somewhat confident",Yes,Yes,No,No,,Yes,No,Very Likely,Somewhat Likely,Yes,No,Worse World
+Male,59,55-64,White,,High school or less,,DK/REF,Moderate,DK/REF,Not Very Often,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Somewhat Likely,Not at all likely,Yes,Yes,Worse World
+Male,50,45-54,White,,High school or less,,Democrat,Moderate,Somewhat Disapprove,Very Often,No,Yes,Yes,Yes,No,,Yes,No,Somewhat Likely,Very Likely,Yes,No,Worse World
+Female,25,25-34,Black,,College degree,,Democrat,Liberal,Strongly Disapprove,Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Very Likely,No,No,Worse World
+Female,88,65+,Black,,Some college,,DK/REF,DK/REF,DK/REF,Not Very Often,"Yes, somewhat confident",Yes,Yes,Yes,DK/REF,,Yes,DK/REF,Not at all likely,Not at all likely,No,No,Better World
+Male,67,65+,White,,College degree,,Republican,Conservative,Somewhat Approve,Not Very Often,"Yes, very confident",No,Yes,No,Yes,No,Yes,No,Somewhat Likely,Not at all likely,No,No,Better World
+Female,90,65+,White,,DK/REF,,Republican,Moderate,Somewhat Approve,Very Often,No,Yes,No,No,No,,No,,Somewhat Likely,Not at all likely,No,No,Worse World
+Male,47,45-54,White,,College degree,,Independent,Conservative,Somewhat Approve,Not Very Often,"Yes, somewhat confident",No,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,No,Better World
+Male,80,65+,White,,Graduate degree,,Independent,Liberal,Strongly Disapprove,Somewhat Often,No,DK/REF,Yes,No,Yes,No,Yes,No,Somewhat Likely,Somewhat Likely,No,Yes,Worse World
+Female,50,45-54,White,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,DK/REF,No,Yes,No,Yes,No,Yes,No,Very Likely,Not at all likely,No,No,DK/REF
+Female,36,35-44,White,,High school or less,,Independent,Moderate,Strongly Approve,Very Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Very Likely,Somewhat Likely,Yes,No,Better World
+Female,83,65+,White,,Some college,,Republican,Conservative,Somewhat Approve,Not Very Often,No,No,Yes,No,Yes,No,Yes,No,Somewhat Likely,Somewhat Likely,No,No,Better World
+Female,60,55-64,DK/REF,,Some college,,Independent,Conservative,Strongly Approve,Very Often,"Yes, somewhat confident",Yes,Yes,Yes,No,,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Female,25,25-34,White,,College degree,,Democrat,Moderate,Strongly Disapprove,Very Often,"Yes, somewhat confident",Yes,No,No,Yes,Yes,Yes,No,Somewhat Likely,Somewhat Likely,Yes,No,Better World
+Male,50,45-54,White,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",No,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Worse World
+Male,57,55-64,White,,High school or less,,Independent,Liberal,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",No,DK/REF,No,No,,No,,Not at all likely,Very Likely,Yes,Yes,Worse World
+Male,70,65+,White,,High school or less,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,No,No,No,,Yes,Yes,Very Likely,Very Likely,No,No,Better World
+Male,61,55-64,White,,Graduate degree,,Independent,Liberal,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",No,Yes,Yes,Yes,Yes,Yes,No,Not at all likely,Not at all likely,Yes,No,Worse World
+Male,64,55-64,White,,Graduate degree,,Independent,Moderate,Somewhat Disapprove,Somewhat Often,No,No,Yes,No,Yes,No,Yes,No,Not at all likely,Not at all likely,No,No,Better World
+Other,56,55-64,White,,Graduate degree,,Independent,DK/REF,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",No,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Male,29,25-34,White,,College degree,,Independent,Moderate,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,No,Yes,Better World
+Other,51,45-54,DK/REF,,Graduate degree,,Independent,DK/REF,Strongly Disapprove,Not Very Often,No,Yes,No,No,No,,No,,Not at all likely,Somewhat Likely,Yes,Yes,Worse World
+Male,48,45-54,White,,Some college,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,43,35-44,White,,Some college,,Republican,Moderate,Somewhat Approve,Somewhat Often,No,Yes,Yes,Yes,Yes,No,Yes,No,Somewhat Likely,Not at all likely,Yes,Yes,Better World
+Male,99,65+,White,,High school or less,,DK/REF,DK/REF,DK/REF,Somewhat Often,DK/REF,DK/REF,DK/REF,No,No,,Yes,No,DK/REF,Not at all likely,DK/REF,No,DK/REF
+Male,65,65+,White,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",DK/REF,Yes,Yes,Yes,Yes,Yes,No,Very Likely,Somewhat Likely,No,No,Better World
+Male,69,65+,White,,Graduate degree,,Independent,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",Yes,No,DK/REF,Yes,Yes,Yes,Yes,Very Likely,Very Likely,No,No,Better World
+Male,67,65+,White,,College degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,"Yes, somewhat confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Worse World
+Male,20,18-24,Asian,,High school or less,,Independent,DK/REF,Strongly Disapprove,Not Very Often,No,No,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,Yes,Yes,Worse World
+Female,81,65+,White,,High school or less,,Republican,Conservative,Neither approve nor disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,Yes,No,,No,,Somewhat Likely,Somewhat Likely,Yes,No,Worse World
+Female,45,45-54,White,,College degree,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,No,Yes,No,Yes,Yes,Yes,Yes,No,Somewhat Likely,Somewhat Likely,No,No,Worse World
+Female,44,35-44,White,,College degree,,Independent,DK/REF,Somewhat Disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,No,,No,,Not at all likely,Somewhat Likely,No,Yes,Worse World
+Male,20,18-24,White,,High school or less,,Independent,Moderate,Strongly Disapprove,Not Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,Yes,Yes,No,Somewhat Likely,Somewhat Likely,No,No,Better World
+Male,71,65+,White,,Graduate degree,,Independent,Conservative,Strongly Approve,Somewhat Often,"Yes, very confident",No,Yes,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Female,72,65+,Black,,Graduate degree,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,No,Yes,Yes,No,No,,No,,Not at all likely,Somewhat Likely,Yes,Yes,Worse World
+Male,59,55-64,Latino,,High school or less,,Democrat,Conservative,Strongly Disapprove,Very Often,"Yes, somewhat confident",Yes,No,Yes,Yes,Yes,Yes,Yes,Not at all likely,DK/REF,No,No,Better World
+Female,60,55-64,White,,College degree,,Independent,Moderate,Strongly Disapprove,Very Often,No,Yes,Yes,No,No,,No,,Somewhat Likely,Somewhat Likely,No,No,Worse World
+Male,25,25-34,Asian,,High school or less,,Democrat,Moderate,Strongly Disapprove,Very Often,No,No,No,Yes,Yes,Yes,No,,Not at all likely,Not at all likely,No,No,Better World
+Female,26,25-34,Black,,High school or less,,Independent,Liberal,Strongly Approve,Very Often,"Yes, very confident",Yes,No,Yes,Yes,Yes,Yes,Yes,Very Likely,Very Likely,Yes,No,Better World
+Male,60,55-64,White,,College degree,,Republican,Moderate,Somewhat Disapprove,Somewhat Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,No,Somewhat Likely,Not at all likely,No,Yes,Worse World
+Male,72,65+,White,,High school or less,,Republican,Conservative,Strongly Approve,Somewhat Often,"Yes, somewhat confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Female,73,65+,White,,High school or less,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",No,Yes,No,No,,No,,Very Likely,Somewhat Likely,Yes,No,Worse World
+Female,83,65+,White,,High school or less,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",Yes,Yes,No,Yes,DK/REF,Yes,No,Very Likely,Not at all likely,No,No,Worse World
+Male,65,65+,DK/REF,,Graduate degree,,Independent,Moderate,Somewhat Disapprove,Somewhat Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,Yes,Yes,Worse World
+Other,80,65+,White,,Some college,,Independent,Conservative,Neither approve nor disapprove,Not Very Often,"Yes, somewhat confident",DK/REF,Yes,No,Yes,DK/REF,Yes,DK/REF,Somewhat Likely,Somewhat Likely,DK/REF,DK/REF,Better World
+Female,82,65+,DK/REF,,High school or less,,Republican,Conservative,Somewhat Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,No,No,Yes,DK/REF,Yes,No,Not at all likely,Not at all likely,No,No,Better World
+Female,64,55-64,White,,Graduate degree,,Republican,Conservative,Strongly Approve,Very Often,No,Yes,No,No,No,,Yes,No,Very Likely,Not at all likely,No,No,Better World
+Female,60,55-64,White,,High school or less,,Republican,Moderate,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,Yes,No,,Yes,No,Very Likely,Somewhat Likely,No,No,Better World
+Male,71,65+,White,,College degree,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, very confident",No,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,Yes,Worse World
+Male,77,65+,White,,Graduate degree,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,No,No,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Better World
+Male,74,65+,White,,High school or less,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,No,No,No,,Yes,DK/REF,Very Likely,Somewhat Likely,No,No,Better World
+Female,77,65+,White,,High school or less,,Independent,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",Yes,Yes,No,No,,No,,Not at all likely,Not at all likely,Yes,Yes,Better World
+Male,58,55-64,White,,College degree,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Female,74,65+,Black,,College degree,,Democrat,Conservative,Strongly Disapprove,Somewhat Often,No,No,Yes,No,No,,No,,Very Likely,Somewhat Likely,Yes,Yes,Worse World
+Male,84,65+,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,"Yes, very confident",Yes,Yes,Yes,Yes,Yes,Yes,No,Not at all likely,Not at all likely,No,No,Better World
+Male,84,65+,White,,Graduate degree,,Independent,DK/REF,DK/REF,Not Very Often,DK/REF,Yes,Yes,Yes,Yes,Yes,Yes,Yes,DK/REF,Not at all likely,No,No,Better World
+Female,66,65+,White,,Graduate degree,,Democrat,Moderate,Strongly Disapprove,Not Very Often,No,No,Yes,No,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Worse World
+Female,92,65+,White,,High school or less,,Republican,Conservative,Somewhat Approve,Not Very Often,No,No,No,Yes,No,,Yes,Yes,Very Likely,Not at all likely,No,Yes,Better World
+Female,50,45-54,White,,Some college,,Democrat,Moderate,Strongly Disapprove,Somewhat Often,"Yes, somewhat confident",No,Yes,Yes,Yes,No,Yes,No,Not at all likely,Somewhat Likely,No,No,Better World
+Male,21,18-24,White,,Graduate degree,,Republican,Moderate,Neither approve nor disapprove,Not Very Often,"Yes, somewhat confident",Yes,Yes,No,Yes,Yes,Yes,Yes,Somewhat Likely,Not at all likely,Yes,No,Better World
+Male,83,65+,White,,Some college,,Democrat,DK/REF,Somewhat Disapprove,Not Very Often,"Yes, very confident",No,Yes,No,Yes,DK/REF,Yes,No,Not at all likely,Not at all likely,No,No,Worse World
+Female,74,65+,DK/REF,,Some college,,Independent,Moderate,Somewhat Approve,Somewhat Often,"Yes, very confident",DK/REF,Yes,No,Yes,DK/REF,Yes,DK/REF,Somewhat Likely,Not at all likely,DK/REF,DK/REF,Better World
+Female,80,65+,White,,College degree,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, somewhat confident",Yes,Yes,DK/REF,Yes,Yes,Yes,Yes,Very Likely,Somewhat Likely,No,No,Better World
+Female,86,65+,White,,High school or less,,Democrat,Liberal,Strongly Disapprove,Somewhat Often,"Yes, very confident",Yes,Yes,Yes,Yes,DK/REF,Yes,DK/REF,Not at all likely,Not at all likely,DK/REF,No,Better World
+Male,82,65+,White,,High school or less,,Republican,Conservative,Strongly Approve,Not Very Often,"Yes, very confident",No,Yes,DK/REF,Yes,DK/REF,Yes,DK/REF,Somewhat Likely,Somewhat Likely,No,Yes,DK/REF
+Female,61,55-64,DK/REF,,Some college,,Republican,Conservative,Strongly Approve,Somewhat Often,No,No,Yes,Yes,No,,No,,Very Likely,Not at all likely,DK/REF,DK/REF,Better World
+Male,66,65+,Black,,College degree,,Democrat,Liberal,Strongly Disapprove,Not Very Often,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Not at all likely,Not at all likely,No,No,Better World
+Male,49,45-54,White,,High school or less,,Independent,Moderate,Strongly Approve,Somewhat Often,"Yes, very confident",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Very Likely,Not at all likely,No,No,Worse World
