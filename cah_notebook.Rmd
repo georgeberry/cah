@@ -161,11 +161,11 @@ df %>%
 lost_friends_demos
 ```
 
-```{r, fig.width = 6, fig.height = 6}
+```{r, fig.width = 4, fig.height = 10}
 plot_lost_friends = ggplot(lost_friends_demos) +
   geom_col() +
-  aes(x=reorder(demo, lost_friends), y=lost_friends, fill = groupname_short) +
-  geom_linerange(aes(x=reorder(demo, lost_friends), ymin=lost_friends_min, ymax=lost_friends_max)) +
+  aes(x=reorder(value, lost_friends), y=lost_friends, fill = name) +
+  geom_linerange(aes(x=reorder(value, lost_friends), ymin=lost_friends_min, ymax=lost_friends_max)) +
   #geom_hline(yintercept=0, linetype='dotdash') +
   #geom_hline(yintercept=1, linetype='dotdash') +
   scale_fill_discrete(guide = 'none') +
@@ -177,6 +177,7 @@ plot_lost_friends = ggplot(lost_friends_demos) +
   ) +
   scale_y_continuous(labels = scales::percent, minor_breaks = seq(0, 1, by = 0.05)) +
   coord_flip() +
+  facet_wrap(~ name, ncol = 1, scales = 'free_y') +
   theme_minimal()
 plot_lost_friends
 ```
@@ -232,11 +233,11 @@ civil_war_demos
 Super interesting: the people who lost friends are different than the people who think a civil war is likely in the oneway! For instance the education pattern is reversed.
 
 
-```{r, fig.width = 6, fig.height = 6}
+```{r, fig.width = 4, fig.height = 10}
 plot_civil_war = ggplot(civil_war_demos) +
   geom_col() +
-  aes(x=reorder(demo, civil_war), y=civil_war, fill = groupname_short) +
-  geom_linerange(aes(x=reorder(demo, civil_war), ymin=civil_war_min, ymax=civil_war_max)) +
+  aes(x=reorder(value, civil_war), y=civil_war, fill = name) +
+  geom_linerange(aes(x=reorder(value, civil_war), ymin=civil_war_min, ymax=civil_war_max)) +
   # geom_hline(yintercept=0, linetype='dotdash') +
   # geom_hline(yintercept=1, linetype='dotdash') +
   ylim(c(0, 1)) +
@@ -248,6 +249,7 @@ plot_civil_war = ggplot(civil_war_demos) +
   ) +
   scale_y_continuous(labels = scales::percent, minor_breaks = seq(0, 1, by = 0.05)) +
   coord_flip() +
+  facet_wrap(~ name, ncol = 1, scales = 'free_y') +
   theme_minimal()
 plot_civil_war
 ```
@@ -653,8 +655,10 @@ plot_black_income
 grid.arrange(plot_white_income, plot_black_income, nrow=1)
 ```
 
-```{r, fig.width = 5.5, fig.height = 12}
+```{r, fig.width = 6, fig.height = 18}
 grid.arrange(plot_lost_friends, plot_civil_war, nrow=2)
+cah_averages_plots <- arrangeGrob(plot_lost_friends, plot_civil_war, nrow=2)
+ggsave(file="cah_averages_plots.pdf", cah_averages_plots, width = 6, height = 18)
 ```
 
 
