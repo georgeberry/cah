@@ -1,8 +1,8 @@
 ---
-title: "Cards against humanity paper notebook"
+  title: "Cards against humanity paper notebook"
 output: html_notebook
 ---
-
+  
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
@@ -15,7 +15,8 @@ library(gridExtra)
 ### Read the data
 
 ```{r}
-df_raw = read_csv('/Users/georgeberry/Desktop/cah-main/cah_data_files/201710-CAH_PulseOfTheNation_Raw.csv')
+df <- raw = read_csv('/Users/aleavitt/Downloads/201710-CAH_PulseOfTheNation_Raw.csv')
+#df_raw = read_csv('/Users/georgeberry/Desktop/cah-main/cah_data_files/201710-CAH_PulseOfTheNation_Raw.csv')
 ```
 
 ### Clean the data
@@ -139,8 +140,20 @@ df %>%
     lost_friends = mean(lost_friends),
     N=n()
   ) %>%
+  mutate(name = fct_recode(name, 
+                           'Age' = 'age_range',
+                           'Civil War' = 'civil_war',
+                           'Education' = 'educ',
+                           'Gender' = 'gender',
+                           'Lifestyle, Hunting' = 'hunting',
+                           'Lifestyle, Kale' = 'kale',
+                           'Lifestyle, Love America' = 'love_amer',
+                           'Lifestyle, White Nationalist' = 'nationalist',
+                           'Politcal Affiliation' = 'pol_affil',
+                           'Race' = 'race')) %>%
+  mutate(groupname_short = substr(name, 1, 3)) %>%
   mutate(
-    demo = paste0(name, '—', value),
+    demo = paste0(name, ': ', value),
     lost_friends_min=lost_friends + 1.96*se,
     lost_friends_max=lost_friends - 1.96*se,
   ) %>%
@@ -148,20 +161,21 @@ df %>%
 lost_friends_demos
 ```
 
-```{r}
+```{r, fig.width = 6, fig.height = 6}
 plot_lost_friends = ggplot(lost_friends_demos) +
-  geom_point() +
-  aes(x=reorder(demo, lost_friends), y=lost_friends) +
-  geom_errorbar(aes(x=reorder(demo, lost_friends), ymin=lost_friends_min, ymax=lost_friends_max)) +
-  geom_hline(yintercept=0, linetype='dotdash') +
-  geom_hline(yintercept=1, linetype='dotdash') +
+  geom_col() +
+  aes(x=reorder(demo, lost_friends), y=lost_friends, fill = groupname_short) +
+  geom_linerange(aes(x=reorder(demo, lost_friends), ymin=lost_friends_min, ymax=lost_friends_max)) +
+  #geom_hline(yintercept=0, linetype='dotdash') +
+  #geom_hline(yintercept=1, linetype='dotdash') +
+  scale_fill_discrete(guide = 'none') +
   ylim(c(0, 1)) +
   labs(
     title='Fraction who lost a friend in\nresponse to 2016 election',
     y='Lost friends',
     x='Demographic'
   ) +
-  scale_y_continuous(labels = scales::percent) +
+  scale_y_continuous(labels = scales::percent, minor_breaks = seq(0, 1, by = 0.05)) +
   coord_flip() +
   theme_minimal()
 plot_lost_friends
@@ -193,9 +207,21 @@ df %>%
     se = sd(civil_war, na.rm=T) / sqrt(n()),
     civil_war = mean(civil_war),
     N=n()
-  ) %>%
+  ) %>% 
+  mutate(name = fct_recode(name, 
+                           'Age' = 'age_range',
+                           'Civil War' = 'civil_war',
+                           'Education' = 'educ',
+                           'Gender' = 'gender',
+                           'Lifestyle, Hunting' = 'hunting',
+                           'Lifestyle, Kale' = 'kale',
+                           'Lifestyle, Love America' = 'love_amer',
+                           'Lifestyle, White Nationalist' = 'nationalist',
+                           'Politcal Affiliation' = 'pol_affil',
+                           'Race' = 'race')) %>%
+  mutate(groupname_short = substr(name, 1, 3)) %>%
   mutate(
-    demo = paste0(name, '—', value),
+    demo = paste0(name, ': ', value),
     civil_war_min=civil_war + 1.96*se,
     civil_war_max=civil_war - 1.96*se,
   ) %>%
@@ -206,20 +232,21 @@ civil_war_demos
 Super interesting: the people who lost friends are different than the people who think a civil war is likely in the oneway! For instance the education pattern is reversed.
 
 
-```{r}
+```{r, fig.width = 6, fig.height = 6}
 plot_civil_war = ggplot(civil_war_demos) +
-  geom_point() +
-  aes(x=reorder(demo, civil_war), y=civil_war) +
-  geom_errorbar(aes(x=reorder(demo, civil_war), ymin=civil_war_min, ymax=civil_war_max)) +
-  geom_hline(yintercept=0, linetype='dotdash') +
-  geom_hline(yintercept=1, linetype='dotdash') +
+  geom_col() +
+  aes(x=reorder(demo, civil_war), y=civil_war, fill = groupname_short) +
+  geom_linerange(aes(x=reorder(demo, civil_war), ymin=civil_war_min, ymax=civil_war_max)) +
+  # geom_hline(yintercept=0, linetype='dotdash') +
+  # geom_hline(yintercept=1, linetype='dotdash') +
   ylim(c(0, 1)) +
+  scale_fill_discrete(guide = 'none') +
   labs(
     title='Fraction who said a civil war\nwas "Likely" in the next decade',
     y='Said civil war "Likely"',
     x='Demographic'
   ) +
-  scale_y_continuous(labels = scales::percent) +
+  scale_y_continuous(labels = scales::percent, minor_breaks = seq(0, 1, by = 0.05)) +
   coord_flip() +
   theme_minimal()
 plot_civil_war
@@ -247,8 +274,8 @@ df2 = df2[!is.na(df$lost_friends),]
 ```
 
 After accounting for both demos and some lifestyle questions, people who lost friends as a result of the 2016 election are 12 percentage points more likely to view a civil war as "Likely". That's large!
-
-```{r}
+  
+  ```{r}
 mod2 = lm(
   civil_war ~ lost_friends + log1p(income) + gender + age_range + pol_affil + race + educ + kale + hunting + nationalist + love_amer,
   data=df2
@@ -280,8 +307,8 @@ summary(mod3)
 ```
 
 And just out of curiosity, what's the raw regression say?
-
-```{r}
+  
+  ```{r}
 mod2_raw = lm(
   civil_war ~ lost_friends,
   data=df2
@@ -409,8 +436,8 @@ summary(mod_brms)
 ### Make tables
 
 Have to convert odds ratios se's like so: https://www.andrewheiss.com/blog/2016/04/25/convert-logistic-regression-standard-errors-to-odds-ratios-with-r/
-
-```{r}
+  
+  ```{r}
 coef.mod2_raw_logit <- exp(mod2_raw_logit$coef)
 ses.mod2_raw_logit <- sqrt(coef.mod2_raw_logit^2 * diag(vcov(mod2_raw_logit)))
 pval.mod2_raw_logit <- summary(mod2_raw_logit)$coef[, 4]
@@ -626,7 +653,7 @@ plot_black_income
 grid.arrange(plot_white_income, plot_black_income, nrow=1)
 ```
 
-```{r}
+```{r, fig.width = 5.5, fig.height = 12}
 grid.arrange(plot_lost_friends, plot_civil_war, nrow=2)
 ```
 
